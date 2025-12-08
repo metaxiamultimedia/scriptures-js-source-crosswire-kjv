@@ -1,0 +1,872 @@
+{
+  "text": "And the king arose in the night, and said unto his servants, I will now shew you what the Syrians have done to us. They know that we be hungry; therefore are they gone out of the camp to hide themselves in the field, saying, When they come out of the city, we shall catch them alive, and get into the city.",
+  "words": [
+    {
+      "position": 1,
+      "text": "And",
+      "lemma": "strong:H04428",
+      "morph": null,
+      "strongs": [
+        "H4428"
+      ],
+      "gematria": {
+        "standard": 19,
+        "ordinal": 6,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 2,
+      "text": "the",
+      "lemma": "strong:H04428",
+      "morph": null,
+      "strongs": [
+        "H4428"
+      ],
+      "gematria": {
+        "standard": 33,
+        "ordinal": 6,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 3,
+      "text": "king",
+      "lemma": "strong:H04428",
+      "morph": null,
+      "strongs": [
+        "H4428"
+      ],
+      "gematria": {
+        "standard": 41,
+        "ordinal": 10,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 4,
+      "text": "arose",
+      "lemma": "strong:H06965",
+      "morph": "strongMorph:TH8799",
+      "strongs": [
+        "H6965"
+      ],
+      "gematria": {
+        "standard": 58,
+        "ordinal": 15,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 5,
+      "text": "in",
+      "lemma": "strong:H03915",
+      "morph": null,
+      "strongs": [
+        "H3915"
+      ],
+      "gematria": {
+        "standard": 23,
+        "ordinal": 3,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 6,
+      "text": "the",
+      "lemma": "strong:H03915",
+      "morph": null,
+      "strongs": [
+        "H3915"
+      ],
+      "gematria": {
+        "standard": 33,
+        "ordinal": 6,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 7,
+      "text": "night,",
+      "lemma": "strong:H03915",
+      "morph": null,
+      "strongs": [
+        "H3915"
+      ],
+      "gematria": {
+        "standard": 58,
+        "ordinal": 15,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 8,
+      "text": "and",
+      "lemma": "strong:H0559",
+      "morph": "strongMorph:TH8799",
+      "strongs": [
+        "H559"
+      ],
+      "gematria": {
+        "standard": 19,
+        "ordinal": 6,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 9,
+      "text": "said",
+      "lemma": "strong:H0559",
+      "morph": "strongMorph:TH8799",
+      "strongs": [
+        "H559"
+      ],
+      "gematria": {
+        "standard": 33,
+        "ordinal": 10,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 10,
+      "text": "unto",
+      "lemma": "strong:H05650",
+      "morph": null,
+      "strongs": [
+        "H5650"
+      ],
+      "gematria": {
+        "standard": 70,
+        "ordinal": 10,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 11,
+      "text": "his",
+      "lemma": "strong:H05650",
+      "morph": null,
+      "strongs": [
+        "H5650"
+      ],
+      "gematria": {
+        "standard": 36,
+        "ordinal": 6,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 12,
+      "text": "servants,",
+      "lemma": "strong:H05650",
+      "morph": null,
+      "strongs": [
+        "H5650"
+      ],
+      "gematria": {
+        "standard": 118,
+        "ordinal": 36,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 13,
+      "text": "I",
+      "lemma": "strong:H05046",
+      "morph": "strongMorph:TH8686",
+      "strongs": [
+        "H5046"
+      ],
+      "gematria": {
+        "standard": 9,
+        "ordinal": 1,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 14,
+      "text": "will",
+      "lemma": "strong:H05046",
+      "morph": "strongMorph:TH8686",
+      "strongs": [
+        "H5046"
+      ],
+      "gematria": {
+        "standard": 56,
+        "ordinal": 10,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 15,
+      "text": "now",
+      "lemma": "strong:H05046",
+      "morph": "strongMorph:TH8686",
+      "strongs": [
+        "H5046"
+      ],
+      "gematria": {
+        "standard": 52,
+        "ordinal": 6,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 16,
+      "text": "shew",
+      "lemma": "strong:H05046",
+      "morph": "strongMorph:TH8686",
+      "strongs": [
+        "H5046"
+      ],
+      "gematria": {
+        "standard": 55,
+        "ordinal": 10,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 17,
+      "text": "you",
+      "lemma": "strong:H0758",
+      "morph": null,
+      "strongs": [
+        "H758"
+      ],
+      "gematria": {
+        "standard": 61,
+        "ordinal": 6,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 18,
+      "text": "what",
+      "lemma": "strong:H0758",
+      "morph": null,
+      "strongs": [
+        "H758"
+      ],
+      "gematria": {
+        "standard": 52,
+        "ordinal": 10,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 19,
+      "text": "the",
+      "lemma": "strong:H0758",
+      "morph": null,
+      "strongs": [
+        "H758"
+      ],
+      "gematria": {
+        "standard": 33,
+        "ordinal": 6,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 20,
+      "text": "Syrians",
+      "lemma": "strong:H0758",
+      "morph": null,
+      "strongs": [
+        "H758"
+      ],
+      "gematria": {
+        "standard": 105,
+        "ordinal": 28,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 21,
+      "text": "have",
+      "lemma": "strong:H06213",
+      "morph": "strongMorph:TH8804",
+      "strongs": [
+        "H6213"
+      ],
+      "gematria": {
+        "standard": 36,
+        "ordinal": 10,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 22,
+      "text": "done",
+      "lemma": "strong:H06213",
+      "morph": "strongMorph:TH8804",
+      "strongs": [
+        "H6213"
+      ],
+      "gematria": {
+        "standard": 38,
+        "ordinal": 10,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 23,
+      "text": "to",
+      "lemma": "strong:H03045",
+      "morph": "strongMorph:TH8804",
+      "strongs": [
+        "H3045"
+      ],
+      "gematria": {
+        "standard": 35,
+        "ordinal": 3,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 24,
+      "text": "us.",
+      "lemma": "strong:H03045",
+      "morph": "strongMorph:TH8804",
+      "strongs": [
+        "H3045"
+      ],
+      "gematria": {
+        "standard": 40,
+        "ordinal": 3,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 25,
+      "text": "They",
+      "lemma": "strong:H03045",
+      "morph": "strongMorph:TH8804",
+      "strongs": [
+        "H3045"
+      ],
+      "gematria": {
+        "standard": 58,
+        "ordinal": 10,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 26,
+      "text": "know",
+      "lemma": "strong:H03045",
+      "morph": "strongMorph:TH8804",
+      "strongs": [
+        "H3045"
+      ],
+      "gematria": {
+        "standard": 63,
+        "ordinal": 10,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 27,
+      "text": "that",
+      "lemma": null,
+      "morph": null,
+      "gematria": {
+        "standard": 49,
+        "ordinal": 10,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 28,
+      "text": "we",
+      "lemma": null,
+      "morph": null,
+      "gematria": {
+        "standard": 28,
+        "ordinal": 3,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 29,
+      "text": "be",
+      "lemma": null,
+      "morph": null,
+      "metadata": {
+        "type": "added"
+      },
+      "gematria": {
+        "standard": 7,
+        "ordinal": 3,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 30,
+      "text": "hungry;",
+      "lemma": "strong:H07457",
+      "morph": null,
+      "strongs": [
+        "H7457"
+      ],
+      "gematria": {
+        "standard": 93,
+        "ordinal": 21,
+        "reduced": 39
+      }
+    },
+    {
+      "position": 31,
+      "text": "therefore",
+      "lemma": "strong:H03318",
+      "morph": "strongMorph:TH8799",
+      "strongs": [
+        "H3318"
+      ],
+      "gematria": {
+        "standard": 100,
+        "ordinal": 45,
+        "reduced": 55
+      }
+    },
+    {
+      "position": 32,
+      "text": "are",
+      "lemma": "strong:H03318",
+      "morph": "strongMorph:TH8799",
+      "strongs": [
+        "H3318"
+      ],
+      "gematria": {
+        "standard": 24,
+        "ordinal": 6,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 33,
+      "text": "they",
+      "lemma": "strong:H03318",
+      "morph": "strongMorph:TH8799",
+      "strongs": [
+        "H3318"
+      ],
+      "gematria": {
+        "standard": 58,
+        "ordinal": 10,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 34,
+      "text": "gone",
+      "lemma": "strong:H03318",
+      "morph": "strongMorph:TH8799",
+      "strongs": [
+        "H3318"
+      ],
+      "gematria": {
+        "standard": 41,
+        "ordinal": 10,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 35,
+      "text": "out",
+      "lemma": "strong:H03318",
+      "morph": "strongMorph:TH8799",
+      "strongs": [
+        "H3318"
+      ],
+      "gematria": {
+        "standard": 56,
+        "ordinal": 6,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 36,
+      "text": "of",
+      "lemma": "strong:H04264",
+      "morph": null,
+      "strongs": [
+        "H4264"
+      ],
+      "gematria": {
+        "standard": 21,
+        "ordinal": 3,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 37,
+      "text": "the",
+      "lemma": "strong:H04264",
+      "morph": null,
+      "strongs": [
+        "H4264"
+      ],
+      "gematria": {
+        "standard": 33,
+        "ordinal": 6,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 38,
+      "text": "camp",
+      "lemma": "strong:H04264",
+      "morph": null,
+      "strongs": [
+        "H4264"
+      ],
+      "gematria": {
+        "standard": 33,
+        "ordinal": 10,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 39,
+      "text": "to",
+      "lemma": "strong:H02247",
+      "morph": "strongMorph:TH8736",
+      "strongs": [
+        "H2247"
+      ],
+      "gematria": {
+        "standard": 35,
+        "ordinal": 3,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 40,
+      "text": "hide",
+      "lemma": "strong:H02247",
+      "morph": "strongMorph:TH8736",
+      "strongs": [
+        "H2247"
+      ],
+      "gematria": {
+        "standard": 26,
+        "ordinal": 10,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 41,
+      "text": "themselves",
+      "lemma": "strong:H07704",
+      "morph": null,
+      "strongs": [
+        "H7704"
+      ],
+      "gematria": {
+        "standard": 128,
+        "ordinal": 55,
+        "reduced": 38
+      }
+    },
+    {
+      "position": 42,
+      "text": "in",
+      "lemma": "strong:H07704",
+      "morph": null,
+      "strongs": [
+        "H7704"
+      ],
+      "gematria": {
+        "standard": 23,
+        "ordinal": 3,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 43,
+      "text": "the",
+      "lemma": "strong:H07704",
+      "morph": null,
+      "strongs": [
+        "H7704"
+      ],
+      "gematria": {
+        "standard": 33,
+        "ordinal": 6,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 44,
+      "text": "field,",
+      "lemma": "strong:H07704",
+      "morph": null,
+      "strongs": [
+        "H7704"
+      ],
+      "gematria": {
+        "standard": 36,
+        "ordinal": 15,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 45,
+      "text": "saying,",
+      "lemma": "strong:H0559",
+      "morph": "strongMorph:TH8800",
+      "strongs": [
+        "H559"
+      ],
+      "gematria": {
+        "standard": 75,
+        "ordinal": 21,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 46,
+      "text": "When",
+      "lemma": "strong:H03318",
+      "morph": "strongMorph:TH8799",
+      "strongs": [
+        "H3318"
+      ],
+      "gematria": {
+        "standard": 50,
+        "ordinal": 10,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 47,
+      "text": "they",
+      "lemma": "strong:H03318",
+      "morph": "strongMorph:TH8799",
+      "strongs": [
+        "H3318"
+      ],
+      "gematria": {
+        "standard": 58,
+        "ordinal": 10,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 48,
+      "text": "come",
+      "lemma": "strong:H03318",
+      "morph": "strongMorph:TH8799",
+      "strongs": [
+        "H3318"
+      ],
+      "gematria": {
+        "standard": 36,
+        "ordinal": 10,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 49,
+      "text": "out",
+      "lemma": "strong:H03318",
+      "morph": "strongMorph:TH8799",
+      "strongs": [
+        "H3318"
+      ],
+      "gematria": {
+        "standard": 56,
+        "ordinal": 6,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 50,
+      "text": "of",
+      "lemma": "strong:H05892",
+      "morph": null,
+      "strongs": [
+        "H5892"
+      ],
+      "gematria": {
+        "standard": 21,
+        "ordinal": 3,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 51,
+      "text": "the",
+      "lemma": "strong:H05892",
+      "morph": null,
+      "strongs": [
+        "H5892"
+      ],
+      "gematria": {
+        "standard": 33,
+        "ordinal": 6,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 52,
+      "text": "city,",
+      "lemma": "strong:H05892",
+      "morph": null,
+      "strongs": [
+        "H5892"
+      ],
+      "gematria": {
+        "standard": 57,
+        "ordinal": 10,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 53,
+      "text": "we",
+      "lemma": "strong:H08610",
+      "morph": "strongMorph:TH8799",
+      "strongs": [
+        "H8610"
+      ],
+      "gematria": {
+        "standard": 28,
+        "ordinal": 3,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 54,
+      "text": "shall",
+      "lemma": "strong:H08610",
+      "morph": "strongMorph:TH8799",
+      "strongs": [
+        "H8610"
+      ],
+      "gematria": {
+        "standard": 52,
+        "ordinal": 15,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 55,
+      "text": "catch",
+      "lemma": "strong:H08610",
+      "morph": "strongMorph:TH8799",
+      "strongs": [
+        "H8610"
+      ],
+      "gematria": {
+        "standard": 35,
+        "ordinal": 15,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 56,
+      "text": "them",
+      "lemma": "strong:H02416",
+      "morph": null,
+      "strongs": [
+        "H2416"
+      ],
+      "gematria": {
+        "standard": 46,
+        "ordinal": 10,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 57,
+      "text": "alive,",
+      "lemma": "strong:H02416",
+      "morph": null,
+      "strongs": [
+        "H2416"
+      ],
+      "gematria": {
+        "standard": 49,
+        "ordinal": 15,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 58,
+      "text": "and",
+      "lemma": "strong:H0935",
+      "morph": "strongMorph:TH8799",
+      "strongs": [
+        "H935"
+      ],
+      "gematria": {
+        "standard": 19,
+        "ordinal": 6,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 59,
+      "text": "get",
+      "lemma": "strong:H0935",
+      "morph": "strongMorph:TH8799",
+      "strongs": [
+        "H935"
+      ],
+      "gematria": {
+        "standard": 32,
+        "ordinal": 6,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 60,
+      "text": "into",
+      "lemma": "strong:H05892",
+      "morph": null,
+      "strongs": [
+        "H5892"
+      ],
+      "gematria": {
+        "standard": 58,
+        "ordinal": 10,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 61,
+      "text": "the",
+      "lemma": "strong:H05892",
+      "morph": null,
+      "strongs": [
+        "H5892"
+      ],
+      "gematria": {
+        "standard": 33,
+        "ordinal": 6,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 62,
+      "text": "city.",
+      "lemma": "strong:H05892",
+      "morph": null,
+      "strongs": [
+        "H5892"
+      ],
+      "gematria": {
+        "standard": 57,
+        "ordinal": 10,
+        "reduced": 21
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 2853,
+    "ordinal": 649,
+    "reduced": 1134
+  }
+}

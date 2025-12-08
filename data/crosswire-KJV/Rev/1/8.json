@@ -1,0 +1,448 @@
+{
+  "text": "I am Alpha and Omega, the beginning and the ending, saith the Lord, which is, and which was, and which is to come, the Almighty.",
+  "words": [
+    {
+      "position": 1,
+      "text": "I",
+      "lemma": "strong:G1473 lemma.TR:εγω",
+      "morph": "robinson:P-1NS",
+      "strongs": [
+        "G1473"
+      ],
+      "metadata": {
+        "src": "1"
+      },
+      "gematria": {
+        "standard": 9,
+        "ordinal": 1,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 2,
+      "text": "am",
+      "lemma": "strong:G1510 lemma.TR:ειμι",
+      "morph": "robinson:V-PAI-1S",
+      "strongs": [
+        "G1510"
+      ],
+      "metadata": {
+        "src": "2"
+      },
+      "gematria": {
+        "standard": 14,
+        "ordinal": 3,
+        "reduced": 5
+      }
+    },
+    {
+      "position": 3,
+      "text": "Alpha",
+      "lemma": "strong:G3588 strong:G1 lemma.TR:το lemma.TR:α",
+      "morph": "robinson:T-NSN robinson:N-LI",
+      "strongs": [
+        "G3588"
+      ],
+      "metadata": {
+        "src": "3 4"
+      },
+      "gematria": {
+        "standard": 38,
+        "ordinal": 15,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 4,
+      "text": "and",
+      "lemma": "strong:G2532 lemma.TR:και",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G2532"
+      ],
+      "metadata": {
+        "src": "5"
+      },
+      "gematria": {
+        "standard": 19,
+        "ordinal": 6,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 5,
+      "text": "Omega,",
+      "lemma": "strong:G3588 strong:G5598 lemma.TR:το lemma.TR:ω",
+      "morph": "robinson:T-NSN robinson:N-LI",
+      "strongs": [
+        "G3588",
+        "G5598"
+      ],
+      "metadata": {
+        "src": "6 7"
+      },
+      "gematria": {
+        "standard": 41,
+        "ordinal": 15,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 6,
+      "text": "the",
+      "lemma": "strong:G746 lemma.TR:αρχη",
+      "morph": "robinson:N-NSF",
+      "strongs": [
+        "G746"
+      ],
+      "metadata": {
+        "src": "8"
+      },
+      "gematria": {
+        "standard": 33,
+        "ordinal": 6,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 7,
+      "text": "beginning",
+      "lemma": "strong:G746 lemma.TR:αρχη",
+      "morph": "robinson:N-NSF",
+      "strongs": [
+        "G746"
+      ],
+      "metadata": {
+        "src": "8"
+      },
+      "gematria": {
+        "standard": 81,
+        "ordinal": 45,
+        "reduced": 54
+      }
+    },
+    {
+      "position": 8,
+      "text": "and",
+      "lemma": "strong:G2532 lemma.TR:και",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G2532"
+      ],
+      "metadata": {
+        "src": "9"
+      },
+      "gematria": {
+        "standard": 19,
+        "ordinal": 6,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 9,
+      "text": "the",
+      "lemma": "strong:G5056 lemma.TR:τελος",
+      "morph": "robinson:N-NSN",
+      "strongs": [
+        "G5056"
+      ],
+      "metadata": {
+        "src": "10"
+      },
+      "gematria": {
+        "standard": 33,
+        "ordinal": 6,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 10,
+      "text": "ending,",
+      "lemma": "strong:G5056 lemma.TR:τελος",
+      "morph": "robinson:N-NSN",
+      "strongs": [
+        "G5056"
+      ],
+      "metadata": {
+        "src": "10"
+      },
+      "gematria": {
+        "standard": 53,
+        "ordinal": 21,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 11,
+      "text": "saith",
+      "lemma": "strong:G3004 lemma.TR:λεγει",
+      "morph": "robinson:V-PAI-3S",
+      "strongs": [
+        "G3004"
+      ],
+      "metadata": {
+        "src": "11"
+      },
+      "gematria": {
+        "standard": 57,
+        "ordinal": 15,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 12,
+      "text": "the",
+      "lemma": "strong:G3588 strong:G2962 lemma.TR:ο lemma.TR:κυριος",
+      "morph": "robinson:T-NSM robinson:N-NSM",
+      "strongs": [
+        "G3588",
+        "G2962"
+      ],
+      "metadata": {
+        "src": "12 13"
+      },
+      "gematria": {
+        "standard": 33,
+        "ordinal": 6,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 13,
+      "text": "Lord,",
+      "lemma": "strong:G3588 strong:G2962 lemma.TR:ο lemma.TR:κυριος",
+      "morph": "robinson:T-NSM robinson:N-NSM",
+      "strongs": [
+        "G3588",
+        "G2962"
+      ],
+      "metadata": {
+        "src": "12 13"
+      },
+      "gematria": {
+        "standard": 49,
+        "ordinal": 10,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 14,
+      "text": "which",
+      "lemma": "strong:G3588 strong:G1510 lemma.TR:ο lemma.TR:ων",
+      "morph": "robinson:T-NSM robinson:V-PAP-NSM",
+      "strongs": [
+        "G3588",
+        "G1510"
+      ],
+      "metadata": {
+        "src": "14 15"
+      },
+      "gematria": {
+        "standard": 51,
+        "ordinal": 15,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 15,
+      "text": "is,",
+      "lemma": "strong:G3588 strong:G1510 lemma.TR:ο lemma.TR:ων",
+      "morph": "robinson:T-NSM robinson:V-PAP-NSM",
+      "strongs": [
+        "G3588",
+        "G1510"
+      ],
+      "metadata": {
+        "src": "14 15"
+      },
+      "gematria": {
+        "standard": 28,
+        "ordinal": 3,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 16,
+      "text": "and",
+      "lemma": "strong:G2532 lemma.TR:και",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G2532"
+      ],
+      "metadata": {
+        "src": "16"
+      },
+      "gematria": {
+        "standard": 19,
+        "ordinal": 6,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 17,
+      "text": "which",
+      "lemma": "strong:G3588 strong:G1510 lemma.TR:ο lemma.TR:ην",
+      "morph": "robinson:T-NSM robinson:V-IAI-3S",
+      "strongs": [
+        "G3588",
+        "G1510"
+      ],
+      "metadata": {
+        "src": "17 18"
+      },
+      "gematria": {
+        "standard": 51,
+        "ordinal": 15,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 18,
+      "text": "was,",
+      "lemma": "strong:G3588 strong:G1510 lemma.TR:ο lemma.TR:ην",
+      "morph": "robinson:T-NSM robinson:V-IAI-3S",
+      "strongs": [
+        "G3588",
+        "G1510"
+      ],
+      "metadata": {
+        "src": "17 18"
+      },
+      "gematria": {
+        "standard": 43,
+        "ordinal": 6,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 19,
+      "text": "and",
+      "lemma": "strong:G2532 lemma.TR:και",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G2532"
+      ],
+      "metadata": {
+        "src": "19"
+      },
+      "gematria": {
+        "standard": 19,
+        "ordinal": 6,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 20,
+      "text": "which",
+      "lemma": "strong:G3588 strong:G2064 lemma.TR:ο lemma.TR:ερχομενος",
+      "morph": "robinson:T-NSM robinson:V-PNP-NSM",
+      "strongs": [
+        "G3588",
+        "G2064"
+      ],
+      "metadata": {
+        "src": "20 21"
+      },
+      "gematria": {
+        "standard": 51,
+        "ordinal": 15,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 21,
+      "text": "is",
+      "lemma": "strong:G3588 strong:G2064 lemma.TR:ο lemma.TR:ερχομενος",
+      "morph": "robinson:T-NSM robinson:V-PNP-NSM",
+      "strongs": [
+        "G3588",
+        "G2064"
+      ],
+      "metadata": {
+        "src": "20 21"
+      },
+      "gematria": {
+        "standard": 28,
+        "ordinal": 3,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 22,
+      "text": "to",
+      "lemma": "strong:G3588 strong:G2064 lemma.TR:ο lemma.TR:ερχομενος",
+      "morph": "robinson:T-NSM robinson:V-PNP-NSM",
+      "strongs": [
+        "G3588",
+        "G2064"
+      ],
+      "metadata": {
+        "src": "20 21"
+      },
+      "gematria": {
+        "standard": 35,
+        "ordinal": 3,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 23,
+      "text": "come,",
+      "lemma": "strong:G3588 strong:G2064 lemma.TR:ο lemma.TR:ερχομενος",
+      "morph": "robinson:T-NSM robinson:V-PNP-NSM",
+      "strongs": [
+        "G3588",
+        "G2064"
+      ],
+      "metadata": {
+        "src": "20 21"
+      },
+      "gematria": {
+        "standard": 36,
+        "ordinal": 10,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 24,
+      "text": "the",
+      "lemma": "strong:G3588 strong:G3841 lemma.TR:ο lemma.TR:παντοκρατωρ",
+      "morph": "robinson:T-NSM robinson:N-NSM",
+      "strongs": [
+        "G3588",
+        "G3841"
+      ],
+      "metadata": {
+        "src": "22 23"
+      },
+      "gematria": {
+        "standard": 33,
+        "ordinal": 6,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 25,
+      "text": "Almighty.",
+      "lemma": "strong:G3588 strong:G3841 lemma.TR:ο lemma.TR:παντοκρατωρ",
+      "morph": "robinson:T-NSM robinson:N-NSM",
+      "strongs": [
+        "G3588",
+        "G3841"
+      ],
+      "metadata": {
+        "src": "22 23"
+      },
+      "gematria": {
+        "standard": 95,
+        "ordinal": 36,
+        "reduced": 41
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 968,
+    "ordinal": 279,
+    "reduced": 482
+  }
+}

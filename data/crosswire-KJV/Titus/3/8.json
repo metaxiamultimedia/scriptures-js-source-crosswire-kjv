@@ -1,0 +1,610 @@
+{
+  "text": "This is a faithful saying, and these things I will that thou affirm constantly, that they which have believed in God might be careful to maintain good works. These things are good and profitable unto men.",
+  "words": [
+    {
+      "position": 1,
+      "text": "This is",
+      "lemma": null,
+      "morph": null,
+      "metadata": {
+        "type": "added"
+      },
+      "gematria": {
+        "standard": 84,
+        "ordinal": 21,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 2,
+      "text": "a",
+      "lemma": "strong:G4103 lemma.TR:πιστος",
+      "morph": "robinson:A-NSM",
+      "strongs": [
+        "G4103"
+      ],
+      "metadata": {
+        "src": "1"
+      },
+      "gematria": {
+        "standard": 1,
+        "ordinal": 1,
+        "reduced": 1
+      }
+    },
+    {
+      "position": 3,
+      "text": "faithful",
+      "lemma": "strong:G4103 lemma.TR:πιστος",
+      "morph": "robinson:A-NSM",
+      "strongs": [
+        "G4103"
+      ],
+      "metadata": {
+        "src": "1"
+      },
+      "gematria": {
+        "standard": 83,
+        "ordinal": 36,
+        "reduced": 38
+      }
+    },
+    {
+      "position": 4,
+      "text": "saying,",
+      "lemma": "strong:G3588 strong:G3056 lemma.TR:ο lemma.TR:λογος",
+      "morph": "robinson:T-NSM robinson:N-NSM",
+      "strongs": [
+        "G3588",
+        "G3056"
+      ],
+      "metadata": {
+        "src": "2 3"
+      },
+      "gematria": {
+        "standard": 75,
+        "ordinal": 21,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 5,
+      "text": "and",
+      "lemma": "strong:G2532 lemma.TR:και",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G2532"
+      ],
+      "metadata": {
+        "src": "4"
+      },
+      "gematria": {
+        "standard": 19,
+        "ordinal": 6,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 6,
+      "text": "these",
+      "lemma": "strong:G3778 lemma.TR:τουτων",
+      "morph": "robinson:D-GPN",
+      "strongs": [
+        "G3778"
+      ],
+      "metadata": {
+        "src": "6"
+      },
+      "gematria": {
+        "standard": 57,
+        "ordinal": 15,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 7,
+      "text": "things",
+      "lemma": "strong:G3778 lemma.TR:τουτων",
+      "morph": "robinson:D-GPN",
+      "strongs": [
+        "G3778"
+      ],
+      "metadata": {
+        "src": "6"
+      },
+      "gematria": {
+        "standard": 77,
+        "ordinal": 21,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 8,
+      "text": "I",
+      "lemma": "strong:G1014 lemma.TR:βουλομαι",
+      "morph": "robinson:V-PNI-1S",
+      "strongs": [
+        "G1014"
+      ],
+      "metadata": {
+        "src": "7"
+      },
+      "gematria": {
+        "standard": 9,
+        "ordinal": 1,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 9,
+      "text": "will",
+      "lemma": "strong:G1014 lemma.TR:βουλομαι",
+      "morph": "robinson:V-PNI-1S",
+      "strongs": [
+        "G1014"
+      ],
+      "metadata": {
+        "src": "7"
+      },
+      "gematria": {
+        "standard": 56,
+        "ordinal": 10,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 10,
+      "text": "that",
+      "lemma": "strong:G1226 lemma.TR:διαβεβαιουσθαι",
+      "morph": "robinson:V-PNN",
+      "strongs": [
+        "G1226"
+      ],
+      "metadata": {
+        "src": "9",
+        "type": "x-split-3297"
+      },
+      "gematria": {
+        "standard": 49,
+        "ordinal": 10,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 11,
+      "text": "thou",
+      "lemma": "strong:G4771 lemma.TR:σε",
+      "morph": "robinson:P-2AS",
+      "strongs": [
+        "G4771"
+      ],
+      "metadata": {
+        "src": "8"
+      },
+      "gematria": {
+        "standard": 64,
+        "ordinal": 10,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 12,
+      "text": "affirm",
+      "lemma": "strong:G1226 lemma.TR:διαβεβαιουσθαι",
+      "morph": "robinson:V-PNN",
+      "strongs": [
+        "G1226"
+      ],
+      "metadata": {
+        "src": "9",
+        "type": "x-split-3297"
+      },
+      "gematria": {
+        "standard": 53,
+        "ordinal": 21,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 13,
+      "text": "constantly,",
+      "lemma": "strong:G1226 lemma.TR:διαβεβαιουσθαι",
+      "morph": "robinson:V-PNN",
+      "strongs": [
+        "G1226"
+      ],
+      "metadata": {
+        "src": "9",
+        "type": "x-split-3297"
+      },
+      "gematria": {
+        "standard": 143,
+        "ordinal": 55,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 14,
+      "text": "that",
+      "lemma": "strong:G2443 lemma.TR:ινα",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G2443"
+      ],
+      "metadata": {
+        "src": "10"
+      },
+      "gematria": {
+        "standard": 49,
+        "ordinal": 10,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 15,
+      "text": "they",
+      "lemma": "strong:G4100 lemma.TR:πεπιστευκοτες",
+      "morph": "robinson:V-RAP-NPM",
+      "strongs": [
+        "G4100"
+      ],
+      "metadata": {
+        "src": "16"
+      },
+      "gematria": {
+        "standard": 58,
+        "ordinal": 10,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 16,
+      "text": "which",
+      "lemma": "strong:G4100 lemma.TR:πεπιστευκοτες",
+      "morph": "robinson:V-RAP-NPM",
+      "strongs": [
+        "G4100"
+      ],
+      "metadata": {
+        "src": "16"
+      },
+      "gematria": {
+        "standard": 51,
+        "ordinal": 15,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 17,
+      "text": "have",
+      "lemma": "strong:G4100 lemma.TR:πεπιστευκοτες",
+      "morph": "robinson:V-RAP-NPM",
+      "strongs": [
+        "G4100"
+      ],
+      "metadata": {
+        "src": "16"
+      },
+      "gematria": {
+        "standard": 36,
+        "ordinal": 10,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 18,
+      "text": "believed",
+      "lemma": "strong:G4100 lemma.TR:πεπιστευκοτες",
+      "morph": "robinson:V-RAP-NPM",
+      "strongs": [
+        "G4100"
+      ],
+      "metadata": {
+        "src": "16"
+      },
+      "gematria": {
+        "standard": 64,
+        "ordinal": 36,
+        "reduced": 37
+      }
+    },
+    {
+      "position": 19,
+      "text": "in",
+      "lemma": "strong:G3588 strong:G2316 lemma.TR:τω lemma.TR:θεω",
+      "morph": "robinson:T-DSM robinson:N-DSM",
+      "strongs": [
+        "G3588",
+        "G2316"
+      ],
+      "metadata": {
+        "src": "17 18"
+      },
+      "gematria": {
+        "standard": 23,
+        "ordinal": 3,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 20,
+      "text": "God",
+      "lemma": "strong:G3588 strong:G2316 lemma.TR:τω lemma.TR:θεω",
+      "morph": "robinson:T-DSM robinson:N-DSM",
+      "strongs": [
+        "G3588",
+        "G2316"
+      ],
+      "metadata": {
+        "src": "17 18"
+      },
+      "gematria": {
+        "standard": 26,
+        "ordinal": 6,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 21,
+      "text": "might",
+      "lemma": "strong:G5431 lemma.TR:φροντιζωσιν",
+      "morph": "robinson:V-PAS-3P",
+      "strongs": [
+        "G5431"
+      ],
+      "metadata": {
+        "src": "11"
+      },
+      "gematria": {
+        "standard": 57,
+        "ordinal": 15,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 22,
+      "text": "be",
+      "lemma": "strong:G5431 lemma.TR:φροντιζωσιν",
+      "morph": "robinson:V-PAS-3P",
+      "strongs": [
+        "G5431"
+      ],
+      "metadata": {
+        "src": "11"
+      },
+      "gematria": {
+        "standard": 7,
+        "ordinal": 3,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 23,
+      "text": "careful",
+      "lemma": "strong:G5431 lemma.TR:φροντιζωσιν",
+      "morph": "robinson:V-PAS-3P",
+      "strongs": [
+        "G5431"
+      ],
+      "metadata": {
+        "src": "11"
+      },
+      "gematria": {
+        "standard": 66,
+        "ordinal": 28,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 24,
+      "text": "to",
+      "lemma": "strong:G4291 lemma.TR:προιστασθαι",
+      "morph": "robinson:V-PMN",
+      "strongs": [
+        "G4291"
+      ],
+      "metadata": {
+        "src": "14"
+      },
+      "gematria": {
+        "standard": 35,
+        "ordinal": 3,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 25,
+      "text": "maintain",
+      "lemma": "strong:G4291 lemma.TR:προιστασθαι",
+      "morph": "robinson:V-PMN",
+      "strongs": [
+        "G4291"
+      ],
+      "metadata": {
+        "src": "14"
+      },
+      "gematria": {
+        "standard": 81,
+        "ordinal": 36,
+        "reduced": 36
+      }
+    },
+    {
+      "position": 26,
+      "text": "good",
+      "lemma": "strong:G2570 lemma.TR:καλων",
+      "morph": "robinson:A-GPN",
+      "strongs": [
+        "G2570"
+      ],
+      "metadata": {
+        "src": "12"
+      },
+      "gematria": {
+        "standard": 41,
+        "ordinal": 10,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 27,
+      "text": "works.",
+      "lemma": "strong:G2041 lemma.TR:εργων",
+      "morph": "robinson:N-GPN",
+      "strongs": [
+        "G2041"
+      ],
+      "metadata": {
+        "src": "13"
+      },
+      "gematria": {
+        "standard": 86,
+        "ordinal": 15,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 28,
+      "text": "These",
+      "lemma": "strong:G3778 lemma.TR:ταυτα",
+      "morph": "robinson:D-NPN",
+      "strongs": [
+        "G3778"
+      ],
+      "metadata": {
+        "src": "19"
+      },
+      "gematria": {
+        "standard": 57,
+        "ordinal": 15,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 29,
+      "text": "things",
+      "lemma": "strong:G3778 lemma.TR:ταυτα",
+      "morph": "robinson:D-NPN",
+      "strongs": [
+        "G3778"
+      ],
+      "metadata": {
+        "src": "19"
+      },
+      "gematria": {
+        "standard": 77,
+        "ordinal": 21,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 30,
+      "text": "are",
+      "lemma": "strong:G1510 lemma.TR:εστιν",
+      "morph": "robinson:V-PAI-3S",
+      "strongs": [
+        "G1510"
+      ],
+      "metadata": {
+        "src": "20"
+      },
+      "gematria": {
+        "standard": 24,
+        "ordinal": 6,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 31,
+      "text": "good",
+      "lemma": "strong:G2570 lemma.TR:καλα",
+      "morph": "robinson:A-NPN",
+      "strongs": [
+        "G2570"
+      ],
+      "metadata": {
+        "src": "22"
+      },
+      "gematria": {
+        "standard": 41,
+        "ordinal": 10,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 32,
+      "text": "and",
+      "lemma": "strong:G2532 lemma.TR:και",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G2532"
+      ],
+      "metadata": {
+        "src": "23"
+      },
+      "gematria": {
+        "standard": 19,
+        "ordinal": 6,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 33,
+      "text": "profitable",
+      "lemma": "strong:G5624 lemma.TR:ωφελιμα",
+      "morph": "robinson:A-NPN",
+      "strongs": [
+        "G5624"
+      ],
+      "metadata": {
+        "src": "24"
+      },
+      "gematria": {
+        "standard": 104,
+        "ordinal": 55,
+        "reduced": 50
+      }
+    },
+    {
+      "position": 34,
+      "text": "unto",
+      "lemma": "strong:G3588 strong:G444 lemma.TR:τοις lemma.TR:ανθρωποις",
+      "morph": "robinson:T-DPM robinson:N-DPM",
+      "strongs": [
+        "G3588",
+        "G444"
+      ],
+      "metadata": {
+        "src": "25 26"
+      },
+      "gematria": {
+        "standard": 70,
+        "ordinal": 10,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 35,
+      "text": "men.",
+      "lemma": "strong:G3588 strong:G444 lemma.TR:τοις lemma.TR:ανθρωποις",
+      "morph": "robinson:T-DPM robinson:N-DPM",
+      "strongs": [
+        "G3588",
+        "G444"
+      ],
+      "metadata": {
+        "src": "25 26"
+      },
+      "gematria": {
+        "standard": 32,
+        "ordinal": 6,
+        "reduced": 14
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 1874,
+    "ordinal": 557,
+    "reduced": 785
+  }
+}

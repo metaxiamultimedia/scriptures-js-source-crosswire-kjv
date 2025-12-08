@@ -1,0 +1,795 @@
+{
+  "text": "And we know that the Son of God is come, and hath given us an understanding, that we may know him that is true, and we are in him that is true, even in his Son Jesus Christ. This is the true God, and eternal life.",
+  "words": [
+    {
+      "position": 1,
+      "text": "And",
+      "lemma": "strong:G1161 lemma.TR:δε",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G1161"
+      ],
+      "metadata": {
+        "src": "2"
+      },
+      "gematria": {
+        "standard": 19,
+        "ordinal": 6,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 2,
+      "text": "we",
+      "lemma": "strong:G1492 lemma.TR:οιδαμεν",
+      "morph": "robinson:V-RAI-1P",
+      "strongs": [
+        "G1492"
+      ],
+      "metadata": {
+        "src": "1"
+      },
+      "gematria": {
+        "standard": 28,
+        "ordinal": 3,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 3,
+      "text": "know",
+      "lemma": "strong:G1492 lemma.TR:οιδαμεν",
+      "morph": "robinson:V-RAI-1P",
+      "strongs": [
+        "G1492"
+      ],
+      "metadata": {
+        "src": "1"
+      },
+      "gematria": {
+        "standard": 63,
+        "ordinal": 10,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 4,
+      "text": "that",
+      "lemma": "strong:G3754 lemma.TR:οτι",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G3754"
+      ],
+      "metadata": {
+        "src": "3"
+      },
+      "gematria": {
+        "standard": 49,
+        "ordinal": 10,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 5,
+      "text": "the",
+      "lemma": "strong:G3588 strong:G5207 lemma.TR:ο lemma.TR:υιος",
+      "morph": "robinson:T-NSM robinson:N-NSM",
+      "strongs": [
+        "G3588",
+        "G5207"
+      ],
+      "metadata": {
+        "src": "4 5"
+      },
+      "gematria": {
+        "standard": 33,
+        "ordinal": 6,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 6,
+      "text": "Son",
+      "lemma": "strong:G3588 strong:G5207 lemma.TR:ο lemma.TR:υιος",
+      "morph": "robinson:T-NSM robinson:N-NSM",
+      "strongs": [
+        "G3588",
+        "G5207"
+      ],
+      "metadata": {
+        "src": "4 5"
+      },
+      "gematria": {
+        "standard": 48,
+        "ordinal": 6,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 7,
+      "text": "of",
+      "lemma": "strong:G3588 strong:G2316 lemma.TR:του lemma.TR:θεου",
+      "morph": "robinson:T-GSM robinson:N-GSM",
+      "strongs": [
+        "G3588",
+        "G2316"
+      ],
+      "metadata": {
+        "src": "6 7"
+      },
+      "gematria": {
+        "standard": 21,
+        "ordinal": 3,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 8,
+      "text": "God",
+      "lemma": "strong:G3588 strong:G2316 lemma.TR:του lemma.TR:θεου",
+      "morph": "robinson:T-GSM robinson:N-GSM",
+      "strongs": [
+        "G3588",
+        "G2316"
+      ],
+      "metadata": {
+        "src": "6 7"
+      },
+      "gematria": {
+        "standard": 26,
+        "ordinal": 6,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 9,
+      "text": "is",
+      "lemma": "strong:G2240 lemma.TR:ηκει",
+      "morph": "robinson:V-PAI-3S",
+      "strongs": [
+        "G2240"
+      ],
+      "metadata": {
+        "src": "8"
+      },
+      "gematria": {
+        "standard": 28,
+        "ordinal": 3,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 10,
+      "text": "come,",
+      "lemma": "strong:G2240 lemma.TR:ηκει",
+      "morph": "robinson:V-PAI-3S",
+      "strongs": [
+        "G2240"
+      ],
+      "metadata": {
+        "src": "8"
+      },
+      "gematria": {
+        "standard": 36,
+        "ordinal": 10,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 11,
+      "text": "and",
+      "lemma": "strong:G2532 lemma.TR:και",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G2532"
+      ],
+      "metadata": {
+        "src": "9"
+      },
+      "gematria": {
+        "standard": 19,
+        "ordinal": 6,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 12,
+      "text": "hath",
+      "lemma": "strong:G1325 lemma.TR:δεδωκεν",
+      "morph": "robinson:V-RAI-3S",
+      "strongs": [
+        "G1325"
+      ],
+      "metadata": {
+        "src": "10"
+      },
+      "gematria": {
+        "standard": 37,
+        "ordinal": 10,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 13,
+      "text": "given",
+      "lemma": "strong:G1325 lemma.TR:δεδωκεν",
+      "morph": "robinson:V-RAI-3S",
+      "strongs": [
+        "G1325"
+      ],
+      "metadata": {
+        "src": "10"
+      },
+      "gematria": {
+        "standard": 57,
+        "ordinal": 15,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 14,
+      "text": "us",
+      "lemma": "strong:G1473 lemma.TR:ημιν",
+      "morph": "robinson:P-1DP",
+      "strongs": [
+        "G1473"
+      ],
+      "metadata": {
+        "src": "11"
+      },
+      "gematria": {
+        "standard": 40,
+        "ordinal": 3,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 15,
+      "text": "an",
+      "lemma": "strong:G1271 lemma.TR:διανοιαν",
+      "morph": "robinson:N-ASF",
+      "strongs": [
+        "G1271"
+      ],
+      "metadata": {
+        "src": "12"
+      },
+      "gematria": {
+        "standard": 15,
+        "ordinal": 3,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 16,
+      "text": "understanding,",
+      "lemma": "strong:G1271 lemma.TR:διανοιαν",
+      "morph": "robinson:N-ASF",
+      "strongs": [
+        "G1271"
+      ],
+      "metadata": {
+        "src": "12"
+      },
+      "gematria": {
+        "standard": 150,
+        "ordinal": 91,
+        "reduced": 60
+      }
+    },
+    {
+      "position": 17,
+      "text": "that",
+      "lemma": "strong:G2443 lemma.TR:ινα",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G2443"
+      ],
+      "metadata": {
+        "src": "13"
+      },
+      "gematria": {
+        "standard": 49,
+        "ordinal": 10,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 18,
+      "text": "we",
+      "lemma": "strong:G1097 lemma.TR:γινωσκωμεν",
+      "morph": "robinson:V-PAS-1P",
+      "strongs": [
+        "G1097"
+      ],
+      "metadata": {
+        "src": "14"
+      },
+      "gematria": {
+        "standard": 28,
+        "ordinal": 3,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 19,
+      "text": "may",
+      "lemma": "strong:G1097 lemma.TR:γινωσκωμεν",
+      "morph": "robinson:V-PAS-1P",
+      "strongs": [
+        "G1097"
+      ],
+      "metadata": {
+        "src": "14"
+      },
+      "gematria": {
+        "standard": 39,
+        "ordinal": 6,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 20,
+      "text": "know",
+      "lemma": "strong:G1097 lemma.TR:γινωσκωμεν",
+      "morph": "robinson:V-PAS-1P",
+      "strongs": [
+        "G1097"
+      ],
+      "metadata": {
+        "src": "14"
+      },
+      "gematria": {
+        "standard": 63,
+        "ordinal": 10,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 21,
+      "text": "him",
+      "lemma": "strong:G228 lemma.TR:αληθινον",
+      "morph": "robinson:A-ASM",
+      "strongs": [
+        "G228"
+      ],
+      "metadata": {
+        "src": "16"
+      },
+      "gematria": {
+        "standard": 30,
+        "ordinal": 6,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 22,
+      "text": "that",
+      "lemma": "strong:G228 lemma.TR:αληθινον",
+      "morph": "robinson:A-ASM",
+      "strongs": [
+        "G228"
+      ],
+      "metadata": {
+        "src": "16"
+      },
+      "gematria": {
+        "standard": 49,
+        "ordinal": 10,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 23,
+      "text": "is",
+      "lemma": "strong:G228 lemma.TR:αληθινον",
+      "morph": "robinson:A-ASM",
+      "strongs": [
+        "G228"
+      ],
+      "metadata": {
+        "src": "16"
+      },
+      "gematria": {
+        "standard": 28,
+        "ordinal": 3,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 24,
+      "text": "true,",
+      "lemma": "strong:G228 lemma.TR:αληθινον",
+      "morph": "robinson:A-ASM",
+      "strongs": [
+        "G228"
+      ],
+      "metadata": {
+        "src": "16"
+      },
+      "gematria": {
+        "standard": 64,
+        "ordinal": 10,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 25,
+      "text": "and",
+      "lemma": "strong:G2532 lemma.TR:και",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G2532"
+      ],
+      "metadata": {
+        "src": "17"
+      },
+      "gematria": {
+        "standard": 19,
+        "ordinal": 6,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 26,
+      "text": "we",
+      "lemma": "strong:G1510 lemma.TR:εσμεν",
+      "morph": "robinson:V-PAI-1P",
+      "strongs": [
+        "G1510"
+      ],
+      "metadata": {
+        "src": "18"
+      },
+      "gematria": {
+        "standard": 28,
+        "ordinal": 3,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 27,
+      "text": "are",
+      "lemma": "strong:G1510 lemma.TR:εσμεν",
+      "morph": "robinson:V-PAI-1P",
+      "strongs": [
+        "G1510"
+      ],
+      "metadata": {
+        "src": "18"
+      },
+      "gematria": {
+        "standard": 24,
+        "ordinal": 6,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 28,
+      "text": "in",
+      "lemma": "strong:G1722 lemma.TR:εν",
+      "morph": "robinson:PREP",
+      "strongs": [
+        "G1722"
+      ],
+      "metadata": {
+        "src": "19"
+      },
+      "gematria": {
+        "standard": 23,
+        "ordinal": 3,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 29,
+      "text": "him",
+      "lemma": "strong:G228 lemma.TR:αληθινω",
+      "morph": "robinson:A-DSM",
+      "strongs": [
+        "G228"
+      ],
+      "metadata": {
+        "src": "21"
+      },
+      "gematria": {
+        "standard": 30,
+        "ordinal": 6,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 30,
+      "text": "that",
+      "lemma": "strong:G228 lemma.TR:αληθινω",
+      "morph": "robinson:A-DSM",
+      "strongs": [
+        "G228"
+      ],
+      "metadata": {
+        "src": "21"
+      },
+      "gematria": {
+        "standard": 49,
+        "ordinal": 10,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 31,
+      "text": "is",
+      "lemma": "strong:G228 lemma.TR:αληθινω",
+      "morph": "robinson:A-DSM",
+      "strongs": [
+        "G228"
+      ],
+      "metadata": {
+        "src": "21"
+      },
+      "gematria": {
+        "standard": 28,
+        "ordinal": 3,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 32,
+      "text": "true,",
+      "lemma": "strong:G228 lemma.TR:αληθινω",
+      "morph": "robinson:A-DSM",
+      "strongs": [
+        "G228"
+      ],
+      "metadata": {
+        "src": "21"
+      },
+      "gematria": {
+        "standard": 64,
+        "ordinal": 10,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 33,
+      "text": "even",
+      "lemma": null,
+      "morph": null,
+      "metadata": {
+        "type": "added"
+      },
+      "gematria": {
+        "standard": 46,
+        "ordinal": 10,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 34,
+      "text": "in",
+      "lemma": "strong:G1722 lemma.TR:εν",
+      "morph": "robinson:PREP",
+      "strongs": [
+        "G1722"
+      ],
+      "metadata": {
+        "src": "22"
+      },
+      "gematria": {
+        "standard": 23,
+        "ordinal": 3,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 35,
+      "text": "his",
+      "lemma": "strong:G846 lemma.TR:αυτου",
+      "morph": "robinson:P-GSM",
+      "strongs": [
+        "G846"
+      ],
+      "metadata": {
+        "src": "25"
+      },
+      "gematria": {
+        "standard": 36,
+        "ordinal": 6,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 36,
+      "text": "Son",
+      "lemma": "strong:G3588 strong:G5207 lemma.TR:τω lemma.TR:υιω",
+      "morph": "robinson:T-DSM robinson:N-DSM",
+      "strongs": [
+        "G3588",
+        "G5207"
+      ],
+      "metadata": {
+        "src": "23 24"
+      },
+      "gematria": {
+        "standard": 48,
+        "ordinal": 6,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 37,
+      "text": "Jesus",
+      "lemma": "strong:G2424 lemma.TR:ιησου",
+      "morph": "robinson:N-DSM",
+      "strongs": [
+        "G2424"
+      ],
+      "metadata": {
+        "src": "26"
+      },
+      "gematria": {
+        "standard": 74,
+        "ordinal": 15,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 38,
+      "text": "Christ.",
+      "lemma": "strong:G5547 lemma.TR:χριστω",
+      "morph": "robinson:N-DSM",
+      "strongs": [
+        "G5547"
+      ],
+      "metadata": {
+        "src": "27"
+      },
+      "gematria": {
+        "standard": 77,
+        "ordinal": 21,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 39,
+      "text": "This",
+      "lemma": "strong:G3778 lemma.TR:ουτος",
+      "morph": "robinson:D-NSM",
+      "strongs": [
+        "G3778"
+      ],
+      "metadata": {
+        "src": "28"
+      },
+      "gematria": {
+        "standard": 56,
+        "ordinal": 10,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 40,
+      "text": "is",
+      "lemma": "strong:G1510 lemma.TR:εστιν",
+      "morph": "robinson:V-PAI-3S",
+      "strongs": [
+        "G1510"
+      ],
+      "metadata": {
+        "src": "29"
+      },
+      "gematria": {
+        "standard": 28,
+        "ordinal": 3,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 41,
+      "text": "the",
+      "lemma": "strong:G228 lemma.TR:αληθινος",
+      "morph": "robinson:A-NSM",
+      "strongs": [
+        "G228"
+      ],
+      "metadata": {
+        "src": "31"
+      },
+      "gematria": {
+        "standard": 33,
+        "ordinal": 6,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 42,
+      "text": "true",
+      "lemma": "strong:G228 lemma.TR:αληθινος",
+      "morph": "robinson:A-NSM",
+      "strongs": [
+        "G228"
+      ],
+      "metadata": {
+        "src": "31"
+      },
+      "gematria": {
+        "standard": 64,
+        "ordinal": 10,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 43,
+      "text": "God,",
+      "lemma": "strong:G2316 lemma.TR:θεος",
+      "morph": "robinson:N-NSM",
+      "strongs": [
+        "G2316"
+      ],
+      "metadata": {
+        "src": "32"
+      },
+      "gematria": {
+        "standard": 26,
+        "ordinal": 6,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 44,
+      "text": "and",
+      "lemma": "strong:G2532 lemma.TR:και",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G2532"
+      ],
+      "metadata": {
+        "src": "33"
+      },
+      "gematria": {
+        "standard": 19,
+        "ordinal": 6,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 45,
+      "text": "eternal",
+      "lemma": "strong:G166 lemma.TR:αιωνιος",
+      "morph": "robinson:A-NSF",
+      "strongs": [
+        "G166"
+      ],
+      "metadata": {
+        "src": "36"
+      },
+      "gematria": {
+        "standard": 75,
+        "ordinal": 28,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 46,
+      "text": "life.",
+      "lemma": "strong:G3588 strong:G2222 lemma.TR:η lemma.TR:ζωη",
+      "morph": "robinson:T-NSF robinson:N-NSF",
+      "strongs": [
+        "G3588",
+        "G2222"
+      ],
+      "metadata": {
+        "src": "34 35"
+      },
+      "gematria": {
+        "standard": 32,
+        "ordinal": 10,
+        "reduced": 23
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 1921,
+    "ordinal": 436,
+    "reduced": 742
+  }
+}

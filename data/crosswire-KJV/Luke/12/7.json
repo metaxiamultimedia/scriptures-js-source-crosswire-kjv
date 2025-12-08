@@ -1,0 +1,390 @@
+{
+  "text": "But even the very hairs of your head are all numbered. Fear not therefore: ye are of more value than many sparrows.",
+  "words": [
+    {
+      "position": 1,
+      "text": "But",
+      "lemma": "strong:G235 lemma.TR:αλλα",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G235"
+      ],
+      "metadata": {
+        "src": "1"
+      },
+      "gematria": {
+        "standard": 43,
+        "ordinal": 6,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 2,
+      "text": "even",
+      "lemma": "strong:G2532 lemma.TR:και",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G2532"
+      ],
+      "metadata": {
+        "src": "2"
+      },
+      "gematria": {
+        "standard": 46,
+        "ordinal": 10,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 3,
+      "text": "the",
+      "lemma": "strong:G3588 strong:G2359 lemma.TR:αι lemma.TR:τριχες",
+      "morph": "robinson:T-NPF robinson:N-NPF",
+      "strongs": [
+        "G3588",
+        "G2359"
+      ],
+      "metadata": {
+        "src": "3 4",
+        "type": "x-split-1600"
+      },
+      "gematria": {
+        "standard": 33,
+        "ordinal": 6,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 4,
+      "text": "very",
+      "lemma": null,
+      "morph": null,
+      "gematria": {
+        "standard": 70,
+        "ordinal": 10,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 5,
+      "text": "hairs",
+      "lemma": "strong:G3588 strong:G2359 lemma.TR:αι lemma.TR:τριχες",
+      "morph": "robinson:T-NPF robinson:N-NPF",
+      "strongs": [
+        "G3588",
+        "G2359"
+      ],
+      "metadata": {
+        "src": "3 4",
+        "type": "x-split-1600"
+      },
+      "gematria": {
+        "standard": 55,
+        "ordinal": 15,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 6,
+      "text": "of",
+      "lemma": "strong:G3588 strong:G2776 lemma.TR:της lemma.TR:κεφαλης",
+      "morph": "robinson:T-GSF robinson:N-GSF",
+      "strongs": [
+        "G3588",
+        "G2776"
+      ],
+      "metadata": {
+        "src": "5 6",
+        "type": "x-split-1601"
+      },
+      "gematria": {
+        "standard": 21,
+        "ordinal": 3,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 7,
+      "text": "your",
+      "lemma": "strong:G4771 lemma.TR:υμων",
+      "morph": "robinson:P-2GP",
+      "strongs": [
+        "G4771"
+      ],
+      "metadata": {
+        "src": "7"
+      },
+      "gematria": {
+        "standard": 79,
+        "ordinal": 10,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 8,
+      "text": "head",
+      "lemma": "strong:G3588 strong:G2776 lemma.TR:της lemma.TR:κεφαλης",
+      "morph": "robinson:T-GSF robinson:N-GSF",
+      "strongs": [
+        "G3588",
+        "G2776"
+      ],
+      "metadata": {
+        "src": "5 6",
+        "type": "x-split-1601"
+      },
+      "gematria": {
+        "standard": 18,
+        "ordinal": 10,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 9,
+      "text": "are",
+      "lemma": "strong:G705 lemma.TR:ηριθμηνται",
+      "morph": "robinson:V-RPI-3P",
+      "strongs": [
+        "G705"
+      ],
+      "metadata": {
+        "src": "9",
+        "type": "x-split-1602"
+      },
+      "gematria": {
+        "standard": 24,
+        "ordinal": 6,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 10,
+      "text": "all",
+      "lemma": "strong:G3956 lemma.TR:πασαι",
+      "morph": "robinson:A-NPF",
+      "strongs": [
+        "G3956"
+      ],
+      "metadata": {
+        "src": "8"
+      },
+      "gematria": {
+        "standard": 25,
+        "ordinal": 6,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 11,
+      "text": "numbered.",
+      "lemma": "strong:G705 lemma.TR:ηριθμηνται",
+      "morph": "robinson:V-RPI-3P",
+      "strongs": [
+        "G705"
+      ],
+      "metadata": {
+        "src": "9",
+        "type": "x-split-1602"
+      },
+      "gematria": {
+        "standard": 82,
+        "ordinal": 36,
+        "reduced": 37
+      }
+    },
+    {
+      "position": 12,
+      "text": "Fear",
+      "lemma": "strong:G5399 lemma.TR:φοβεισθε",
+      "morph": "robinson:V-PNM-2P",
+      "strongs": [
+        "G5399"
+      ],
+      "metadata": {
+        "src": "12"
+      },
+      "gematria": {
+        "standard": 30,
+        "ordinal": 10,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 13,
+      "text": "not",
+      "lemma": "strong:G3361 lemma.TR:μη",
+      "morph": "robinson:PRT-N",
+      "strongs": [
+        "G3361"
+      ],
+      "metadata": {
+        "src": "10"
+      },
+      "gematria": {
+        "standard": 49,
+        "ordinal": 6,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 14,
+      "text": "therefore:",
+      "lemma": "strong:G3767 lemma.TR:ουν",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G3767"
+      ],
+      "metadata": {
+        "src": "11"
+      },
+      "gematria": {
+        "standard": 100,
+        "ordinal": 45,
+        "reduced": 55
+      }
+    },
+    {
+      "position": 15,
+      "text": "ye",
+      "lemma": "strong:G1308 lemma.TR:διαφερετε",
+      "morph": "robinson:V-PAI-2P",
+      "strongs": [
+        "G1308"
+      ],
+      "metadata": {
+        "src": "15"
+      },
+      "gematria": {
+        "standard": 30,
+        "ordinal": 3,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 16,
+      "text": "are",
+      "lemma": "strong:G1308 lemma.TR:διαφερετε",
+      "morph": "robinson:V-PAI-2P",
+      "strongs": [
+        "G1308"
+      ],
+      "metadata": {
+        "src": "15"
+      },
+      "gematria": {
+        "standard": 24,
+        "ordinal": 6,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 17,
+      "text": "of",
+      "lemma": "strong:G1308 lemma.TR:διαφερετε",
+      "morph": "robinson:V-PAI-2P",
+      "strongs": [
+        "G1308"
+      ],
+      "metadata": {
+        "src": "15"
+      },
+      "gematria": {
+        "standard": 21,
+        "ordinal": 3,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 18,
+      "text": "more",
+      "lemma": "strong:G1308 lemma.TR:διαφερετε",
+      "morph": "robinson:V-PAI-2P",
+      "strongs": [
+        "G1308"
+      ],
+      "metadata": {
+        "src": "15"
+      },
+      "gematria": {
+        "standard": 51,
+        "ordinal": 10,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 19,
+      "text": "value",
+      "lemma": "strong:G1308 lemma.TR:διαφερετε",
+      "morph": "robinson:V-PAI-2P",
+      "strongs": [
+        "G1308"
+      ],
+      "metadata": {
+        "src": "15"
+      },
+      "gematria": {
+        "standard": 61,
+        "ordinal": 15,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 20,
+      "text": "than",
+      "lemma": "strong:G4765 lemma.TR:στρουθιων",
+      "morph": "robinson:N-GPN",
+      "strongs": [
+        "G4765"
+      ],
+      "metadata": {
+        "src": "14",
+        "type": "x-split-1603"
+      },
+      "gematria": {
+        "standard": 43,
+        "ordinal": 10,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 21,
+      "text": "many",
+      "lemma": "strong:G4183 lemma.TR:πολλων",
+      "morph": "robinson:A-GPN",
+      "strongs": [
+        "G4183"
+      ],
+      "metadata": {
+        "src": "13"
+      },
+      "gematria": {
+        "standard": 53,
+        "ordinal": 10,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 22,
+      "text": "sparrows.",
+      "lemma": "strong:G4765 lemma.TR:στρουθιων",
+      "morph": "robinson:N-GPN",
+      "strongs": [
+        "G4765"
+      ],
+      "metadata": {
+        "src": "14",
+        "type": "x-split-1603"
+      },
+      "gematria": {
+        "standard": 129,
+        "ordinal": 36,
+        "reduced": 39
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 1087,
+    "ordinal": 272,
+    "reduced": 448
+  }
+}

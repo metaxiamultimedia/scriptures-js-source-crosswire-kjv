@@ -1,0 +1,316 @@
+{
+  "text": "But some man will say, How are the dead raised up? and with what body do they come?",
+  "words": [
+    {
+      "position": 1,
+      "text": "But",
+      "lemma": "strong:G235 lemma.TR:αλλ",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G235"
+      ],
+      "metadata": {
+        "src": "1"
+      },
+      "gematria": {
+        "standard": 43,
+        "ordinal": 6,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 2,
+      "text": "some",
+      "lemma": "strong:G5100 lemma.TR:τις",
+      "morph": "robinson:X-NSM",
+      "strongs": [
+        "G5100"
+      ],
+      "metadata": {
+        "src": "3"
+      },
+      "gematria": {
+        "standard": 52,
+        "ordinal": 10,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 3,
+      "text": "man",
+      "lemma": null,
+      "morph": null,
+      "metadata": {
+        "type": "added"
+      },
+      "gematria": {
+        "standard": 28,
+        "ordinal": 6,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 4,
+      "text": "will",
+      "lemma": "strong:G2046 lemma.TR:ερει",
+      "morph": "robinson:V-FAI-3S",
+      "strongs": [
+        "G2046"
+      ],
+      "metadata": {
+        "src": "2"
+      },
+      "gematria": {
+        "standard": 56,
+        "ordinal": 10,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 5,
+      "text": "say,",
+      "lemma": "strong:G2046 lemma.TR:ερει",
+      "morph": "robinson:V-FAI-3S",
+      "strongs": [
+        "G2046"
+      ],
+      "metadata": {
+        "src": "2"
+      },
+      "gematria": {
+        "standard": 45,
+        "ordinal": 6,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 6,
+      "text": "How",
+      "lemma": "strong:G4459 lemma.TR:πως",
+      "morph": "robinson:ADV-I",
+      "strongs": [
+        "G4459"
+      ],
+      "metadata": {
+        "src": "4"
+      },
+      "gematria": {
+        "standard": 46,
+        "ordinal": 6,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 7,
+      "text": "are",
+      "lemma": "strong:G1453 lemma.TR:εγειρονται",
+      "morph": "robinson:V-PPI-3P",
+      "strongs": [
+        "G1453"
+      ],
+      "metadata": {
+        "src": "5",
+        "type": "x-split-2859"
+      },
+      "gematria": {
+        "standard": 24,
+        "ordinal": 6,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 8,
+      "text": "the",
+      "lemma": "strong:G3588 lemma.TR:οι",
+      "morph": "robinson:T-NPM",
+      "strongs": [
+        "G3588"
+      ],
+      "metadata": {
+        "src": "6"
+      },
+      "gematria": {
+        "standard": 33,
+        "ordinal": 6,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 9,
+      "text": "dead",
+      "lemma": "strong:G3498 lemma.TR:νεκροι",
+      "morph": "robinson:A-NPM",
+      "strongs": [
+        "G3498"
+      ],
+      "metadata": {
+        "src": "7"
+      },
+      "gematria": {
+        "standard": 14,
+        "ordinal": 10,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 10,
+      "text": "raised",
+      "lemma": "strong:G1453 lemma.TR:εγειρονται",
+      "morph": "robinson:V-PPI-3P",
+      "strongs": [
+        "G1453"
+      ],
+      "metadata": {
+        "src": "5",
+        "type": "x-split-2859"
+      },
+      "gematria": {
+        "standard": 56,
+        "ordinal": 21,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 11,
+      "text": "up?",
+      "lemma": "strong:G1453 lemma.TR:εγειρονται",
+      "morph": "robinson:V-PPI-3P",
+      "strongs": [
+        "G1453"
+      ],
+      "metadata": {
+        "src": "5",
+        "type": "x-split-2859"
+      },
+      "gematria": {
+        "standard": 37,
+        "ordinal": 3,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 12,
+      "text": "and",
+      "lemma": "strong:G1161 lemma.TR:δε",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G1161"
+      ],
+      "metadata": {
+        "src": "9"
+      },
+      "gematria": {
+        "standard": 19,
+        "ordinal": 6,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 13,
+      "text": "with",
+      "lemma": "strong:G4169 lemma.TR:ποιω",
+      "morph": "robinson:I-DSN",
+      "strongs": [
+        "G4169"
+      ],
+      "metadata": {
+        "src": "8"
+      },
+      "gematria": {
+        "standard": 60,
+        "ordinal": 10,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 14,
+      "text": "what",
+      "lemma": "strong:G4169 lemma.TR:ποιω",
+      "morph": "robinson:I-DSN",
+      "strongs": [
+        "G4169"
+      ],
+      "metadata": {
+        "src": "8"
+      },
+      "gematria": {
+        "standard": 52,
+        "ordinal": 10,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 15,
+      "text": "body",
+      "lemma": "strong:G4983 lemma.TR:σωματι",
+      "morph": "robinson:N-DSN",
+      "strongs": [
+        "G4983"
+      ],
+      "metadata": {
+        "src": "10"
+      },
+      "gematria": {
+        "standard": 46,
+        "ordinal": 10,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 16,
+      "text": "do",
+      "lemma": "strong:G2064 lemma.TR:ερχονται",
+      "morph": "robinson:V-PNI-3P",
+      "strongs": [
+        "G2064"
+      ],
+      "metadata": {
+        "src": "11"
+      },
+      "gematria": {
+        "standard": 19,
+        "ordinal": 3,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 17,
+      "text": "they",
+      "lemma": "strong:G2064 lemma.TR:ερχονται",
+      "morph": "robinson:V-PNI-3P",
+      "strongs": [
+        "G2064"
+      ],
+      "metadata": {
+        "src": "11"
+      },
+      "gematria": {
+        "standard": 58,
+        "ordinal": 10,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 18,
+      "text": "come?",
+      "lemma": "strong:G2064 lemma.TR:ερχονται",
+      "morph": "robinson:V-PNI-3P",
+      "strongs": [
+        "G2064"
+      ],
+      "metadata": {
+        "src": "11"
+      },
+      "gematria": {
+        "standard": 36,
+        "ordinal": 10,
+        "reduced": 18
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 724,
+    "ordinal": 149,
+    "reduced": 283
+  }
+}

@@ -1,0 +1,110 @@
+{
+  "text": "I and my Father are one.",
+  "words": [
+    {
+      "position": 1,
+      "text": "I",
+      "lemma": "strong:G1473 lemma.TR:εγω",
+      "morph": "robinson:P-1NS",
+      "strongs": [
+        "G1473"
+      ],
+      "metadata": {
+        "src": "1"
+      },
+      "gematria": {
+        "standard": 9,
+        "ordinal": 1,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 2,
+      "text": "and",
+      "lemma": "strong:G2532 lemma.TR:και",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G2532"
+      ],
+      "metadata": {
+        "src": "2"
+      },
+      "gematria": {
+        "standard": 19,
+        "ordinal": 6,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 3,
+      "text": "my",
+      "lemma": null,
+      "morph": null,
+      "metadata": {
+        "type": "added"
+      },
+      "gematria": {
+        "standard": 38,
+        "ordinal": 3,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 4,
+      "text": "Father",
+      "lemma": "strong:G3588 strong:G3962 lemma.TR:ο lemma.TR:πατηρ",
+      "morph": "robinson:T-NSM robinson:N-NSM",
+      "strongs": [
+        "G3588",
+        "G3962"
+      ],
+      "metadata": {
+        "src": "3 4"
+      },
+      "gematria": {
+        "standard": 58,
+        "ordinal": 21,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 5,
+      "text": "are",
+      "lemma": "strong:G1510 lemma.TR:εσμεν",
+      "morph": "robinson:V-PAI-1P",
+      "strongs": [
+        "G1510"
+      ],
+      "metadata": {
+        "src": "6"
+      },
+      "gematria": {
+        "standard": 24,
+        "ordinal": 6,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 6,
+      "text": "one.",
+      "lemma": "strong:G1520 lemma.TR:εν",
+      "morph": "robinson:A-NSN",
+      "strongs": [
+        "G1520"
+      ],
+      "metadata": {
+        "src": "5"
+      },
+      "gematria": {
+        "standard": 34,
+        "ordinal": 6,
+        "reduced": 16
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 182,
+    "ordinal": 43,
+    "reduced": 92
+  }
+}

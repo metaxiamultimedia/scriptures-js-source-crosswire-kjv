@@ -1,0 +1,619 @@
+{
+  "text": "Forasmuch as ye are manifestly declared to be the epistle of Christ ministered by us, written not with ink, but with the Spirit of the living God; not in tables of stone, but in fleshy tables of the heart.",
+  "words": [
+    {
+      "position": 1,
+      "text": "Forasmuch as ye are",
+      "lemma": null,
+      "morph": null,
+      "metadata": {
+        "type": "added"
+      },
+      "gematria": {
+        "standard": 178,
+        "ordinal": 136,
+        "reduced": 70
+      }
+    },
+    {
+      "position": 2,
+      "text": "manifestly",
+      "lemma": "strong:G5319 lemma.TR:φανερουμενοι",
+      "morph": "robinson:V-PPP-NPM",
+      "strongs": [
+        "G5319"
+      ],
+      "metadata": {
+        "src": "1"
+      },
+      "gematria": {
+        "standard": 124,
+        "ordinal": 55,
+        "reduced": 43
+      }
+    },
+    {
+      "position": 3,
+      "text": "declared",
+      "lemma": "strong:G3754 lemma.TR:οτι",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G3754"
+      ],
+      "metadata": {
+        "src": "2"
+      },
+      "gematria": {
+        "standard": 52,
+        "ordinal": 36,
+        "reduced": 34
+      }
+    },
+    {
+      "position": 4,
+      "text": "to",
+      "lemma": "strong:G1510 lemma.TR:εστε",
+      "morph": "robinson:V-PAI-2P",
+      "strongs": [
+        "G1510"
+      ],
+      "metadata": {
+        "src": "3"
+      },
+      "gematria": {
+        "standard": 35,
+        "ordinal": 3,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 5,
+      "text": "be",
+      "lemma": "strong:G1510 lemma.TR:εστε",
+      "morph": "robinson:V-PAI-2P",
+      "strongs": [
+        "G1510"
+      ],
+      "metadata": {
+        "src": "3"
+      },
+      "gematria": {
+        "standard": 7,
+        "ordinal": 3,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 6,
+      "text": "the",
+      "lemma": "strong:G1992 lemma.TR:επιστολη",
+      "morph": "robinson:N-NSF",
+      "strongs": [
+        "G1992"
+      ],
+      "metadata": {
+        "src": "4"
+      },
+      "gematria": {
+        "standard": 33,
+        "ordinal": 6,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 7,
+      "text": "epistle",
+      "lemma": "strong:G1992 lemma.TR:επιστολη",
+      "morph": "robinson:N-NSF",
+      "strongs": [
+        "G1992"
+      ],
+      "metadata": {
+        "src": "4"
+      },
+      "gematria": {
+        "standard": 86,
+        "ordinal": 28,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 8,
+      "text": "of",
+      "lemma": "strong:G5547 lemma.TR:χριστου",
+      "morph": "robinson:N-GSM",
+      "strongs": [
+        "G5547"
+      ],
+      "metadata": {
+        "src": "5"
+      },
+      "gematria": {
+        "standard": 21,
+        "ordinal": 3,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 9,
+      "text": "Christ",
+      "lemma": "strong:G5547 lemma.TR:χριστου",
+      "morph": "robinson:N-GSM",
+      "strongs": [
+        "G5547"
+      ],
+      "metadata": {
+        "src": "5"
+      },
+      "gematria": {
+        "standard": 77,
+        "ordinal": 21,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 10,
+      "text": "ministered",
+      "lemma": "strong:G1247 lemma.TR:διακονηθεισα",
+      "morph": "robinson:V-APP-NSF",
+      "strongs": [
+        "G1247"
+      ],
+      "metadata": {
+        "src": "6"
+      },
+      "gematria": {
+        "standard": 116,
+        "ordinal": 55,
+        "reduced": 53
+      }
+    },
+    {
+      "position": 11,
+      "text": "by",
+      "lemma": "strong:G5259 lemma.TR:υφ",
+      "morph": "robinson:PREP",
+      "strongs": [
+        "G5259"
+      ],
+      "metadata": {
+        "src": "7"
+      },
+      "gematria": {
+        "standard": 27,
+        "ordinal": 3,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 12,
+      "text": "us,",
+      "lemma": "strong:G1473 lemma.TR:ημων",
+      "morph": "robinson:P-1GP",
+      "strongs": [
+        "G1473"
+      ],
+      "metadata": {
+        "src": "8"
+      },
+      "gematria": {
+        "standard": 40,
+        "ordinal": 3,
+        "reduced": 4
+      }
+    },
+    {
+      "position": 13,
+      "text": "written",
+      "lemma": "strong:G1449 lemma.TR:εγγεγραμμενη",
+      "morph": "robinson:V-RPP-NSF",
+      "strongs": [
+        "G1449"
+      ],
+      "metadata": {
+        "src": "9"
+      },
+      "gematria": {
+        "standard": 109,
+        "ordinal": 28,
+        "reduced": 37
+      }
+    },
+    {
+      "position": 14,
+      "text": "not",
+      "lemma": "strong:G3756 lemma.TR:ου",
+      "morph": "robinson:PRT-N",
+      "strongs": [
+        "G3756"
+      ],
+      "metadata": {
+        "src": "10"
+      },
+      "gematria": {
+        "standard": 49,
+        "ordinal": 6,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 15,
+      "text": "with",
+      "lemma": "strong:G3188 lemma.TR:μελανι",
+      "morph": "robinson:A-DSN",
+      "strongs": [
+        "G3188"
+      ],
+      "metadata": {
+        "src": "11"
+      },
+      "gematria": {
+        "standard": 60,
+        "ordinal": 10,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 16,
+      "text": "ink,",
+      "lemma": "strong:G3188 lemma.TR:μελανι",
+      "morph": "robinson:A-DSN",
+      "strongs": [
+        "G3188"
+      ],
+      "metadata": {
+        "src": "11"
+      },
+      "gematria": {
+        "standard": 34,
+        "ordinal": 6,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 17,
+      "text": "but",
+      "lemma": "strong:G235 lemma.TR:αλλα",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G235"
+      ],
+      "metadata": {
+        "src": "12"
+      },
+      "gematria": {
+        "standard": 43,
+        "ordinal": 6,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 18,
+      "text": "with",
+      "lemma": "strong:G4151 lemma.TR:πνευματι",
+      "morph": "robinson:N-DSN",
+      "strongs": [
+        "G4151"
+      ],
+      "metadata": {
+        "src": "13"
+      },
+      "gematria": {
+        "standard": 60,
+        "ordinal": 10,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 19,
+      "text": "the",
+      "lemma": "strong:G4151 lemma.TR:πνευματι",
+      "morph": "robinson:N-DSN",
+      "strongs": [
+        "G4151"
+      ],
+      "metadata": {
+        "src": "13"
+      },
+      "gematria": {
+        "standard": 33,
+        "ordinal": 6,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 20,
+      "text": "Spirit",
+      "lemma": "strong:G4151 lemma.TR:πνευματι",
+      "morph": "robinson:N-DSN",
+      "strongs": [
+        "G4151"
+      ],
+      "metadata": {
+        "src": "13"
+      },
+      "gematria": {
+        "standard": 91,
+        "ordinal": 21,
+        "reduced": 37
+      }
+    },
+    {
+      "position": 21,
+      "text": "of",
+      "lemma": "strong:G2198 lemma.TR:ζωντος",
+      "morph": "robinson:V-PAP-GSM",
+      "strongs": [
+        "G2198"
+      ],
+      "metadata": {
+        "src": "15"
+      },
+      "gematria": {
+        "standard": 21,
+        "ordinal": 3,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 22,
+      "text": "the",
+      "lemma": "strong:G2198 lemma.TR:ζωντος",
+      "morph": "robinson:V-PAP-GSM",
+      "strongs": [
+        "G2198"
+      ],
+      "metadata": {
+        "src": "15"
+      },
+      "gematria": {
+        "standard": 33,
+        "ordinal": 6,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 23,
+      "text": "living",
+      "lemma": "strong:G2198 lemma.TR:ζωντος",
+      "morph": "robinson:V-PAP-GSM",
+      "strongs": [
+        "G2198"
+      ],
+      "metadata": {
+        "src": "15"
+      },
+      "gematria": {
+        "standard": 73,
+        "ordinal": 21,
+        "reduced": 37
+      }
+    },
+    {
+      "position": 24,
+      "text": "God;",
+      "lemma": "strong:G2316 lemma.TR:θεου",
+      "morph": "robinson:N-GSM",
+      "strongs": [
+        "G2316"
+      ],
+      "metadata": {
+        "src": "14"
+      },
+      "gematria": {
+        "standard": 26,
+        "ordinal": 6,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 25,
+      "text": "not",
+      "lemma": "strong:G3756 lemma.TR:ουκ",
+      "morph": "robinson:PRT-N",
+      "strongs": [
+        "G3756"
+      ],
+      "metadata": {
+        "src": "16"
+      },
+      "gematria": {
+        "standard": 49,
+        "ordinal": 6,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 26,
+      "text": "in",
+      "lemma": "strong:G1722 lemma.TR:εν",
+      "morph": "robinson:PREP",
+      "strongs": [
+        "G1722"
+      ],
+      "metadata": {
+        "src": "17"
+      },
+      "gematria": {
+        "standard": 23,
+        "ordinal": 3,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 27,
+      "text": "tables",
+      "lemma": "strong:G4109 lemma.TR:πλαξιν",
+      "morph": "robinson:N-DPF",
+      "strongs": [
+        "G4109"
+      ],
+      "metadata": {
+        "src": "18"
+      },
+      "gematria": {
+        "standard": 59,
+        "ordinal": 21,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 28,
+      "text": "of",
+      "lemma": "strong:G3035 lemma.TR:λιθιναις",
+      "morph": "robinson:A-DPF",
+      "strongs": [
+        "G3035"
+      ],
+      "metadata": {
+        "src": "19"
+      },
+      "gematria": {
+        "standard": 21,
+        "ordinal": 3,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 29,
+      "text": "stone,",
+      "lemma": "strong:G3035 lemma.TR:λιθιναις",
+      "morph": "robinson:A-DPF",
+      "strongs": [
+        "G3035"
+      ],
+      "metadata": {
+        "src": "19"
+      },
+      "gematria": {
+        "standard": 73,
+        "ordinal": 15,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 30,
+      "text": "but",
+      "lemma": "strong:G235 lemma.TR:αλλ",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G235"
+      ],
+      "metadata": {
+        "src": "20"
+      },
+      "gematria": {
+        "standard": 43,
+        "ordinal": 6,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 31,
+      "text": "in",
+      "lemma": "strong:G1722 lemma.TR:εν",
+      "morph": "robinson:PREP",
+      "strongs": [
+        "G1722"
+      ],
+      "metadata": {
+        "src": "21"
+      },
+      "gematria": {
+        "standard": 23,
+        "ordinal": 3,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 32,
+      "text": "fleshy",
+      "lemma": "strong:G4560 lemma.TR:σαρκιναις",
+      "morph": "robinson:A-DPF",
+      "strongs": [
+        "G4560"
+      ],
+      "metadata": {
+        "src": "24"
+      },
+      "gematria": {
+        "standard": 75,
+        "ordinal": 21,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 33,
+      "text": "tables",
+      "lemma": "strong:G4109 lemma.TR:πλαξιν",
+      "morph": "robinson:N-DPF",
+      "strongs": [
+        "G4109"
+      ],
+      "metadata": {
+        "src": "22"
+      },
+      "gematria": {
+        "standard": 59,
+        "ordinal": 21,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 34,
+      "text": "of",
+      "lemma": "strong:G2588 lemma.TR:καρδιας",
+      "morph": "robinson:N-GSF",
+      "strongs": [
+        "G2588"
+      ],
+      "metadata": {
+        "src": "23"
+      },
+      "gematria": {
+        "standard": 21,
+        "ordinal": 3,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 35,
+      "text": "the",
+      "lemma": "strong:G2588 lemma.TR:καρδιας",
+      "morph": "robinson:N-GSF",
+      "strongs": [
+        "G2588"
+      ],
+      "metadata": {
+        "src": "23"
+      },
+      "gematria": {
+        "standard": 33,
+        "ordinal": 6,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 36,
+      "text": "heart.",
+      "lemma": "strong:G2588 lemma.TR:καρδιας",
+      "morph": "robinson:N-GSF",
+      "strongs": [
+        "G2588"
+      ],
+      "metadata": {
+        "src": "23"
+      },
+      "gematria": {
+        "standard": 52,
+        "ordinal": 15,
+        "reduced": 25
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 1959,
+    "ordinal": 604,
+    "reduced": 762
+  }
+}

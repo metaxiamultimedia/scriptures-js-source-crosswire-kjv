@@ -1,0 +1,372 @@
+{
+  "text": "To whom our fathers would not obey, but thrust him from them, and in their hearts turned back again into Egypt,",
+  "words": [
+    {
+      "position": 1,
+      "text": "To",
+      "lemma": "strong:G3739 lemma.TR:ω",
+      "morph": "robinson:R-DSM",
+      "strongs": [
+        "G3739"
+      ],
+      "metadata": {
+        "src": "1"
+      },
+      "gematria": {
+        "standard": 35,
+        "ordinal": 3,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 2,
+      "text": "whom",
+      "lemma": "strong:G3739 lemma.TR:ω",
+      "morph": "robinson:R-DSM",
+      "strongs": [
+        "G3739"
+      ],
+      "metadata": {
+        "src": "1"
+      },
+      "gematria": {
+        "standard": 59,
+        "ordinal": 10,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 3,
+      "text": "our",
+      "lemma": "strong:G1473 lemma.TR:ημων",
+      "morph": "robinson:P-1GP",
+      "strongs": [
+        "G1473"
+      ],
+      "metadata": {
+        "src": "8"
+      },
+      "gematria": {
+        "standard": 54,
+        "ordinal": 6,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 4,
+      "text": "fathers",
+      "lemma": "strong:G3588 strong:G3962 lemma.TR:οι lemma.TR:πατερες",
+      "morph": "robinson:T-NPM robinson:N-NPM",
+      "strongs": [
+        "G3588",
+        "G3962"
+      ],
+      "metadata": {
+        "src": "6 7"
+      },
+      "gematria": {
+        "standard": 77,
+        "ordinal": 28,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 5,
+      "text": "would",
+      "lemma": "strong:G2309 lemma.TR:ηθελησαν",
+      "morph": "robinson:V-AAI-3P",
+      "strongs": [
+        "G2309"
+      ],
+      "metadata": {
+        "src": "3"
+      },
+      "gematria": {
+        "standard": 75,
+        "ordinal": 15,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 6,
+      "text": "not",
+      "lemma": "strong:G3756 lemma.TR:ουκ",
+      "morph": "robinson:PRT-N",
+      "strongs": [
+        "G3756"
+      ],
+      "metadata": {
+        "src": "2"
+      },
+      "gematria": {
+        "standard": 49,
+        "ordinal": 6,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 7,
+      "text": "obey,",
+      "lemma": "strong:G5255 lemma.TR:υπηκοοι",
+      "morph": "robinson:A-NPM",
+      "strongs": [
+        "G5255"
+      ],
+      "metadata": {
+        "src": "4"
+      },
+      "gematria": {
+        "standard": 47,
+        "ordinal": 10,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 8,
+      "text": "but",
+      "lemma": "strong:G235 lemma.TR:αλλ",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G235"
+      ],
+      "metadata": {
+        "src": "9"
+      },
+      "gematria": {
+        "standard": 43,
+        "ordinal": 6,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 9,
+      "text": "thrust",
+      "lemma": "strong:G683 lemma.TR:απωσαντο",
+      "morph": "robinson:V-ADI-3P",
+      "strongs": [
+        "G683"
+      ],
+      "metadata": {
+        "src": "10",
+        "type": "x-split-2248"
+      },
+      "gematria": {
+        "standard": 106,
+        "ordinal": 21,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 10,
+      "text": "him",
+      "lemma": null,
+      "morph": null,
+      "metadata": {
+        "type": "added"
+      },
+      "gematria": {
+        "standard": 30,
+        "ordinal": 6,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 11,
+      "text": "from",
+      "lemma": "strong:G683 lemma.TR:απωσαντο",
+      "morph": "robinson:V-ADI-3P",
+      "strongs": [
+        "G683"
+      ],
+      "metadata": {
+        "src": "10",
+        "type": "x-split-2248"
+      },
+      "gematria": {
+        "standard": 52,
+        "ordinal": 10,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 12,
+      "text": "them,",
+      "lemma": "strong:G683 lemma.TR:απωσαντο",
+      "morph": "robinson:V-ADI-3P",
+      "strongs": [
+        "G683"
+      ],
+      "metadata": {
+        "src": "10",
+        "type": "x-split-2248"
+      },
+      "gematria": {
+        "standard": 46,
+        "ordinal": 10,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 13,
+      "text": "and",
+      "lemma": "strong:G2532 lemma.TR:και",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G2532"
+      ],
+      "metadata": {
+        "src": "11"
+      },
+      "gematria": {
+        "standard": 19,
+        "ordinal": 6,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 14,
+      "text": "in",
+      "lemma": "strong:G3588 strong:G2588 lemma.TR:ταις lemma.TR:καρδιαις",
+      "morph": "robinson:T-DPF robinson:N-DPF",
+      "strongs": [
+        "G3588",
+        "G2588"
+      ],
+      "metadata": {
+        "src": "13 14",
+        "type": "x-split-2249"
+      },
+      "gematria": {
+        "standard": 23,
+        "ordinal": 3,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 15,
+      "text": "their",
+      "lemma": "strong:G846 lemma.TR:αυτων",
+      "morph": "robinson:P-GPM",
+      "strongs": [
+        "G846"
+      ],
+      "metadata": {
+        "src": "15"
+      },
+      "gematria": {
+        "standard": 60,
+        "ordinal": 15,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 16,
+      "text": "hearts",
+      "lemma": "strong:G3588 strong:G2588 lemma.TR:ταις lemma.TR:καρδιαις",
+      "morph": "robinson:T-DPF robinson:N-DPF",
+      "strongs": [
+        "G3588",
+        "G2588"
+      ],
+      "metadata": {
+        "src": "13 14",
+        "type": "x-split-2249"
+      },
+      "gematria": {
+        "standard": 71,
+        "ordinal": 21,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 17,
+      "text": "turned",
+      "lemma": "strong:G4762 lemma.TR:εστραφησαν",
+      "morph": "robinson:V-2API-3P",
+      "strongs": [
+        "G4762"
+      ],
+      "metadata": {
+        "src": "12"
+      },
+      "gematria": {
+        "standard": 82,
+        "ordinal": 21,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 18,
+      "text": "back",
+      "lemma": "strong:G4762 lemma.TR:εστραφησαν",
+      "morph": "robinson:V-2API-3P",
+      "strongs": [
+        "G4762"
+      ],
+      "metadata": {
+        "src": "12"
+      },
+      "gematria": {
+        "standard": 17,
+        "ordinal": 10,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 19,
+      "text": "again",
+      "lemma": "strong:G4762 lemma.TR:εστραφησαν",
+      "morph": "robinson:V-2API-3P",
+      "strongs": [
+        "G4762"
+      ],
+      "metadata": {
+        "src": "12"
+      },
+      "gematria": {
+        "standard": 32,
+        "ordinal": 15,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 20,
+      "text": "into",
+      "lemma": "strong:G1519 lemma.TR:εις",
+      "morph": "robinson:PREP",
+      "strongs": [
+        "G1519"
+      ],
+      "metadata": {
+        "src": "16"
+      },
+      "gematria": {
+        "standard": 58,
+        "ordinal": 10,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 21,
+      "text": "Egypt,",
+      "lemma": "strong:G125 lemma.TR:αιγυπτον",
+      "morph": "robinson:N-ASF",
+      "strongs": [
+        "G125"
+      ],
+      "metadata": {
+        "src": "17"
+      },
+      "gematria": {
+        "standard": 73,
+        "ordinal": 15,
+        "reduced": 28
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 1108,
+    "ordinal": 247,
+    "reduced": 424
+  }
+}

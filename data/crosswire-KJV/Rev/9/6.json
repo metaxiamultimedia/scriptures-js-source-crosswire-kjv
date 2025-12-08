@@ -1,0 +1,426 @@
+{
+  "text": "And in those days shall men seek death, and shall not find it; and shall desire to die, and death shall flee from them.",
+  "words": [
+    {
+      "position": 1,
+      "text": "And",
+      "lemma": "strong:G2532 lemma.TR:και",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G2532"
+      ],
+      "metadata": {
+        "src": "1"
+      },
+      "gematria": {
+        "standard": 19,
+        "ordinal": 6,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 2,
+      "text": "in",
+      "lemma": "strong:G1722 lemma.TR:εν",
+      "morph": "robinson:PREP",
+      "strongs": [
+        "G1722"
+      ],
+      "metadata": {
+        "src": "2"
+      },
+      "gematria": {
+        "standard": 23,
+        "ordinal": 3,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 3,
+      "text": "those",
+      "lemma": "strong:G1565 lemma.TR:εκειναις",
+      "morph": "robinson:D-DPF",
+      "strongs": [
+        "G1565"
+      ],
+      "metadata": {
+        "src": "5"
+      },
+      "gematria": {
+        "standard": 67,
+        "ordinal": 15,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 4,
+      "text": "days",
+      "lemma": "strong:G3588 strong:G2250 lemma.TR:ταις lemma.TR:ημεραις",
+      "morph": "robinson:T-DPF robinson:N-DPF",
+      "strongs": [
+        "G3588",
+        "G2250"
+      ],
+      "metadata": {
+        "src": "3 4"
+      },
+      "gematria": {
+        "standard": 49,
+        "ordinal": 10,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 5,
+      "text": "shall",
+      "lemma": "strong:G2212 lemma.TR:ζητησουσιν",
+      "morph": "robinson:V-FAI-3P",
+      "strongs": [
+        "G2212"
+      ],
+      "metadata": {
+        "src": "6",
+        "type": "x-split-3802"
+      },
+      "gematria": {
+        "standard": 52,
+        "ordinal": 15,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 6,
+      "text": "men",
+      "lemma": "strong:G3588 strong:G444 lemma.TR:οι lemma.TR:ανθρωποι",
+      "morph": "robinson:T-NPM robinson:N-NPM",
+      "strongs": [
+        "G3588",
+        "G444"
+      ],
+      "metadata": {
+        "src": "7 8"
+      },
+      "gematria": {
+        "standard": 32,
+        "ordinal": 6,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 7,
+      "text": "seek",
+      "lemma": "strong:G2212 lemma.TR:ζητησουσιν",
+      "morph": "robinson:V-FAI-3P",
+      "strongs": [
+        "G2212"
+      ],
+      "metadata": {
+        "src": "6",
+        "type": "x-split-3802"
+      },
+      "gematria": {
+        "standard": 40,
+        "ordinal": 10,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 8,
+      "text": "death,",
+      "lemma": "strong:G3588 strong:G2288 lemma.TR:τον lemma.TR:θανατον",
+      "morph": "robinson:T-ASM robinson:N-ASM",
+      "strongs": [
+        "G3588",
+        "G2288"
+      ],
+      "metadata": {
+        "src": "9 10"
+      },
+      "gematria": {
+        "standard": 38,
+        "ordinal": 15,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 9,
+      "text": "and",
+      "lemma": "strong:G2532 lemma.TR:και",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G2532"
+      ],
+      "metadata": {
+        "src": "11"
+      },
+      "gematria": {
+        "standard": 19,
+        "ordinal": 6,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 10,
+      "text": "shall",
+      "lemma": "strong:G2147 lemma.TR:ευρησουσιν",
+      "morph": "robinson:V-FAI-3P",
+      "strongs": [
+        "G2147"
+      ],
+      "metadata": {
+        "src": "13",
+        "type": "x-split-3803"
+      },
+      "gematria": {
+        "standard": 52,
+        "ordinal": 15,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 11,
+      "text": "not",
+      "lemma": "strong:G3756 lemma.TR:ουχ",
+      "morph": "robinson:PRT-N",
+      "strongs": [
+        "G3756"
+      ],
+      "metadata": {
+        "src": "12"
+      },
+      "gematria": {
+        "standard": 49,
+        "ordinal": 6,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 12,
+      "text": "find",
+      "lemma": "strong:G2147 lemma.TR:ευρησουσιν",
+      "morph": "robinson:V-FAI-3P",
+      "strongs": [
+        "G2147"
+      ],
+      "metadata": {
+        "src": "13",
+        "type": "x-split-3803"
+      },
+      "gematria": {
+        "standard": 33,
+        "ordinal": 10,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 13,
+      "text": "it;",
+      "lemma": "strong:G846 lemma.TR:αυτον",
+      "morph": "robinson:P-ASM",
+      "strongs": [
+        "G846"
+      ],
+      "metadata": {
+        "src": "14"
+      },
+      "gematria": {
+        "standard": 29,
+        "ordinal": 3,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 14,
+      "text": "and",
+      "lemma": "strong:G2532 lemma.TR:και",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G2532"
+      ],
+      "metadata": {
+        "src": "15"
+      },
+      "gematria": {
+        "standard": 19,
+        "ordinal": 6,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 15,
+      "text": "shall",
+      "lemma": "strong:G1937 lemma.TR:επιθυμησουσιν",
+      "morph": "robinson:V-FAI-3P",
+      "strongs": [
+        "G1937"
+      ],
+      "metadata": {
+        "src": "16"
+      },
+      "gematria": {
+        "standard": 52,
+        "ordinal": 15,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 16,
+      "text": "desire",
+      "lemma": "strong:G1937 lemma.TR:επιθυμησουσιν",
+      "morph": "robinson:V-FAI-3P",
+      "strongs": [
+        "G1937"
+      ],
+      "metadata": {
+        "src": "16"
+      },
+      "gematria": {
+        "standard": 60,
+        "ordinal": 21,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 17,
+      "text": "to",
+      "lemma": "strong:G599 lemma.TR:αποθανειν",
+      "morph": "robinson:V-2AAN",
+      "strongs": [
+        "G599"
+      ],
+      "metadata": {
+        "src": "17"
+      },
+      "gematria": {
+        "standard": 35,
+        "ordinal": 3,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 18,
+      "text": "die,",
+      "lemma": "strong:G599 lemma.TR:αποθανειν",
+      "morph": "robinson:V-2AAN",
+      "strongs": [
+        "G599"
+      ],
+      "metadata": {
+        "src": "17"
+      },
+      "gematria": {
+        "standard": 18,
+        "ordinal": 6,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 19,
+      "text": "and",
+      "lemma": "strong:G2532 lemma.TR:και",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G2532"
+      ],
+      "metadata": {
+        "src": "18"
+      },
+      "gematria": {
+        "standard": 19,
+        "ordinal": 6,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 20,
+      "text": "death",
+      "lemma": "strong:G3588 strong:G2288 lemma.TR:ο lemma.TR:θανατος",
+      "morph": "robinson:T-NSM robinson:N-NSM",
+      "strongs": [
+        "G3588",
+        "G2288"
+      ],
+      "metadata": {
+        "src": "20 21"
+      },
+      "gematria": {
+        "standard": 38,
+        "ordinal": 15,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 21,
+      "text": "shall",
+      "lemma": "strong:G5343 lemma.TR:φευξεται",
+      "morph": "robinson:V-FDI-3S",
+      "strongs": [
+        "G5343"
+      ],
+      "metadata": {
+        "src": "19"
+      },
+      "gematria": {
+        "standard": 52,
+        "ordinal": 15,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 22,
+      "text": "flee",
+      "lemma": "strong:G5343 lemma.TR:φευξεται",
+      "morph": "robinson:V-FDI-3S",
+      "strongs": [
+        "G5343"
+      ],
+      "metadata": {
+        "src": "19"
+      },
+      "gematria": {
+        "standard": 28,
+        "ordinal": 10,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 23,
+      "text": "from",
+      "lemma": "strong:G575 lemma.TR:απ",
+      "morph": "robinson:PREP",
+      "strongs": [
+        "G575"
+      ],
+      "metadata": {
+        "src": "22"
+      },
+      "gematria": {
+        "standard": 52,
+        "ordinal": 10,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 24,
+      "text": "them.",
+      "lemma": "strong:G846 lemma.TR:αυτων",
+      "morph": "robinson:P-GPM",
+      "strongs": [
+        "G846"
+      ],
+      "metadata": {
+        "src": "23"
+      },
+      "gematria": {
+        "standard": 46,
+        "ordinal": 10,
+        "reduced": 19
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 921,
+    "ordinal": 237,
+    "reduced": 390
+  }
+}

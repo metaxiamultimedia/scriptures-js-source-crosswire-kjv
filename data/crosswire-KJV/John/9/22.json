@@ -1,0 +1,586 @@
+{
+  "text": "These words spake his parents, because they feared the Jews: for the Jews had agreed already, that if any man did confess that he was Christ, he should be put out of the synagogue.",
+  "words": [
+    {
+      "position": 1,
+      "text": "These",
+      "lemma": "strong:G3778 lemma.TR:ταυτα",
+      "morph": "robinson:D-APN",
+      "strongs": [
+        "G3778"
+      ],
+      "metadata": {
+        "src": "1"
+      },
+      "gematria": {
+        "standard": 57,
+        "ordinal": 15,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 2,
+      "text": "words",
+      "lemma": null,
+      "morph": null,
+      "metadata": {
+        "type": "added"
+      },
+      "gematria": {
+        "standard": 79,
+        "ordinal": 15,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 3,
+      "text": "spake",
+      "lemma": "strong:G3004 lemma.TR:ειπον",
+      "morph": "robinson:V-2AAI-3P",
+      "strongs": [
+        "G3004"
+      ],
+      "metadata": {
+        "src": "2"
+      },
+      "gematria": {
+        "standard": 52,
+        "ordinal": 15,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 4,
+      "text": "his",
+      "lemma": "strong:G846 lemma.TR:αυτου",
+      "morph": "robinson:P-GSM",
+      "strongs": [
+        "G846"
+      ],
+      "metadata": {
+        "src": "5"
+      },
+      "gematria": {
+        "standard": 36,
+        "ordinal": 6,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 5,
+      "text": "parents,",
+      "lemma": "strong:G3588 strong:G1118 lemma.TR:οι lemma.TR:γονεις",
+      "morph": "robinson:T-NPM robinson:N-NPM",
+      "strongs": [
+        "G3588",
+        "G1118"
+      ],
+      "metadata": {
+        "src": "3 4"
+      },
+      "gematria": {
+        "standard": 93,
+        "ordinal": 28,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 6,
+      "text": "because",
+      "lemma": "strong:G3754 lemma.TR:οτι",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G3754"
+      ],
+      "metadata": {
+        "src": "6"
+      },
+      "gematria": {
+        "standard": 56,
+        "ordinal": 28,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 7,
+      "text": "they",
+      "lemma": "strong:G5399 lemma.TR:εφοβουντο",
+      "morph": "robinson:V-INI-3P",
+      "strongs": [
+        "G5399"
+      ],
+      "metadata": {
+        "src": "7"
+      },
+      "gematria": {
+        "standard": 58,
+        "ordinal": 10,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 8,
+      "text": "feared",
+      "lemma": "strong:G5399 lemma.TR:εφοβουντο",
+      "morph": "robinson:V-INI-3P",
+      "strongs": [
+        "G5399"
+      ],
+      "metadata": {
+        "src": "7"
+      },
+      "gematria": {
+        "standard": 39,
+        "ordinal": 21,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 9,
+      "text": "the",
+      "lemma": "strong:G2453 lemma.TR:ιουδαιους",
+      "morph": "robinson:A-APM",
+      "strongs": [
+        "G2453"
+      ],
+      "metadata": {
+        "src": "9"
+      },
+      "gematria": {
+        "standard": 33,
+        "ordinal": 6,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 10,
+      "text": "Jews:",
+      "lemma": "strong:G2453 lemma.TR:ιουδαιους",
+      "morph": "robinson:A-APM",
+      "strongs": [
+        "G2453"
+      ],
+      "metadata": {
+        "src": "9"
+      },
+      "gematria": {
+        "standard": 57,
+        "ordinal": 10,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 11,
+      "text": "for",
+      "lemma": "strong:G1063 lemma.TR:γαρ",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G1063"
+      ],
+      "metadata": {
+        "src": "11"
+      },
+      "gematria": {
+        "standard": 39,
+        "ordinal": 6,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 12,
+      "text": "the",
+      "lemma": "strong:G2453 lemma.TR:ιουδαιοι",
+      "morph": "robinson:A-NPM",
+      "strongs": [
+        "G2453"
+      ],
+      "metadata": {
+        "src": "14"
+      },
+      "gematria": {
+        "standard": 33,
+        "ordinal": 6,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 13,
+      "text": "Jews",
+      "lemma": "strong:G2453 lemma.TR:ιουδαιοι",
+      "morph": "robinson:A-NPM",
+      "strongs": [
+        "G2453"
+      ],
+      "metadata": {
+        "src": "14"
+      },
+      "gematria": {
+        "standard": 57,
+        "ordinal": 10,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 14,
+      "text": "had",
+      "lemma": "strong:G4934 lemma.TR:συνετεθειντο",
+      "morph": "robinson:V-LMI-3P",
+      "strongs": [
+        "G4934"
+      ],
+      "metadata": {
+        "src": "12"
+      },
+      "gematria": {
+        "standard": 13,
+        "ordinal": 6,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 15,
+      "text": "agreed",
+      "lemma": "strong:G4934 lemma.TR:συνετεθειντο",
+      "morph": "robinson:V-LMI-3P",
+      "strongs": [
+        "G4934"
+      ],
+      "metadata": {
+        "src": "12"
+      },
+      "gematria": {
+        "standard": 40,
+        "ordinal": 21,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 16,
+      "text": "already,",
+      "lemma": "strong:G2235 lemma.TR:ηδη",
+      "morph": "robinson:ADV",
+      "strongs": [
+        "G2235"
+      ],
+      "metadata": {
+        "src": "10"
+      },
+      "gematria": {
+        "standard": 66,
+        "ordinal": 28,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 17,
+      "text": "that",
+      "lemma": "strong:G2443 lemma.TR:ινα",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G2443"
+      ],
+      "metadata": {
+        "src": "15"
+      },
+      "gematria": {
+        "standard": 49,
+        "ordinal": 10,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 18,
+      "text": "if",
+      "lemma": "strong:G1437 lemma.TR:εαν",
+      "morph": "robinson:COND",
+      "strongs": [
+        "G1437"
+      ],
+      "metadata": {
+        "src": "16"
+      },
+      "gematria": {
+        "standard": 15,
+        "ordinal": 3,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 19,
+      "text": "any",
+      "lemma": "strong:G5100 lemma.TR:τις",
+      "morph": "robinson:X-NSM",
+      "strongs": [
+        "G5100"
+      ],
+      "metadata": {
+        "src": "17"
+      },
+      "gematria": {
+        "standard": 40,
+        "ordinal": 6,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 20,
+      "text": "man",
+      "lemma": "strong:G5100 lemma.TR:τις",
+      "morph": "robinson:X-NSM",
+      "strongs": [
+        "G5100"
+      ],
+      "metadata": {
+        "src": "17"
+      },
+      "gematria": {
+        "standard": 28,
+        "ordinal": 6,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 21,
+      "text": "did",
+      "lemma": "strong:G3670 lemma.TR:ομολογηση",
+      "morph": "robinson:V-AAS-3S",
+      "strongs": [
+        "G3670"
+      ],
+      "metadata": {
+        "src": "19"
+      },
+      "gematria": {
+        "standard": 17,
+        "ordinal": 6,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 22,
+      "text": "confess",
+      "lemma": "strong:G3670 lemma.TR:ομολογηση",
+      "morph": "robinson:V-AAS-3S",
+      "strongs": [
+        "G3670"
+      ],
+      "metadata": {
+        "src": "19"
+      },
+      "gematria": {
+        "standard": 81,
+        "ordinal": 28,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 23,
+      "text": "that",
+      "lemma": "strong:G846 lemma.TR:αυτον",
+      "morph": "robinson:P-ASM",
+      "strongs": [
+        "G846"
+      ],
+      "metadata": {
+        "src": "18"
+      },
+      "gematria": {
+        "standard": 49,
+        "ordinal": 10,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 24,
+      "text": "he",
+      "lemma": "strong:G846 lemma.TR:αυτον",
+      "morph": "robinson:P-ASM",
+      "strongs": [
+        "G846"
+      ],
+      "metadata": {
+        "src": "18"
+      },
+      "gematria": {
+        "standard": 13,
+        "ordinal": 3,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 25,
+      "text": "was",
+      "lemma": "strong:G846 lemma.TR:αυτον",
+      "morph": "robinson:P-ASM",
+      "strongs": [
+        "G846"
+      ],
+      "metadata": {
+        "src": "18"
+      },
+      "gematria": {
+        "standard": 43,
+        "ordinal": 6,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 26,
+      "text": "Christ,",
+      "lemma": "strong:G5547 lemma.TR:χριστον",
+      "morph": "robinson:N-ASM",
+      "strongs": [
+        "G5547"
+      ],
+      "metadata": {
+        "src": "20"
+      },
+      "gematria": {
+        "standard": 77,
+        "ordinal": 21,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 27,
+      "text": "he",
+      "lemma": "strong:G1096 lemma.TR:γενηται",
+      "morph": "robinson:V-2ADS-3S",
+      "strongs": [
+        "G1096"
+      ],
+      "metadata": {
+        "src": "22"
+      },
+      "gematria": {
+        "standard": 13,
+        "ordinal": 3,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 28,
+      "text": "should",
+      "lemma": "strong:G1096 lemma.TR:γενηται",
+      "morph": "robinson:V-2ADS-3S",
+      "strongs": [
+        "G1096"
+      ],
+      "metadata": {
+        "src": "22"
+      },
+      "gematria": {
+        "standard": 79,
+        "ordinal": 21,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 29,
+      "text": "be",
+      "lemma": "strong:G1096 lemma.TR:γενηται",
+      "morph": "robinson:V-2ADS-3S",
+      "strongs": [
+        "G1096"
+      ],
+      "metadata": {
+        "src": "22"
+      },
+      "gematria": {
+        "standard": 7,
+        "ordinal": 3,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 30,
+      "text": "put",
+      "lemma": "strong:G1096 lemma.TR:γενηται",
+      "morph": "robinson:V-2ADS-3S",
+      "strongs": [
+        "G1096"
+      ],
+      "metadata": {
+        "src": "22"
+      },
+      "gematria": {
+        "standard": 57,
+        "ordinal": 6,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 31,
+      "text": "out",
+      "lemma": "strong:G656 lemma.TR:αποσυναγωγος",
+      "morph": "robinson:A-NSM",
+      "strongs": [
+        "G656"
+      ],
+      "metadata": {
+        "src": "21"
+      },
+      "gematria": {
+        "standard": 56,
+        "ordinal": 6,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 32,
+      "text": "of",
+      "lemma": "strong:G656 lemma.TR:αποσυναγωγος",
+      "morph": "robinson:A-NSM",
+      "strongs": [
+        "G656"
+      ],
+      "metadata": {
+        "src": "21"
+      },
+      "gematria": {
+        "standard": 21,
+        "ordinal": 3,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 33,
+      "text": "the",
+      "lemma": "strong:G656 lemma.TR:αποσυναγωγος",
+      "morph": "robinson:A-NSM",
+      "strongs": [
+        "G656"
+      ],
+      "metadata": {
+        "src": "21"
+      },
+      "gematria": {
+        "standard": 33,
+        "ordinal": 6,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 34,
+      "text": "synagogue.",
+      "lemma": "strong:G656 lemma.TR:αποσυναγωγος",
+      "morph": "robinson:A-NSM",
+      "strongs": [
+        "G656"
+      ],
+      "metadata": {
+        "src": "21"
+      },
+      "gematria": {
+        "standard": 114,
+        "ordinal": 45,
+        "reduced": 42
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 1600,
+    "ordinal": 423,
+    "reduced": 628
+  }
+}

@@ -1,0 +1,408 @@
+{
+  "text": "Dearly beloved, avenge not yourselves, but rather give place unto wrath: for it is written, Vengeance is mine; I will repay, saith the Lord.",
+  "words": [
+    {
+      "position": 1,
+      "text": "Dearly",
+      "lemma": "strong:G27 lemma.TR:αγαπητοι",
+      "morph": "robinson:A-VPM",
+      "metadata": {
+        "src": "4"
+      },
+      "gematria": {
+        "standard": 65,
+        "ordinal": 21,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 2,
+      "text": "beloved,",
+      "lemma": "strong:G27 lemma.TR:αγαπητοι",
+      "morph": "robinson:A-VPM",
+      "metadata": {
+        "src": "4"
+      },
+      "gematria": {
+        "standard": 65,
+        "ordinal": 28,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 3,
+      "text": "avenge",
+      "lemma": "strong:G1556 lemma.TR:εκδικουντες",
+      "morph": "robinson:V-PAP-NPM",
+      "strongs": [
+        "G1556"
+      ],
+      "metadata": {
+        "src": "3"
+      },
+      "gematria": {
+        "standard": 54,
+        "ordinal": 21,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 4,
+      "text": "not",
+      "lemma": "strong:G3361 lemma.TR:μη",
+      "morph": "robinson:PRT-N",
+      "strongs": [
+        "G3361"
+      ],
+      "metadata": {
+        "src": "1"
+      },
+      "gematria": {
+        "standard": 49,
+        "ordinal": 6,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 5,
+      "text": "yourselves,",
+      "lemma": "strong:G1438 lemma.TR:εαυτους",
+      "morph": "robinson:F-2APM",
+      "strongs": [
+        "G1438"
+      ],
+      "metadata": {
+        "src": "2"
+      },
+      "gematria": {
+        "standard": 161,
+        "ordinal": 55,
+        "reduced": 44
+      }
+    },
+    {
+      "position": 6,
+      "text": "but",
+      "lemma": "strong:G235 lemma.TR:αλλα",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G235"
+      ],
+      "metadata": {
+        "src": "5"
+      },
+      "gematria": {
+        "standard": 43,
+        "ordinal": 6,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 7,
+      "text": "rather",
+      "lemma": null,
+      "morph": null,
+      "metadata": {
+        "type": "added"
+      },
+      "gematria": {
+        "standard": 70,
+        "ordinal": 21,
+        "reduced": 34
+      }
+    },
+    {
+      "position": 8,
+      "text": "give",
+      "lemma": "strong:G1325 lemma.TR:δοτε",
+      "morph": "robinson:V-2AAM-2P",
+      "strongs": [
+        "G1325"
+      ],
+      "metadata": {
+        "src": "6"
+      },
+      "gematria": {
+        "standard": 43,
+        "ordinal": 10,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 9,
+      "text": "place",
+      "lemma": "strong:G5117 lemma.TR:τοπον",
+      "morph": "robinson:N-ASM",
+      "strongs": [
+        "G5117"
+      ],
+      "metadata": {
+        "src": "7"
+      },
+      "gematria": {
+        "standard": 37,
+        "ordinal": 15,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 10,
+      "text": "unto",
+      "lemma": "strong:G3588 strong:G3709 lemma.TR:τη lemma.TR:οργη",
+      "morph": "robinson:T-DSF robinson:N-DSF",
+      "strongs": [
+        "G3588",
+        "G3709"
+      ],
+      "metadata": {
+        "src": "8 9"
+      },
+      "gematria": {
+        "standard": 70,
+        "ordinal": 10,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 11,
+      "text": "wrath:",
+      "lemma": "strong:G3588 strong:G3709 lemma.TR:τη lemma.TR:οργη",
+      "morph": "robinson:T-DSF robinson:N-DSF",
+      "strongs": [
+        "G3588",
+        "G3709"
+      ],
+      "metadata": {
+        "src": "8 9"
+      },
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 12,
+      "text": "for",
+      "lemma": "strong:G1063 lemma.TR:γαρ",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G1063"
+      ],
+      "metadata": {
+        "src": "11"
+      },
+      "gematria": {
+        "standard": 39,
+        "ordinal": 6,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 13,
+      "text": "it",
+      "lemma": "strong:G1125 lemma.TR:γεγραπται",
+      "morph": "robinson:V-RPI-3S",
+      "strongs": [
+        "G1125"
+      ],
+      "metadata": {
+        "src": "10"
+      },
+      "gematria": {
+        "standard": 29,
+        "ordinal": 3,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 14,
+      "text": "is",
+      "lemma": "strong:G1125 lemma.TR:γεγραπται",
+      "morph": "robinson:V-RPI-3S",
+      "strongs": [
+        "G1125"
+      ],
+      "metadata": {
+        "src": "10"
+      },
+      "gematria": {
+        "standard": 28,
+        "ordinal": 3,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 15,
+      "text": "written,",
+      "lemma": "strong:G1125 lemma.TR:γεγραπται",
+      "morph": "robinson:V-RPI-3S",
+      "strongs": [
+        "G1125"
+      ],
+      "metadata": {
+        "src": "10"
+      },
+      "gematria": {
+        "standard": 109,
+        "ordinal": 28,
+        "reduced": 37
+      }
+    },
+    {
+      "position": 16,
+      "text": "Vengeance",
+      "lemma": "strong:G1557 lemma.TR:εκδικησις",
+      "morph": "robinson:N-NSF",
+      "strongs": [
+        "G1557"
+      ],
+      "metadata": {
+        "src": "13"
+      },
+      "gematria": {
+        "standard": 76,
+        "ordinal": 45,
+        "reduced": 40
+      }
+    },
+    {
+      "position": 17,
+      "text": "is",
+      "lemma": null,
+      "morph": null,
+      "metadata": {
+        "type": "added"
+      },
+      "gematria": {
+        "standard": 28,
+        "ordinal": 3,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 18,
+      "text": "mine;",
+      "lemma": "strong:G1473 lemma.TR:εμοι",
+      "morph": "robinson:P-1DS",
+      "strongs": [
+        "G1473"
+      ],
+      "metadata": {
+        "src": "12"
+      },
+      "gematria": {
+        "standard": 41,
+        "ordinal": 10,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 19,
+      "text": "I",
+      "lemma": "strong:G1473 lemma.TR:εγω",
+      "morph": "robinson:P-1NS",
+      "strongs": [
+        "G1473"
+      ],
+      "metadata": {
+        "src": "14"
+      },
+      "gematria": {
+        "standard": 9,
+        "ordinal": 1,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 20,
+      "text": "will",
+      "lemma": "strong:G467 lemma.TR:ανταποδωσω",
+      "morph": "robinson:V-FAI-1S",
+      "strongs": [
+        "G467"
+      ],
+      "metadata": {
+        "src": "15"
+      },
+      "gematria": {
+        "standard": 56,
+        "ordinal": 10,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 21,
+      "text": "repay,",
+      "lemma": "strong:G467 lemma.TR:ανταποδωσω",
+      "morph": "robinson:V-FAI-1S",
+      "strongs": [
+        "G467"
+      ],
+      "metadata": {
+        "src": "15"
+      },
+      "gematria": {
+        "standard": 65,
+        "ordinal": 15,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 22,
+      "text": "saith",
+      "lemma": "strong:G3004 lemma.TR:λεγει",
+      "morph": "robinson:V-PAI-3S",
+      "strongs": [
+        "G3004"
+      ],
+      "metadata": {
+        "src": "16"
+      },
+      "gematria": {
+        "standard": 57,
+        "ordinal": 15,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 23,
+      "text": "the",
+      "lemma": "strong:G2962 lemma.TR:κυριος",
+      "morph": "robinson:N-NSM",
+      "strongs": [
+        "G2962"
+      ],
+      "metadata": {
+        "src": "17"
+      },
+      "gematria": {
+        "standard": 33,
+        "ordinal": 6,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 24,
+      "text": "Lord.",
+      "lemma": "strong:G2962 lemma.TR:κυριος",
+      "morph": "robinson:N-NSM",
+      "strongs": [
+        "G2962"
+      ],
+      "metadata": {
+        "src": "17"
+      },
+      "gematria": {
+        "standard": 49,
+        "ordinal": 10,
+        "reduced": 22
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 1346,
+    "ordinal": 363,
+    "reduced": 536
+  }
+}

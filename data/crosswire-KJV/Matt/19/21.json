@@ -1,0 +1,551 @@
+{
+  "text": "Jesus said unto him, If thou wilt be perfect, go and sell that thou hast, and give to the poor, and thou shalt have treasure in heaven: and come and follow me.",
+  "words": [
+    {
+      "position": 1,
+      "text": "Jesus",
+      "lemma": "strong:G3588 strong:G2424 lemma.TR:ο lemma.TR:ιησους",
+      "morph": "robinson:T-NSM robinson:N-NSM",
+      "strongs": [
+        "G3588",
+        "G2424"
+      ],
+      "metadata": {
+        "src": "3 4"
+      },
+      "gematria": {
+        "standard": 74,
+        "ordinal": 15,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
+      "text": "said",
+      "lemma": "strong:G5346 lemma.TR:εφη",
+      "morph": "robinson:V-IAI-3S",
+      "strongs": [
+        "G5346"
+      ],
+      "metadata": {
+        "src": "1"
+      },
+      "gematria": {
+        "standard": 33,
+        "ordinal": 10,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 3,
+      "text": "unto",
+      "lemma": "strong:G846 lemma.TR:αυτω",
+      "morph": "robinson:P-DSM",
+      "strongs": [
+        "G846"
+      ],
+      "metadata": {
+        "src": "2"
+      },
+      "gematria": {
+        "standard": 70,
+        "ordinal": 10,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 4,
+      "text": "him,",
+      "lemma": "strong:G846 lemma.TR:αυτω",
+      "morph": "robinson:P-DSM",
+      "strongs": [
+        "G846"
+      ],
+      "metadata": {
+        "src": "2"
+      },
+      "gematria": {
+        "standard": 30,
+        "ordinal": 6,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 5,
+      "text": "If",
+      "lemma": "strong:G1487 lemma.TR:ει",
+      "morph": "robinson:COND",
+      "strongs": [
+        "G1487"
+      ],
+      "metadata": {
+        "src": "5"
+      },
+      "gematria": {
+        "standard": 15,
+        "ordinal": 3,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 6,
+      "text": "thou",
+      "lemma": "strong:G2309 lemma.TR:θελεις",
+      "morph": "robinson:V-PAI-2S",
+      "strongs": [
+        "G2309"
+      ],
+      "metadata": {
+        "src": "6"
+      },
+      "gematria": {
+        "standard": 64,
+        "ordinal": 10,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 7,
+      "text": "wilt",
+      "lemma": "strong:G2309 lemma.TR:θελεις",
+      "morph": "robinson:V-PAI-2S",
+      "strongs": [
+        "G2309"
+      ],
+      "metadata": {
+        "src": "6"
+      },
+      "gematria": {
+        "standard": 64,
+        "ordinal": 10,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 8,
+      "text": "be",
+      "lemma": "strong:G1510 lemma.TR:ειναι",
+      "morph": "robinson:V-PAN",
+      "strongs": [
+        "G1510"
+      ],
+      "metadata": {
+        "src": "8"
+      },
+      "gematria": {
+        "standard": 7,
+        "ordinal": 3,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 9,
+      "text": "perfect,",
+      "lemma": "strong:G5046 lemma.TR:τελειος",
+      "morph": "robinson:A-NSM",
+      "strongs": [
+        "G5046"
+      ],
+      "metadata": {
+        "src": "7"
+      },
+      "gematria": {
+        "standard": 73,
+        "ordinal": 28,
+        "reduced": 37
+      }
+    },
+    {
+      "position": 10,
+      "text": "go",
+      "lemma": "strong:G5217 lemma.TR:υπαγε",
+      "morph": "robinson:V-PAM-2S",
+      "strongs": [
+        "G5217"
+      ],
+      "metadata": {
+        "src": "9"
+      },
+      "gematria": {
+        "standard": 22,
+        "ordinal": 3,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 11,
+      "text": "and",
+      "lemma": null,
+      "morph": null,
+      "metadata": {
+        "type": "added"
+      },
+      "gematria": {
+        "standard": 19,
+        "ordinal": 6,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 12,
+      "text": "sell",
+      "lemma": "strong:G4453 lemma.TR:πωλησον",
+      "morph": "robinson:V-AAM-2S",
+      "strongs": [
+        "G4453"
+      ],
+      "metadata": {
+        "src": "10"
+      },
+      "gematria": {
+        "standard": 48,
+        "ordinal": 10,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 13,
+      "text": "that",
+      "lemma": "strong:G5225 lemma.TR:υπαρχοντα",
+      "morph": "robinson:V-PAP-APN",
+      "strongs": [
+        "G5225"
+      ],
+      "metadata": {
+        "src": "13",
+        "type": "x-split-757"
+      },
+      "gematria": {
+        "standard": 49,
+        "ordinal": 10,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 14,
+      "text": "thou",
+      "lemma": "strong:G4771 lemma.TR:σου",
+      "morph": "robinson:P-2GS",
+      "strongs": [
+        "G4771"
+      ],
+      "metadata": {
+        "src": "11"
+      },
+      "gematria": {
+        "standard": 64,
+        "ordinal": 10,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 15,
+      "text": "hast,",
+      "lemma": "strong:G5225 lemma.TR:υπαρχοντα",
+      "morph": "robinson:V-PAP-APN",
+      "strongs": [
+        "G5225"
+      ],
+      "metadata": {
+        "src": "13",
+        "type": "x-split-757"
+      },
+      "gematria": {
+        "standard": 48,
+        "ordinal": 10,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 16,
+      "text": "and",
+      "lemma": "strong:G2532 lemma.TR:και",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G2532"
+      ],
+      "metadata": {
+        "src": "14"
+      },
+      "gematria": {
+        "standard": 19,
+        "ordinal": 6,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 17,
+      "text": "give",
+      "lemma": "strong:G1325 lemma.TR:δος",
+      "morph": "robinson:V-2AAM-2S",
+      "strongs": [
+        "G1325"
+      ],
+      "metadata": {
+        "src": "15"
+      },
+      "gematria": {
+        "standard": 43,
+        "ordinal": 10,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 18,
+      "text": "to",
+      "lemma": "strong:G4434 lemma.TR:πτωχοις",
+      "morph": "robinson:A-DPM",
+      "strongs": [
+        "G4434"
+      ],
+      "metadata": {
+        "src": "16"
+      },
+      "gematria": {
+        "standard": 35,
+        "ordinal": 3,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 19,
+      "text": "the",
+      "lemma": "strong:G4434 lemma.TR:πτωχοις",
+      "morph": "robinson:A-DPM",
+      "strongs": [
+        "G4434"
+      ],
+      "metadata": {
+        "src": "16"
+      },
+      "gematria": {
+        "standard": 33,
+        "ordinal": 6,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 20,
+      "text": "poor,",
+      "lemma": "strong:G4434 lemma.TR:πτωχοις",
+      "morph": "robinson:A-DPM",
+      "strongs": [
+        "G4434"
+      ],
+      "metadata": {
+        "src": "16"
+      },
+      "gematria": {
+        "standard": 64,
+        "ordinal": 10,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 21,
+      "text": "and",
+      "lemma": "strong:G2532 lemma.TR:και",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G2532"
+      ],
+      "metadata": {
+        "src": "17"
+      },
+      "gematria": {
+        "standard": 19,
+        "ordinal": 6,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 22,
+      "text": "thou",
+      "lemma": "strong:G2192 lemma.TR:εξεις",
+      "morph": "robinson:V-FAI-2S",
+      "strongs": [
+        "G2192"
+      ],
+      "metadata": {
+        "src": "18"
+      },
+      "gematria": {
+        "standard": 64,
+        "ordinal": 10,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 23,
+      "text": "shalt",
+      "lemma": "strong:G2192 lemma.TR:εξεις",
+      "morph": "robinson:V-FAI-2S",
+      "strongs": [
+        "G2192"
+      ],
+      "metadata": {
+        "src": "18"
+      },
+      "gematria": {
+        "standard": 60,
+        "ordinal": 15,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 24,
+      "text": "have",
+      "lemma": "strong:G2192 lemma.TR:εξεις",
+      "morph": "robinson:V-FAI-2S",
+      "strongs": [
+        "G2192"
+      ],
+      "metadata": {
+        "src": "18"
+      },
+      "gematria": {
+        "standard": 36,
+        "ordinal": 10,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 25,
+      "text": "treasure",
+      "lemma": "strong:G2344 lemma.TR:θησαυρον",
+      "morph": "robinson:N-ASM",
+      "strongs": [
+        "G2344"
+      ],
+      "metadata": {
+        "src": "19"
+      },
+      "gematria": {
+        "standard": 107,
+        "ordinal": 36,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 26,
+      "text": "in",
+      "lemma": "strong:G1722 lemma.TR:εν",
+      "morph": "robinson:PREP",
+      "strongs": [
+        "G1722"
+      ],
+      "metadata": {
+        "src": "20"
+      },
+      "gematria": {
+        "standard": 23,
+        "ordinal": 3,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 27,
+      "text": "heaven:",
+      "lemma": "strong:G3772 lemma.TR:ουρανω",
+      "morph": "robinson:N-DSM",
+      "strongs": [
+        "G3772"
+      ],
+      "metadata": {
+        "src": "21"
+      },
+      "gematria": {
+        "standard": 55,
+        "ordinal": 21,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 28,
+      "text": "and",
+      "lemma": "strong:G2532 lemma.TR:και",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G2532"
+      ],
+      "metadata": {
+        "src": "22"
+      },
+      "gematria": {
+        "standard": 19,
+        "ordinal": 6,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 29,
+      "text": "come",
+      "lemma": "strong:G1204 lemma.TR:δευρο",
+      "morph": "robinson:V-PAM-2S",
+      "strongs": [
+        "G1204"
+      ],
+      "metadata": {
+        "src": "23"
+      },
+      "gematria": {
+        "standard": 36,
+        "ordinal": 10,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 30,
+      "text": "and",
+      "lemma": null,
+      "morph": null,
+      "metadata": {
+        "type": "added"
+      },
+      "gematria": {
+        "standard": 19,
+        "ordinal": 6,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 31,
+      "text": "follow",
+      "lemma": "strong:G190 lemma.TR:ακολουθει",
+      "morph": "robinson:V-PAM-2S",
+      "strongs": [
+        "G190"
+      ],
+      "metadata": {
+        "src": "24"
+      },
+      "gematria": {
+        "standard": 83,
+        "ordinal": 21,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 32,
+      "text": "me.",
+      "lemma": "strong:G1473 lemma.TR:μοι",
+      "morph": "robinson:P-1DS",
+      "strongs": [
+        "G1473"
+      ],
+      "metadata": {
+        "src": "25"
+      },
+      "gematria": {
+        "standard": 18,
+        "ordinal": 3,
+        "reduced": 9
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 1413,
+    "ordinal": 326,
+    "reduced": 540
+  }
+}

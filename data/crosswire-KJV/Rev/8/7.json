@@ -1,0 +1,628 @@
+{
+  "text": "The first angel sounded, and there followed hail and fire mingled with blood, and they were cast upon the earth: and the third part of trees was burnt up, and all green grass was burnt up.",
+  "words": [
+    {
+      "position": 1,
+      "text": "The",
+      "lemma": "strong:G3588 strong:G4413 lemma.TR:ο lemma.TR:πρωτος",
+      "morph": "robinson:T-NSM robinson:A-NSM-S",
+      "strongs": [
+        "G3588",
+        "G4413"
+      ],
+      "metadata": {
+        "src": "2 3"
+      },
+      "gematria": {
+        "standard": 33,
+        "ordinal": 6,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 2,
+      "text": "first",
+      "lemma": "strong:G3588 strong:G4413 lemma.TR:ο lemma.TR:πρωτος",
+      "morph": "robinson:T-NSM robinson:A-NSM-S",
+      "strongs": [
+        "G3588",
+        "G4413"
+      ],
+      "metadata": {
+        "src": "2 3"
+      },
+      "gematria": {
+        "standard": 72,
+        "ordinal": 15,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 3,
+      "text": "angel",
+      "lemma": "strong:G32 lemma.TR:αγγελος",
+      "morph": "robinson:N-NSM",
+      "metadata": {
+        "src": "4"
+      },
+      "gematria": {
+        "standard": 39,
+        "ordinal": 15,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 4,
+      "text": "sounded,",
+      "lemma": "strong:G4537 lemma.TR:εσαλπισεν",
+      "morph": "robinson:V-AAI-3S",
+      "strongs": [
+        "G4537"
+      ],
+      "metadata": {
+        "src": "5"
+      },
+      "gematria": {
+        "standard": 82,
+        "ordinal": 28,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 5,
+      "text": "and",
+      "lemma": "strong:G2532 lemma.TR:και",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G2532"
+      ],
+      "metadata": {
+        "src": "6"
+      },
+      "gematria": {
+        "standard": 19,
+        "ordinal": 6,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 6,
+      "text": "there",
+      "lemma": "strong:G1096 lemma.TR:εγενετο",
+      "morph": "robinson:V-2ADI-3S",
+      "strongs": [
+        "G1096"
+      ],
+      "metadata": {
+        "src": "7"
+      },
+      "gematria": {
+        "standard": 56,
+        "ordinal": 15,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 7,
+      "text": "followed",
+      "lemma": "strong:G1096 lemma.TR:εγενετο",
+      "morph": "robinson:V-2ADI-3S",
+      "strongs": [
+        "G1096"
+      ],
+      "metadata": {
+        "src": "7"
+      },
+      "gematria": {
+        "standard": 92,
+        "ordinal": 36,
+        "reduced": 38
+      }
+    },
+    {
+      "position": 8,
+      "text": "hail",
+      "lemma": "strong:G5464 lemma.TR:χαλαζα",
+      "morph": "robinson:N-NSF",
+      "strongs": [
+        "G5464"
+      ],
+      "metadata": {
+        "src": "8"
+      },
+      "gematria": {
+        "standard": 30,
+        "ordinal": 10,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 9,
+      "text": "and",
+      "lemma": "strong:G2532 lemma.TR:και",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G2532"
+      ],
+      "metadata": {
+        "src": "9"
+      },
+      "gematria": {
+        "standard": 19,
+        "ordinal": 6,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 10,
+      "text": "fire",
+      "lemma": "strong:G4442 lemma.TR:πυρ",
+      "morph": "robinson:N-NSN",
+      "strongs": [
+        "G4442"
+      ],
+      "metadata": {
+        "src": "10"
+      },
+      "gematria": {
+        "standard": 38,
+        "ordinal": 10,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 11,
+      "text": "mingled",
+      "lemma": "strong:G3396 lemma.TR:μεμιγμενα",
+      "morph": "robinson:V-RPP-NPN",
+      "strongs": [
+        "G3396"
+      ],
+      "metadata": {
+        "src": "11"
+      },
+      "gematria": {
+        "standard": 64,
+        "ordinal": 28,
+        "reduced": 37
+      }
+    },
+    {
+      "position": 12,
+      "text": "with",
+      "lemma": "strong:G129 lemma.TR:αιματι",
+      "morph": "robinson:N-DSN",
+      "strongs": [
+        "G129"
+      ],
+      "metadata": {
+        "src": "12"
+      },
+      "gematria": {
+        "standard": 60,
+        "ordinal": 10,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 13,
+      "text": "blood,",
+      "lemma": "strong:G129 lemma.TR:αιματι",
+      "morph": "robinson:N-DSN",
+      "strongs": [
+        "G129"
+      ],
+      "metadata": {
+        "src": "12"
+      },
+      "gematria": {
+        "standard": 48,
+        "ordinal": 15,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 14,
+      "text": "and",
+      "lemma": "strong:G2532 lemma.TR:και",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G2532"
+      ],
+      "metadata": {
+        "src": "13"
+      },
+      "gematria": {
+        "standard": 19,
+        "ordinal": 6,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 15,
+      "text": "they",
+      "lemma": "strong:G906 lemma.TR:εβληθη",
+      "morph": "robinson:V-API-3S",
+      "strongs": [
+        "G906"
+      ],
+      "metadata": {
+        "src": "14"
+      },
+      "gematria": {
+        "standard": 58,
+        "ordinal": 10,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 16,
+      "text": "were",
+      "lemma": "strong:G906 lemma.TR:εβληθη",
+      "morph": "robinson:V-API-3S",
+      "strongs": [
+        "G906"
+      ],
+      "metadata": {
+        "src": "14"
+      },
+      "gematria": {
+        "standard": 51,
+        "ordinal": 10,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 17,
+      "text": "cast",
+      "lemma": "strong:G906 lemma.TR:εβληθη",
+      "morph": "robinson:V-API-3S",
+      "strongs": [
+        "G906"
+      ],
+      "metadata": {
+        "src": "14"
+      },
+      "gematria": {
+        "standard": 43,
+        "ordinal": 10,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 18,
+      "text": "upon",
+      "lemma": "strong:G1519 lemma.TR:εις",
+      "morph": "robinson:PREP",
+      "strongs": [
+        "G1519"
+      ],
+      "metadata": {
+        "src": "15"
+      },
+      "gematria": {
+        "standard": 66,
+        "ordinal": 10,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 19,
+      "text": "the",
+      "lemma": "strong:G3588 strong:G1093 lemma.TR:την lemma.TR:γην",
+      "morph": "robinson:T-ASF robinson:N-ASF",
+      "strongs": [
+        "G3588",
+        "G1093"
+      ],
+      "metadata": {
+        "src": "16 17"
+      },
+      "gematria": {
+        "standard": 33,
+        "ordinal": 6,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 20,
+      "text": "earth:",
+      "lemma": "strong:G3588 strong:G1093 lemma.TR:την lemma.TR:γην",
+      "morph": "robinson:T-ASF robinson:N-ASF",
+      "strongs": [
+        "G3588",
+        "G1093"
+      ],
+      "metadata": {
+        "src": "16 17"
+      },
+      "gematria": {
+        "standard": 52,
+        "ordinal": 15,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 21,
+      "text": "and",
+      "lemma": "strong:G2532 lemma.TR:και",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G2532"
+      ],
+      "metadata": {
+        "src": "18"
+      },
+      "gematria": {
+        "standard": 19,
+        "ordinal": 6,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 22,
+      "text": "the",
+      "lemma": "strong:G3588 strong:G5154 lemma.TR:το lemma.TR:τριτον",
+      "morph": "robinson:T-NSN robinson:A-NSN",
+      "strongs": [
+        "G3588",
+        "G5154"
+      ],
+      "metadata": {
+        "src": "19 20"
+      },
+      "gematria": {
+        "standard": 33,
+        "ordinal": 6,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 23,
+      "text": "third",
+      "lemma": "strong:G3588 strong:G5154 lemma.TR:το lemma.TR:τριτον",
+      "morph": "robinson:T-NSN robinson:A-NSN",
+      "strongs": [
+        "G3588",
+        "G5154"
+      ],
+      "metadata": {
+        "src": "19 20"
+      },
+      "gematria": {
+        "standard": 59,
+        "ordinal": 15,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 24,
+      "text": "part",
+      "lemma": "strong:G3588 strong:G5154 lemma.TR:το lemma.TR:τριτον",
+      "morph": "robinson:T-NSN robinson:A-NSN",
+      "strongs": [
+        "G3588",
+        "G5154"
+      ],
+      "metadata": {
+        "src": "19 20"
+      },
+      "gematria": {
+        "standard": 55,
+        "ordinal": 10,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 25,
+      "text": "of",
+      "lemma": "strong:G3588 strong:G1186 lemma.TR:των lemma.TR:δενδρων",
+      "morph": "robinson:T-GPN robinson:N-GPN",
+      "strongs": [
+        "G3588",
+        "G1186"
+      ],
+      "metadata": {
+        "src": "21 22"
+      },
+      "gematria": {
+        "standard": 21,
+        "ordinal": 3,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 26,
+      "text": "trees",
+      "lemma": "strong:G3588 strong:G1186 lemma.TR:των lemma.TR:δενδρων",
+      "morph": "robinson:T-GPN robinson:N-GPN",
+      "strongs": [
+        "G3588",
+        "G1186"
+      ],
+      "metadata": {
+        "src": "21 22"
+      },
+      "gematria": {
+        "standard": 67,
+        "ordinal": 15,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 27,
+      "text": "was",
+      "lemma": "strong:G2618 lemma.TR:κατεκαη",
+      "morph": "robinson:V-2API-3S",
+      "strongs": [
+        "G2618"
+      ],
+      "metadata": {
+        "src": "23"
+      },
+      "gematria": {
+        "standard": 43,
+        "ordinal": 6,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 28,
+      "text": "burnt",
+      "lemma": "strong:G2618 lemma.TR:κατεκαη",
+      "morph": "robinson:V-2API-3S",
+      "strongs": [
+        "G2618"
+      ],
+      "metadata": {
+        "src": "23"
+      },
+      "gematria": {
+        "standard": 75,
+        "ordinal": 15,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 29,
+      "text": "up,",
+      "lemma": "strong:G2618 lemma.TR:κατεκαη",
+      "morph": "robinson:V-2API-3S",
+      "strongs": [
+        "G2618"
+      ],
+      "metadata": {
+        "src": "23"
+      },
+      "gematria": {
+        "standard": 37,
+        "ordinal": 3,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 30,
+      "text": "and",
+      "lemma": "strong:G2532 lemma.TR:και",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G2532"
+      ],
+      "metadata": {
+        "src": "24"
+      },
+      "gematria": {
+        "standard": 19,
+        "ordinal": 6,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 31,
+      "text": "all",
+      "lemma": "strong:G3956 lemma.TR:πας",
+      "morph": "robinson:A-NSM",
+      "strongs": [
+        "G3956"
+      ],
+      "metadata": {
+        "src": "25"
+      },
+      "gematria": {
+        "standard": 25,
+        "ordinal": 6,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 32,
+      "text": "green",
+      "lemma": "strong:G5515 lemma.TR:χλωρος",
+      "morph": "robinson:A-NSM",
+      "strongs": [
+        "G5515"
+      ],
+      "metadata": {
+        "src": "27"
+      },
+      "gematria": {
+        "standard": 49,
+        "ordinal": 15,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 33,
+      "text": "grass",
+      "lemma": "strong:G5528 lemma.TR:χορτος",
+      "morph": "robinson:N-NSM",
+      "strongs": [
+        "G5528"
+      ],
+      "metadata": {
+        "src": "26"
+      },
+      "gematria": {
+        "standard": 64,
+        "ordinal": 15,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 34,
+      "text": "was",
+      "lemma": "strong:G2618 lemma.TR:κατεκαη",
+      "morph": "robinson:V-2API-3S",
+      "strongs": [
+        "G2618"
+      ],
+      "metadata": {
+        "src": "28"
+      },
+      "gematria": {
+        "standard": 43,
+        "ordinal": 6,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 35,
+      "text": "burnt",
+      "lemma": "strong:G2618 lemma.TR:κατεκαη",
+      "morph": "robinson:V-2API-3S",
+      "strongs": [
+        "G2618"
+      ],
+      "metadata": {
+        "src": "28"
+      },
+      "gematria": {
+        "standard": 75,
+        "ordinal": 15,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 36,
+      "text": "up.",
+      "lemma": "strong:G2618 lemma.TR:κατεκαη",
+      "morph": "robinson:V-2API-3S",
+      "strongs": [
+        "G2618"
+      ],
+      "metadata": {
+        "src": "28"
+      },
+      "gematria": {
+        "standard": 37,
+        "ordinal": 3,
+        "reduced": 10
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 1695,
+    "ordinal": 412,
+    "reduced": 687
+  }
+}

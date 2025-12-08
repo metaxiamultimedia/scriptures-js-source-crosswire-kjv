@@ -1,0 +1,554 @@
+{
+  "text": "And going on from thence, he saw other two brethren, James the son of Zebedee, and John his brother, in a ship with Zebedee their father, mending their nets; and he called them.",
+  "words": [
+    {
+      "position": 1,
+      "text": "And",
+      "lemma": "strong:G2532 lemma.TR:και",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G2532"
+      ],
+      "metadata": {
+        "src": "1"
+      },
+      "gematria": {
+        "standard": 19,
+        "ordinal": 6,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 2,
+      "text": "going",
+      "lemma": "strong:G4260 lemma.TR:προβας",
+      "morph": "robinson:V-2AAP-NSM",
+      "strongs": [
+        "G4260"
+      ],
+      "metadata": {
+        "src": "2"
+      },
+      "gematria": {
+        "standard": 52,
+        "ordinal": 15,
+        "reduced": 34
+      }
+    },
+    {
+      "position": 3,
+      "text": "on",
+      "lemma": "strong:G4260 lemma.TR:προβας",
+      "morph": "robinson:V-2AAP-NSM",
+      "strongs": [
+        "G4260"
+      ],
+      "metadata": {
+        "src": "2"
+      },
+      "gematria": {
+        "standard": 29,
+        "ordinal": 3,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 4,
+      "text": "from",
+      "lemma": "strong:G1564 lemma.TR:εκειθεν",
+      "morph": "robinson:ADV",
+      "strongs": [
+        "G1564"
+      ],
+      "metadata": {
+        "src": "3"
+      },
+      "gematria": {
+        "standard": 52,
+        "ordinal": 10,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 5,
+      "text": "thence,",
+      "lemma": "strong:G1564 lemma.TR:εκειθεν",
+      "morph": "robinson:ADV",
+      "strongs": [
+        "G1564"
+      ],
+      "metadata": {
+        "src": "3"
+      },
+      "gematria": {
+        "standard": 55,
+        "ordinal": 21,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 6,
+      "text": "he",
+      "lemma": "strong:G3708 lemma.TR:ειδεν",
+      "morph": "robinson:V-2AAI-3S",
+      "strongs": [
+        "G3708"
+      ],
+      "metadata": {
+        "src": "4"
+      },
+      "gematria": {
+        "standard": 13,
+        "ordinal": 3,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 7,
+      "text": "saw",
+      "lemma": "strong:G3708 lemma.TR:ειδεν",
+      "morph": "robinson:V-2AAI-3S",
+      "strongs": [
+        "G3708"
+      ],
+      "metadata": {
+        "src": "4"
+      },
+      "gematria": {
+        "standard": 43,
+        "ordinal": 6,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 8,
+      "text": "other",
+      "lemma": "strong:G243 lemma.TR:αλλους",
+      "morph": "robinson:A-APM",
+      "strongs": [
+        "G243"
+      ],
+      "metadata": {
+        "src": "5"
+      },
+      "gematria": {
+        "standard": 66,
+        "ordinal": 15,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 9,
+      "text": "two",
+      "lemma": "strong:G1417 lemma.TR:δυο",
+      "morph": "robinson:A-NUI",
+      "strongs": [
+        "G1417"
+      ],
+      "metadata": {
+        "src": "6"
+      },
+      "gematria": {
+        "standard": 58,
+        "ordinal": 6,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 10,
+      "text": "brethren,",
+      "lemma": "strong:G80 lemma.TR:αδελφους",
+      "morph": "robinson:N-APM",
+      "metadata": {
+        "src": "7"
+      },
+      "gematria": {
+        "standard": 90,
+        "ordinal": 36,
+        "reduced": 45
+      }
+    },
+    {
+      "position": 11,
+      "text": "James",
+      "lemma": "strong:G2385 lemma.TR:ιακωβον",
+      "morph": "robinson:N-ASM",
+      "strongs": [
+        "G2385"
+      ],
+      "metadata": {
+        "src": "8"
+      },
+      "gematria": {
+        "standard": 48,
+        "ordinal": 15,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 12,
+      "text": "the son",
+      "lemma": null,
+      "morph": null,
+      "metadata": {
+        "type": "added"
+      },
+      "gematria": {
+        "standard": 81,
+        "ordinal": 21,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 13,
+      "text": "of",
+      "lemma": "strong:G3588 strong:G2199 lemma.TR:του lemma.TR:ζεβεδαιου",
+      "morph": "robinson:T-GSM robinson:N-GSM",
+      "strongs": [
+        "G3588",
+        "G2199"
+      ],
+      "metadata": {
+        "src": "10 11"
+      },
+      "gematria": {
+        "standard": 21,
+        "ordinal": 3,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 14,
+      "text": "Zebedee,",
+      "lemma": "strong:G3588 strong:G2199 lemma.TR:του lemma.TR:ζεβεδαιου",
+      "morph": "robinson:T-GSM robinson:N-GSM",
+      "strongs": [
+        "G3588",
+        "G2199"
+      ],
+      "metadata": {
+        "src": "10 11"
+      },
+      "gematria": {
+        "standard": 52,
+        "ordinal": 28,
+        "reduced": 34
+      }
+    },
+    {
+      "position": 15,
+      "text": "and",
+      "lemma": "strong:G2532 lemma.TR:και",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G2532"
+      ],
+      "metadata": {
+        "src": "12"
+      },
+      "gematria": {
+        "standard": 19,
+        "ordinal": 6,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 16,
+      "text": "John",
+      "lemma": "strong:G2491 lemma.TR:ιωαννην",
+      "morph": "robinson:N-ASM",
+      "strongs": [
+        "G2491"
+      ],
+      "metadata": {
+        "src": "13"
+      },
+      "gematria": {
+        "standard": 47,
+        "ordinal": 10,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 17,
+      "text": "his",
+      "lemma": "strong:G846 lemma.TR:αυτου",
+      "morph": "robinson:P-GSM",
+      "strongs": [
+        "G846"
+      ],
+      "metadata": {
+        "src": "16"
+      },
+      "gematria": {
+        "standard": 36,
+        "ordinal": 6,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 18,
+      "text": "brother,",
+      "lemma": "strong:G3588 strong:G80 lemma.TR:τον lemma.TR:αδελφον",
+      "morph": "robinson:T-ASM robinson:N-ASM",
+      "strongs": [
+        "G3588"
+      ],
+      "metadata": {
+        "src": "14 15"
+      },
+      "gematria": {
+        "standard": 86,
+        "ordinal": 28,
+        "reduced": 41
+      }
+    },
+    {
+      "position": 19,
+      "text": "in",
+      "lemma": "strong:G1722 lemma.TR:εν",
+      "morph": "robinson:PREP",
+      "strongs": [
+        "G1722"
+      ],
+      "metadata": {
+        "src": "17"
+      },
+      "gematria": {
+        "standard": 23,
+        "ordinal": 3,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 20,
+      "text": "a",
+      "lemma": "strong:G3588 strong:G4143 lemma.TR:τω lemma.TR:πλοιω",
+      "morph": "robinson:T-DSN robinson:N-DSN",
+      "strongs": [
+        "G3588",
+        "G4143"
+      ],
+      "metadata": {
+        "src": "18 19"
+      },
+      "gematria": {
+        "standard": 1,
+        "ordinal": 1,
+        "reduced": 1
+      }
+    },
+    {
+      "position": 21,
+      "text": "ship",
+      "lemma": "strong:G3588 strong:G4143 lemma.TR:τω lemma.TR:πλοιω",
+      "morph": "robinson:T-DSN robinson:N-DSN",
+      "strongs": [
+        "G3588",
+        "G4143"
+      ],
+      "metadata": {
+        "src": "18 19"
+      },
+      "gematria": {
+        "standard": 52,
+        "ordinal": 10,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 22,
+      "text": "with",
+      "lemma": "strong:G3326 lemma.TR:μετα",
+      "morph": "robinson:PREP",
+      "strongs": [
+        "G3326"
+      ],
+      "metadata": {
+        "src": "20"
+      },
+      "gematria": {
+        "standard": 60,
+        "ordinal": 10,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 23,
+      "text": "Zebedee",
+      "lemma": "strong:G2199 lemma.TR:ζεβεδαιου",
+      "morph": "robinson:N-GSM",
+      "strongs": [
+        "G2199"
+      ],
+      "metadata": {
+        "src": "21"
+      },
+      "gematria": {
+        "standard": 52,
+        "ordinal": 28,
+        "reduced": 34
+      }
+    },
+    {
+      "position": 24,
+      "text": "their",
+      "lemma": "strong:G846 lemma.TR:αυτων",
+      "morph": "robinson:P-GPM",
+      "strongs": [
+        "G846"
+      ],
+      "metadata": {
+        "src": "24"
+      },
+      "gematria": {
+        "standard": 60,
+        "ordinal": 15,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 25,
+      "text": "father,",
+      "lemma": "strong:G3588 strong:G3962 lemma.TR:του lemma.TR:πατρος",
+      "morph": "robinson:T-GSM robinson:N-GSM",
+      "strongs": [
+        "G3588",
+        "G3962"
+      ],
+      "metadata": {
+        "src": "22 23"
+      },
+      "gematria": {
+        "standard": 58,
+        "ordinal": 21,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 26,
+      "text": "mending",
+      "lemma": "strong:G2675 lemma.TR:καταρτιζοντας",
+      "morph": "robinson:V-PAP-APM",
+      "strongs": [
+        "G2675"
+      ],
+      "metadata": {
+        "src": "25"
+      },
+      "gematria": {
+        "standard": 66,
+        "ordinal": 28,
+        "reduced": 39
+      }
+    },
+    {
+      "position": 27,
+      "text": "their",
+      "lemma": "strong:G846 lemma.TR:αυτων",
+      "morph": "robinson:P-GPM",
+      "strongs": [
+        "G846"
+      ],
+      "metadata": {
+        "src": "28"
+      },
+      "gematria": {
+        "standard": 60,
+        "ordinal": 15,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 28,
+      "text": "nets;",
+      "lemma": "strong:G3588 strong:G1350 lemma.TR:τα lemma.TR:δικτυα",
+      "morph": "robinson:T-APN robinson:N-APN",
+      "strongs": [
+        "G3588",
+        "G1350"
+      ],
+      "metadata": {
+        "src": "26 27"
+      },
+      "gematria": {
+        "standard": 58,
+        "ordinal": 10,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 29,
+      "text": "and",
+      "lemma": "strong:G2532 lemma.TR:και",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G2532"
+      ],
+      "metadata": {
+        "src": "29"
+      },
+      "gematria": {
+        "standard": 19,
+        "ordinal": 6,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 30,
+      "text": "he",
+      "lemma": "strong:G2564 lemma.TR:εκαλεσεν",
+      "morph": "robinson:V-AAI-3S",
+      "strongs": [
+        "G2564"
+      ],
+      "metadata": {
+        "src": "30"
+      },
+      "gematria": {
+        "standard": 13,
+        "ordinal": 3,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 31,
+      "text": "called",
+      "lemma": "strong:G2564 lemma.TR:εκαλεσεν",
+      "morph": "robinson:V-AAI-3S",
+      "strongs": [
+        "G2564"
+      ],
+      "metadata": {
+        "src": "30"
+      },
+      "gematria": {
+        "standard": 37,
+        "ordinal": 21,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 32,
+      "text": "them.",
+      "lemma": "strong:G846 lemma.TR:αυτους",
+      "morph": "robinson:P-APM",
+      "strongs": [
+        "G846"
+      ],
+      "metadata": {
+        "src": "31"
+      },
+      "gematria": {
+        "standard": 46,
+        "ordinal": 10,
+        "reduced": 19
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 1472,
+    "ordinal": 419,
+    "reduced": 698
+  }
+}

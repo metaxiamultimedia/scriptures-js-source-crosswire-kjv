@@ -1,0 +1,385 @@
+{
+  "text": "Saying, Fear not, Paul; thou must be brought before Cesar: and, lo, God hath given thee all them that sail with thee.",
+  "words": [
+    {
+      "position": 1,
+      "text": "Saying,",
+      "lemma": "strong:G3004 lemma.TR:λεγων",
+      "morph": "robinson:V-PAP-NSM",
+      "strongs": [
+        "G3004"
+      ],
+      "metadata": {
+        "src": "1"
+      },
+      "gematria": {
+        "standard": 75,
+        "ordinal": 21,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 2,
+      "text": "Fear",
+      "lemma": "strong:G5399 lemma.TR:φοβου",
+      "morph": "robinson:V-PNM-2S",
+      "strongs": [
+        "G5399"
+      ],
+      "metadata": {
+        "src": "3"
+      },
+      "gematria": {
+        "standard": 30,
+        "ordinal": 10,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 3,
+      "text": "not,",
+      "lemma": "strong:G3361 lemma.TR:μη",
+      "morph": "robinson:PRT-N",
+      "strongs": [
+        "G3361"
+      ],
+      "metadata": {
+        "src": "2"
+      },
+      "gematria": {
+        "standard": 49,
+        "ordinal": 6,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 4,
+      "text": "Paul;",
+      "lemma": "strong:G3972 lemma.TR:παυλε",
+      "morph": "robinson:N-VSM",
+      "strongs": [
+        "G3972"
+      ],
+      "metadata": {
+        "src": "4"
+      },
+      "gematria": {
+        "standard": 50,
+        "ordinal": 10,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 5,
+      "text": "thou",
+      "lemma": "strong:G4771 lemma.TR:σε",
+      "morph": "robinson:P-2AS",
+      "strongs": [
+        "G4771"
+      ],
+      "metadata": {
+        "src": "6"
+      },
+      "gematria": {
+        "standard": 64,
+        "ordinal": 10,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 6,
+      "text": "must",
+      "lemma": "strong:G1163 lemma.TR:δει",
+      "morph": "robinson:V-PAI-3S",
+      "strongs": [
+        "G1163"
+      ],
+      "metadata": {
+        "src": "7"
+      },
+      "gematria": {
+        "standard": 73,
+        "ordinal": 10,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 7,
+      "text": "be",
+      "lemma": "strong:G1163 lemma.TR:δει",
+      "morph": "robinson:V-PAI-3S",
+      "strongs": [
+        "G1163"
+      ],
+      "metadata": {
+        "src": "7"
+      },
+      "gematria": {
+        "standard": 7,
+        "ordinal": 3,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 8,
+      "text": "brought",
+      "lemma": "strong:G3936 lemma.TR:παραστηναι",
+      "morph": "robinson:V-2AAN",
+      "strongs": [
+        "G3936"
+      ],
+      "metadata": {
+        "src": "8"
+      },
+      "gematria": {
+        "standard": 91,
+        "ordinal": 28,
+        "reduced": 37
+      }
+    },
+    {
+      "position": 9,
+      "text": "before",
+      "lemma": "strong:G3936 lemma.TR:παραστηναι",
+      "morph": "robinson:V-2AAN",
+      "strongs": [
+        "G3936"
+      ],
+      "metadata": {
+        "src": "8"
+      },
+      "gematria": {
+        "standard": 51,
+        "ordinal": 21,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 10,
+      "text": "Cesar:",
+      "lemma": "strong:G2541 lemma.TR:καισαρι",
+      "morph": "robinson:N-DSM",
+      "strongs": [
+        "G2541"
+      ],
+      "metadata": {
+        "src": "5"
+      },
+      "gematria": {
+        "standard": 46,
+        "ordinal": 15,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 11,
+      "text": "and,",
+      "lemma": "strong:G2532 lemma.TR:και",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G2532"
+      ],
+      "metadata": {
+        "src": "9"
+      },
+      "gematria": {
+        "standard": 19,
+        "ordinal": 6,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 12,
+      "text": "lo,",
+      "lemma": "strong:G3708 lemma.TR:ιδου",
+      "morph": "robinson:V-2AMM-2S",
+      "strongs": [
+        "G3708"
+      ],
+      "metadata": {
+        "src": "10"
+      },
+      "gematria": {
+        "standard": 27,
+        "ordinal": 3,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 13,
+      "text": "God",
+      "lemma": "strong:G3588 strong:G2316 lemma.TR:ο lemma.TR:θεος",
+      "morph": "robinson:T-NSM robinson:N-NSM",
+      "strongs": [
+        "G3588",
+        "G2316"
+      ],
+      "metadata": {
+        "src": "13 14"
+      },
+      "gematria": {
+        "standard": 26,
+        "ordinal": 6,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 14,
+      "text": "hath",
+      "lemma": "strong:G5483 lemma.TR:κεχαρισται",
+      "morph": "robinson:V-RNI-3S",
+      "strongs": [
+        "G5483"
+      ],
+      "metadata": {
+        "src": "11"
+      },
+      "gematria": {
+        "standard": 37,
+        "ordinal": 10,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 15,
+      "text": "given",
+      "lemma": "strong:G5483 lemma.TR:κεχαρισται",
+      "morph": "robinson:V-RNI-3S",
+      "strongs": [
+        "G5483"
+      ],
+      "metadata": {
+        "src": "11"
+      },
+      "gematria": {
+        "standard": 57,
+        "ordinal": 15,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 16,
+      "text": "thee",
+      "lemma": "strong:G4771 lemma.TR:σοι",
+      "morph": "robinson:P-2DS",
+      "strongs": [
+        "G4771"
+      ],
+      "metadata": {
+        "src": "12"
+      },
+      "gematria": {
+        "standard": 38,
+        "ordinal": 10,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 17,
+      "text": "all",
+      "lemma": "strong:G3956 lemma.TR:παντας",
+      "morph": "robinson:A-APM",
+      "strongs": [
+        "G3956"
+      ],
+      "metadata": {
+        "src": "15"
+      },
+      "gematria": {
+        "standard": 25,
+        "ordinal": 6,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 18,
+      "text": "them",
+      "lemma": "strong:G3588 lemma.TR:τους",
+      "morph": "robinson:T-APM",
+      "strongs": [
+        "G3588"
+      ],
+      "metadata": {
+        "src": "16"
+      },
+      "gematria": {
+        "standard": 46,
+        "ordinal": 10,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 19,
+      "text": "that",
+      "lemma": "strong:G4126 lemma.TR:πλεοντας",
+      "morph": "robinson:V-PAP-APM",
+      "strongs": [
+        "G4126"
+      ],
+      "metadata": {
+        "src": "17"
+      },
+      "gematria": {
+        "standard": 49,
+        "ordinal": 10,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 20,
+      "text": "sail",
+      "lemma": "strong:G4126 lemma.TR:πλεοντας",
+      "morph": "robinson:V-PAP-APM",
+      "strongs": [
+        "G4126"
+      ],
+      "metadata": {
+        "src": "17"
+      },
+      "gematria": {
+        "standard": 41,
+        "ordinal": 10,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 21,
+      "text": "with",
+      "lemma": "strong:G3326 lemma.TR:μετα",
+      "morph": "robinson:PREP",
+      "strongs": [
+        "G3326"
+      ],
+      "metadata": {
+        "src": "18"
+      },
+      "gematria": {
+        "standard": 60,
+        "ordinal": 10,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 22,
+      "text": "thee.",
+      "lemma": "strong:G4771 lemma.TR:σου",
+      "morph": "robinson:P-2GS",
+      "strongs": [
+        "G4771"
+      ],
+      "metadata": {
+        "src": "19"
+      },
+      "gematria": {
+        "standard": 38,
+        "ordinal": 10,
+        "reduced": 20
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 999,
+    "ordinal": 240,
+    "reduced": 405
+  }
+}

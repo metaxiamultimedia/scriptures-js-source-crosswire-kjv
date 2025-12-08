@@ -1,0 +1,265 @@
+{
+  "text": "Saying, Say ye, His disciples came by night, and stole him away while we slept.",
+  "words": [
+    {
+      "position": 1,
+      "text": "Saying,",
+      "lemma": "strong:G3004 lemma.TR:λεγοντες",
+      "morph": "robinson:V-PAP-NPM",
+      "strongs": [
+        "G3004"
+      ],
+      "metadata": {
+        "src": "1"
+      },
+      "gematria": {
+        "standard": 75,
+        "ordinal": 21,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 2,
+      "text": "Say",
+      "lemma": "strong:G3004 lemma.TR:ειπατε",
+      "morph": "robinson:V-2AAM-2P",
+      "strongs": [
+        "G3004"
+      ],
+      "metadata": {
+        "src": "2"
+      },
+      "gematria": {
+        "standard": 45,
+        "ordinal": 6,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 3,
+      "text": "ye,",
+      "lemma": "strong:G3004 lemma.TR:ειπατε",
+      "morph": "robinson:V-2AAM-2P",
+      "strongs": [
+        "G3004"
+      ],
+      "metadata": {
+        "src": "2"
+      },
+      "gematria": {
+        "standard": 30,
+        "ordinal": 3,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 4,
+      "text": "His",
+      "lemma": "strong:G846 lemma.TR:αυτου",
+      "morph": "robinson:P-GSM",
+      "strongs": [
+        "G846"
+      ],
+      "metadata": {
+        "src": "6"
+      },
+      "gematria": {
+        "standard": 36,
+        "ordinal": 6,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 5,
+      "text": "disciples",
+      "lemma": "strong:G3588 strong:G3101 lemma.TR:οι lemma.TR:μαθηται",
+      "morph": "robinson:T-NPM robinson:N-NPM",
+      "strongs": [
+        "G3588",
+        "G3101"
+      ],
+      "metadata": {
+        "src": "4 5"
+      },
+      "gematria": {
+        "standard": 96,
+        "ordinal": 45,
+        "reduced": 42
+      }
+    },
+    {
+      "position": 6,
+      "text": "came",
+      "lemma": "strong:G2064 lemma.TR:ελθοντες",
+      "morph": "robinson:V-2AAP-NPM",
+      "strongs": [
+        "G2064"
+      ],
+      "metadata": {
+        "src": "8"
+      },
+      "gematria": {
+        "standard": 22,
+        "ordinal": 10,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 7,
+      "text": "by",
+      "lemma": "strong:G3571 lemma.TR:νυκτος",
+      "morph": "robinson:N-GSF",
+      "strongs": [
+        "G3571"
+      ],
+      "metadata": {
+        "src": "7"
+      },
+      "gematria": {
+        "standard": 27,
+        "ordinal": 3,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 8,
+      "text": "night,",
+      "lemma": "strong:G3571 lemma.TR:νυκτος",
+      "morph": "robinson:N-GSF",
+      "strongs": [
+        "G3571"
+      ],
+      "metadata": {
+        "src": "7"
+      },
+      "gematria": {
+        "standard": 58,
+        "ordinal": 15,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 9,
+      "text": "and",
+      "lemma": "strong:G2813 lemma.TR:εκλεψαν",
+      "morph": "robinson:V-AAI-3P",
+      "strongs": [
+        "G2813"
+      ],
+      "metadata": {
+        "src": "9"
+      },
+      "gematria": {
+        "standard": 19,
+        "ordinal": 6,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 10,
+      "text": "stole",
+      "lemma": "strong:G2813 lemma.TR:εκλεψαν",
+      "morph": "robinson:V-AAI-3P",
+      "strongs": [
+        "G2813"
+      ],
+      "metadata": {
+        "src": "9"
+      },
+      "gematria": {
+        "standard": 71,
+        "ordinal": 15,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 11,
+      "text": "him",
+      "lemma": "strong:G846 lemma.TR:αυτον",
+      "morph": "robinson:P-ASM",
+      "strongs": [
+        "G846"
+      ],
+      "metadata": {
+        "src": "10"
+      },
+      "gematria": {
+        "standard": 30,
+        "ordinal": 6,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 12,
+      "text": "away",
+      "lemma": null,
+      "morph": null,
+      "metadata": {
+        "type": "added"
+      },
+      "gematria": {
+        "standard": 50,
+        "ordinal": 10,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 13,
+      "text": "while",
+      "lemma": "strong:G2837 lemma.TR:κοιμωμενων",
+      "morph": "robinson:V-PPP-GPM",
+      "strongs": [
+        "G2837"
+      ],
+      "metadata": {
+        "src": "12",
+        "type": "x-split-997"
+      },
+      "gematria": {
+        "standard": 57,
+        "ordinal": 15,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 14,
+      "text": "we",
+      "lemma": "strong:G1473 lemma.TR:ημων",
+      "morph": "robinson:P-1GP",
+      "strongs": [
+        "G1473"
+      ],
+      "metadata": {
+        "src": "11"
+      },
+      "gematria": {
+        "standard": 28,
+        "ordinal": 3,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 15,
+      "text": "slept.",
+      "lemma": "strong:G2837 lemma.TR:κοιμωμενων",
+      "morph": "robinson:V-PPP-GPM",
+      "strongs": [
+        "G2837"
+      ],
+      "metadata": {
+        "src": "12",
+        "type": "x-split-997"
+      },
+      "gematria": {
+        "standard": 72,
+        "ordinal": 15,
+        "reduced": 18
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 716,
+    "ordinal": 179,
+    "reduced": 284
+  }
+}

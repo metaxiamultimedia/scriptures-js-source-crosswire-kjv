@@ -1,0 +1,466 @@
+{
+  "text": "And as they went on their way, they came unto a certain water: and the eunuch said, See, here is water; what doth hinder me to be baptized?",
+  "words": [
+    {
+      "position": 1,
+      "text": "And",
+      "lemma": "strong:G1161 lemma.TR:δε",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G1161"
+      ],
+      "metadata": {
+        "src": "2"
+      },
+      "gematria": {
+        "standard": 19,
+        "ordinal": 6,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 2,
+      "text": "as",
+      "lemma": "strong:G5613 lemma.TR:ως",
+      "morph": "robinson:ADV",
+      "strongs": [
+        "G5613"
+      ],
+      "metadata": {
+        "src": "1"
+      },
+      "gematria": {
+        "standard": 20,
+        "ordinal": 3,
+        "reduced": 2
+      }
+    },
+    {
+      "position": 3,
+      "text": "they",
+      "lemma": "strong:G4198 lemma.TR:επορευοντο",
+      "morph": "robinson:V-INI-3P",
+      "strongs": [
+        "G4198"
+      ],
+      "metadata": {
+        "src": "3"
+      },
+      "gematria": {
+        "standard": 58,
+        "ordinal": 10,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 4,
+      "text": "went",
+      "lemma": "strong:G4198 lemma.TR:επορευοντο",
+      "morph": "robinson:V-INI-3P",
+      "strongs": [
+        "G4198"
+      ],
+      "metadata": {
+        "src": "3"
+      },
+      "gematria": {
+        "standard": 62,
+        "ordinal": 10,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 5,
+      "text": "on",
+      "lemma": "strong:G2596 lemma.TR:κατα",
+      "morph": "robinson:PREP",
+      "strongs": [
+        "G2596"
+      ],
+      "metadata": {
+        "src": "4"
+      },
+      "gematria": {
+        "standard": 29,
+        "ordinal": 3,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 6,
+      "text": "their",
+      "lemma": null,
+      "morph": null,
+      "metadata": {
+        "type": "added"
+      },
+      "gematria": {
+        "standard": 60,
+        "ordinal": 15,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 7,
+      "text": "way,",
+      "lemma": "strong:G3588 strong:G3598 lemma.TR:την lemma.TR:οδον",
+      "morph": "robinson:T-ASF robinson:N-ASF",
+      "strongs": [
+        "G3588",
+        "G3598"
+      ],
+      "metadata": {
+        "src": "5 6"
+      },
+      "gematria": {
+        "standard": 49,
+        "ordinal": 6,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 8,
+      "text": "they",
+      "lemma": "strong:G2064 lemma.TR:ηλθον",
+      "morph": "robinson:V-2AAI-3P",
+      "strongs": [
+        "G2064"
+      ],
+      "metadata": {
+        "src": "7"
+      },
+      "gematria": {
+        "standard": 58,
+        "ordinal": 10,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 9,
+      "text": "came",
+      "lemma": "strong:G2064 lemma.TR:ηλθον",
+      "morph": "robinson:V-2AAI-3P",
+      "strongs": [
+        "G2064"
+      ],
+      "metadata": {
+        "src": "7"
+      },
+      "gematria": {
+        "standard": 22,
+        "ordinal": 10,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 10,
+      "text": "unto",
+      "lemma": "strong:G1909 lemma.TR:επι",
+      "morph": "robinson:PREP",
+      "strongs": [
+        "G1909"
+      ],
+      "metadata": {
+        "src": "8"
+      },
+      "gematria": {
+        "standard": 70,
+        "ordinal": 10,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 11,
+      "text": "a",
+      "lemma": "strong:G5100 lemma.TR:τι",
+      "morph": "robinson:X-ASN",
+      "strongs": [
+        "G5100"
+      ],
+      "metadata": {
+        "src": "9"
+      },
+      "gematria": {
+        "standard": 1,
+        "ordinal": 1,
+        "reduced": 1
+      }
+    },
+    {
+      "position": 12,
+      "text": "certain",
+      "lemma": "strong:G5100 lemma.TR:τι",
+      "morph": "robinson:X-ASN",
+      "strongs": [
+        "G5100"
+      ],
+      "metadata": {
+        "src": "9"
+      },
+      "gematria": {
+        "standard": 70,
+        "ordinal": 28,
+        "reduced": 34
+      }
+    },
+    {
+      "position": 13,
+      "text": "water:",
+      "lemma": "strong:G5204 lemma.TR:υδωρ",
+      "morph": "robinson:N-ASN",
+      "strongs": [
+        "G5204"
+      ],
+      "metadata": {
+        "src": "10"
+      },
+      "gematria": {
+        "standard": 67,
+        "ordinal": 15,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 14,
+      "text": "and",
+      "lemma": "strong:G2532 lemma.TR:και",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G2532"
+      ],
+      "metadata": {
+        "src": "11"
+      },
+      "gematria": {
+        "standard": 19,
+        "ordinal": 6,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 15,
+      "text": "the",
+      "lemma": "strong:G3588 strong:G2135 lemma.TR:ο lemma.TR:ευνουχος",
+      "morph": "robinson:T-NSM robinson:N-NSM",
+      "strongs": [
+        "G3588",
+        "G2135"
+      ],
+      "metadata": {
+        "src": "13 14"
+      },
+      "gematria": {
+        "standard": 33,
+        "ordinal": 6,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 16,
+      "text": "eunuch",
+      "lemma": "strong:G3588 strong:G2135 lemma.TR:ο lemma.TR:ευνουχος",
+      "morph": "robinson:T-NSM robinson:N-NSM",
+      "strongs": [
+        "G3588",
+        "G2135"
+      ],
+      "metadata": {
+        "src": "13 14"
+      },
+      "gematria": {
+        "standard": 72,
+        "ordinal": 21,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 17,
+      "text": "said,",
+      "lemma": "strong:G5346 lemma.TR:φησιν",
+      "morph": "robinson:V-PAI-3S",
+      "strongs": [
+        "G5346"
+      ],
+      "metadata": {
+        "src": "12"
+      },
+      "gematria": {
+        "standard": 33,
+        "ordinal": 10,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 18,
+      "text": "See,",
+      "lemma": "strong:G3708 lemma.TR:ιδου",
+      "morph": "robinson:V-2AMM-2S",
+      "strongs": [
+        "G3708"
+      ],
+      "metadata": {
+        "src": "15"
+      },
+      "gematria": {
+        "standard": 29,
+        "ordinal": 6,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 19,
+      "text": "here is",
+      "lemma": null,
+      "morph": null,
+      "metadata": {
+        "type": "added"
+      },
+      "gematria": {
+        "standard": 64,
+        "ordinal": 21,
+        "reduced": 37
+      }
+    },
+    {
+      "position": 20,
+      "text": "water;",
+      "lemma": "strong:G5204 lemma.TR:υδωρ",
+      "morph": "robinson:N-NSN",
+      "strongs": [
+        "G5204"
+      ],
+      "metadata": {
+        "src": "16"
+      },
+      "gematria": {
+        "standard": 67,
+        "ordinal": 15,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 21,
+      "text": "what",
+      "lemma": "strong:G5101 lemma.TR:τι",
+      "morph": "robinson:I-NSN",
+      "strongs": [
+        "G5101"
+      ],
+      "metadata": {
+        "src": "17"
+      },
+      "gematria": {
+        "standard": 52,
+        "ordinal": 10,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 22,
+      "text": "doth",
+      "lemma": "strong:G2967 lemma.TR:κωλυει",
+      "morph": "robinson:V-PAI-3S",
+      "strongs": [
+        "G2967"
+      ],
+      "metadata": {
+        "src": "18"
+      },
+      "gematria": {
+        "standard": 47,
+        "ordinal": 10,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 23,
+      "text": "hinder",
+      "lemma": "strong:G2967 lemma.TR:κωλυει",
+      "morph": "robinson:V-PAI-3S",
+      "strongs": [
+        "G2967"
+      ],
+      "metadata": {
+        "src": "18"
+      },
+      "gematria": {
+        "standard": 58,
+        "ordinal": 21,
+        "reduced": 40
+      }
+    },
+    {
+      "position": 24,
+      "text": "me",
+      "lemma": "strong:G1473 lemma.TR:με",
+      "morph": "robinson:P-1AS",
+      "strongs": [
+        "G1473"
+      ],
+      "metadata": {
+        "src": "19"
+      },
+      "gematria": {
+        "standard": 18,
+        "ordinal": 3,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 25,
+      "text": "to",
+      "lemma": "strong:G907 lemma.TR:βαπτισθηναι",
+      "morph": "robinson:V-APN",
+      "strongs": [
+        "G907"
+      ],
+      "metadata": {
+        "src": "20"
+      },
+      "gematria": {
+        "standard": 35,
+        "ordinal": 3,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 26,
+      "text": "be",
+      "lemma": "strong:G907 lemma.TR:βαπτισθηναι",
+      "morph": "robinson:V-APN",
+      "strongs": [
+        "G907"
+      ],
+      "metadata": {
+        "src": "20"
+      },
+      "gematria": {
+        "standard": 7,
+        "ordinal": 3,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 27,
+      "text": "baptized?",
+      "lemma": "strong:G907 lemma.TR:βαπτισθηναι",
+      "morph": "robinson:V-APN",
+      "strongs": [
+        "G907"
+      ],
+      "metadata": {
+        "src": "20"
+      },
+      "gematria": {
+        "standard": 83,
+        "ordinal": 36,
+        "reduced": 38
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 1202,
+    "ordinal": 298,
+    "reduced": 491
+  }
+}

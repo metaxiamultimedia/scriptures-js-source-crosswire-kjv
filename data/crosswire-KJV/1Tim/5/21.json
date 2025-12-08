@@ -1,0 +1,481 @@
+{
+  "text": "I charge thee before God, and the Lord Jesus Christ, and the elect angels, that thou observe these things without preferring one before another, doing nothing by partiality.",
+  "words": [
+    {
+      "position": 1,
+      "text": "I",
+      "lemma": "strong:G1263 lemma.TR:διαμαρτυρομαι",
+      "morph": "robinson:V-PNI-1S",
+      "strongs": [
+        "G1263"
+      ],
+      "metadata": {
+        "src": "1"
+      },
+      "gematria": {
+        "standard": 9,
+        "ordinal": 1,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 2,
+      "text": "charge",
+      "lemma": "strong:G1263 lemma.TR:διαμαρτυρομαι",
+      "morph": "robinson:V-PNI-1S",
+      "strongs": [
+        "G1263"
+      ],
+      "metadata": {
+        "src": "1"
+      },
+      "gematria": {
+        "standard": 42,
+        "ordinal": 21,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 3,
+      "text": "thee",
+      "lemma": null,
+      "morph": null,
+      "metadata": {
+        "type": "added"
+      },
+      "gematria": {
+        "standard": 38,
+        "ordinal": 10,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 4,
+      "text": "before",
+      "lemma": "strong:G1799 lemma.TR:ενωπιον",
+      "morph": "robinson:ADV",
+      "strongs": [
+        "G1799"
+      ],
+      "metadata": {
+        "src": "2"
+      },
+      "gematria": {
+        "standard": 51,
+        "ordinal": 21,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 5,
+      "text": "God,",
+      "lemma": "strong:G3588 strong:G2316 lemma.TR:του lemma.TR:θεου",
+      "morph": "robinson:T-GSM robinson:N-GSM",
+      "strongs": [
+        "G3588",
+        "G2316"
+      ],
+      "metadata": {
+        "src": "3 4"
+      },
+      "gematria": {
+        "standard": 26,
+        "ordinal": 6,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 6,
+      "text": "and",
+      "lemma": "strong:G2532 lemma.TR:και",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G2532"
+      ],
+      "metadata": {
+        "src": "5"
+      },
+      "gematria": {
+        "standard": 19,
+        "ordinal": 6,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 7,
+      "text": "the",
+      "lemma": "strong:G2962 lemma.TR:κυριου",
+      "morph": "robinson:N-GSM",
+      "strongs": [
+        "G2962"
+      ],
+      "metadata": {
+        "src": "6"
+      },
+      "gematria": {
+        "standard": 33,
+        "ordinal": 6,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 8,
+      "text": "Lord",
+      "lemma": "strong:G2962 lemma.TR:κυριου",
+      "morph": "robinson:N-GSM",
+      "strongs": [
+        "G2962"
+      ],
+      "metadata": {
+        "src": "6"
+      },
+      "gematria": {
+        "standard": 49,
+        "ordinal": 10,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 9,
+      "text": "Jesus",
+      "lemma": "strong:G2424 lemma.TR:ιησου",
+      "morph": "robinson:N-GSM",
+      "strongs": [
+        "G2424"
+      ],
+      "metadata": {
+        "src": "7"
+      },
+      "gematria": {
+        "standard": 74,
+        "ordinal": 15,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 10,
+      "text": "Christ,",
+      "lemma": "strong:G5547 lemma.TR:χριστου",
+      "morph": "robinson:N-GSM",
+      "strongs": [
+        "G5547"
+      ],
+      "metadata": {
+        "src": "8"
+      },
+      "gematria": {
+        "standard": 77,
+        "ordinal": 21,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 11,
+      "text": "and",
+      "lemma": "strong:G2532 lemma.TR:και",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G2532"
+      ],
+      "metadata": {
+        "src": "9"
+      },
+      "gematria": {
+        "standard": 19,
+        "ordinal": 6,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 12,
+      "text": "the",
+      "lemma": "strong:G1588 lemma.TR:εκλεκτων",
+      "morph": "robinson:A-GPM",
+      "strongs": [
+        "G1588"
+      ],
+      "metadata": {
+        "src": "11"
+      },
+      "gematria": {
+        "standard": 33,
+        "ordinal": 6,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 13,
+      "text": "elect",
+      "lemma": "strong:G1588 lemma.TR:εκλεκτων",
+      "morph": "robinson:A-GPM",
+      "strongs": [
+        "G1588"
+      ],
+      "metadata": {
+        "src": "11"
+      },
+      "gematria": {
+        "standard": 45,
+        "ordinal": 15,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 14,
+      "text": "angels,",
+      "lemma": "strong:G32 lemma.TR:αγγελων",
+      "morph": "robinson:N-GPM",
+      "metadata": {
+        "src": "12"
+      },
+      "gematria": {
+        "standard": 58,
+        "ordinal": 21,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 15,
+      "text": "that",
+      "lemma": "strong:G2443 lemma.TR:ινα",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G2443"
+      ],
+      "metadata": {
+        "src": "13"
+      },
+      "gematria": {
+        "standard": 49,
+        "ordinal": 10,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 16,
+      "text": "thou",
+      "lemma": "strong:G5442 lemma.TR:φυλαξης",
+      "morph": "robinson:V-AAS-2S",
+      "strongs": [
+        "G5442"
+      ],
+      "metadata": {
+        "src": "15"
+      },
+      "gematria": {
+        "standard": 64,
+        "ordinal": 10,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 17,
+      "text": "observe",
+      "lemma": "strong:G5442 lemma.TR:φυλαξης",
+      "morph": "robinson:V-AAS-2S",
+      "strongs": [
+        "G5442"
+      ],
+      "metadata": {
+        "src": "15"
+      },
+      "gematria": {
+        "standard": 86,
+        "ordinal": 28,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 18,
+      "text": "these",
+      "lemma": "strong:G3778 lemma.TR:ταυτα",
+      "morph": "robinson:D-APN",
+      "strongs": [
+        "G3778"
+      ],
+      "metadata": {
+        "src": "14"
+      },
+      "gematria": {
+        "standard": 57,
+        "ordinal": 15,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 19,
+      "text": "things",
+      "lemma": "strong:G3778 lemma.TR:ταυτα",
+      "morph": "robinson:D-APN",
+      "strongs": [
+        "G3778"
+      ],
+      "metadata": {
+        "src": "14"
+      },
+      "gematria": {
+        "standard": 77,
+        "ordinal": 21,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 20,
+      "text": "without",
+      "lemma": "strong:G5565 lemma.TR:χωρις",
+      "morph": "robinson:ADV",
+      "strongs": [
+        "G5565"
+      ],
+      "metadata": {
+        "src": "16"
+      },
+      "gematria": {
+        "standard": 116,
+        "ordinal": 28,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 21,
+      "text": "preferring",
+      "lemma": "strong:G4299 lemma.TR:προκριματος",
+      "morph": "robinson:N-GSN",
+      "strongs": [
+        "G4299"
+      ],
+      "metadata": {
+        "src": "17"
+      },
+      "gematria": {
+        "standard": 116,
+        "ordinal": 55,
+        "reduced": 71
+      }
+    },
+    {
+      "position": 22,
+      "text": "one",
+      "lemma": "strong:G4299 lemma.TR:προκριματος",
+      "morph": "robinson:N-GSN",
+      "strongs": [
+        "G4299"
+      ],
+      "metadata": {
+        "src": "17"
+      },
+      "gematria": {
+        "standard": 34,
+        "ordinal": 6,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 23,
+      "text": "before",
+      "lemma": "strong:G4299 lemma.TR:προκριματος",
+      "morph": "robinson:N-GSN",
+      "strongs": [
+        "G4299"
+      ],
+      "metadata": {
+        "src": "17"
+      },
+      "gematria": {
+        "standard": 51,
+        "ordinal": 21,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 24,
+      "text": "another,",
+      "lemma": "strong:G4299 lemma.TR:προκριματος",
+      "morph": "robinson:N-GSN",
+      "strongs": [
+        "G4299"
+      ],
+      "metadata": {
+        "src": "17"
+      },
+      "gematria": {
+        "standard": 81,
+        "ordinal": 28,
+        "reduced": 36
+      }
+    },
+    {
+      "position": 25,
+      "text": "doing",
+      "lemma": "strong:G4160 lemma.TR:ποιων",
+      "morph": "robinson:V-PAP-NSM",
+      "strongs": [
+        "G4160"
+      ],
+      "metadata": {
+        "src": "19"
+      },
+      "gematria": {
+        "standard": 49,
+        "ordinal": 15,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 26,
+      "text": "nothing",
+      "lemma": "strong:G3367 lemma.TR:μηδεν",
+      "morph": "robinson:A-ASN-N",
+      "strongs": [
+        "G3367"
+      ],
+      "metadata": {
+        "src": "18"
+      },
+      "gematria": {
+        "standard": 87,
+        "ordinal": 28,
+        "reduced": 42
+      }
+    },
+    {
+      "position": 27,
+      "text": "by",
+      "lemma": "strong:G2596 lemma.TR:κατα",
+      "morph": "robinson:PREP",
+      "strongs": [
+        "G2596"
+      ],
+      "metadata": {
+        "src": "20"
+      },
+      "gematria": {
+        "standard": 27,
+        "ordinal": 3,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 28,
+      "text": "partiality.",
+      "lemma": "strong:G4346 lemma.TR:προσκλισιν",
+      "morph": "robinson:N-ASF",
+      "strongs": [
+        "G4346"
+      ],
+      "metadata": {
+        "src": "21"
+      },
+      "gematria": {
+        "standard": 131,
+        "ordinal": 55,
+        "reduced": 50
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 1598,
+    "ordinal": 488,
+    "reduced": 707
+  }
+}

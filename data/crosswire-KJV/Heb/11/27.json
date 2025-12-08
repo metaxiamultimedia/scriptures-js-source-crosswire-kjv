@@ -1,0 +1,372 @@
+{
+  "text": "By faith he forsook Egypt, not fearing the wrath of the king: for he endured, as seeing him who is invisible.",
+  "words": [
+    {
+      "position": 1,
+      "text": "By",
+      "lemma": "strong:G4102 lemma.TR:πιστει",
+      "morph": "robinson:N-DSF",
+      "strongs": [
+        "G4102"
+      ],
+      "metadata": {
+        "src": "1"
+      },
+      "gematria": {
+        "standard": 27,
+        "ordinal": 3,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 2,
+      "text": "faith",
+      "lemma": "strong:G4102 lemma.TR:πιστει",
+      "morph": "robinson:N-DSF",
+      "strongs": [
+        "G4102"
+      ],
+      "metadata": {
+        "src": "1"
+      },
+      "gematria": {
+        "standard": 44,
+        "ordinal": 15,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 3,
+      "text": "he",
+      "lemma": "strong:G2641 lemma.TR:κατελιπεν",
+      "morph": "robinson:V-2AAI-3S",
+      "strongs": [
+        "G2641"
+      ],
+      "metadata": {
+        "src": "2"
+      },
+      "gematria": {
+        "standard": 13,
+        "ordinal": 3,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 4,
+      "text": "forsook",
+      "lemma": "strong:G2641 lemma.TR:κατελιπεν",
+      "morph": "robinson:V-2AAI-3S",
+      "strongs": [
+        "G2641"
+      ],
+      "metadata": {
+        "src": "2"
+      },
+      "gematria": {
+        "standard": 99,
+        "ordinal": 28,
+        "reduced": 36
+      }
+    },
+    {
+      "position": 5,
+      "text": "Egypt,",
+      "lemma": "strong:G125 lemma.TR:αιγυπτον",
+      "morph": "robinson:N-ASF",
+      "strongs": [
+        "G125"
+      ],
+      "metadata": {
+        "src": "3"
+      },
+      "gematria": {
+        "standard": 73,
+        "ordinal": 15,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 6,
+      "text": "not",
+      "lemma": "strong:G3361 lemma.TR:μη",
+      "morph": "robinson:PRT-N",
+      "strongs": [
+        "G3361"
+      ],
+      "metadata": {
+        "src": "4"
+      },
+      "gematria": {
+        "standard": 49,
+        "ordinal": 6,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 7,
+      "text": "fearing",
+      "lemma": "strong:G5399 lemma.TR:φοβηθεις",
+      "morph": "robinson:V-AOP-NSM",
+      "strongs": [
+        "G5399"
+      ],
+      "metadata": {
+        "src": "5"
+      },
+      "gematria": {
+        "standard": 60,
+        "ordinal": 28,
+        "reduced": 42
+      }
+    },
+    {
+      "position": 8,
+      "text": "the",
+      "lemma": "strong:G3588 strong:G2372 lemma.TR:τον lemma.TR:θυμον",
+      "morph": "robinson:T-ASM robinson:N-ASM",
+      "strongs": [
+        "G3588",
+        "G2372"
+      ],
+      "metadata": {
+        "src": "6 7"
+      },
+      "gematria": {
+        "standard": 33,
+        "ordinal": 6,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 9,
+      "text": "wrath",
+      "lemma": "strong:G3588 strong:G2372 lemma.TR:τον lemma.TR:θυμον",
+      "morph": "robinson:T-ASM robinson:N-ASM",
+      "strongs": [
+        "G3588",
+        "G2372"
+      ],
+      "metadata": {
+        "src": "6 7"
+      },
+      "gematria": {
+        "standard": 70,
+        "ordinal": 15,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 10,
+      "text": "of",
+      "lemma": "strong:G3588 strong:G935 lemma.TR:του lemma.TR:βασιλεως",
+      "morph": "robinson:T-GSM robinson:N-GSM",
+      "strongs": [
+        "G3588",
+        "G935"
+      ],
+      "metadata": {
+        "src": "8 9"
+      },
+      "gematria": {
+        "standard": 21,
+        "ordinal": 3,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 11,
+      "text": "the",
+      "lemma": "strong:G3588 strong:G935 lemma.TR:του lemma.TR:βασιλεως",
+      "morph": "robinson:T-GSM robinson:N-GSM",
+      "strongs": [
+        "G3588",
+        "G935"
+      ],
+      "metadata": {
+        "src": "8 9"
+      },
+      "gematria": {
+        "standard": 33,
+        "ordinal": 6,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 12,
+      "text": "king:",
+      "lemma": "strong:G3588 strong:G935 lemma.TR:του lemma.TR:βασιλεως",
+      "morph": "robinson:T-GSM robinson:N-GSM",
+      "strongs": [
+        "G3588",
+        "G935"
+      ],
+      "metadata": {
+        "src": "8 9"
+      },
+      "gematria": {
+        "standard": 41,
+        "ordinal": 10,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 13,
+      "text": "for",
+      "lemma": "strong:G1063 lemma.TR:γαρ",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G1063"
+      ],
+      "metadata": {
+        "src": "11"
+      },
+      "gematria": {
+        "standard": 39,
+        "ordinal": 6,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 14,
+      "text": "he",
+      "lemma": "strong:G2594 lemma.TR:εκαρτερησεν",
+      "morph": "robinson:V-AAI-3S",
+      "strongs": [
+        "G2594"
+      ],
+      "metadata": {
+        "src": "15"
+      },
+      "gematria": {
+        "standard": 13,
+        "ordinal": 3,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 15,
+      "text": "endured,",
+      "lemma": "strong:G2594 lemma.TR:εκαρτερησεν",
+      "morph": "robinson:V-AAI-3S",
+      "strongs": [
+        "G2594"
+      ],
+      "metadata": {
+        "src": "15"
+      },
+      "gematria": {
+        "standard": 71,
+        "ordinal": 28,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 16,
+      "text": "as",
+      "lemma": "strong:G5613 lemma.TR:ως",
+      "morph": "robinson:ADV",
+      "strongs": [
+        "G5613"
+      ],
+      "metadata": {
+        "src": "13"
+      },
+      "gematria": {
+        "standard": 20,
+        "ordinal": 3,
+        "reduced": 2
+      }
+    },
+    {
+      "position": 17,
+      "text": "seeing",
+      "lemma": "strong:G3708 lemma.TR:ορων",
+      "morph": "robinson:V-PAP-NSM",
+      "strongs": [
+        "G3708"
+      ],
+      "metadata": {
+        "src": "14"
+      },
+      "gematria": {
+        "standard": 59,
+        "ordinal": 21,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 18,
+      "text": "him",
+      "lemma": "strong:G517 lemma.TR:αορατον",
+      "morph": "robinson:A-ASM",
+      "strongs": [
+        "G517"
+      ],
+      "metadata": {
+        "src": "12"
+      },
+      "gematria": {
+        "standard": 30,
+        "ordinal": 6,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 19,
+      "text": "who",
+      "lemma": "strong:G517 lemma.TR:αορατον",
+      "morph": "robinson:A-ASM",
+      "strongs": [
+        "G517"
+      ],
+      "metadata": {
+        "src": "12"
+      },
+      "gematria": {
+        "standard": 46,
+        "ordinal": 6,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 20,
+      "text": "is",
+      "lemma": "strong:G517 lemma.TR:αορατον",
+      "morph": "robinson:A-ASM",
+      "strongs": [
+        "G517"
+      ],
+      "metadata": {
+        "src": "12"
+      },
+      "gematria": {
+        "standard": 28,
+        "ordinal": 3,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 21,
+      "text": "invisible.",
+      "lemma": "strong:G517 lemma.TR:αορατον",
+      "morph": "robinson:A-ASM",
+      "strongs": [
+        "G517"
+      ],
+      "metadata": {
+        "src": "12"
+      },
+      "gematria": {
+        "standard": 101,
+        "ordinal": 45,
+        "reduced": 47
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 970,
+    "ordinal": 259,
+    "reduced": 457
+  }
+}

@@ -1,0 +1,317 @@
+{
+  "text": "Jesus saith unto her, Mary. She turned herself, and saith unto him, Rabboni; which is to say, Master.",
+  "words": [
+    {
+      "position": 1,
+      "text": "Jesus",
+      "lemma": "strong:G3588 strong:G2424 lemma.TR:ο lemma.TR:ιησους",
+      "morph": "robinson:T-NSM robinson:N-NSM",
+      "strongs": [
+        "G3588",
+        "G2424"
+      ],
+      "metadata": {
+        "src": "3 4"
+      },
+      "gematria": {
+        "standard": 74,
+        "ordinal": 15,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
+      "text": "saith",
+      "lemma": "strong:G3004 lemma.TR:λεγει",
+      "morph": "robinson:V-PAI-3S",
+      "strongs": [
+        "G3004"
+      ],
+      "metadata": {
+        "src": "1"
+      },
+      "gematria": {
+        "standard": 57,
+        "ordinal": 15,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 3,
+      "text": "unto",
+      "lemma": "strong:G846 lemma.TR:αυτη",
+      "morph": "robinson:P-DSF",
+      "strongs": [
+        "G846"
+      ],
+      "metadata": {
+        "src": "2"
+      },
+      "gematria": {
+        "standard": 70,
+        "ordinal": 10,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 4,
+      "text": "her,",
+      "lemma": "strong:G846 lemma.TR:αυτη",
+      "morph": "robinson:P-DSF",
+      "strongs": [
+        "G846"
+      ],
+      "metadata": {
+        "src": "2"
+      },
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 5,
+      "text": "Mary.",
+      "lemma": "strong:G3137 lemma.TR:μαρια",
+      "morph": "robinson:N-VSF",
+      "strongs": [
+        "G3137"
+      ],
+      "metadata": {
+        "src": "5"
+      },
+      "gematria": {
+        "standard": 57,
+        "ordinal": 10,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 6,
+      "text": "She",
+      "lemma": "strong:G4762 lemma.TR:στραφεισα",
+      "morph": "robinson:V-2APP-NSF",
+      "strongs": [
+        "G4762"
+      ],
+      "metadata": {
+        "src": "6"
+      },
+      "gematria": {
+        "standard": 32,
+        "ordinal": 6,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 7,
+      "text": "turned",
+      "lemma": "strong:G4762 lemma.TR:στραφεισα",
+      "morph": "robinson:V-2APP-NSF",
+      "strongs": [
+        "G4762"
+      ],
+      "metadata": {
+        "src": "6"
+      },
+      "gematria": {
+        "standard": 82,
+        "ordinal": 21,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 8,
+      "text": "herself,",
+      "lemma": "strong:G4762 lemma.TR:στραφεισα",
+      "morph": "robinson:V-2APP-NSF",
+      "strongs": [
+        "G4762"
+      ],
+      "metadata": {
+        "src": "6"
+      },
+      "gematria": {
+        "standard": 73,
+        "ordinal": 28,
+        "reduced": 37
+      }
+    },
+    {
+      "position": 9,
+      "text": "and",
+      "lemma": "strong:G3004 lemma.TR:λεγει",
+      "morph": "robinson:V-PAI-3S",
+      "strongs": [
+        "G3004"
+      ],
+      "metadata": {
+        "src": "8"
+      },
+      "gematria": {
+        "standard": 19,
+        "ordinal": 6,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 10,
+      "text": "saith",
+      "lemma": "strong:G3004 lemma.TR:λεγει",
+      "morph": "robinson:V-PAI-3S",
+      "strongs": [
+        "G3004"
+      ],
+      "metadata": {
+        "src": "8"
+      },
+      "gematria": {
+        "standard": 57,
+        "ordinal": 15,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 11,
+      "text": "unto",
+      "lemma": "strong:G846 lemma.TR:αυτω",
+      "morph": "robinson:P-DSM",
+      "strongs": [
+        "G846"
+      ],
+      "metadata": {
+        "src": "9"
+      },
+      "gematria": {
+        "standard": 70,
+        "ordinal": 10,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 12,
+      "text": "him,",
+      "lemma": "strong:G846 lemma.TR:αυτω",
+      "morph": "robinson:P-DSM",
+      "strongs": [
+        "G846"
+      ],
+      "metadata": {
+        "src": "9"
+      },
+      "gematria": {
+        "standard": 30,
+        "ordinal": 6,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 13,
+      "text": "Rabboni;",
+      "lemma": "strong:G4462 lemma.TR:ραββουνι",
+      "morph": "robinson:ARAM",
+      "strongs": [
+        "G4462"
+      ],
+      "metadata": {
+        "src": "10"
+      },
+      "gematria": {
+        "standard": 61,
+        "ordinal": 28,
+        "reduced": 34
+      }
+    },
+    {
+      "position": 14,
+      "text": "which",
+      "lemma": "strong:G3739 lemma.TR:ο",
+      "morph": "robinson:R-NSN",
+      "strongs": [
+        "G3739"
+      ],
+      "metadata": {
+        "src": "11"
+      },
+      "gematria": {
+        "standard": 51,
+        "ordinal": 15,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 15,
+      "text": "is",
+      "lemma": "strong:G3004 lemma.TR:λεγεται",
+      "morph": "robinson:V-PPI-3S",
+      "strongs": [
+        "G3004"
+      ],
+      "metadata": {
+        "src": "12"
+      },
+      "gematria": {
+        "standard": 28,
+        "ordinal": 3,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 16,
+      "text": "to",
+      "lemma": "strong:G3004 lemma.TR:λεγεται",
+      "morph": "robinson:V-PPI-3S",
+      "strongs": [
+        "G3004"
+      ],
+      "metadata": {
+        "src": "12"
+      },
+      "gematria": {
+        "standard": 35,
+        "ordinal": 3,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 17,
+      "text": "say,",
+      "lemma": "strong:G3004 lemma.TR:λεγεται",
+      "morph": "robinson:V-PPI-3S",
+      "strongs": [
+        "G3004"
+      ],
+      "metadata": {
+        "src": "12"
+      },
+      "gematria": {
+        "standard": 45,
+        "ordinal": 6,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 18,
+      "text": "Master.",
+      "lemma": "strong:G1320 lemma.TR:διδασκαλε",
+      "morph": "robinson:N-VSM",
+      "strongs": [
+        "G1320"
+      ],
+      "metadata": {
+        "src": "13"
+      },
+      "gematria": {
+        "standard": 76,
+        "ordinal": 21,
+        "reduced": 22
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 948,
+    "ordinal": 224,
+    "reduced": 354
+  }
+}

@@ -1,0 +1,367 @@
+{
+  "text": "And Paul went down, and fell on him, and embracing him said, Trouble not yourselves; for his life is in him.",
+  "words": [
+    {
+      "position": 1,
+      "text": "And",
+      "lemma": "strong:G1161 lemma.TR:δε",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G1161"
+      ],
+      "metadata": {
+        "src": "2"
+      },
+      "gematria": {
+        "standard": 19,
+        "ordinal": 6,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 2,
+      "text": "Paul",
+      "lemma": "strong:G3588 strong:G3972 lemma.TR:ο lemma.TR:παυλος",
+      "morph": "robinson:T-NSM robinson:N-NSM",
+      "strongs": [
+        "G3588",
+        "G3972"
+      ],
+      "metadata": {
+        "src": "3 4"
+      },
+      "gematria": {
+        "standard": 50,
+        "ordinal": 10,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 3,
+      "text": "went",
+      "lemma": "strong:G2597 lemma.TR:καταβας",
+      "morph": "robinson:V-2AAP-NSM",
+      "strongs": [
+        "G2597"
+      ],
+      "metadata": {
+        "src": "1"
+      },
+      "gematria": {
+        "standard": 62,
+        "ordinal": 10,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 4,
+      "text": "down,",
+      "lemma": "strong:G2597 lemma.TR:καταβας",
+      "morph": "robinson:V-2AAP-NSM",
+      "strongs": [
+        "G2597"
+      ],
+      "metadata": {
+        "src": "1"
+      },
+      "gematria": {
+        "standard": 56,
+        "ordinal": 10,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 5,
+      "text": "and",
+      "lemma": "strong:G1968 lemma.TR:επεπεσεν",
+      "morph": "robinson:V-2AAI-3S",
+      "strongs": [
+        "G1968"
+      ],
+      "metadata": {
+        "src": "5"
+      },
+      "gematria": {
+        "standard": 19,
+        "ordinal": 6,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 6,
+      "text": "fell",
+      "lemma": "strong:G1968 lemma.TR:επεπεσεν",
+      "morph": "robinson:V-2AAI-3S",
+      "strongs": [
+        "G1968"
+      ],
+      "metadata": {
+        "src": "5"
+      },
+      "gematria": {
+        "standard": 35,
+        "ordinal": 10,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 7,
+      "text": "on",
+      "lemma": "strong:G846 lemma.TR:αυτω",
+      "morph": "robinson:P-DSM",
+      "strongs": [
+        "G846"
+      ],
+      "metadata": {
+        "src": "6"
+      },
+      "gematria": {
+        "standard": 29,
+        "ordinal": 3,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 8,
+      "text": "him,",
+      "lemma": "strong:G846 lemma.TR:αυτω",
+      "morph": "robinson:P-DSM",
+      "strongs": [
+        "G846"
+      ],
+      "metadata": {
+        "src": "6"
+      },
+      "gematria": {
+        "standard": 30,
+        "ordinal": 6,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 9,
+      "text": "and",
+      "lemma": "strong:G2532 lemma.TR:και",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G2532"
+      ],
+      "metadata": {
+        "src": "7"
+      },
+      "gematria": {
+        "standard": 19,
+        "ordinal": 6,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 10,
+      "text": "embracing",
+      "lemma": "strong:G4843 lemma.TR:συμπεριλαβων",
+      "morph": "robinson:V-2AAP-NSM",
+      "strongs": [
+        "G4843"
+      ],
+      "metadata": {
+        "src": "8"
+      },
+      "gematria": {
+        "standard": 72,
+        "ordinal": 45,
+        "reduced": 45
+      }
+    },
+    {
+      "position": 11,
+      "text": "him",
+      "lemma": null,
+      "morph": null,
+      "metadata": {
+        "type": "added"
+      },
+      "gematria": {
+        "standard": 30,
+        "ordinal": 6,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 12,
+      "text": "said,",
+      "lemma": "strong:G3004 lemma.TR:ειπεν",
+      "morph": "robinson:V-2AAI-3S",
+      "strongs": [
+        "G3004"
+      ],
+      "metadata": {
+        "src": "9"
+      },
+      "gematria": {
+        "standard": 33,
+        "ordinal": 10,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 13,
+      "text": "Trouble",
+      "lemma": "strong:G2350 lemma.TR:θορυβεισθε",
+      "morph": "robinson:V-PPM-2P",
+      "strongs": [
+        "G2350"
+      ],
+      "metadata": {
+        "src": "11",
+        "type": "x-split-2390"
+      },
+      "gematria": {
+        "standard": 93,
+        "ordinal": 28,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 14,
+      "text": "not",
+      "lemma": "strong:G3361 lemma.TR:μη",
+      "morph": "robinson:PRT-N",
+      "strongs": [
+        "G3361"
+      ],
+      "metadata": {
+        "src": "10"
+      },
+      "gematria": {
+        "standard": 49,
+        "ordinal": 6,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 15,
+      "text": "yourselves;",
+      "lemma": "strong:G2350 lemma.TR:θορυβεισθε",
+      "morph": "robinson:V-PPM-2P",
+      "strongs": [
+        "G2350"
+      ],
+      "metadata": {
+        "src": "11",
+        "type": "x-split-2390"
+      },
+      "gematria": {
+        "standard": 161,
+        "ordinal": 55,
+        "reduced": 44
+      }
+    },
+    {
+      "position": 16,
+      "text": "for",
+      "lemma": "strong:G1063 lemma.TR:γαρ",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G1063"
+      ],
+      "metadata": {
+        "src": "13"
+      },
+      "gematria": {
+        "standard": 39,
+        "ordinal": 6,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 17,
+      "text": "his",
+      "lemma": "strong:G846 lemma.TR:αυτου",
+      "morph": "robinson:P-GSM",
+      "strongs": [
+        "G846"
+      ],
+      "metadata": {
+        "src": "15"
+      },
+      "gematria": {
+        "standard": 36,
+        "ordinal": 6,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 18,
+      "text": "life",
+      "lemma": "strong:G5590 lemma.TR:ψυχη",
+      "morph": "robinson:N-NSF",
+      "strongs": [
+        "G5590"
+      ],
+      "metadata": {
+        "src": "14"
+      },
+      "gematria": {
+        "standard": 32,
+        "ordinal": 10,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 19,
+      "text": "is",
+      "lemma": "strong:G1510 lemma.TR:εστιν",
+      "morph": "robinson:V-PAI-3S",
+      "strongs": [
+        "G1510"
+      ],
+      "metadata": {
+        "src": "18"
+      },
+      "gematria": {
+        "standard": 28,
+        "ordinal": 3,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 20,
+      "text": "in",
+      "lemma": "strong:G1722 lemma.TR:εν",
+      "morph": "robinson:PREP",
+      "strongs": [
+        "G1722"
+      ],
+      "metadata": {
+        "src": "16"
+      },
+      "gematria": {
+        "standard": 23,
+        "ordinal": 3,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 21,
+      "text": "him.",
+      "lemma": "strong:G846 lemma.TR:αυτω",
+      "morph": "robinson:P-DSM",
+      "strongs": [
+        "G846"
+      ],
+      "metadata": {
+        "src": "17"
+      },
+      "gematria": {
+        "standard": 30,
+        "ordinal": 6,
+        "reduced": 21
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 945,
+    "ordinal": 251,
+    "reduced": 405
+  }
+}

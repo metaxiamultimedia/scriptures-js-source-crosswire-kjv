@@ -1,0 +1,386 @@
+{
+  "text": "Ye stiffnecked and uncircumcised in heart and ears, ye do always resist the Holy Ghost: as your fathers did, so do ye.",
+  "words": [
+    {
+      "position": 1,
+      "text": "Ye",
+      "lemma": "strong:G4771 lemma.TR:υμεις",
+      "morph": "robinson:P-2NP",
+      "strongs": [
+        "G4771"
+      ],
+      "metadata": {
+        "src": "9"
+      },
+      "gematria": {
+        "standard": 30,
+        "ordinal": 3,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 2,
+      "text": "stiffnecked",
+      "lemma": "strong:G4644 lemma.TR:σκληροτραχηλοι",
+      "morph": "robinson:A-VPM",
+      "strongs": [
+        "G4644"
+      ],
+      "metadata": {
+        "src": "1"
+      },
+      "gematria": {
+        "standard": 102,
+        "ordinal": 66,
+        "reduced": 48
+      }
+    },
+    {
+      "position": 3,
+      "text": "and",
+      "lemma": "strong:G2532 lemma.TR:και",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G2532"
+      ],
+      "metadata": {
+        "src": "2"
+      },
+      "gematria": {
+        "standard": 19,
+        "ordinal": 6,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 4,
+      "text": "uncircumcised",
+      "lemma": "strong:G564 lemma.TR:απεριτμητοι",
+      "morph": "robinson:A-VPM",
+      "strongs": [
+        "G564"
+      ],
+      "metadata": {
+        "src": "3"
+      },
+      "gematria": {
+        "standard": 142,
+        "ordinal": 91,
+        "reduced": 61
+      }
+    },
+    {
+      "position": 5,
+      "text": "in",
+      "lemma": "strong:G3588 strong:G2588 lemma.TR:τη lemma.TR:καρδια",
+      "morph": "robinson:T-DSF robinson:N-DSF",
+      "strongs": [
+        "G3588",
+        "G2588"
+      ],
+      "metadata": {
+        "src": "4 5"
+      },
+      "gematria": {
+        "standard": 23,
+        "ordinal": 3,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 6,
+      "text": "heart",
+      "lemma": "strong:G3588 strong:G2588 lemma.TR:τη lemma.TR:καρδια",
+      "morph": "robinson:T-DSF robinson:N-DSF",
+      "strongs": [
+        "G3588",
+        "G2588"
+      ],
+      "metadata": {
+        "src": "4 5"
+      },
+      "gematria": {
+        "standard": 52,
+        "ordinal": 15,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 7,
+      "text": "and",
+      "lemma": "strong:G2532 lemma.TR:και",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G2532"
+      ],
+      "metadata": {
+        "src": "6"
+      },
+      "gematria": {
+        "standard": 19,
+        "ordinal": 6,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 8,
+      "text": "ears,",
+      "lemma": "strong:G3588 strong:G3775 lemma.TR:τοις lemma.TR:ωσιν",
+      "morph": "robinson:T-DPN robinson:N-DPN",
+      "strongs": [
+        "G3588",
+        "G3775"
+      ],
+      "metadata": {
+        "src": "7 8"
+      },
+      "gematria": {
+        "standard": 43,
+        "ordinal": 10,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 9,
+      "text": "ye",
+      "lemma": "strong:G496 lemma.TR:αντιπιπτετε",
+      "morph": "robinson:V-PAI-2P",
+      "strongs": [
+        "G496"
+      ],
+      "metadata": {
+        "src": "15",
+        "type": "x-split-2257"
+      },
+      "gematria": {
+        "standard": 30,
+        "ordinal": 3,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 10,
+      "text": "do",
+      "lemma": "strong:G496 lemma.TR:αντιπιπτετε",
+      "morph": "robinson:V-PAI-2P",
+      "strongs": [
+        "G496"
+      ],
+      "metadata": {
+        "src": "15",
+        "type": "x-split-2257"
+      },
+      "gematria": {
+        "standard": 19,
+        "ordinal": 3,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 11,
+      "text": "always",
+      "lemma": "strong:G104 lemma.TR:αει",
+      "morph": "robinson:ADV",
+      "strongs": [
+        "G104"
+      ],
+      "metadata": {
+        "src": "10"
+      },
+      "gematria": {
+        "standard": 81,
+        "ordinal": 21,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 12,
+      "text": "resist",
+      "lemma": "strong:G496 lemma.TR:αντιπιπτετε",
+      "morph": "robinson:V-PAI-2P",
+      "strongs": [
+        "G496"
+      ],
+      "metadata": {
+        "src": "15",
+        "type": "x-split-2257"
+      },
+      "gematria": {
+        "standard": 90,
+        "ordinal": 21,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 13,
+      "text": "the",
+      "lemma": "strong:G3588 strong:G4151 lemma.TR:τω lemma.TR:πνευματι",
+      "morph": "robinson:T-DSN robinson:N-DSN",
+      "strongs": [
+        "G3588",
+        "G4151"
+      ],
+      "metadata": {
+        "src": "11 12",
+        "type": "x-split-2258"
+      },
+      "gematria": {
+        "standard": 33,
+        "ordinal": 6,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 14,
+      "text": "Holy",
+      "lemma": "strong:G40 lemma.TR:αγιω",
+      "morph": "robinson:A-DSN",
+      "metadata": {
+        "src": "14"
+      },
+      "gematria": {
+        "standard": 60,
+        "ordinal": 10,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 15,
+      "text": "Ghost:",
+      "lemma": "strong:G3588 strong:G4151 lemma.TR:τω lemma.TR:πνευματι",
+      "morph": "robinson:T-DSN robinson:N-DSN",
+      "strongs": [
+        "G3588",
+        "G4151"
+      ],
+      "metadata": {
+        "src": "11 12",
+        "type": "x-split-2258"
+      },
+      "gematria": {
+        "standard": 69,
+        "ordinal": 15,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 16,
+      "text": "as",
+      "lemma": "strong:G5613 lemma.TR:ως",
+      "morph": "robinson:ADV",
+      "strongs": [
+        "G5613"
+      ],
+      "metadata": {
+        "src": "16"
+      },
+      "gematria": {
+        "standard": 20,
+        "ordinal": 3,
+        "reduced": 2
+      }
+    },
+    {
+      "position": 17,
+      "text": "your",
+      "lemma": "strong:G4771 lemma.TR:υμων",
+      "morph": "robinson:P-2GP",
+      "strongs": [
+        "G4771"
+      ],
+      "metadata": {
+        "src": "19"
+      },
+      "gematria": {
+        "standard": 79,
+        "ordinal": 10,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 18,
+      "text": "fathers",
+      "lemma": "strong:G3588 strong:G3962 lemma.TR:οι lemma.TR:πατερες",
+      "morph": "robinson:T-NPM robinson:N-NPM",
+      "strongs": [
+        "G3588",
+        "G3962"
+      ],
+      "metadata": {
+        "src": "17 18"
+      },
+      "gematria": {
+        "standard": 77,
+        "ordinal": 28,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 19,
+      "text": "did,",
+      "lemma": null,
+      "morph": null,
+      "metadata": {
+        "type": "added"
+      },
+      "gematria": {
+        "standard": 17,
+        "ordinal": 6,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 20,
+      "text": "so",
+      "lemma": "strong:G2532 lemma.TR:και",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G2532"
+      ],
+      "metadata": {
+        "src": "20"
+      },
+      "gematria": {
+        "standard": 34,
+        "ordinal": 3,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 21,
+      "text": "do",
+      "lemma": null,
+      "morph": null,
+      "metadata": {
+        "type": "added"
+      },
+      "gematria": {
+        "standard": 19,
+        "ordinal": 3,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 22,
+      "text": "ye.",
+      "lemma": "strong:G4771 lemma.TR:υμεις",
+      "morph": "robinson:P-2NP",
+      "strongs": [
+        "G4771"
+      ],
+      "metadata": {
+        "src": "21"
+      },
+      "gematria": {
+        "standard": 30,
+        "ordinal": 3,
+        "reduced": 12
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 1088,
+    "ordinal": 335,
+    "reduced": 431
+  }
+}

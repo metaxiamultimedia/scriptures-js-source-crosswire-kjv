@@ -1,0 +1,470 @@
+{
+  "text": "For every high priest taken from among men is ordained for men in things pertaining to God, that he may offer both gifts and sacrifices for sins:",
+  "words": [
+    {
+      "position": 1,
+      "text": "For",
+      "lemma": "strong:G1063 lemma.TR:γαρ",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G1063"
+      ],
+      "metadata": {
+        "src": "2"
+      },
+      "gematria": {
+        "standard": 39,
+        "ordinal": 6,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 2,
+      "text": "every",
+      "lemma": "strong:G3956 lemma.TR:πας",
+      "morph": "robinson:A-NSM",
+      "strongs": [
+        "G3956"
+      ],
+      "metadata": {
+        "src": "1"
+      },
+      "gematria": {
+        "standard": 75,
+        "ordinal": 15,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 3,
+      "text": "high",
+      "lemma": "strong:G749 lemma.TR:αρχιερευς",
+      "morph": "robinson:N-NSM",
+      "strongs": [
+        "G749"
+      ],
+      "metadata": {
+        "src": "3"
+      },
+      "gematria": {
+        "standard": 32,
+        "ordinal": 10,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 4,
+      "text": "priest",
+      "lemma": "strong:G749 lemma.TR:αρχιερευς",
+      "morph": "robinson:N-NSM",
+      "strongs": [
+        "G749"
+      ],
+      "metadata": {
+        "src": "3"
+      },
+      "gematria": {
+        "standard": 87,
+        "ordinal": 21,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 5,
+      "text": "taken",
+      "lemma": "strong:G2983 lemma.TR:λαμβανομενος",
+      "morph": "robinson:V-PPP-NSM",
+      "strongs": [
+        "G2983"
+      ],
+      "metadata": {
+        "src": "6"
+      },
+      "gematria": {
+        "standard": 51,
+        "ordinal": 15,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 6,
+      "text": "from",
+      "lemma": "strong:G1537 lemma.TR:εξ",
+      "morph": "robinson:PREP",
+      "strongs": [
+        "G1537"
+      ],
+      "metadata": {
+        "src": "4"
+      },
+      "gematria": {
+        "standard": 52,
+        "ordinal": 10,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 7,
+      "text": "among",
+      "lemma": "strong:G1537 lemma.TR:εξ",
+      "morph": "robinson:PREP",
+      "strongs": [
+        "G1537"
+      ],
+      "metadata": {
+        "src": "4"
+      },
+      "gematria": {
+        "standard": 50,
+        "ordinal": 15,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 8,
+      "text": "men",
+      "lemma": "strong:G444 lemma.TR:ανθρωπων",
+      "morph": "robinson:N-GPM",
+      "strongs": [
+        "G444"
+      ],
+      "metadata": {
+        "src": "5"
+      },
+      "gematria": {
+        "standard": 32,
+        "ordinal": 6,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 9,
+      "text": "is",
+      "lemma": "strong:G2525 lemma.TR:καθισταται",
+      "morph": "robinson:V-PPI-3S",
+      "strongs": [
+        "G2525"
+      ],
+      "metadata": {
+        "src": "9",
+        "type": "x-split-3370"
+      },
+      "gematria": {
+        "standard": 28,
+        "ordinal": 3,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 10,
+      "text": "ordained",
+      "lemma": "strong:G2525 lemma.TR:καθισταται",
+      "morph": "robinson:V-PPI-3S",
+      "strongs": [
+        "G2525"
+      ],
+      "metadata": {
+        "src": "9",
+        "type": "x-split-3370"
+      },
+      "gematria": {
+        "standard": 70,
+        "ordinal": 36,
+        "reduced": 43
+      }
+    },
+    {
+      "position": 11,
+      "text": "for",
+      "lemma": "strong:G5228 lemma.TR:υπερ",
+      "morph": "robinson:PREP",
+      "strongs": [
+        "G5228"
+      ],
+      "metadata": {
+        "src": "7"
+      },
+      "gematria": {
+        "standard": 39,
+        "ordinal": 6,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 12,
+      "text": "men",
+      "lemma": "strong:G444 lemma.TR:ανθρωπων",
+      "morph": "robinson:N-GPM",
+      "strongs": [
+        "G444"
+      ],
+      "metadata": {
+        "src": "8"
+      },
+      "gematria": {
+        "standard": 32,
+        "ordinal": 6,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 13,
+      "text": "in",
+      "lemma": "strong:G2525 lemma.TR:καθισταται",
+      "morph": "robinson:V-PPI-3S",
+      "strongs": [
+        "G2525"
+      ],
+      "metadata": {
+        "src": "9",
+        "type": "x-split-3370"
+      },
+      "gematria": {
+        "standard": 23,
+        "ordinal": 3,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 14,
+      "text": "things",
+      "lemma": "strong:G3588 lemma.TR:τα",
+      "morph": "robinson:T-APN",
+      "strongs": [
+        "G3588"
+      ],
+      "metadata": {
+        "src": "10"
+      },
+      "gematria": {
+        "standard": 77,
+        "ordinal": 21,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 15,
+      "text": "pertaining",
+      "lemma": null,
+      "morph": null,
+      "metadata": {
+        "type": "added"
+      },
+      "gematria": {
+        "standard": 113,
+        "ordinal": 55,
+        "reduced": 59
+      }
+    },
+    {
+      "position": 16,
+      "text": "to",
+      "lemma": "strong:G4314 lemma.TR:προς",
+      "morph": "robinson:PREP",
+      "strongs": [
+        "G4314"
+      ],
+      "metadata": {
+        "src": "11"
+      },
+      "gematria": {
+        "standard": 35,
+        "ordinal": 3,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 17,
+      "text": "God,",
+      "lemma": "strong:G3588 strong:G2316 lemma.TR:τον lemma.TR:θεον",
+      "morph": "robinson:T-ASM robinson:N-ASM",
+      "strongs": [
+        "G3588",
+        "G2316"
+      ],
+      "metadata": {
+        "src": "12 13"
+      },
+      "gematria": {
+        "standard": 26,
+        "ordinal": 6,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 18,
+      "text": "that",
+      "lemma": "strong:G2443 lemma.TR:ινα",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G2443"
+      ],
+      "metadata": {
+        "src": "14"
+      },
+      "gematria": {
+        "standard": 49,
+        "ordinal": 10,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 19,
+      "text": "he",
+      "lemma": "strong:G4374 lemma.TR:προσφερη",
+      "morph": "robinson:V-PAS-3S",
+      "strongs": [
+        "G4374"
+      ],
+      "metadata": {
+        "src": "15"
+      },
+      "gematria": {
+        "standard": 13,
+        "ordinal": 3,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 20,
+      "text": "may",
+      "lemma": "strong:G4374 lemma.TR:προσφερη",
+      "morph": "robinson:V-PAS-3S",
+      "strongs": [
+        "G4374"
+      ],
+      "metadata": {
+        "src": "15"
+      },
+      "gematria": {
+        "standard": 39,
+        "ordinal": 6,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 21,
+      "text": "offer",
+      "lemma": "strong:G4374 lemma.TR:προσφερη",
+      "morph": "robinson:V-PAS-3S",
+      "strongs": [
+        "G4374"
+      ],
+      "metadata": {
+        "src": "15"
+      },
+      "gematria": {
+        "standard": 50,
+        "ordinal": 15,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 22,
+      "text": "both",
+      "lemma": "strong:G5037 lemma.TR:τε",
+      "morph": "robinson:PRT",
+      "strongs": [
+        "G5037"
+      ],
+      "metadata": {
+        "src": "17"
+      },
+      "gematria": {
+        "standard": 45,
+        "ordinal": 10,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 23,
+      "text": "gifts",
+      "lemma": "strong:G1435 lemma.TR:δωρα",
+      "morph": "robinson:N-APN",
+      "strongs": [
+        "G1435"
+      ],
+      "metadata": {
+        "src": "16"
+      },
+      "gematria": {
+        "standard": 61,
+        "ordinal": 15,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 24,
+      "text": "and",
+      "lemma": "strong:G2532 lemma.TR:και",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G2532"
+      ],
+      "metadata": {
+        "src": "18"
+      },
+      "gematria": {
+        "standard": 19,
+        "ordinal": 6,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 25,
+      "text": "sacrifices",
+      "lemma": "strong:G2378 lemma.TR:θυσιας",
+      "morph": "robinson:N-APF",
+      "strongs": [
+        "G2378"
+      ],
+      "metadata": {
+        "src": "19"
+      },
+      "gematria": {
+        "standard": 92,
+        "ordinal": 55,
+        "reduced": 47
+      }
+    },
+    {
+      "position": 26,
+      "text": "for",
+      "lemma": "strong:G5228 lemma.TR:υπερ",
+      "morph": "robinson:PREP",
+      "strongs": [
+        "G5228"
+      ],
+      "metadata": {
+        "src": "20"
+      },
+      "gematria": {
+        "standard": 39,
+        "ordinal": 6,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 27,
+      "text": "sins:",
+      "lemma": "strong:G266 lemma.TR:αμαρτιων",
+      "morph": "robinson:N-GPF",
+      "strongs": [
+        "G266"
+      ],
+      "metadata": {
+        "src": "21"
+      },
+      "gematria": {
+        "standard": 61,
+        "ordinal": 10,
+        "reduced": 16
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 1329,
+    "ordinal": 373,
+    "reduced": 618
+  }
+}

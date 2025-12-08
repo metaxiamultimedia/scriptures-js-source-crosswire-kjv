@@ -1,0 +1,522 @@
+{
+  "text": "And, behold, there was a man which had his hand withered. And they asked him, saying, Is it lawful to heal on the sabbath days? that they might accuse him.",
+  "words": [
+    {
+      "position": 1,
+      "text": "And,",
+      "lemma": "strong:G2532 lemma.TR:και",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G2532"
+      ],
+      "metadata": {
+        "src": "1"
+      },
+      "gematria": {
+        "standard": 19,
+        "ordinal": 6,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 2,
+      "text": "behold,",
+      "lemma": "strong:G3708 lemma.TR:ιδου",
+      "morph": "robinson:V-2AMM-2S",
+      "strongs": [
+        "G3708"
+      ],
+      "metadata": {
+        "src": "2"
+      },
+      "gematria": {
+        "standard": 46,
+        "ordinal": 21,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 3,
+      "text": "there",
+      "lemma": "strong:G1510 lemma.TR:ην",
+      "morph": "robinson:V-IAI-3S",
+      "strongs": [
+        "G1510"
+      ],
+      "metadata": {
+        "src": "4"
+      },
+      "gematria": {
+        "standard": 56,
+        "ordinal": 15,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 4,
+      "text": "was",
+      "lemma": "strong:G1510 lemma.TR:ην",
+      "morph": "robinson:V-IAI-3S",
+      "strongs": [
+        "G1510"
+      ],
+      "metadata": {
+        "src": "4"
+      },
+      "gematria": {
+        "standard": 43,
+        "ordinal": 6,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 5,
+      "text": "a",
+      "lemma": "strong:G444 lemma.TR:ανθρωπος",
+      "morph": "robinson:N-NSM",
+      "strongs": [
+        "G444"
+      ],
+      "metadata": {
+        "src": "3"
+      },
+      "gematria": {
+        "standard": 1,
+        "ordinal": 1,
+        "reduced": 1
+      }
+    },
+    {
+      "position": 6,
+      "text": "man",
+      "lemma": "strong:G444 lemma.TR:ανθρωπος",
+      "morph": "robinson:N-NSM",
+      "strongs": [
+        "G444"
+      ],
+      "metadata": {
+        "src": "3"
+      },
+      "gematria": {
+        "standard": 28,
+        "ordinal": 6,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 7,
+      "text": "which",
+      "lemma": "strong:G2192 lemma.TR:εχων",
+      "morph": "robinson:V-PAP-NSM",
+      "strongs": [
+        "G2192"
+      ],
+      "metadata": {
+        "src": "7"
+      },
+      "gematria": {
+        "standard": 51,
+        "ordinal": 15,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 8,
+      "text": "had",
+      "lemma": "strong:G2192 lemma.TR:εχων",
+      "morph": "robinson:V-PAP-NSM",
+      "strongs": [
+        "G2192"
+      ],
+      "metadata": {
+        "src": "7"
+      },
+      "gematria": {
+        "standard": 13,
+        "ordinal": 6,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 9,
+      "text": "his",
+      "lemma": null,
+      "morph": null,
+      "metadata": {
+        "type": "added"
+      },
+      "gematria": {
+        "standard": 36,
+        "ordinal": 6,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 10,
+      "text": "hand",
+      "lemma": "strong:G3588 strong:G5495 lemma.TR:την lemma.TR:χειρα",
+      "morph": "robinson:T-ASF robinson:N-ASF",
+      "strongs": [
+        "G3588",
+        "G5495"
+      ],
+      "metadata": {
+        "src": "5 6"
+      },
+      "gematria": {
+        "standard": 27,
+        "ordinal": 10,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 11,
+      "text": "withered.",
+      "lemma": "strong:G3584 lemma.TR:ξηραν",
+      "morph": "robinson:A-ASF",
+      "strongs": [
+        "G3584"
+      ],
+      "metadata": {
+        "src": "8"
+      },
+      "gematria": {
+        "standard": 92,
+        "ordinal": 36,
+        "reduced": 47
+      }
+    },
+    {
+      "position": 12,
+      "text": "And",
+      "lemma": "strong:G2532 lemma.TR:και",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G2532"
+      ],
+      "metadata": {
+        "src": "9"
+      },
+      "gematria": {
+        "standard": 19,
+        "ordinal": 6,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 13,
+      "text": "they",
+      "lemma": "strong:G1905 lemma.TR:επηρωτησαν",
+      "morph": "robinson:V-AAI-3P",
+      "strongs": [
+        "G1905"
+      ],
+      "metadata": {
+        "src": "10"
+      },
+      "gematria": {
+        "standard": 58,
+        "ordinal": 10,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 14,
+      "text": "asked",
+      "lemma": "strong:G1905 lemma.TR:επηρωτησαν",
+      "morph": "robinson:V-AAI-3P",
+      "strongs": [
+        "G1905"
+      ],
+      "metadata": {
+        "src": "10"
+      },
+      "gematria": {
+        "standard": 40,
+        "ordinal": 15,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 15,
+      "text": "him,",
+      "lemma": "strong:G846 lemma.TR:αυτον",
+      "morph": "robinson:P-ASM",
+      "strongs": [
+        "G846"
+      ],
+      "metadata": {
+        "src": "11"
+      },
+      "gematria": {
+        "standard": 30,
+        "ordinal": 6,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 16,
+      "text": "saying,",
+      "lemma": "strong:G3004 lemma.TR:λεγοντες",
+      "morph": "robinson:V-PAP-NPM",
+      "strongs": [
+        "G3004"
+      ],
+      "metadata": {
+        "src": "12"
+      },
+      "gematria": {
+        "standard": 75,
+        "ordinal": 21,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 17,
+      "text": "Is",
+      "lemma": "strong:G1832 lemma.TR:εξεστιν",
+      "morph": "robinson:V-PAI-3S",
+      "strongs": [
+        "G1832"
+      ],
+      "metadata": {
+        "src": "14"
+      },
+      "gematria": {
+        "standard": 28,
+        "ordinal": 3,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 18,
+      "text": "it",
+      "lemma": "strong:G1832 lemma.TR:εξεστιν",
+      "morph": "robinson:V-PAI-3S",
+      "strongs": [
+        "G1832"
+      ],
+      "metadata": {
+        "src": "14"
+      },
+      "gematria": {
+        "standard": 29,
+        "ordinal": 3,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 19,
+      "text": "lawful",
+      "lemma": "strong:G1832 lemma.TR:εξεστιν",
+      "morph": "robinson:V-PAI-3S",
+      "strongs": [
+        "G1832"
+      ],
+      "metadata": {
+        "src": "14"
+      },
+      "gematria": {
+        "standard": 75,
+        "ordinal": 21,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 20,
+      "text": "to",
+      "lemma": "strong:G2323 lemma.TR:θεραπευειν",
+      "morph": "robinson:V-PAN",
+      "strongs": [
+        "G2323"
+      ],
+      "metadata": {
+        "src": "17"
+      },
+      "gematria": {
+        "standard": 35,
+        "ordinal": 3,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 21,
+      "text": "heal",
+      "lemma": "strong:G2323 lemma.TR:θεραπευειν",
+      "morph": "robinson:V-PAN",
+      "strongs": [
+        "G2323"
+      ],
+      "metadata": {
+        "src": "17"
+      },
+      "gematria": {
+        "standard": 26,
+        "ordinal": 10,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 22,
+      "text": "on",
+      "lemma": "strong:G3588 strong:G4521 lemma.TR:τοις lemma.TR:σαββασιν",
+      "morph": "robinson:T-DPN robinson:N-DPN",
+      "strongs": [
+        "G3588",
+        "G4521"
+      ],
+      "metadata": {
+        "src": "15 16"
+      },
+      "gematria": {
+        "standard": 29,
+        "ordinal": 3,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 23,
+      "text": "the",
+      "lemma": "strong:G3588 strong:G4521 lemma.TR:τοις lemma.TR:σαββασιν",
+      "morph": "robinson:T-DPN robinson:N-DPN",
+      "strongs": [
+        "G3588",
+        "G4521"
+      ],
+      "metadata": {
+        "src": "15 16"
+      },
+      "gematria": {
+        "standard": 33,
+        "ordinal": 6,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 24,
+      "text": "sabbath",
+      "lemma": "strong:G3588 strong:G4521 lemma.TR:τοις lemma.TR:σαββασιν",
+      "morph": "robinson:T-DPN robinson:N-DPN",
+      "strongs": [
+        "G3588",
+        "G4521"
+      ],
+      "metadata": {
+        "src": "15 16"
+      },
+      "gematria": {
+        "standard": 53,
+        "ordinal": 28,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 25,
+      "text": "days?",
+      "lemma": "strong:G3588 strong:G4521 lemma.TR:τοις lemma.TR:σαββασιν",
+      "morph": "robinson:T-DPN robinson:N-DPN",
+      "strongs": [
+        "G3588",
+        "G4521"
+      ],
+      "metadata": {
+        "src": "15 16"
+      },
+      "gematria": {
+        "standard": 49,
+        "ordinal": 10,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 26,
+      "text": "that",
+      "lemma": "strong:G2443 lemma.TR:ινα",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G2443"
+      ],
+      "metadata": {
+        "src": "18"
+      },
+      "gematria": {
+        "standard": 49,
+        "ordinal": 10,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 27,
+      "text": "they",
+      "lemma": "strong:G2723 lemma.TR:κατηγορησωσιν",
+      "morph": "robinson:V-AAS-3P",
+      "strongs": [
+        "G2723"
+      ],
+      "metadata": {
+        "src": "19"
+      },
+      "gematria": {
+        "standard": 58,
+        "ordinal": 10,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 28,
+      "text": "might",
+      "lemma": "strong:G2723 lemma.TR:κατηγορησωσιν",
+      "morph": "robinson:V-AAS-3P",
+      "strongs": [
+        "G2723"
+      ],
+      "metadata": {
+        "src": "19"
+      },
+      "gematria": {
+        "standard": 57,
+        "ordinal": 15,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 29,
+      "text": "accuse",
+      "lemma": "strong:G2723 lemma.TR:κατηγορησωσιν",
+      "morph": "robinson:V-AAS-3P",
+      "strongs": [
+        "G2723"
+      ],
+      "metadata": {
+        "src": "19"
+      },
+      "gematria": {
+        "standard": 52,
+        "ordinal": 21,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 30,
+      "text": "him.",
+      "lemma": "strong:G846 lemma.TR:αυτου",
+      "morph": "robinson:P-GSM",
+      "strongs": [
+        "G846"
+      ],
+      "metadata": {
+        "src": "20"
+      },
+      "gematria": {
+        "standard": 30,
+        "ordinal": 6,
+        "reduced": 21
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 1237,
+    "ordinal": 335,
+    "reduced": 535
+  }
+}

@@ -1,0 +1,631 @@
+{
+  "text": "And when the barbarians saw the venomous beast hang on his hand, they said among themselves, No doubt this man is a murderer, whom, though he hath escaped the sea, yet vengeance suffereth not to live.",
+  "words": [
+    {
+      "position": 1,
+      "text": "And",
+      "lemma": "strong:G1161 lemma.TR:δε",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G1161"
+      ],
+      "metadata": {
+        "src": "2"
+      },
+      "gematria": {
+        "standard": 19,
+        "ordinal": 6,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 2,
+      "text": "when",
+      "lemma": "strong:G5613 lemma.TR:ως",
+      "morph": "robinson:ADV",
+      "strongs": [
+        "G5613"
+      ],
+      "metadata": {
+        "src": "1"
+      },
+      "gematria": {
+        "standard": 50,
+        "ordinal": 10,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 3,
+      "text": "the",
+      "lemma": "strong:G3588 strong:G915 lemma.TR:οι lemma.TR:βαρβαροι",
+      "morph": "robinson:T-NPM robinson:A-NPM",
+      "strongs": [
+        "G3588",
+        "G915"
+      ],
+      "metadata": {
+        "src": "4 5"
+      },
+      "gematria": {
+        "standard": 33,
+        "ordinal": 6,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 4,
+      "text": "barbarians",
+      "lemma": "strong:G3588 strong:G915 lemma.TR:οι lemma.TR:βαρβαροι",
+      "morph": "robinson:T-NPM robinson:A-NPM",
+      "strongs": [
+        "G3588",
+        "G915"
+      ],
+      "metadata": {
+        "src": "4 5"
+      },
+      "gematria": {
+        "standard": 85,
+        "ordinal": 55,
+        "reduced": 40
+      }
+    },
+    {
+      "position": 5,
+      "text": "saw",
+      "lemma": "strong:G3708 lemma.TR:ειδον",
+      "morph": "robinson:V-2AAI-3P",
+      "strongs": [
+        "G3708"
+      ],
+      "metadata": {
+        "src": "3"
+      },
+      "gematria": {
+        "standard": 43,
+        "ordinal": 6,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 6,
+      "text": "the",
+      "lemma": "strong:G3588 strong:G2342 lemma.TR:το lemma.TR:θηριον",
+      "morph": "robinson:T-ASN robinson:N-ASN",
+      "strongs": [
+        "G3588",
+        "G2342"
+      ],
+      "metadata": {
+        "src": "7 8",
+        "type": "x-split-2463"
+      },
+      "gematria": {
+        "standard": 33,
+        "ordinal": 6,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 7,
+      "text": "venomous",
+      "lemma": null,
+      "morph": null,
+      "metadata": {
+        "type": "added"
+      },
+      "gematria": {
+        "standard": 124,
+        "ordinal": 36,
+        "reduced": 34
+      }
+    },
+    {
+      "position": 8,
+      "text": "beast",
+      "lemma": "strong:G3588 strong:G2342 lemma.TR:το lemma.TR:θηριον",
+      "morph": "robinson:T-ASN robinson:N-ASN",
+      "strongs": [
+        "G3588",
+        "G2342"
+      ],
+      "metadata": {
+        "src": "7 8",
+        "type": "x-split-2463"
+      },
+      "gematria": {
+        "standard": 47,
+        "ordinal": 15,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 9,
+      "text": "hang",
+      "lemma": "strong:G2910 lemma.TR:κρεμαμενον",
+      "morph": "robinson:V-PMP-ASN",
+      "strongs": [
+        "G2910"
+      ],
+      "metadata": {
+        "src": "6"
+      },
+      "gematria": {
+        "standard": 30,
+        "ordinal": 10,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 10,
+      "text": "on",
+      "lemma": "strong:G1537 lemma.TR:εκ",
+      "morph": "robinson:PREP",
+      "strongs": [
+        "G1537"
+      ],
+      "metadata": {
+        "src": "9"
+      },
+      "gematria": {
+        "standard": 29,
+        "ordinal": 3,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 11,
+      "text": "his",
+      "lemma": "strong:G846 lemma.TR:αυτου",
+      "morph": "robinson:P-GSM",
+      "strongs": [
+        "G846"
+      ],
+      "metadata": {
+        "src": "12"
+      },
+      "gematria": {
+        "standard": 36,
+        "ordinal": 6,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 12,
+      "text": "hand,",
+      "lemma": "strong:G3588 strong:G5495 lemma.TR:της lemma.TR:χειρος",
+      "morph": "robinson:T-GSF robinson:N-GSF",
+      "strongs": [
+        "G3588",
+        "G5495"
+      ],
+      "metadata": {
+        "src": "10 11"
+      },
+      "gematria": {
+        "standard": 27,
+        "ordinal": 10,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 13,
+      "text": "they",
+      "lemma": "strong:G3004 lemma.TR:ελεγον",
+      "morph": "robinson:V-IAI-3P",
+      "strongs": [
+        "G3004"
+      ],
+      "metadata": {
+        "src": "13"
+      },
+      "gematria": {
+        "standard": 58,
+        "ordinal": 10,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 14,
+      "text": "said",
+      "lemma": "strong:G3004 lemma.TR:ελεγον",
+      "morph": "robinson:V-IAI-3P",
+      "strongs": [
+        "G3004"
+      ],
+      "metadata": {
+        "src": "13"
+      },
+      "gematria": {
+        "standard": 33,
+        "ordinal": 10,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 15,
+      "text": "among",
+      "lemma": "strong:G4314 lemma.TR:προς",
+      "morph": "robinson:PREP",
+      "strongs": [
+        "G4314"
+      ],
+      "metadata": {
+        "src": "14"
+      },
+      "gematria": {
+        "standard": 50,
+        "ordinal": 15,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 16,
+      "text": "themselves,",
+      "lemma": "strong:G240 lemma.TR:αλληλους",
+      "morph": "robinson:C-APM",
+      "strongs": [
+        "G240"
+      ],
+      "metadata": {
+        "src": "15"
+      },
+      "gematria": {
+        "standard": 128,
+        "ordinal": 55,
+        "reduced": 38
+      }
+    },
+    {
+      "position": 17,
+      "text": "No",
+      "lemma": "strong:G3843 lemma.TR:παντως",
+      "morph": "robinson:ADV",
+      "strongs": [
+        "G3843"
+      ],
+      "metadata": {
+        "src": "16"
+      },
+      "gematria": {
+        "standard": 29,
+        "ordinal": 3,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 18,
+      "text": "doubt",
+      "lemma": "strong:G3843 lemma.TR:παντως",
+      "morph": "robinson:ADV",
+      "strongs": [
+        "G3843"
+      ],
+      "metadata": {
+        "src": "16"
+      },
+      "gematria": {
+        "standard": 62,
+        "ordinal": 15,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 19,
+      "text": "this",
+      "lemma": "strong:G3778 lemma.TR:ουτος",
+      "morph": "robinson:D-NSM",
+      "strongs": [
+        "G3778"
+      ],
+      "metadata": {
+        "src": "21"
+      },
+      "gematria": {
+        "standard": 56,
+        "ordinal": 10,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 20,
+      "text": "man",
+      "lemma": "strong:G3588 strong:G444 lemma.TR:ο lemma.TR:ανθρωπος",
+      "morph": "robinson:T-NSM robinson:N-NSM",
+      "strongs": [
+        "G3588",
+        "G444"
+      ],
+      "metadata": {
+        "src": "19 20"
+      },
+      "gematria": {
+        "standard": 28,
+        "ordinal": 6,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 21,
+      "text": "is",
+      "lemma": "strong:G1510 lemma.TR:εστιν",
+      "morph": "robinson:V-PAI-3S",
+      "strongs": [
+        "G1510"
+      ],
+      "metadata": {
+        "src": "18"
+      },
+      "gematria": {
+        "standard": 28,
+        "ordinal": 3,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 22,
+      "text": "a",
+      "lemma": "strong:G5406 lemma.TR:φονευς",
+      "morph": "robinson:N-NSM",
+      "strongs": [
+        "G5406"
+      ],
+      "metadata": {
+        "src": "17"
+      },
+      "gematria": {
+        "standard": 1,
+        "ordinal": 1,
+        "reduced": 1
+      }
+    },
+    {
+      "position": 23,
+      "text": "murderer,",
+      "lemma": "strong:G5406 lemma.TR:φονευς",
+      "morph": "robinson:N-NSM",
+      "strongs": [
+        "G5406"
+      ],
+      "metadata": {
+        "src": "17"
+      },
+      "gematria": {
+        "standard": 102,
+        "ordinal": 36,
+        "reduced": 48
+      }
+    },
+    {
+      "position": 24,
+      "text": "whom,",
+      "lemma": "strong:G3739 lemma.TR:ον",
+      "morph": "robinson:R-ASM",
+      "strongs": [
+        "G3739"
+      ],
+      "metadata": {
+        "src": "22"
+      },
+      "gematria": {
+        "standard": 59,
+        "ordinal": 10,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 25,
+      "text": "though",
+      "lemma": "strong:G1537 lemma.TR:εκ",
+      "morph": "robinson:PREP",
+      "strongs": [
+        "G1537"
+      ],
+      "metadata": {
+        "src": "24"
+      },
+      "gematria": {
+        "standard": 79,
+        "ordinal": 21,
+        "reduced": 34
+      }
+    },
+    {
+      "position": 26,
+      "text": "he",
+      "lemma": "strong:G1295 lemma.TR:διασωθεντα",
+      "morph": "robinson:V-APP-ASM",
+      "strongs": [
+        "G1295"
+      ],
+      "metadata": {
+        "src": "23"
+      },
+      "gematria": {
+        "standard": 13,
+        "ordinal": 3,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 27,
+      "text": "hath",
+      "lemma": "strong:G1295 lemma.TR:διασωθεντα",
+      "morph": "robinson:V-APP-ASM",
+      "strongs": [
+        "G1295"
+      ],
+      "metadata": {
+        "src": "23"
+      },
+      "gematria": {
+        "standard": 37,
+        "ordinal": 10,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 28,
+      "text": "escaped",
+      "lemma": "strong:G1295 lemma.TR:διασωθεντα",
+      "morph": "robinson:V-APP-ASM",
+      "strongs": [
+        "G1295"
+      ],
+      "metadata": {
+        "src": "23"
+      },
+      "gematria": {
+        "standard": 53,
+        "ordinal": 28,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 29,
+      "text": "the",
+      "lemma": "strong:G3588 strong:G2281 lemma.TR:της lemma.TR:θαλασσης",
+      "morph": "robinson:T-GSF robinson:N-GSF",
+      "strongs": [
+        "G3588",
+        "G2281"
+      ],
+      "metadata": {
+        "src": "25 26"
+      },
+      "gematria": {
+        "standard": 33,
+        "ordinal": 6,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 30,
+      "text": "sea,",
+      "lemma": "strong:G3588 strong:G2281 lemma.TR:της lemma.TR:θαλασσης",
+      "morph": "robinson:T-GSF robinson:N-GSF",
+      "strongs": [
+        "G3588",
+        "G2281"
+      ],
+      "metadata": {
+        "src": "25 26"
+      },
+      "gematria": {
+        "standard": 25,
+        "ordinal": 6,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 31,
+      "text": "yet",
+      "lemma": "strong:G3588 strong:G1349 lemma.TR:η lemma.TR:δικη",
+      "morph": "robinson:T-NSF robinson:N-NSF",
+      "strongs": [
+        "G3588",
+        "G1349"
+      ],
+      "metadata": {
+        "src": "27 28"
+      },
+      "gematria": {
+        "standard": 50,
+        "ordinal": 6,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 32,
+      "text": "vengeance",
+      "lemma": "strong:G3588 strong:G1349 lemma.TR:η lemma.TR:δικη",
+      "morph": "robinson:T-NSF robinson:N-NSF",
+      "strongs": [
+        "G3588",
+        "G1349"
+      ],
+      "metadata": {
+        "src": "27 28"
+      },
+      "gematria": {
+        "standard": 76,
+        "ordinal": 45,
+        "reduced": 40
+      }
+    },
+    {
+      "position": 33,
+      "text": "suffereth",
+      "lemma": "strong:G1439 lemma.TR:ειασεν",
+      "morph": "robinson:V-AAI-3S",
+      "strongs": [
+        "G1439"
+      ],
+      "metadata": {
+        "src": "31"
+      },
+      "gematria": {
+        "standard": 108,
+        "ordinal": 45,
+        "reduced": 45
+      }
+    },
+    {
+      "position": 34,
+      "text": "not",
+      "lemma": "strong:G3756 lemma.TR:ουκ",
+      "morph": "robinson:PRT-N",
+      "strongs": [
+        "G3756"
+      ],
+      "metadata": {
+        "src": "30"
+      },
+      "gematria": {
+        "standard": 49,
+        "ordinal": 6,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 35,
+      "text": "to",
+      "lemma": "strong:G2198 lemma.TR:ζην",
+      "morph": "robinson:V-PAN",
+      "strongs": [
+        "G2198"
+      ],
+      "metadata": {
+        "src": "29"
+      },
+      "gematria": {
+        "standard": 35,
+        "ordinal": 3,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 36,
+      "text": "live.",
+      "lemma": "strong:G2198 lemma.TR:ζην",
+      "morph": "robinson:V-PAN",
+      "strongs": [
+        "G2198"
+      ],
+      "metadata": {
+        "src": "29"
+      },
+      "gematria": {
+        "standard": 48,
+        "ordinal": 10,
+        "reduced": 21
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 1796,
+    "ordinal": 532,
+    "reduced": 716
+  }
+}

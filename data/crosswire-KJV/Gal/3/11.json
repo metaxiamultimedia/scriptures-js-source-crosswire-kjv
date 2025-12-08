@@ -1,0 +1,399 @@
+{
+  "text": "But that no man is justified by the law in the sight of God, it is evident: for, The just shall live by faith.",
+  "words": [
+    {
+      "position": 1,
+      "text": "But",
+      "lemma": "strong:G1161 lemma.TR:δε",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G1161"
+      ],
+      "metadata": {
+        "src": "2"
+      },
+      "gematria": {
+        "standard": 43,
+        "ordinal": 6,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 2,
+      "text": "that",
+      "lemma": "strong:G3754 lemma.TR:οτι",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G3754"
+      ],
+      "metadata": {
+        "src": "1"
+      },
+      "gematria": {
+        "standard": 49,
+        "ordinal": 10,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 3,
+      "text": "no",
+      "lemma": "strong:G3762 lemma.TR:ουδεις",
+      "morph": "robinson:A-NSM-N",
+      "strongs": [
+        "G3762"
+      ],
+      "metadata": {
+        "src": "5"
+      },
+      "gematria": {
+        "standard": 29,
+        "ordinal": 3,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 4,
+      "text": "man",
+      "lemma": "strong:G3762 lemma.TR:ουδεις",
+      "morph": "robinson:A-NSM-N",
+      "strongs": [
+        "G3762"
+      ],
+      "metadata": {
+        "src": "5"
+      },
+      "gematria": {
+        "standard": 28,
+        "ordinal": 6,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 5,
+      "text": "is",
+      "lemma": "strong:G1344 lemma.TR:δικαιουται",
+      "morph": "robinson:V-PPI-3S",
+      "strongs": [
+        "G1344"
+      ],
+      "metadata": {
+        "src": "6"
+      },
+      "gematria": {
+        "standard": 28,
+        "ordinal": 3,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 6,
+      "text": "justified",
+      "lemma": "strong:G1344 lemma.TR:δικαιουται",
+      "morph": "robinson:V-PPI-3S",
+      "strongs": [
+        "G1344"
+      ],
+      "metadata": {
+        "src": "6"
+      },
+      "gematria": {
+        "standard": 103,
+        "ordinal": 45,
+        "reduced": 40
+      }
+    },
+    {
+      "position": 7,
+      "text": "by",
+      "lemma": "strong:G1722 lemma.TR:εν",
+      "morph": "robinson:PREP",
+      "strongs": [
+        "G1722"
+      ],
+      "metadata": {
+        "src": "3"
+      },
+      "gematria": {
+        "standard": 27,
+        "ordinal": 3,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 8,
+      "text": "the",
+      "lemma": "strong:G3551 lemma.TR:νομω",
+      "morph": "robinson:N-DSM",
+      "strongs": [
+        "G3551"
+      ],
+      "metadata": {
+        "src": "4"
+      },
+      "gematria": {
+        "standard": 33,
+        "ordinal": 6,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 9,
+      "text": "law",
+      "lemma": "strong:G3551 lemma.TR:νομω",
+      "morph": "robinson:N-DSM",
+      "strongs": [
+        "G3551"
+      ],
+      "metadata": {
+        "src": "4"
+      },
+      "gematria": {
+        "standard": 36,
+        "ordinal": 6,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 10,
+      "text": "in",
+      "lemma": "strong:G3844 lemma.TR:παρα",
+      "morph": "robinson:PREP",
+      "strongs": [
+        "G3844"
+      ],
+      "metadata": {
+        "src": "7"
+      },
+      "gematria": {
+        "standard": 23,
+        "ordinal": 3,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 11,
+      "text": "the",
+      "lemma": "strong:G3844 lemma.TR:παρα",
+      "morph": "robinson:PREP",
+      "strongs": [
+        "G3844"
+      ],
+      "metadata": {
+        "src": "7"
+      },
+      "gematria": {
+        "standard": 33,
+        "ordinal": 6,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 12,
+      "text": "sight",
+      "lemma": "strong:G3844 lemma.TR:παρα",
+      "morph": "robinson:PREP",
+      "strongs": [
+        "G3844"
+      ],
+      "metadata": {
+        "src": "7"
+      },
+      "gematria": {
+        "standard": 63,
+        "ordinal": 15,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 13,
+      "text": "of",
+      "lemma": "strong:G3844 lemma.TR:παρα",
+      "morph": "robinson:PREP",
+      "strongs": [
+        "G3844"
+      ],
+      "metadata": {
+        "src": "7"
+      },
+      "gematria": {
+        "standard": 21,
+        "ordinal": 3,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 14,
+      "text": "God,",
+      "lemma": "strong:G3588 strong:G2316 lemma.TR:τω lemma.TR:θεω",
+      "morph": "robinson:T-DSM robinson:N-DSM",
+      "strongs": [
+        "G3588",
+        "G2316"
+      ],
+      "metadata": {
+        "src": "8 9"
+      },
+      "gematria": {
+        "standard": 26,
+        "ordinal": 6,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 15,
+      "text": "it is",
+      "lemma": null,
+      "morph": null,
+      "metadata": {
+        "type": "added"
+      },
+      "gematria": {
+        "standard": 57,
+        "ordinal": 10,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 16,
+      "text": "evident:",
+      "lemma": "strong:G1212 lemma.TR:δηλον",
+      "morph": "robinson:A-NSN",
+      "strongs": [
+        "G1212"
+      ],
+      "metadata": {
+        "src": "10"
+      },
+      "gematria": {
+        "standard": 79,
+        "ordinal": 28,
+        "reduced": 34
+      }
+    },
+    {
+      "position": 17,
+      "text": "for,",
+      "lemma": "strong:G3754 lemma.TR:οτι",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G3754"
+      ],
+      "metadata": {
+        "src": "11"
+      },
+      "gematria": {
+        "standard": 39,
+        "ordinal": 6,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 18,
+      "text": "The",
+      "lemma": "strong:G1342 lemma.TR:δικαιος",
+      "morph": "robinson:A-NSM",
+      "strongs": [
+        "G1342"
+      ],
+      "metadata": {
+        "src": "13"
+      },
+      "gematria": {
+        "standard": 33,
+        "ordinal": 6,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 19,
+      "text": "just",
+      "lemma": "strong:G1342 lemma.TR:δικαιος",
+      "morph": "robinson:A-NSM",
+      "strongs": [
+        "G1342"
+      ],
+      "metadata": {
+        "src": "13"
+      },
+      "gematria": {
+        "standard": 70,
+        "ordinal": 10,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 20,
+      "text": "shall",
+      "lemma": "strong:G2198 lemma.TR:ζησεται",
+      "morph": "robinson:V-FDI-3S",
+      "strongs": [
+        "G2198"
+      ],
+      "metadata": {
+        "src": "16"
+      },
+      "gematria": {
+        "standard": 52,
+        "ordinal": 15,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 21,
+      "text": "live",
+      "lemma": "strong:G2198 lemma.TR:ζησεται",
+      "morph": "robinson:V-FDI-3S",
+      "strongs": [
+        "G2198"
+      ],
+      "metadata": {
+        "src": "16"
+      },
+      "gematria": {
+        "standard": 48,
+        "ordinal": 10,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 22,
+      "text": "by",
+      "lemma": "strong:G1537 lemma.TR:εκ",
+      "morph": "robinson:PREP",
+      "strongs": [
+        "G1537"
+      ],
+      "metadata": {
+        "src": "14"
+      },
+      "gematria": {
+        "standard": 27,
+        "ordinal": 3,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 23,
+      "text": "faith.",
+      "lemma": "strong:G4102 lemma.TR:πιστεως",
+      "morph": "robinson:N-GSF",
+      "strongs": [
+        "G4102"
+      ],
+      "metadata": {
+        "src": "15"
+      },
+      "gematria": {
+        "standard": 44,
+        "ordinal": 15,
+        "reduced": 26
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 991,
+    "ordinal": 224,
+    "reduced": 379
+  }
+}

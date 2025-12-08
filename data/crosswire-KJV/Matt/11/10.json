@@ -1,0 +1,416 @@
+{
+  "text": "For this is he, of whom it is written, Behold, I send my messenger before thy face, which shall prepare thy way before thee.",
+  "words": [
+    {
+      "position": 1,
+      "text": "For",
+      "lemma": "strong:G1063 lemma.TR:γαρ",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G1063"
+      ],
+      "metadata": {
+        "src": "2"
+      },
+      "gematria": {
+        "standard": 39,
+        "ordinal": 6,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 2,
+      "text": "this",
+      "lemma": "strong:G3778 lemma.TR:ουτος",
+      "morph": "robinson:D-NSM",
+      "strongs": [
+        "G3778"
+      ],
+      "metadata": {
+        "src": "1"
+      },
+      "gematria": {
+        "standard": 56,
+        "ordinal": 10,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 3,
+      "text": "is",
+      "lemma": "strong:G1510 lemma.TR:εστιν",
+      "morph": "robinson:V-PAI-3S",
+      "strongs": [
+        "G1510"
+      ],
+      "metadata": {
+        "src": "3"
+      },
+      "gematria": {
+        "standard": 28,
+        "ordinal": 3,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 4,
+      "text": "he,",
+      "lemma": null,
+      "morph": null,
+      "metadata": {
+        "type": "added"
+      },
+      "gematria": {
+        "standard": 13,
+        "ordinal": 3,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 5,
+      "text": "of",
+      "lemma": "strong:G4012 lemma.TR:περι",
+      "morph": "robinson:PREP",
+      "strongs": [
+        "G4012"
+      ],
+      "metadata": {
+        "src": "4"
+      },
+      "gematria": {
+        "standard": 21,
+        "ordinal": 3,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 6,
+      "text": "whom",
+      "lemma": "strong:G3739 lemma.TR:ου",
+      "morph": "robinson:R-GSM",
+      "strongs": [
+        "G3739"
+      ],
+      "metadata": {
+        "src": "5"
+      },
+      "gematria": {
+        "standard": 59,
+        "ordinal": 10,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 7,
+      "text": "it",
+      "lemma": "strong:G1125 lemma.TR:γεγραπται",
+      "morph": "robinson:V-RPI-3S",
+      "strongs": [
+        "G1125"
+      ],
+      "metadata": {
+        "src": "6"
+      },
+      "gematria": {
+        "standard": 29,
+        "ordinal": 3,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 8,
+      "text": "is",
+      "lemma": "strong:G1125 lemma.TR:γεγραπται",
+      "morph": "robinson:V-RPI-3S",
+      "strongs": [
+        "G1125"
+      ],
+      "metadata": {
+        "src": "6"
+      },
+      "gematria": {
+        "standard": 28,
+        "ordinal": 3,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 9,
+      "text": "written,",
+      "lemma": "strong:G1125 lemma.TR:γεγραπται",
+      "morph": "robinson:V-RPI-3S",
+      "strongs": [
+        "G1125"
+      ],
+      "metadata": {
+        "src": "6"
+      },
+      "gematria": {
+        "standard": 109,
+        "ordinal": 28,
+        "reduced": 37
+      }
+    },
+    {
+      "position": 10,
+      "text": "Behold,",
+      "lemma": "strong:G3708 lemma.TR:ιδου",
+      "morph": "robinson:V-2AMM-2S",
+      "strongs": [
+        "G3708"
+      ],
+      "metadata": {
+        "src": "7"
+      },
+      "gematria": {
+        "standard": 46,
+        "ordinal": 21,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 11,
+      "text": "I",
+      "lemma": "strong:G1473 lemma.TR:εγω",
+      "morph": "robinson:P-1NS",
+      "strongs": [
+        "G1473"
+      ],
+      "metadata": {
+        "src": "8"
+      },
+      "gematria": {
+        "standard": 9,
+        "ordinal": 1,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 12,
+      "text": "send",
+      "lemma": "strong:G649 lemma.TR:αποστελλω",
+      "morph": "robinson:V-PAI-1S",
+      "strongs": [
+        "G649"
+      ],
+      "metadata": {
+        "src": "9"
+      },
+      "gematria": {
+        "standard": 42,
+        "ordinal": 10,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 13,
+      "text": "my",
+      "lemma": "strong:G1473 lemma.TR:μου",
+      "morph": "robinson:P-1GS",
+      "strongs": [
+        "G1473"
+      ],
+      "metadata": {
+        "src": "12"
+      },
+      "gematria": {
+        "standard": 38,
+        "ordinal": 3,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 14,
+      "text": "messenger",
+      "lemma": "strong:G3588 strong:G32 lemma.TR:τον lemma.TR:αγγελον",
+      "morph": "robinson:T-ASM robinson:N-ASM",
+      "strongs": [
+        "G3588"
+      ],
+      "metadata": {
+        "src": "10 11"
+      },
+      "gematria": {
+        "standard": 105,
+        "ordinal": 45,
+        "reduced": 42
+      }
+    },
+    {
+      "position": 15,
+      "text": "before",
+      "lemma": "strong:G4253 lemma.TR:προ",
+      "morph": "robinson:PREP",
+      "strongs": [
+        "G4253"
+      ],
+      "metadata": {
+        "src": "13"
+      },
+      "gematria": {
+        "standard": 51,
+        "ordinal": 21,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 16,
+      "text": "thy",
+      "lemma": "strong:G4771 lemma.TR:σου",
+      "morph": "robinson:P-2GS",
+      "strongs": [
+        "G4771"
+      ],
+      "metadata": {
+        "src": "15"
+      },
+      "gematria": {
+        "standard": 53,
+        "ordinal": 6,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 17,
+      "text": "face,",
+      "lemma": "strong:G4383 lemma.TR:προσωπου",
+      "morph": "robinson:N-GSN",
+      "strongs": [
+        "G4383"
+      ],
+      "metadata": {
+        "src": "14"
+      },
+      "gematria": {
+        "standard": 15,
+        "ordinal": 10,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 18,
+      "text": "which",
+      "lemma": "strong:G3739 lemma.TR:ος",
+      "morph": "robinson:R-NSM",
+      "strongs": [
+        "G3739"
+      ],
+      "metadata": {
+        "src": "16"
+      },
+      "gematria": {
+        "standard": 51,
+        "ordinal": 15,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 19,
+      "text": "shall",
+      "lemma": "strong:G2680 lemma.TR:κατασκευασει",
+      "morph": "robinson:V-FAI-3S",
+      "strongs": [
+        "G2680"
+      ],
+      "metadata": {
+        "src": "17"
+      },
+      "gematria": {
+        "standard": 52,
+        "ordinal": 15,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 20,
+      "text": "prepare",
+      "lemma": "strong:G2680 lemma.TR:κατασκευασει",
+      "morph": "robinson:V-FAI-3S",
+      "strongs": [
+        "G2680"
+      ],
+      "metadata": {
+        "src": "17"
+      },
+      "gematria": {
+        "standard": 79,
+        "ordinal": 28,
+        "reduced": 43
+      }
+    },
+    {
+      "position": 21,
+      "text": "thy",
+      "lemma": "strong:G4771 lemma.TR:σου",
+      "morph": "robinson:P-2GS",
+      "strongs": [
+        "G4771"
+      ],
+      "metadata": {
+        "src": "20"
+      },
+      "gematria": {
+        "standard": 53,
+        "ordinal": 6,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 22,
+      "text": "way",
+      "lemma": "strong:G3588 strong:G3598 lemma.TR:την lemma.TR:οδον",
+      "morph": "robinson:T-ASF robinson:N-ASF",
+      "strongs": [
+        "G3588",
+        "G3598"
+      ],
+      "metadata": {
+        "src": "18 19"
+      },
+      "gematria": {
+        "standard": 49,
+        "ordinal": 6,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 23,
+      "text": "before",
+      "lemma": "strong:G1715 lemma.TR:εμπροσθεν",
+      "morph": "robinson:PREP",
+      "strongs": [
+        "G1715"
+      ],
+      "metadata": {
+        "src": "21"
+      },
+      "gematria": {
+        "standard": 51,
+        "ordinal": 21,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 24,
+      "text": "thee.",
+      "lemma": "strong:G4771 lemma.TR:σου",
+      "morph": "robinson:P-2GS",
+      "strongs": [
+        "G4771"
+      ],
+      "metadata": {
+        "src": "22"
+      },
+      "gematria": {
+        "standard": 38,
+        "ordinal": 10,
+        "reduced": 20
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 1114,
+    "ordinal": 287,
+    "reduced": 502
+  }
+}

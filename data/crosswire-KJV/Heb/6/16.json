@@ -1,0 +1,351 @@
+{
+  "text": "For men verily swear by the greater: and an oath for confirmation is to them an end of all strife.",
+  "words": [
+    {
+      "position": 1,
+      "text": "For",
+      "lemma": "strong:G1063 lemma.TR:γαρ",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G1063"
+      ],
+      "metadata": {
+        "src": "3"
+      },
+      "gematria": {
+        "standard": 39,
+        "ordinal": 6,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 2,
+      "text": "men",
+      "lemma": "strong:G444 lemma.TR:ανθρωποι",
+      "morph": "robinson:N-NPM",
+      "strongs": [
+        "G444"
+      ],
+      "metadata": {
+        "src": "1"
+      },
+      "gematria": {
+        "standard": 32,
+        "ordinal": 6,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 3,
+      "text": "verily",
+      "lemma": "strong:G3303 lemma.TR:μεν",
+      "morph": "robinson:PRT",
+      "strongs": [
+        "G3303"
+      ],
+      "metadata": {
+        "src": "2"
+      },
+      "gematria": {
+        "standard": 91,
+        "ordinal": 21,
+        "reduced": 37
+      }
+    },
+    {
+      "position": 4,
+      "text": "swear",
+      "lemma": "strong:G3660 lemma.TR:ομνυουσιν",
+      "morph": "robinson:V-PAI-3P",
+      "strongs": [
+        "G3660"
+      ],
+      "metadata": {
+        "src": "7"
+      },
+      "gematria": {
+        "standard": 66,
+        "ordinal": 15,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 5,
+      "text": "by",
+      "lemma": "strong:G2596 lemma.TR:κατα",
+      "morph": "robinson:PREP",
+      "strongs": [
+        "G2596"
+      ],
+      "metadata": {
+        "src": "4"
+      },
+      "gematria": {
+        "standard": 27,
+        "ordinal": 3,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 6,
+      "text": "the",
+      "lemma": "strong:G3173 lemma.TR:μειζονος",
+      "morph": "robinson:A-GSM-C",
+      "strongs": [
+        "G3173"
+      ],
+      "metadata": {
+        "src": "6"
+      },
+      "gematria": {
+        "standard": 33,
+        "ordinal": 6,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 7,
+      "text": "greater:",
+      "lemma": "strong:G3173 lemma.TR:μειζονος",
+      "morph": "robinson:A-GSM-C",
+      "strongs": [
+        "G3173"
+      ],
+      "metadata": {
+        "src": "6"
+      },
+      "gematria": {
+        "standard": 74,
+        "ordinal": 28,
+        "reduced": 38
+      }
+    },
+    {
+      "position": 8,
+      "text": "and",
+      "lemma": "strong:G2532 lemma.TR:και",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G2532"
+      ],
+      "metadata": {
+        "src": "8"
+      },
+      "gematria": {
+        "standard": 19,
+        "ordinal": 6,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 9,
+      "text": "an",
+      "lemma": "strong:G3588 strong:G3727 lemma.TR:ο lemma.TR:ορκος",
+      "morph": "robinson:T-NSM robinson:N-NSM",
+      "strongs": [
+        "G3588",
+        "G3727"
+      ],
+      "metadata": {
+        "src": "15 16"
+      },
+      "gematria": {
+        "standard": 15,
+        "ordinal": 3,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 10,
+      "text": "oath",
+      "lemma": "strong:G3588 strong:G3727 lemma.TR:ο lemma.TR:ορκος",
+      "morph": "robinson:T-NSM robinson:N-NSM",
+      "strongs": [
+        "G3588",
+        "G3727"
+      ],
+      "metadata": {
+        "src": "15 16"
+      },
+      "gematria": {
+        "standard": 44,
+        "ordinal": 10,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 11,
+      "text": "for",
+      "lemma": "strong:G1519 lemma.TR:εις",
+      "morph": "robinson:PREP",
+      "strongs": [
+        "G1519"
+      ],
+      "metadata": {
+        "src": "13"
+      },
+      "gematria": {
+        "standard": 39,
+        "ordinal": 6,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 12,
+      "text": "confirmation",
+      "lemma": "strong:G951 lemma.TR:βεβαιωσιν",
+      "morph": "robinson:N-ASF",
+      "strongs": [
+        "G951"
+      ],
+      "metadata": {
+        "src": "14"
+      },
+      "gematria": {
+        "standard": 137,
+        "ordinal": 78,
+        "reduced": 65
+      }
+    },
+    {
+      "position": 13,
+      "text": "is",
+      "lemma": null,
+      "morph": null,
+      "metadata": {
+        "type": "added"
+      },
+      "gematria": {
+        "standard": 28,
+        "ordinal": 3,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 14,
+      "text": "to",
+      "lemma": "strong:G846 lemma.TR:αυτοις",
+      "morph": "robinson:P-DPM",
+      "strongs": [
+        "G846"
+      ],
+      "metadata": {
+        "src": "10"
+      },
+      "gematria": {
+        "standard": 35,
+        "ordinal": 3,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 15,
+      "text": "them",
+      "lemma": "strong:G846 lemma.TR:αυτοις",
+      "morph": "robinson:P-DPM",
+      "strongs": [
+        "G846"
+      ],
+      "metadata": {
+        "src": "10"
+      },
+      "gematria": {
+        "standard": 46,
+        "ordinal": 10,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 16,
+      "text": "an",
+      "lemma": "strong:G4009 lemma.TR:περας",
+      "morph": "robinson:N-NSN",
+      "strongs": [
+        "G4009"
+      ],
+      "metadata": {
+        "src": "12"
+      },
+      "gematria": {
+        "standard": 15,
+        "ordinal": 3,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 17,
+      "text": "end",
+      "lemma": "strong:G4009 lemma.TR:περας",
+      "morph": "robinson:N-NSN",
+      "strongs": [
+        "G4009"
+      ],
+      "metadata": {
+        "src": "12"
+      },
+      "gematria": {
+        "standard": 23,
+        "ordinal": 6,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 18,
+      "text": "of",
+      "lemma": "strong:G485 lemma.TR:αντιλογιας",
+      "morph": "robinson:N-GSF",
+      "strongs": [
+        "G485"
+      ],
+      "metadata": {
+        "src": "11",
+        "type": "x-split-3392"
+      },
+      "gematria": {
+        "standard": 21,
+        "ordinal": 3,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 19,
+      "text": "all",
+      "lemma": "strong:G3956 lemma.TR:πασης",
+      "morph": "robinson:A-GSF",
+      "strongs": [
+        "G3956"
+      ],
+      "metadata": {
+        "src": "9"
+      },
+      "gematria": {
+        "standard": 25,
+        "ordinal": 6,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 20,
+      "text": "strife.",
+      "lemma": "strong:G485 lemma.TR:αντιλογιας",
+      "morph": "robinson:N-GSF",
+      "strongs": [
+        "G485"
+      ],
+      "metadata": {
+        "src": "11",
+        "type": "x-split-3392"
+      },
+      "gematria": {
+        "standard": 77,
+        "ordinal": 21,
+        "reduced": 32
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 886,
+    "ordinal": 243,
+    "reduced": 382
+  }
+}

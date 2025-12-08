@@ -1,0 +1,385 @@
+{
+  "text": "For whosoever shall do the will of my Father which is in heaven, the same is my brother, and sister, and mother.",
+  "words": [
+    {
+      "position": 1,
+      "text": "For",
+      "lemma": "strong:G1063 lemma.TR:γαρ",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G1063"
+      ],
+      "metadata": {
+        "src": "2"
+      },
+      "gematria": {
+        "standard": 39,
+        "ordinal": 6,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 2,
+      "text": "whosoever",
+      "lemma": "strong:G3748 strong:G302 lemma.TR:οστις lemma.TR:αν",
+      "morph": "robinson:R-NSM robinson:PRT",
+      "strongs": [
+        "G3748",
+        "G302"
+      ],
+      "metadata": {
+        "src": "1 3"
+      },
+      "gematria": {
+        "standard": 130,
+        "ordinal": 45,
+        "reduced": 49
+      }
+    },
+    {
+      "position": 3,
+      "text": "shall",
+      "lemma": "strong:G4160 lemma.TR:ποιηση",
+      "morph": "robinson:V-AAS-3S",
+      "strongs": [
+        "G4160"
+      ],
+      "metadata": {
+        "src": "4"
+      },
+      "gematria": {
+        "standard": 52,
+        "ordinal": 15,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 4,
+      "text": "do",
+      "lemma": "strong:G4160 lemma.TR:ποιηση",
+      "morph": "robinson:V-AAS-3S",
+      "strongs": [
+        "G4160"
+      ],
+      "metadata": {
+        "src": "4"
+      },
+      "gematria": {
+        "standard": 19,
+        "ordinal": 3,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 5,
+      "text": "the",
+      "lemma": "strong:G3588 strong:G2307 lemma.TR:το lemma.TR:θελημα",
+      "morph": "robinson:T-ASN robinson:N-ASN",
+      "strongs": [
+        "G3588",
+        "G2307"
+      ],
+      "metadata": {
+        "src": "5 6"
+      },
+      "gematria": {
+        "standard": 33,
+        "ordinal": 6,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 6,
+      "text": "will",
+      "lemma": "strong:G3588 strong:G2307 lemma.TR:το lemma.TR:θελημα",
+      "morph": "robinson:T-ASN robinson:N-ASN",
+      "strongs": [
+        "G3588",
+        "G2307"
+      ],
+      "metadata": {
+        "src": "5 6"
+      },
+      "gematria": {
+        "standard": 56,
+        "ordinal": 10,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 7,
+      "text": "of",
+      "lemma": "strong:G3588 strong:G3962 lemma.TR:του lemma.TR:πατρος",
+      "morph": "robinson:T-GSM robinson:N-GSM",
+      "strongs": [
+        "G3588",
+        "G3962"
+      ],
+      "metadata": {
+        "src": "7 8",
+        "type": "x-split-600"
+      },
+      "gematria": {
+        "standard": 21,
+        "ordinal": 3,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 8,
+      "text": "my",
+      "lemma": "strong:G1473 lemma.TR:μου",
+      "morph": "robinson:P-1GS",
+      "strongs": [
+        "G1473"
+      ],
+      "metadata": {
+        "src": "9"
+      },
+      "gematria": {
+        "standard": 38,
+        "ordinal": 3,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 9,
+      "text": "Father",
+      "lemma": "strong:G3588 strong:G3962 lemma.TR:του lemma.TR:πατρος",
+      "morph": "robinson:T-GSM robinson:N-GSM",
+      "strongs": [
+        "G3588",
+        "G3962"
+      ],
+      "metadata": {
+        "src": "7 8",
+        "type": "x-split-600"
+      },
+      "gematria": {
+        "standard": 58,
+        "ordinal": 21,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 10,
+      "text": "which",
+      "lemma": "strong:G3588 lemma.TR:του",
+      "morph": "robinson:T-GSM",
+      "strongs": [
+        "G3588"
+      ],
+      "metadata": {
+        "src": "10"
+      },
+      "gematria": {
+        "standard": 51,
+        "ordinal": 15,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 11,
+      "text": "is",
+      "lemma": "strong:G3588 lemma.TR:του",
+      "morph": "robinson:T-GSM",
+      "strongs": [
+        "G3588"
+      ],
+      "metadata": {
+        "src": "10"
+      },
+      "gematria": {
+        "standard": 28,
+        "ordinal": 3,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 12,
+      "text": "in",
+      "lemma": "strong:G1722 lemma.TR:εν",
+      "morph": "robinson:PREP",
+      "strongs": [
+        "G1722"
+      ],
+      "metadata": {
+        "src": "11"
+      },
+      "gematria": {
+        "standard": 23,
+        "ordinal": 3,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 13,
+      "text": "heaven,",
+      "lemma": "strong:G3772 lemma.TR:ουρανοις",
+      "morph": "robinson:N-DPM",
+      "strongs": [
+        "G3772"
+      ],
+      "metadata": {
+        "src": "12"
+      },
+      "gematria": {
+        "standard": 55,
+        "ordinal": 21,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 14,
+      "text": "the",
+      "lemma": "strong:G846 lemma.TR:αυτος",
+      "morph": "robinson:P-NSM",
+      "strongs": [
+        "G846"
+      ],
+      "metadata": {
+        "src": "13"
+      },
+      "gematria": {
+        "standard": 33,
+        "ordinal": 6,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 15,
+      "text": "same",
+      "lemma": "strong:G846 lemma.TR:αυτος",
+      "morph": "robinson:P-NSM",
+      "strongs": [
+        "G846"
+      ],
+      "metadata": {
+        "src": "13"
+      },
+      "gematria": {
+        "standard": 38,
+        "ordinal": 10,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 16,
+      "text": "is",
+      "lemma": "strong:G1510 lemma.TR:εστιν",
+      "morph": "robinson:V-PAI-3S",
+      "strongs": [
+        "G1510"
+      ],
+      "metadata": {
+        "src": "20"
+      },
+      "gematria": {
+        "standard": 28,
+        "ordinal": 3,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 17,
+      "text": "my",
+      "lemma": "strong:G1473 lemma.TR:μου",
+      "morph": "robinson:P-1GS",
+      "strongs": [
+        "G1473"
+      ],
+      "metadata": {
+        "src": "14"
+      },
+      "gematria": {
+        "standard": 38,
+        "ordinal": 3,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 18,
+      "text": "brother,",
+      "lemma": "strong:G80 lemma.TR:αδελφος",
+      "morph": "robinson:N-NSM",
+      "metadata": {
+        "src": "15"
+      },
+      "gematria": {
+        "standard": 86,
+        "ordinal": 28,
+        "reduced": 41
+      }
+    },
+    {
+      "position": 19,
+      "text": "and",
+      "lemma": "strong:G2532 lemma.TR:και",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G2532"
+      ],
+      "metadata": {
+        "src": "16"
+      },
+      "gematria": {
+        "standard": 19,
+        "ordinal": 6,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 20,
+      "text": "sister,",
+      "lemma": "strong:G79 lemma.TR:αδελφη",
+      "morph": "robinson:N-NSF",
+      "metadata": {
+        "src": "17"
+      },
+      "gematria": {
+        "standard": 90,
+        "ordinal": 21,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 21,
+      "text": "and",
+      "lemma": "strong:G2532 lemma.TR:και",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G2532"
+      ],
+      "metadata": {
+        "src": "18"
+      },
+      "gematria": {
+        "standard": 19,
+        "ordinal": 6,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 22,
+      "text": "mother.",
+      "lemma": "strong:G3384 lemma.TR:μητηρ",
+      "morph": "robinson:N-NSF",
+      "strongs": [
+        "G3384"
+      ],
+      "metadata": {
+        "src": "19"
+      },
+      "gematria": {
+        "standard": 79,
+        "ordinal": 21,
+        "reduced": 34
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 1033,
+    "ordinal": 258,
+    "reduced": 439
+  }
+}

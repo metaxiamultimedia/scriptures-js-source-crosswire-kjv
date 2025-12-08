@@ -1,0 +1,748 @@
+{
+  "text": "He is like a man which built an house, and digged deep, and laid the foundation on a rock: and when the flood arose, the stream beat vehemently upon that house, and could not shake it: for it was founded upon a rock.",
+  "words": [
+    {
+      "position": 1,
+      "text": "He",
+      "lemma": "strong:G1510 lemma.TR:εστιν",
+      "morph": "robinson:V-PAI-3S",
+      "strongs": [
+        "G1510"
+      ],
+      "metadata": {
+        "src": "2"
+      },
+      "gematria": {
+        "standard": 13,
+        "ordinal": 3,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 2,
+      "text": "is",
+      "lemma": "strong:G1510 lemma.TR:εστιν",
+      "morph": "robinson:V-PAI-3S",
+      "strongs": [
+        "G1510"
+      ],
+      "metadata": {
+        "src": "2"
+      },
+      "gematria": {
+        "standard": 28,
+        "ordinal": 3,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 3,
+      "text": "like",
+      "lemma": "strong:G3664 lemma.TR:ομοιος",
+      "morph": "robinson:A-NSM",
+      "strongs": [
+        "G3664"
+      ],
+      "metadata": {
+        "src": "1"
+      },
+      "gematria": {
+        "standard": 37,
+        "ordinal": 10,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 4,
+      "text": "a",
+      "lemma": "strong:G444 lemma.TR:ανθρωπω",
+      "morph": "robinson:N-DSM",
+      "strongs": [
+        "G444"
+      ],
+      "metadata": {
+        "src": "3"
+      },
+      "gematria": {
+        "standard": 1,
+        "ordinal": 1,
+        "reduced": 1
+      }
+    },
+    {
+      "position": 5,
+      "text": "man",
+      "lemma": "strong:G444 lemma.TR:ανθρωπω",
+      "morph": "robinson:N-DSM",
+      "strongs": [
+        "G444"
+      ],
+      "metadata": {
+        "src": "3"
+      },
+      "gematria": {
+        "standard": 28,
+        "ordinal": 6,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 6,
+      "text": "which",
+      "lemma": "strong:G3739 lemma.TR:ος",
+      "morph": "robinson:R-NSM",
+      "strongs": [
+        "G3739"
+      ],
+      "metadata": {
+        "src": "6"
+      },
+      "gematria": {
+        "standard": 51,
+        "ordinal": 15,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 7,
+      "text": "built",
+      "lemma": "strong:G3618 lemma.TR:οικοδομουντι",
+      "morph": "robinson:V-PAP-DSM",
+      "strongs": [
+        "G3618"
+      ],
+      "metadata": {
+        "src": "4"
+      },
+      "gematria": {
+        "standard": 64,
+        "ordinal": 15,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 8,
+      "text": "an",
+      "lemma": "strong:G3618 lemma.TR:οικοδομουντι",
+      "morph": "robinson:V-PAP-DSM",
+      "strongs": [
+        "G3618"
+      ],
+      "metadata": {
+        "src": "4"
+      },
+      "gematria": {
+        "standard": 15,
+        "ordinal": 3,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 9,
+      "text": "house,",
+      "lemma": "strong:G3614 lemma.TR:οικιαν",
+      "morph": "robinson:N-ASF",
+      "strongs": [
+        "G3614"
+      ],
+      "metadata": {
+        "src": "5"
+      },
+      "gematria": {
+        "standard": 68,
+        "ordinal": 15,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 10,
+      "text": "and",
+      "lemma": "strong:G2532 lemma.TR:και",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G2532"
+      ],
+      "metadata": {
+        "src": "8"
+      },
+      "gematria": {
+        "standard": 19,
+        "ordinal": 6,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 11,
+      "text": "digged",
+      "lemma": "strong:G4626 lemma.TR:εσκαψεν",
+      "morph": "robinson:V-AAI-3S",
+      "strongs": [
+        "G4626"
+      ],
+      "metadata": {
+        "src": "7"
+      },
+      "gematria": {
+        "standard": 36,
+        "ordinal": 21,
+        "reduced": 36
+      }
+    },
+    {
+      "position": 12,
+      "text": "deep,",
+      "lemma": "strong:G900 lemma.TR:εβαθυνεν",
+      "morph": "robinson:V-AAI-3S",
+      "strongs": [
+        "G900"
+      ],
+      "metadata": {
+        "src": "9"
+      },
+      "gematria": {
+        "standard": 30,
+        "ordinal": 10,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 13,
+      "text": "and",
+      "lemma": "strong:G2532 lemma.TR:και",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G2532"
+      ],
+      "metadata": {
+        "src": "10"
+      },
+      "gematria": {
+        "standard": 19,
+        "ordinal": 6,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 14,
+      "text": "laid",
+      "lemma": "strong:G5087 lemma.TR:εθηκεν",
+      "morph": "robinson:V-AAI-3S",
+      "strongs": [
+        "G5087"
+      ],
+      "metadata": {
+        "src": "11"
+      },
+      "gematria": {
+        "standard": 26,
+        "ordinal": 10,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 15,
+      "text": "the",
+      "lemma": "strong:G2310 lemma.TR:θεμελιον",
+      "morph": "robinson:N-ASM",
+      "strongs": [
+        "G2310"
+      ],
+      "metadata": {
+        "src": "12"
+      },
+      "gematria": {
+        "standard": 33,
+        "ordinal": 6,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 16,
+      "text": "foundation",
+      "lemma": "strong:G2310 lemma.TR:θεμελιον",
+      "morph": "robinson:N-ASM",
+      "strongs": [
+        "G2310"
+      ],
+      "metadata": {
+        "src": "12"
+      },
+      "gematria": {
+        "standard": 119,
+        "ordinal": 55,
+        "reduced": 47
+      }
+    },
+    {
+      "position": 17,
+      "text": "on",
+      "lemma": "strong:G1909 lemma.TR:επι",
+      "morph": "robinson:PREP",
+      "strongs": [
+        "G1909"
+      ],
+      "metadata": {
+        "src": "13"
+      },
+      "gematria": {
+        "standard": 29,
+        "ordinal": 3,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 18,
+      "text": "a",
+      "lemma": "strong:G3588 strong:G4073 lemma.TR:την lemma.TR:πετραν",
+      "morph": "robinson:T-ASF robinson:N-ASF",
+      "strongs": [
+        "G3588",
+        "G4073"
+      ],
+      "metadata": {
+        "src": "14 15"
+      },
+      "gematria": {
+        "standard": 1,
+        "ordinal": 1,
+        "reduced": 1
+      }
+    },
+    {
+      "position": 19,
+      "text": "rock:",
+      "lemma": "strong:G3588 strong:G4073 lemma.TR:την lemma.TR:πετραν",
+      "morph": "robinson:T-ASF robinson:N-ASF",
+      "strongs": [
+        "G3588",
+        "G4073"
+      ],
+      "metadata": {
+        "src": "14 15"
+      },
+      "gematria": {
+        "standard": 47,
+        "ordinal": 10,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 20,
+      "text": "and",
+      "lemma": "strong:G1161 lemma.TR:δε",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G1161"
+      ],
+      "metadata": {
+        "src": "17"
+      },
+      "gematria": {
+        "standard": 19,
+        "ordinal": 6,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 21,
+      "text": "when",
+      "lemma": "strong:G4132 lemma.TR:πλημμυρας",
+      "morph": "robinson:N-GSF",
+      "strongs": [
+        "G4132"
+      ],
+      "metadata": {
+        "src": "16"
+      },
+      "gematria": {
+        "standard": 50,
+        "ordinal": 10,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 22,
+      "text": "the",
+      "lemma": "strong:G4132 lemma.TR:πλημμυρας",
+      "morph": "robinson:N-GSF",
+      "strongs": [
+        "G4132"
+      ],
+      "metadata": {
+        "src": "16"
+      },
+      "gematria": {
+        "standard": 33,
+        "ordinal": 6,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 23,
+      "text": "flood",
+      "lemma": "strong:G4132 lemma.TR:πλημμυρας",
+      "morph": "robinson:N-GSF",
+      "strongs": [
+        "G4132"
+      ],
+      "metadata": {
+        "src": "16"
+      },
+      "gematria": {
+        "standard": 52,
+        "ordinal": 15,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 24,
+      "text": "arose,",
+      "lemma": "strong:G1096 lemma.TR:γενομενης",
+      "morph": "robinson:V-2ADP-GSF",
+      "strongs": [
+        "G1096"
+      ],
+      "metadata": {
+        "src": "18"
+      },
+      "gematria": {
+        "standard": 58,
+        "ordinal": 15,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 25,
+      "text": "the",
+      "lemma": "strong:G3588 strong:G4215 lemma.TR:ο lemma.TR:ποταμος",
+      "morph": "robinson:T-NSM robinson:N-NSM",
+      "strongs": [
+        "G3588",
+        "G4215"
+      ],
+      "metadata": {
+        "src": "20 21"
+      },
+      "gematria": {
+        "standard": 33,
+        "ordinal": 6,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 26,
+      "text": "stream",
+      "lemma": "strong:G3588 strong:G4215 lemma.TR:ο lemma.TR:ποταμος",
+      "morph": "robinson:T-NSM robinson:N-NSM",
+      "strongs": [
+        "G3588",
+        "G4215"
+      ],
+      "metadata": {
+        "src": "20 21"
+      },
+      "gematria": {
+        "standard": 76,
+        "ordinal": 21,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 27,
+      "text": "beat",
+      "lemma": "strong:G4366 lemma.TR:προσερρηξεν",
+      "morph": "robinson:V-AAI-3S",
+      "strongs": [
+        "G4366"
+      ],
+      "metadata": {
+        "src": "19"
+      },
+      "gematria": {
+        "standard": 28,
+        "ordinal": 10,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 28,
+      "text": "vehemently",
+      "lemma": "strong:G4366 lemma.TR:προσερρηξεν",
+      "morph": "robinson:V-AAI-3S",
+      "strongs": [
+        "G4366"
+      ],
+      "metadata": {
+        "src": "19"
+      },
+      "gematria": {
+        "standard": 129,
+        "ordinal": 55,
+        "reduced": 48
+      }
+    },
+    {
+      "position": 29,
+      "text": "upon",
+      "lemma": "strong:G1565 lemma.TR:εκεινη",
+      "morph": "robinson:D-DSF",
+      "strongs": [
+        "G1565"
+      ],
+      "metadata": {
+        "src": "24"
+      },
+      "gematria": {
+        "standard": 66,
+        "ordinal": 10,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 30,
+      "text": "that",
+      "lemma": "strong:G1565 lemma.TR:εκεινη",
+      "morph": "robinson:D-DSF",
+      "strongs": [
+        "G1565"
+      ],
+      "metadata": {
+        "src": "24"
+      },
+      "gematria": {
+        "standard": 49,
+        "ordinal": 10,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 31,
+      "text": "house,",
+      "lemma": "strong:G3588 strong:G3614 lemma.TR:τη lemma.TR:οικια",
+      "morph": "robinson:T-DSF robinson:N-DSF",
+      "strongs": [
+        "G3588",
+        "G3614"
+      ],
+      "metadata": {
+        "src": "22 23"
+      },
+      "gematria": {
+        "standard": 68,
+        "ordinal": 15,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 32,
+      "text": "and",
+      "lemma": "strong:G2532 lemma.TR:και",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G2532"
+      ],
+      "metadata": {
+        "src": "25"
+      },
+      "gematria": {
+        "standard": 19,
+        "ordinal": 6,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 33,
+      "text": "could",
+      "lemma": "strong:G2480 lemma.TR:ισχυσεν",
+      "morph": "robinson:V-AAI-3S",
+      "strongs": [
+        "G2480"
+      ],
+      "metadata": {
+        "src": "27"
+      },
+      "gematria": {
+        "standard": 55,
+        "ordinal": 15,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 34,
+      "text": "not",
+      "lemma": "strong:G3756 lemma.TR:ουκ",
+      "morph": "robinson:PRT-N",
+      "strongs": [
+        "G3756"
+      ],
+      "metadata": {
+        "src": "26"
+      },
+      "gematria": {
+        "standard": 49,
+        "ordinal": 6,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 35,
+      "text": "shake",
+      "lemma": "strong:G4531 lemma.TR:σαλευσαι",
+      "morph": "robinson:V-AAN",
+      "strongs": [
+        "G4531"
+      ],
+      "metadata": {
+        "src": "28"
+      },
+      "gematria": {
+        "standard": 44,
+        "ordinal": 15,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 36,
+      "text": "it:",
+      "lemma": "strong:G846 lemma.TR:αυτην",
+      "morph": "robinson:P-ASF",
+      "strongs": [
+        "G846"
+      ],
+      "metadata": {
+        "src": "29"
+      },
+      "gematria": {
+        "standard": 29,
+        "ordinal": 3,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 37,
+      "text": "for",
+      "lemma": "strong:G1063 lemma.TR:γαρ",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G1063"
+      ],
+      "metadata": {
+        "src": "31"
+      },
+      "gematria": {
+        "standard": 39,
+        "ordinal": 6,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 38,
+      "text": "it",
+      "lemma": "strong:G2311 lemma.TR:τεθεμελιωτο",
+      "morph": "robinson:V-LPI-3S",
+      "strongs": [
+        "G2311"
+      ],
+      "metadata": {
+        "src": "30"
+      },
+      "gematria": {
+        "standard": 29,
+        "ordinal": 3,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 39,
+      "text": "was",
+      "lemma": "strong:G2311 lemma.TR:τεθεμελιωτο",
+      "morph": "robinson:V-LPI-3S",
+      "strongs": [
+        "G2311"
+      ],
+      "metadata": {
+        "src": "30"
+      },
+      "gematria": {
+        "standard": 43,
+        "ordinal": 6,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 40,
+      "text": "founded",
+      "lemma": "strong:G2311 lemma.TR:τεθεμελιωτο",
+      "morph": "robinson:V-LPI-3S",
+      "strongs": [
+        "G2311"
+      ],
+      "metadata": {
+        "src": "30"
+      },
+      "gematria": {
+        "standard": 69,
+        "ordinal": 28,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 41,
+      "text": "upon",
+      "lemma": "strong:G1909 lemma.TR:επι",
+      "morph": "robinson:PREP",
+      "strongs": [
+        "G1909"
+      ],
+      "metadata": {
+        "src": "32"
+      },
+      "gematria": {
+        "standard": 66,
+        "ordinal": 10,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 42,
+      "text": "a",
+      "lemma": "strong:G3588 strong:G4073 lemma.TR:την lemma.TR:πετραν",
+      "morph": "robinson:T-ASF robinson:N-ASF",
+      "strongs": [
+        "G3588",
+        "G4073"
+      ],
+      "metadata": {
+        "src": "33 34"
+      },
+      "gematria": {
+        "standard": 1,
+        "ordinal": 1,
+        "reduced": 1
+      }
+    },
+    {
+      "position": 43,
+      "text": "rock.",
+      "lemma": "strong:G3588 strong:G4073 lemma.TR:την lemma.TR:πετραν",
+      "morph": "robinson:T-ASF robinson:N-ASF",
+      "strongs": [
+        "G3588",
+        "G4073"
+      ],
+      "metadata": {
+        "src": "33 34"
+      },
+      "gematria": {
+        "standard": 47,
+        "ordinal": 10,
+        "reduced": 20
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 1815,
+    "ordinal": 487,
+    "reduced": 753
+  }
+}

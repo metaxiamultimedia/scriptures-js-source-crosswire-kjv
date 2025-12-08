@@ -1,0 +1,400 @@
+{
+  "text": "And if any man say ought unto you, ye shall say, The Lord hath need of them; and straightway he will send them.",
+  "words": [
+    {
+      "position": 1,
+      "text": "And",
+      "lemma": "strong:G2532 lemma.TR:και",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G2532"
+      ],
+      "metadata": {
+        "src": "1"
+      },
+      "gematria": {
+        "standard": 19,
+        "ordinal": 6,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 2,
+      "text": "if",
+      "lemma": "strong:G1437 lemma.TR:εαν",
+      "morph": "robinson:COND",
+      "strongs": [
+        "G1437"
+      ],
+      "metadata": {
+        "src": "2"
+      },
+      "gematria": {
+        "standard": 15,
+        "ordinal": 3,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 3,
+      "text": "any",
+      "lemma": "strong:G5100 lemma.TR:τις",
+      "morph": "robinson:X-NSM",
+      "strongs": [
+        "G5100"
+      ],
+      "metadata": {
+        "src": "3"
+      },
+      "gematria": {
+        "standard": 40,
+        "ordinal": 6,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 4,
+      "text": "man",
+      "lemma": null,
+      "morph": null,
+      "metadata": {
+        "type": "added"
+      },
+      "gematria": {
+        "standard": 28,
+        "ordinal": 6,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 5,
+      "text": "say",
+      "lemma": "strong:G3004 lemma.TR:ειπη",
+      "morph": "robinson:V-2AAS-3S",
+      "strongs": [
+        "G3004"
+      ],
+      "metadata": {
+        "src": "5"
+      },
+      "gematria": {
+        "standard": 45,
+        "ordinal": 6,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 6,
+      "text": "ought",
+      "lemma": "strong:G5100 lemma.TR:τι",
+      "morph": "robinson:X-ASN",
+      "strongs": [
+        "G5100"
+      ],
+      "metadata": {
+        "src": "6"
+      },
+      "gematria": {
+        "standard": 71,
+        "ordinal": 15,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 7,
+      "text": "unto",
+      "lemma": "strong:G4771 lemma.TR:υμιν",
+      "morph": "robinson:P-2DP",
+      "strongs": [
+        "G4771"
+      ],
+      "metadata": {
+        "src": "4"
+      },
+      "gematria": {
+        "standard": 70,
+        "ordinal": 10,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 8,
+      "text": "you,",
+      "lemma": "strong:G4771 lemma.TR:υμιν",
+      "morph": "robinson:P-2DP",
+      "strongs": [
+        "G4771"
+      ],
+      "metadata": {
+        "src": "4"
+      },
+      "gematria": {
+        "standard": 61,
+        "ordinal": 6,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 9,
+      "text": "ye",
+      "lemma": "strong:G2046 lemma.TR:ερειτε",
+      "morph": "robinson:V-FAI-2P",
+      "strongs": [
+        "G2046"
+      ],
+      "metadata": {
+        "src": "7"
+      },
+      "gematria": {
+        "standard": 30,
+        "ordinal": 3,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 10,
+      "text": "shall",
+      "lemma": "strong:G2046 lemma.TR:ερειτε",
+      "morph": "robinson:V-FAI-2P",
+      "strongs": [
+        "G2046"
+      ],
+      "metadata": {
+        "src": "7"
+      },
+      "gematria": {
+        "standard": 52,
+        "ordinal": 15,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 11,
+      "text": "say,",
+      "lemma": "strong:G2046 lemma.TR:ερειτε",
+      "morph": "robinson:V-FAI-2P",
+      "strongs": [
+        "G2046"
+      ],
+      "metadata": {
+        "src": "7"
+      },
+      "gematria": {
+        "standard": 45,
+        "ordinal": 6,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 12,
+      "text": "The",
+      "lemma": "strong:G3588 strong:G2962 lemma.TR:ο lemma.TR:κυριος",
+      "morph": "robinson:T-NSM robinson:N-NSM",
+      "strongs": [
+        "G3588",
+        "G2962"
+      ],
+      "metadata": {
+        "src": "9 10"
+      },
+      "gematria": {
+        "standard": 33,
+        "ordinal": 6,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 13,
+      "text": "Lord",
+      "lemma": "strong:G3588 strong:G2962 lemma.TR:ο lemma.TR:κυριος",
+      "morph": "robinson:T-NSM robinson:N-NSM",
+      "strongs": [
+        "G3588",
+        "G2962"
+      ],
+      "metadata": {
+        "src": "9 10"
+      },
+      "gematria": {
+        "standard": 49,
+        "ordinal": 10,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 14,
+      "text": "hath",
+      "lemma": "strong:G2192 lemma.TR:εχει",
+      "morph": "robinson:V-PAI-3S",
+      "strongs": [
+        "G2192"
+      ],
+      "metadata": {
+        "src": "13"
+      },
+      "gematria": {
+        "standard": 37,
+        "ordinal": 10,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 15,
+      "text": "need",
+      "lemma": "strong:G5532 lemma.TR:χρειαν",
+      "morph": "robinson:N-ASF",
+      "strongs": [
+        "G5532"
+      ],
+      "metadata": {
+        "src": "12"
+      },
+      "gematria": {
+        "standard": 28,
+        "ordinal": 10,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 16,
+      "text": "of",
+      "lemma": "strong:G846 lemma.TR:αυτων",
+      "morph": "robinson:P-GPM",
+      "strongs": [
+        "G846"
+      ],
+      "metadata": {
+        "src": "11"
+      },
+      "gematria": {
+        "standard": 21,
+        "ordinal": 3,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 17,
+      "text": "them;",
+      "lemma": "strong:G846 lemma.TR:αυτων",
+      "morph": "robinson:P-GPM",
+      "strongs": [
+        "G846"
+      ],
+      "metadata": {
+        "src": "11"
+      },
+      "gematria": {
+        "standard": 46,
+        "ordinal": 10,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 18,
+      "text": "and",
+      "lemma": "strong:G1161 lemma.TR:δε",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G1161"
+      ],
+      "metadata": {
+        "src": "15"
+      },
+      "gematria": {
+        "standard": 19,
+        "ordinal": 6,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 19,
+      "text": "straightway",
+      "lemma": "strong:G2112 lemma.TR:ευθεως",
+      "morph": "robinson:ADV",
+      "strongs": [
+        "G2112"
+      ],
+      "metadata": {
+        "src": "14"
+      },
+      "gematria": {
+        "standard": 151,
+        "ordinal": 66,
+        "reduced": 52
+      }
+    },
+    {
+      "position": 20,
+      "text": "he",
+      "lemma": "strong:G649 lemma.TR:αποστελει",
+      "morph": "robinson:V-FAI-3S",
+      "strongs": [
+        "G649"
+      ],
+      "metadata": {
+        "src": "16"
+      },
+      "gematria": {
+        "standard": 13,
+        "ordinal": 3,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 21,
+      "text": "will",
+      "lemma": "strong:G649 lemma.TR:αποστελει",
+      "morph": "robinson:V-FAI-3S",
+      "strongs": [
+        "G649"
+      ],
+      "metadata": {
+        "src": "16"
+      },
+      "gematria": {
+        "standard": 56,
+        "ordinal": 10,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 22,
+      "text": "send",
+      "lemma": "strong:G649 lemma.TR:αποστελει",
+      "morph": "robinson:V-FAI-3S",
+      "strongs": [
+        "G649"
+      ],
+      "metadata": {
+        "src": "16"
+      },
+      "gematria": {
+        "standard": 42,
+        "ordinal": 10,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 23,
+      "text": "them.",
+      "lemma": "strong:G846 lemma.TR:αυτους",
+      "morph": "robinson:P-APM",
+      "strongs": [
+        "G846"
+      ],
+      "metadata": {
+        "src": "17"
+      },
+      "gematria": {
+        "standard": 46,
+        "ordinal": 10,
+        "reduced": 19
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 1017,
+    "ordinal": 236,
+    "reduced": 387
+  }
+}

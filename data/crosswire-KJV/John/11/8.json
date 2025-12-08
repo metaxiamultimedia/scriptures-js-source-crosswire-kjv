@@ -1,0 +1,331 @@
+{
+  "text": "His disciples say unto him, Master, the Jews of late sought to stone thee; and goest thou thither again?",
+  "words": [
+    {
+      "position": 1,
+      "text": "His",
+      "lemma": null,
+      "morph": null,
+      "metadata": {
+        "type": "added"
+      },
+      "gematria": {
+        "standard": 36,
+        "ordinal": 6,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 2,
+      "text": "disciples",
+      "lemma": "strong:G3588 strong:G3101 lemma.TR:οι lemma.TR:μαθηται",
+      "morph": "robinson:T-NPM robinson:N-NPM",
+      "strongs": [
+        "G3588",
+        "G3101"
+      ],
+      "metadata": {
+        "src": "3 4"
+      },
+      "gematria": {
+        "standard": 96,
+        "ordinal": 45,
+        "reduced": 42
+      }
+    },
+    {
+      "position": 3,
+      "text": "say",
+      "lemma": "strong:G3004 lemma.TR:λεγουσιν",
+      "morph": "robinson:V-PAI-3P",
+      "strongs": [
+        "G3004"
+      ],
+      "metadata": {
+        "src": "1"
+      },
+      "gematria": {
+        "standard": 45,
+        "ordinal": 6,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 4,
+      "text": "unto",
+      "lemma": "strong:G846 lemma.TR:αυτω",
+      "morph": "robinson:P-DSM",
+      "strongs": [
+        "G846"
+      ],
+      "metadata": {
+        "src": "2"
+      },
+      "gematria": {
+        "standard": 70,
+        "ordinal": 10,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 5,
+      "text": "him,",
+      "lemma": "strong:G846 lemma.TR:αυτω",
+      "morph": "robinson:P-DSM",
+      "strongs": [
+        "G846"
+      ],
+      "metadata": {
+        "src": "2"
+      },
+      "gematria": {
+        "standard": 30,
+        "ordinal": 6,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 6,
+      "text": "Master,",
+      "lemma": "strong:G4461 lemma.TR:ραββι",
+      "morph": "robinson:HEB",
+      "strongs": [
+        "G4461"
+      ],
+      "metadata": {
+        "src": "5"
+      },
+      "gematria": {
+        "standard": 76,
+        "ordinal": 21,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 7,
+      "text": "the",
+      "lemma": "strong:G2453 lemma.TR:ιουδαιοι",
+      "morph": "robinson:A-NPM",
+      "strongs": [
+        "G2453"
+      ],
+      "metadata": {
+        "src": "11"
+      },
+      "gematria": {
+        "standard": 33,
+        "ordinal": 6,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 8,
+      "text": "Jews",
+      "lemma": "strong:G2453 lemma.TR:ιουδαιοι",
+      "morph": "robinson:A-NPM",
+      "strongs": [
+        "G2453"
+      ],
+      "metadata": {
+        "src": "11"
+      },
+      "gematria": {
+        "standard": 57,
+        "ordinal": 10,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 9,
+      "text": "of",
+      "lemma": "strong:G3568 lemma.TR:νυν",
+      "morph": "robinson:ADV",
+      "strongs": [
+        "G3568"
+      ],
+      "metadata": {
+        "src": "6"
+      },
+      "gematria": {
+        "standard": 21,
+        "ordinal": 3,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 10,
+      "text": "late",
+      "lemma": "strong:G3568 lemma.TR:νυν",
+      "morph": "robinson:ADV",
+      "strongs": [
+        "G3568"
+      ],
+      "metadata": {
+        "src": "6"
+      },
+      "gematria": {
+        "standard": 38,
+        "ordinal": 10,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 11,
+      "text": "sought",
+      "lemma": "strong:G2212 lemma.TR:εζητουν",
+      "morph": "robinson:V-IAI-3P",
+      "strongs": [
+        "G2212"
+      ],
+      "metadata": {
+        "src": "7"
+      },
+      "gematria": {
+        "standard": 90,
+        "ordinal": 21,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 12,
+      "text": "to",
+      "lemma": "strong:G3034 lemma.TR:λιθασαι",
+      "morph": "robinson:V-AAN",
+      "strongs": [
+        "G3034"
+      ],
+      "metadata": {
+        "src": "9"
+      },
+      "gematria": {
+        "standard": 35,
+        "ordinal": 3,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 13,
+      "text": "stone",
+      "lemma": "strong:G3034 lemma.TR:λιθασαι",
+      "morph": "robinson:V-AAN",
+      "strongs": [
+        "G3034"
+      ],
+      "metadata": {
+        "src": "9"
+      },
+      "gematria": {
+        "standard": 73,
+        "ordinal": 15,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 14,
+      "text": "thee;",
+      "lemma": "strong:G4771 lemma.TR:σε",
+      "morph": "robinson:P-2AS",
+      "strongs": [
+        "G4771"
+      ],
+      "metadata": {
+        "src": "8"
+      },
+      "gematria": {
+        "standard": 38,
+        "ordinal": 10,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 15,
+      "text": "and",
+      "lemma": "strong:G2532 lemma.TR:και",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G2532"
+      ],
+      "metadata": {
+        "src": "12"
+      },
+      "gematria": {
+        "standard": 19,
+        "ordinal": 6,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 16,
+      "text": "goest",
+      "lemma": "strong:G5217 lemma.TR:υπαγεις",
+      "morph": "robinson:V-PAI-2S",
+      "strongs": [
+        "G5217"
+      ],
+      "metadata": {
+        "src": "14"
+      },
+      "gematria": {
+        "standard": 66,
+        "ordinal": 15,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 17,
+      "text": "thou",
+      "lemma": "strong:G5217 lemma.TR:υπαγεις",
+      "morph": "robinson:V-PAI-2S",
+      "strongs": [
+        "G5217"
+      ],
+      "metadata": {
+        "src": "14"
+      },
+      "gematria": {
+        "standard": 64,
+        "ordinal": 10,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 18,
+      "text": "thither",
+      "lemma": "strong:G1563 lemma.TR:εκει",
+      "morph": "robinson:ADV",
+      "strongs": [
+        "G1563"
+      ],
+      "metadata": {
+        "src": "15"
+      },
+      "gematria": {
+        "standard": 88,
+        "ordinal": 28,
+        "reduced": 43
+      }
+    },
+    {
+      "position": 19,
+      "text": "again?",
+      "lemma": "strong:G3825 lemma.TR:παλιν",
+      "morph": "robinson:ADV",
+      "strongs": [
+        "G3825"
+      ],
+      "metadata": {
+        "src": "13"
+      },
+      "gematria": {
+        "standard": 32,
+        "ordinal": 15,
+        "reduced": 23
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 1007,
+    "ordinal": 246,
+    "reduced": 368
+  }
+}

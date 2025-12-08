@@ -1,0 +1,45 @@
+{
+  "text": "Jesus wept.",
+  "words": [
+    {
+      "position": 1,
+      "text": "Jesus",
+      "lemma": "strong:G3588 strong:G2424 lemma.TR:ο lemma.TR:ιησους",
+      "morph": "robinson:T-NSM robinson:N-NSM",
+      "strongs": [
+        "G3588",
+        "G2424"
+      ],
+      "metadata": {
+        "src": "2 3"
+      },
+      "gematria": {
+        "standard": 74,
+        "ordinal": 15,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
+      "text": "wept.",
+      "lemma": "strong:G1145 lemma.TR:εδακρυσεν",
+      "morph": "robinson:V-AAI-3S",
+      "strongs": [
+        "G1145"
+      ],
+      "metadata": {
+        "src": "1"
+      },
+      "gematria": {
+        "standard": 64,
+        "ordinal": 10,
+        "reduced": 19
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 138,
+    "ordinal": 25,
+    "reduced": 30
+  }
+}

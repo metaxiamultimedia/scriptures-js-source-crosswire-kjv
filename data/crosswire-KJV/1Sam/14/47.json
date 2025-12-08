@@ -1,0 +1,640 @@
+{
+  "text": "So Saul took the kingdom over Israel, and fought against all his enemies on every side, against Moab, and against the children of Ammon, and against Edom, and against the kings of Zobah, and against the Philistines: and whithersoever he turned himself, he vexed them.",
+  "words": [
+    {
+      "position": 1,
+      "text": "So",
+      "lemma": "strong:H07586",
+      "morph": null,
+      "strongs": [
+        "H7586"
+      ],
+      "gematria": {
+        "standard": 34,
+        "ordinal": 3,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 2,
+      "text": "Saul",
+      "lemma": "strong:H07586",
+      "morph": null,
+      "strongs": [
+        "H7586"
+      ],
+      "gematria": {
+        "standard": 53,
+        "ordinal": 10,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 3,
+      "text": "took",
+      "lemma": "strong:H03920",
+      "morph": "strongMorph:TH8804",
+      "strongs": [
+        "H3920"
+      ],
+      "gematria": {
+        "standard": 61,
+        "ordinal": 10,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 4,
+      "text": "the",
+      "lemma": "strong:H04410",
+      "morph": null,
+      "strongs": [
+        "H4410"
+      ],
+      "gematria": {
+        "standard": 33,
+        "ordinal": 6,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 5,
+      "text": "kingdom",
+      "lemma": "strong:H04410",
+      "morph": null,
+      "strongs": [
+        "H4410"
+      ],
+      "gematria": {
+        "standard": 73,
+        "ordinal": 28,
+        "reduced": 37
+      }
+    },
+    {
+      "position": 6,
+      "text": "over",
+      "lemma": "strong:H03478",
+      "morph": null,
+      "strongs": [
+        "H3478"
+      ],
+      "gematria": {
+        "standard": 60,
+        "ordinal": 10,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 7,
+      "text": "Israel,",
+      "lemma": "strong:H03478",
+      "morph": null,
+      "strongs": [
+        "H3478"
+      ],
+      "gematria": {
+        "standard": 64,
+        "ordinal": 21,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 8,
+      "text": "and",
+      "lemma": "strong:H03898",
+      "morph": "strongMorph:TH8735",
+      "strongs": [
+        "H3898"
+      ],
+      "gematria": {
+        "standard": 19,
+        "ordinal": 6,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 9,
+      "text": "fought",
+      "lemma": "strong:H03898",
+      "morph": "strongMorph:TH8735",
+      "strongs": [
+        "H3898"
+      ],
+      "gematria": {
+        "standard": 77,
+        "ordinal": 21,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 10,
+      "text": "against",
+      "lemma": "strong:H0341",
+      "morph": "strongMorph:TH8802",
+      "strongs": [
+        "H341"
+      ],
+      "gematria": {
+        "standard": 71,
+        "ordinal": 28,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 11,
+      "text": "all",
+      "lemma": "strong:H0341",
+      "morph": "strongMorph:TH8802",
+      "strongs": [
+        "H341"
+      ],
+      "gematria": {
+        "standard": 25,
+        "ordinal": 6,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 12,
+      "text": "his",
+      "lemma": "strong:H0341",
+      "morph": "strongMorph:TH8802",
+      "strongs": [
+        "H341"
+      ],
+      "gematria": {
+        "standard": 36,
+        "ordinal": 6,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 13,
+      "text": "enemies",
+      "lemma": "strong:H0341",
+      "morph": "strongMorph:TH8802",
+      "strongs": [
+        "H341"
+      ],
+      "gematria": {
+        "standard": 70,
+        "ordinal": 28,
+        "reduced": 34
+      }
+    },
+    {
+      "position": 14,
+      "text": "on",
+      "lemma": "strong:H05439",
+      "morph": null,
+      "strongs": [
+        "H5439"
+      ],
+      "gematria": {
+        "standard": 29,
+        "ordinal": 3,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 15,
+      "text": "every",
+      "lemma": "strong:H05439",
+      "morph": null,
+      "strongs": [
+        "H5439"
+      ],
+      "gematria": {
+        "standard": 75,
+        "ordinal": 15,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 16,
+      "text": "side,",
+      "lemma": "strong:H05439",
+      "morph": null,
+      "strongs": [
+        "H5439"
+      ],
+      "gematria": {
+        "standard": 37,
+        "ordinal": 10,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 17,
+      "text": "against",
+      "lemma": "strong:H04124",
+      "morph": null,
+      "strongs": [
+        "H4124"
+      ],
+      "gematria": {
+        "standard": 71,
+        "ordinal": 28,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 18,
+      "text": "Moab,",
+      "lemma": "strong:H04124",
+      "morph": null,
+      "strongs": [
+        "H4124"
+      ],
+      "gematria": {
+        "standard": 31,
+        "ordinal": 10,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 19,
+      "text": "and",
+      "lemma": "strong:H01121",
+      "morph": null,
+      "strongs": [
+        "H1121"
+      ],
+      "gematria": {
+        "standard": 19,
+        "ordinal": 6,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 20,
+      "text": "against",
+      "lemma": "strong:H01121",
+      "morph": null,
+      "strongs": [
+        "H1121"
+      ],
+      "gematria": {
+        "standard": 71,
+        "ordinal": 28,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 21,
+      "text": "the",
+      "lemma": "strong:H01121",
+      "morph": null,
+      "strongs": [
+        "H1121"
+      ],
+      "gematria": {
+        "standard": 33,
+        "ordinal": 6,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 22,
+      "text": "children",
+      "lemma": "strong:H01121",
+      "morph": null,
+      "strongs": [
+        "H1121"
+      ],
+      "gematria": {
+        "standard": 73,
+        "ordinal": 36,
+        "reduced": 46
+      }
+    },
+    {
+      "position": 23,
+      "text": "of",
+      "lemma": "strong:H05983",
+      "morph": null,
+      "strongs": [
+        "H5983"
+      ],
+      "gematria": {
+        "standard": 21,
+        "ordinal": 3,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 24,
+      "text": "Ammon,",
+      "lemma": "strong:H05983",
+      "morph": null,
+      "strongs": [
+        "H5983"
+      ],
+      "gematria": {
+        "standard": 56,
+        "ordinal": 15,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 25,
+      "text": "and",
+      "lemma": "strong:H0123",
+      "morph": null,
+      "strongs": [
+        "H123"
+      ],
+      "gematria": {
+        "standard": 19,
+        "ordinal": 6,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 26,
+      "text": "against",
+      "lemma": "strong:H0123",
+      "morph": null,
+      "strongs": [
+        "H123"
+      ],
+      "gematria": {
+        "standard": 71,
+        "ordinal": 28,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 27,
+      "text": "Edom,",
+      "lemma": "strong:H0123",
+      "morph": null,
+      "strongs": [
+        "H123"
+      ],
+      "gematria": {
+        "standard": 37,
+        "ordinal": 10,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 28,
+      "text": "and",
+      "lemma": "strong:H04428",
+      "morph": null,
+      "strongs": [
+        "H4428"
+      ],
+      "gematria": {
+        "standard": 19,
+        "ordinal": 6,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 29,
+      "text": "against",
+      "lemma": "strong:H04428",
+      "morph": null,
+      "strongs": [
+        "H4428"
+      ],
+      "gematria": {
+        "standard": 71,
+        "ordinal": 28,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 30,
+      "text": "the",
+      "lemma": "strong:H04428",
+      "morph": null,
+      "strongs": [
+        "H4428"
+      ],
+      "gematria": {
+        "standard": 33,
+        "ordinal": 6,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 31,
+      "text": "kings",
+      "lemma": "strong:H04428",
+      "morph": null,
+      "strongs": [
+        "H4428"
+      ],
+      "gematria": {
+        "standard": 60,
+        "ordinal": 15,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 32,
+      "text": "of",
+      "lemma": "strong:H06678",
+      "morph": null,
+      "strongs": [
+        "H6678"
+      ],
+      "gematria": {
+        "standard": 21,
+        "ordinal": 3,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 33,
+      "text": "Zobah,",
+      "lemma": "strong:H06678",
+      "morph": null,
+      "strongs": [
+        "H6678"
+      ],
+      "gematria": {
+        "standard": 52,
+        "ordinal": 15,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 34,
+      "text": "and",
+      "lemma": "strong:H06430",
+      "morph": null,
+      "strongs": [
+        "H6430"
+      ],
+      "gematria": {
+        "standard": 19,
+        "ordinal": 6,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 35,
+      "text": "against",
+      "lemma": "strong:H06430",
+      "morph": null,
+      "strongs": [
+        "H6430"
+      ],
+      "gematria": {
+        "standard": 71,
+        "ordinal": 28,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 36,
+      "text": "the",
+      "lemma": "strong:H06430",
+      "morph": null,
+      "strongs": [
+        "H6430"
+      ],
+      "gematria": {
+        "standard": 33,
+        "ordinal": 6,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 37,
+      "text": "Philistines:",
+      "lemma": "strong:H06430",
+      "morph": null,
+      "strongs": [
+        "H6430"
+      ],
+      "gematria": {
+        "standard": 140,
+        "ordinal": 66,
+        "reduced": 59
+      }
+    },
+    {
+      "position": 38,
+      "text": "and",
+      "lemma": "strong:H06437",
+      "morph": "strongMorph:TH8799",
+      "strongs": [
+        "H6437"
+      ],
+      "gematria": {
+        "standard": 19,
+        "ordinal": 6,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 39,
+      "text": "whithersoever",
+      "lemma": "strong:H06437",
+      "morph": "strongMorph:TH8799",
+      "strongs": [
+        "H6437"
+      ],
+      "gematria": {
+        "standard": 175,
+        "ordinal": 91,
+        "reduced": 76
+      }
+    },
+    {
+      "position": 40,
+      "text": "he",
+      "lemma": "strong:H06437",
+      "morph": "strongMorph:TH8799",
+      "strongs": [
+        "H6437"
+      ],
+      "gematria": {
+        "standard": 13,
+        "ordinal": 3,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 41,
+      "text": "turned",
+      "lemma": "strong:H06437",
+      "morph": "strongMorph:TH8799",
+      "strongs": [
+        "H6437"
+      ],
+      "gematria": {
+        "standard": 82,
+        "ordinal": 21,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 42,
+      "text": "himself,",
+      "lemma": "strong:H07561",
+      "morph": "strongMorph:TH8686",
+      "strongs": [
+        "H7561"
+      ],
+      "gematria": {
+        "standard": 72,
+        "ordinal": 28,
+        "reduced": 36
+      }
+    },
+    {
+      "position": 43,
+      "text": "he",
+      "lemma": "strong:H07561",
+      "morph": "strongMorph:TH8686",
+      "strongs": [
+        "H7561"
+      ],
+      "gematria": {
+        "standard": 13,
+        "ordinal": 3,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 44,
+      "text": "vexed",
+      "lemma": "strong:H07561",
+      "morph": "strongMorph:TH8686",
+      "strongs": [
+        "H7561"
+      ],
+      "gematria": {
+        "standard": 60,
+        "ordinal": 15,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 45,
+      "text": "them.",
+      "lemma": null,
+      "morph": null,
+      "metadata": {
+        "type": "added"
+      },
+      "gematria": {
+        "standard": 46,
+        "ordinal": 10,
+        "reduced": 19
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 2318,
+    "ordinal": 743,
+    "reduced": 986
+  }
+}

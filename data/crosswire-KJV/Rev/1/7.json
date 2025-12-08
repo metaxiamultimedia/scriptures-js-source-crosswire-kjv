@@ -1,0 +1,541 @@
+{
+  "text": "Behold, he cometh with clouds; and every eye shall see him, and they also which pierced him: and all kindreds of the earth shall wail because of him. Even so, Amen.",
+  "words": [
+    {
+      "position": 1,
+      "text": "Behold,",
+      "lemma": "strong:G3708 lemma.TR:ιδου",
+      "morph": "robinson:V-2AMM-2S",
+      "strongs": [
+        "G3708"
+      ],
+      "metadata": {
+        "src": "1"
+      },
+      "gematria": {
+        "standard": 46,
+        "ordinal": 21,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 2,
+      "text": "he",
+      "lemma": "strong:G2064 lemma.TR:ερχεται",
+      "morph": "robinson:V-PNI-3S",
+      "strongs": [
+        "G2064"
+      ],
+      "metadata": {
+        "src": "2"
+      },
+      "gematria": {
+        "standard": 13,
+        "ordinal": 3,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 3,
+      "text": "cometh",
+      "lemma": "strong:G2064 lemma.TR:ερχεται",
+      "morph": "robinson:V-PNI-3S",
+      "strongs": [
+        "G2064"
+      ],
+      "metadata": {
+        "src": "2"
+      },
+      "gematria": {
+        "standard": 64,
+        "ordinal": 21,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 4,
+      "text": "with",
+      "lemma": "strong:G3326 lemma.TR:μετα",
+      "morph": "robinson:PREP",
+      "strongs": [
+        "G3326"
+      ],
+      "metadata": {
+        "src": "3"
+      },
+      "gematria": {
+        "standard": 60,
+        "ordinal": 10,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 5,
+      "text": "clouds;",
+      "lemma": "strong:G3588 strong:G3507 lemma.TR:των lemma.TR:νεφελων",
+      "morph": "robinson:T-GPF robinson:N-GPF",
+      "strongs": [
+        "G3588",
+        "G3507"
+      ],
+      "metadata": {
+        "src": "4 5"
+      },
+      "gematria": {
+        "standard": 74,
+        "ordinal": 21,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 6,
+      "text": "and",
+      "lemma": "strong:G2532 lemma.TR:και",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G2532"
+      ],
+      "metadata": {
+        "src": "6"
+      },
+      "gematria": {
+        "standard": 19,
+        "ordinal": 6,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 7,
+      "text": "every",
+      "lemma": "strong:G3956 lemma.TR:πας",
+      "morph": "robinson:A-NSM",
+      "strongs": [
+        "G3956"
+      ],
+      "metadata": {
+        "src": "9"
+      },
+      "gematria": {
+        "standard": 75,
+        "ordinal": 15,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 8,
+      "text": "eye",
+      "lemma": "strong:G3788 lemma.TR:οφθαλμος",
+      "morph": "robinson:N-NSM",
+      "strongs": [
+        "G3788"
+      ],
+      "metadata": {
+        "src": "10"
+      },
+      "gematria": {
+        "standard": 35,
+        "ordinal": 6,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 9,
+      "text": "shall",
+      "lemma": "strong:G3708 lemma.TR:οψεται",
+      "morph": "robinson:V-FDI-3S",
+      "strongs": [
+        "G3708"
+      ],
+      "metadata": {
+        "src": "7"
+      },
+      "gematria": {
+        "standard": 52,
+        "ordinal": 15,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 10,
+      "text": "see",
+      "lemma": "strong:G3708 lemma.TR:οψεται",
+      "morph": "robinson:V-FDI-3S",
+      "strongs": [
+        "G3708"
+      ],
+      "metadata": {
+        "src": "7"
+      },
+      "gematria": {
+        "standard": 29,
+        "ordinal": 6,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 11,
+      "text": "him,",
+      "lemma": "strong:G846 lemma.TR:αυτον",
+      "morph": "robinson:P-ASM",
+      "strongs": [
+        "G846"
+      ],
+      "metadata": {
+        "src": "8"
+      },
+      "gematria": {
+        "standard": 30,
+        "ordinal": 6,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 12,
+      "text": "and",
+      "lemma": "strong:G2532 lemma.TR:και",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G2532"
+      ],
+      "metadata": {
+        "src": "11"
+      },
+      "gematria": {
+        "standard": 19,
+        "ordinal": 6,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 13,
+      "text": "they",
+      "lemma": "strong:G3748 lemma.TR:οιτινες",
+      "morph": "robinson:R-NPM",
+      "strongs": [
+        "G3748"
+      ],
+      "metadata": {
+        "src": "12",
+        "type": "x-split-3732"
+      },
+      "gematria": {
+        "standard": 58,
+        "ordinal": 10,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 14,
+      "text": "also",
+      "lemma": null,
+      "morph": null,
+      "metadata": {
+        "type": "added"
+      },
+      "gematria": {
+        "standard": 47,
+        "ordinal": 10,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 15,
+      "text": "which",
+      "lemma": "strong:G3748 lemma.TR:οιτινες",
+      "morph": "robinson:R-NPM",
+      "strongs": [
+        "G3748"
+      ],
+      "metadata": {
+        "src": "12",
+        "type": "x-split-3732"
+      },
+      "gematria": {
+        "standard": 51,
+        "ordinal": 15,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 16,
+      "text": "pierced",
+      "lemma": "strong:G1574 lemma.TR:εξεκεντησαν",
+      "morph": "robinson:V-AAI-3P",
+      "strongs": [
+        "G1574"
+      ],
+      "metadata": {
+        "src": "14"
+      },
+      "gematria": {
+        "standard": 60,
+        "ordinal": 28,
+        "reduced": 42
+      }
+    },
+    {
+      "position": 17,
+      "text": "him:",
+      "lemma": "strong:G846 lemma.TR:αυτον",
+      "morph": "robinson:P-ASM",
+      "strongs": [
+        "G846"
+      ],
+      "metadata": {
+        "src": "13"
+      },
+      "gematria": {
+        "standard": 30,
+        "ordinal": 6,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 18,
+      "text": "and",
+      "lemma": "strong:G2532 lemma.TR:και",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G2532"
+      ],
+      "metadata": {
+        "src": "15"
+      },
+      "gematria": {
+        "standard": 19,
+        "ordinal": 6,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 19,
+      "text": "all",
+      "lemma": "strong:G3956 lemma.TR:πασαι",
+      "morph": "robinson:A-NPF",
+      "strongs": [
+        "G3956"
+      ],
+      "metadata": {
+        "src": "19"
+      },
+      "gematria": {
+        "standard": 25,
+        "ordinal": 6,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 20,
+      "text": "kindreds",
+      "lemma": "strong:G3588 strong:G5443 lemma.TR:αι lemma.TR:φυλαι",
+      "morph": "robinson:T-NPF robinson:N-NPF",
+      "strongs": [
+        "G3588",
+        "G5443"
+      ],
+      "metadata": {
+        "src": "20 21"
+      },
+      "gematria": {
+        "standard": 84,
+        "ordinal": 36,
+        "reduced": 39
+      }
+    },
+    {
+      "position": 21,
+      "text": "of",
+      "lemma": "strong:G3588 strong:G1093 lemma.TR:της lemma.TR:γης",
+      "morph": "robinson:T-GSF robinson:N-GSF",
+      "strongs": [
+        "G3588",
+        "G1093"
+      ],
+      "metadata": {
+        "src": "22 23"
+      },
+      "gematria": {
+        "standard": 21,
+        "ordinal": 3,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 22,
+      "text": "the",
+      "lemma": "strong:G3588 strong:G1093 lemma.TR:της lemma.TR:γης",
+      "morph": "robinson:T-GSF robinson:N-GSF",
+      "strongs": [
+        "G3588",
+        "G1093"
+      ],
+      "metadata": {
+        "src": "22 23"
+      },
+      "gematria": {
+        "standard": 33,
+        "ordinal": 6,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 23,
+      "text": "earth",
+      "lemma": "strong:G3588 strong:G1093 lemma.TR:της lemma.TR:γης",
+      "morph": "robinson:T-GSF robinson:N-GSF",
+      "strongs": [
+        "G3588",
+        "G1093"
+      ],
+      "metadata": {
+        "src": "22 23"
+      },
+      "gematria": {
+        "standard": 52,
+        "ordinal": 15,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 24,
+      "text": "shall",
+      "lemma": "strong:G2875 lemma.TR:κοψονται",
+      "morph": "robinson:V-FDI-3P",
+      "strongs": [
+        "G2875"
+      ],
+      "metadata": {
+        "src": "16"
+      },
+      "gematria": {
+        "standard": 52,
+        "ordinal": 15,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 25,
+      "text": "wail",
+      "lemma": "strong:G2875 lemma.TR:κοψονται",
+      "morph": "robinson:V-FDI-3P",
+      "strongs": [
+        "G2875"
+      ],
+      "metadata": {
+        "src": "16"
+      },
+      "gematria": {
+        "standard": 45,
+        "ordinal": 10,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 26,
+      "text": "because",
+      "lemma": "strong:G1909 lemma.TR:επ",
+      "morph": "robinson:PREP",
+      "strongs": [
+        "G1909"
+      ],
+      "metadata": {
+        "src": "17"
+      },
+      "gematria": {
+        "standard": 56,
+        "ordinal": 28,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 27,
+      "text": "of",
+      "lemma": "strong:G1909 lemma.TR:επ",
+      "morph": "robinson:PREP",
+      "strongs": [
+        "G1909"
+      ],
+      "metadata": {
+        "src": "17"
+      },
+      "gematria": {
+        "standard": 21,
+        "ordinal": 3,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 28,
+      "text": "him.",
+      "lemma": "strong:G846 lemma.TR:αυτον",
+      "morph": "robinson:P-ASM",
+      "strongs": [
+        "G846"
+      ],
+      "metadata": {
+        "src": "18"
+      },
+      "gematria": {
+        "standard": 30,
+        "ordinal": 6,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 29,
+      "text": "Even",
+      "lemma": "strong:G3483 lemma.TR:ναι",
+      "morph": "robinson:PRT",
+      "strongs": [
+        "G3483"
+      ],
+      "metadata": {
+        "src": "24"
+      },
+      "gematria": {
+        "standard": 46,
+        "ordinal": 10,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 30,
+      "text": "so,",
+      "lemma": "strong:G3483 lemma.TR:ναι",
+      "morph": "robinson:PRT",
+      "strongs": [
+        "G3483"
+      ],
+      "metadata": {
+        "src": "24"
+      },
+      "gematria": {
+        "standard": 34,
+        "ordinal": 3,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 31,
+      "text": "Amen.",
+      "lemma": "strong:G281 lemma.TR:αμην",
+      "morph": "robinson:HEB",
+      "strongs": [
+        "G281"
+      ],
+      "metadata": {
+        "src": "25"
+      },
+      "gematria": {
+        "standard": 33,
+        "ordinal": 10,
+        "reduced": 15
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 1313,
+    "ordinal": 362,
+    "reduced": 593
+  }
+}

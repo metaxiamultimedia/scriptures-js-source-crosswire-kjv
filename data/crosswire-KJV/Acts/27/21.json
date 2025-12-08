@@ -1,0 +1,612 @@
+{
+  "text": "But after long abstinence Paul stood forth in the midst of them, and said, Sirs, ye should have hearkened unto me, and not have loosed from Crete, and to have gained this harm and loss.",
+  "words": [
+    {
+      "position": 1,
+      "text": "But",
+      "lemma": "strong:G1161 lemma.TR:δε",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G1161"
+      ],
+      "metadata": {
+        "src": "2"
+      },
+      "gematria": {
+        "standard": 43,
+        "ordinal": 6,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 2,
+      "text": "after",
+      "lemma": "strong:G5119 lemma.TR:τοτε",
+      "morph": "robinson:ADV",
+      "strongs": [
+        "G5119"
+      ],
+      "metadata": {
+        "src": "5"
+      },
+      "gematria": {
+        "standard": 50,
+        "ordinal": 15,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 3,
+      "text": "long",
+      "lemma": "strong:G4183 lemma.TR:πολλης",
+      "morph": "robinson:A-GSF",
+      "strongs": [
+        "G4183"
+      ],
+      "metadata": {
+        "src": "1"
+      },
+      "gematria": {
+        "standard": 48,
+        "ordinal": 10,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 4,
+      "text": "abstinence",
+      "lemma": "strong:G776 lemma.TR:ασιτιας",
+      "morph": "robinson:N-GSF",
+      "strongs": [
+        "G776"
+      ],
+      "metadata": {
+        "src": "3"
+      },
+      "gematria": {
+        "standard": 92,
+        "ordinal": 55,
+        "reduced": 38
+      }
+    },
+    {
+      "position": 5,
+      "text": "Paul",
+      "lemma": "strong:G3588 strong:G3972 lemma.TR:ο lemma.TR:παυλος",
+      "morph": "robinson:T-NSM robinson:N-NSM",
+      "strongs": [
+        "G3588",
+        "G3972"
+      ],
+      "metadata": {
+        "src": "7 8"
+      },
+      "gematria": {
+        "standard": 50,
+        "ordinal": 10,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 6,
+      "text": "stood",
+      "lemma": "strong:G2476 lemma.TR:σταθεις",
+      "morph": "robinson:V-APP-NSM",
+      "strongs": [
+        "G2476"
+      ],
+      "metadata": {
+        "src": "6"
+      },
+      "gematria": {
+        "standard": 73,
+        "ordinal": 15,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 7,
+      "text": "forth",
+      "lemma": "strong:G2476 lemma.TR:σταθεις",
+      "morph": "robinson:V-APP-NSM",
+      "strongs": [
+        "G2476"
+      ],
+      "metadata": {
+        "src": "6"
+      },
+      "gematria": {
+        "standard": 67,
+        "ordinal": 15,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 8,
+      "text": "in",
+      "lemma": "strong:G1722 lemma.TR:εν",
+      "morph": "robinson:PREP",
+      "strongs": [
+        "G1722"
+      ],
+      "metadata": {
+        "src": "9"
+      },
+      "gematria": {
+        "standard": 23,
+        "ordinal": 3,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 9,
+      "text": "the",
+      "lemma": "strong:G3319 lemma.TR:μεσω",
+      "morph": "robinson:A-DSN",
+      "strongs": [
+        "G3319"
+      ],
+      "metadata": {
+        "src": "10"
+      },
+      "gematria": {
+        "standard": 33,
+        "ordinal": 6,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 10,
+      "text": "midst",
+      "lemma": "strong:G3319 lemma.TR:μεσω",
+      "morph": "robinson:A-DSN",
+      "strongs": [
+        "G3319"
+      ],
+      "metadata": {
+        "src": "10"
+      },
+      "gematria": {
+        "standard": 65,
+        "ordinal": 15,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 11,
+      "text": "of",
+      "lemma": "strong:G846 lemma.TR:αυτων",
+      "morph": "robinson:P-GPM",
+      "strongs": [
+        "G846"
+      ],
+      "metadata": {
+        "src": "11"
+      },
+      "gematria": {
+        "standard": 21,
+        "ordinal": 3,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 12,
+      "text": "them,",
+      "lemma": "strong:G846 lemma.TR:αυτων",
+      "morph": "robinson:P-GPM",
+      "strongs": [
+        "G846"
+      ],
+      "metadata": {
+        "src": "11"
+      },
+      "gematria": {
+        "standard": 46,
+        "ordinal": 10,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 13,
+      "text": "and",
+      "lemma": "strong:G3004 lemma.TR:ειπεν",
+      "morph": "robinson:V-2AAI-3S",
+      "strongs": [
+        "G3004"
+      ],
+      "metadata": {
+        "src": "12"
+      },
+      "gematria": {
+        "standard": 19,
+        "ordinal": 6,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 14,
+      "text": "said,",
+      "lemma": "strong:G3004 lemma.TR:ειπεν",
+      "morph": "robinson:V-2AAI-3S",
+      "strongs": [
+        "G3004"
+      ],
+      "metadata": {
+        "src": "12"
+      },
+      "gematria": {
+        "standard": 33,
+        "ordinal": 10,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 15,
+      "text": "Sirs,",
+      "lemma": "strong:G435 lemma.TR:ανδρες",
+      "morph": "robinson:N-VPM",
+      "strongs": [
+        "G435"
+      ],
+      "metadata": {
+        "src": "16"
+      },
+      "gematria": {
+        "standard": 65,
+        "ordinal": 10,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 16,
+      "text": "ye",
+      "lemma": "strong:G1163 lemma.TR:εδει",
+      "morph": "robinson:V-IAI-3S",
+      "strongs": [
+        "G1163"
+      ],
+      "metadata": {
+        "src": "13"
+      },
+      "gematria": {
+        "standard": 30,
+        "ordinal": 3,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 17,
+      "text": "should",
+      "lemma": "strong:G1163 lemma.TR:εδει",
+      "morph": "robinson:V-IAI-3S",
+      "strongs": [
+        "G1163"
+      ],
+      "metadata": {
+        "src": "13"
+      },
+      "gematria": {
+        "standard": 79,
+        "ordinal": 21,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 18,
+      "text": "have",
+      "lemma": "strong:G3980 lemma.TR:πειθαρχησαντας",
+      "morph": "robinson:V-AAP-APM",
+      "strongs": [
+        "G3980"
+      ],
+      "metadata": {
+        "src": "17"
+      },
+      "gematria": {
+        "standard": 36,
+        "ordinal": 10,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 19,
+      "text": "hearkened",
+      "lemma": "strong:G3980 lemma.TR:πειθαρχησαντας",
+      "morph": "robinson:V-AAP-APM",
+      "strongs": [
+        "G3980"
+      ],
+      "metadata": {
+        "src": "17"
+      },
+      "gematria": {
+        "standard": 71,
+        "ordinal": 45,
+        "reduced": 44
+      }
+    },
+    {
+      "position": 20,
+      "text": "unto",
+      "lemma": "strong:G1473 lemma.TR:μοι",
+      "morph": "robinson:P-1DS",
+      "strongs": [
+        "G1473"
+      ],
+      "metadata": {
+        "src": "18"
+      },
+      "gematria": {
+        "standard": 70,
+        "ordinal": 10,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 21,
+      "text": "me,",
+      "lemma": "strong:G1473 lemma.TR:μοι",
+      "morph": "robinson:P-1DS",
+      "strongs": [
+        "G1473"
+      ],
+      "metadata": {
+        "src": "18"
+      },
+      "gematria": {
+        "standard": 18,
+        "ordinal": 3,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 22,
+      "text": "and",
+      "lemma": "strong:G321 lemma.TR:αναγεσθαι",
+      "morph": "robinson:V-PPN",
+      "strongs": [
+        "G321"
+      ],
+      "metadata": {
+        "src": "20",
+        "type": "x-split-2458"
+      },
+      "gematria": {
+        "standard": 19,
+        "ordinal": 6,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 23,
+      "text": "not",
+      "lemma": "strong:G3361 lemma.TR:μη",
+      "morph": "robinson:PRT-N",
+      "strongs": [
+        "G3361"
+      ],
+      "metadata": {
+        "src": "19"
+      },
+      "gematria": {
+        "standard": 49,
+        "ordinal": 6,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 24,
+      "text": "have",
+      "lemma": "strong:G321 lemma.TR:αναγεσθαι",
+      "morph": "robinson:V-PPN",
+      "strongs": [
+        "G321"
+      ],
+      "metadata": {
+        "src": "20",
+        "type": "x-split-2458"
+      },
+      "gematria": {
+        "standard": 36,
+        "ordinal": 10,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 25,
+      "text": "loosed",
+      "lemma": "strong:G321 lemma.TR:αναγεσθαι",
+      "morph": "robinson:V-PPN",
+      "strongs": [
+        "G321"
+      ],
+      "metadata": {
+        "src": "20",
+        "type": "x-split-2458"
+      },
+      "gematria": {
+        "standard": 70,
+        "ordinal": 21,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 26,
+      "text": "from",
+      "lemma": "strong:G575 lemma.TR:απο",
+      "morph": "robinson:PREP",
+      "strongs": [
+        "G575"
+      ],
+      "metadata": {
+        "src": "21"
+      },
+      "gematria": {
+        "standard": 52,
+        "ordinal": 10,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 27,
+      "text": "Crete,",
+      "lemma": "strong:G3588 strong:G2914 lemma.TR:της lemma.TR:κρητης",
+      "morph": "robinson:T-GSF robinson:N-GSF",
+      "strongs": [
+        "G3588",
+        "G2914"
+      ],
+      "metadata": {
+        "src": "22 23"
+      },
+      "gematria": {
+        "standard": 51,
+        "ordinal": 15,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 28,
+      "text": "and",
+      "lemma": "strong:G5037 lemma.TR:τε",
+      "morph": "robinson:PRT",
+      "strongs": [
+        "G5037"
+      ],
+      "metadata": {
+        "src": "25"
+      },
+      "gematria": {
+        "standard": 19,
+        "ordinal": 6,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 29,
+      "text": "to",
+      "lemma": "strong:G2770 lemma.TR:κερδησαι",
+      "morph": "robinson:V-AAN",
+      "strongs": [
+        "G2770"
+      ],
+      "metadata": {
+        "src": "24"
+      },
+      "gematria": {
+        "standard": 35,
+        "ordinal": 3,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 30,
+      "text": "have",
+      "lemma": "strong:G2770 lemma.TR:κερδησαι",
+      "morph": "robinson:V-AAN",
+      "strongs": [
+        "G2770"
+      ],
+      "metadata": {
+        "src": "24"
+      },
+      "gematria": {
+        "standard": 36,
+        "ordinal": 10,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 31,
+      "text": "gained",
+      "lemma": "strong:G2770 lemma.TR:κερδησαι",
+      "morph": "robinson:V-AAN",
+      "strongs": [
+        "G2770"
+      ],
+      "metadata": {
+        "src": "24"
+      },
+      "gematria": {
+        "standard": 40,
+        "ordinal": 21,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 32,
+      "text": "this",
+      "lemma": "strong:G3778 lemma.TR:ταυτην",
+      "morph": "robinson:D-ASF",
+      "strongs": [
+        "G3778"
+      ],
+      "metadata": {
+        "src": "28"
+      },
+      "gematria": {
+        "standard": 56,
+        "ordinal": 10,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 33,
+      "text": "harm",
+      "lemma": "strong:G3588 strong:G5196 lemma.TR:την lemma.TR:υβριν",
+      "morph": "robinson:T-ASF robinson:N-ASF",
+      "strongs": [
+        "G3588",
+        "G5196"
+      ],
+      "metadata": {
+        "src": "26 27"
+      },
+      "gematria": {
+        "standard": 40,
+        "ordinal": 10,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 34,
+      "text": "and",
+      "lemma": "strong:G2532 lemma.TR:και",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G2532"
+      ],
+      "metadata": {
+        "src": "29"
+      },
+      "gematria": {
+        "standard": 19,
+        "ordinal": 6,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 35,
+      "text": "loss.",
+      "lemma": "strong:G3588 strong:G2209 lemma.TR:την lemma.TR:ζημιαν",
+      "morph": "robinson:T-ASF robinson:N-ASF",
+      "strongs": [
+        "G3588",
+        "G2209"
+      ],
+      "metadata": {
+        "src": "30 31"
+      },
+      "gematria": {
+        "standard": 65,
+        "ordinal": 10,
+        "reduced": 11
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 1619,
+    "ordinal": 425,
+    "reduced": 647
+  }
+}

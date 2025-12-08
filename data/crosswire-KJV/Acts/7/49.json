@@ -1,0 +1,451 @@
+{
+  "text": "Heaven is my throne, and earth is my footstool: what house will ye build me? saith the Lord: or what is the place of my rest?",
+  "words": [
+    {
+      "position": 1,
+      "text": "Heaven",
+      "lemma": "strong:G3588 strong:G3772 lemma.TR:ο lemma.TR:ουρανος",
+      "morph": "robinson:T-NSM robinson:N-NSM",
+      "strongs": [
+        "G3588",
+        "G3772"
+      ],
+      "metadata": {
+        "src": "1 2"
+      },
+      "gematria": {
+        "standard": 55,
+        "ordinal": 21,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 2,
+      "text": "is",
+      "lemma": null,
+      "morph": null,
+      "metadata": {
+        "type": "added"
+      },
+      "gematria": {
+        "standard": 28,
+        "ordinal": 3,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 3,
+      "text": "my",
+      "lemma": "strong:G1473 lemma.TR:μοι",
+      "morph": "robinson:P-1DS",
+      "strongs": [
+        "G1473"
+      ],
+      "metadata": {
+        "src": "3"
+      },
+      "gematria": {
+        "standard": 38,
+        "ordinal": 3,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 4,
+      "text": "throne,",
+      "lemma": "strong:G2362 lemma.TR:θρονος",
+      "morph": "robinson:N-NSM",
+      "strongs": [
+        "G2362"
+      ],
+      "metadata": {
+        "src": "4"
+      },
+      "gematria": {
+        "standard": 80,
+        "ordinal": 21,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 5,
+      "text": "and",
+      "lemma": "strong:G1161 lemma.TR:δε",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G1161"
+      ],
+      "metadata": {
+        "src": "6"
+      },
+      "gematria": {
+        "standard": 19,
+        "ordinal": 6,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 6,
+      "text": "earth",
+      "lemma": "strong:G3588 strong:G1093 lemma.TR:η lemma.TR:γη",
+      "morph": "robinson:T-NSF robinson:N-NSF",
+      "strongs": [
+        "G3588",
+        "G1093"
+      ],
+      "metadata": {
+        "src": "5 7"
+      },
+      "gematria": {
+        "standard": 52,
+        "ordinal": 15,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 7,
+      "text": "is",
+      "lemma": null,
+      "morph": null,
+      "metadata": {
+        "type": "added"
+      },
+      "gematria": {
+        "standard": 28,
+        "ordinal": 3,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 8,
+      "text": "my",
+      "lemma": "strong:G1473 lemma.TR:μου",
+      "morph": "robinson:P-1GS",
+      "strongs": [
+        "G1473"
+      ],
+      "metadata": {
+        "src": "11"
+      },
+      "gematria": {
+        "standard": 38,
+        "ordinal": 3,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 9,
+      "text": "footstool:",
+      "lemma": "strong:G5286 strong:G3588 strong:G4228 lemma.TR:υποποδιον lemma.TR:των lemma.TR:ποδων",
+      "morph": "robinson:N-NSN robinson:T-GPM robinson:N-GPM",
+      "strongs": [
+        "G5286",
+        "G3588",
+        "G4228"
+      ],
+      "metadata": {
+        "src": "8 9 10"
+      },
+      "gematria": {
+        "standard": 137,
+        "ordinal": 45,
+        "reduced": 38
+      }
+    },
+    {
+      "position": 10,
+      "text": "what",
+      "lemma": "strong:G4169 lemma.TR:ποιον",
+      "morph": "robinson:I-ASM",
+      "strongs": [
+        "G4169"
+      ],
+      "metadata": {
+        "src": "12"
+      },
+      "gematria": {
+        "standard": 52,
+        "ordinal": 10,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 11,
+      "text": "house",
+      "lemma": "strong:G3624 lemma.TR:οικον",
+      "morph": "robinson:N-ASM",
+      "strongs": [
+        "G3624"
+      ],
+      "metadata": {
+        "src": "13"
+      },
+      "gematria": {
+        "standard": 68,
+        "ordinal": 15,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 12,
+      "text": "will",
+      "lemma": "strong:G3618 lemma.TR:οικοδομησετε",
+      "morph": "robinson:V-FAI-2P",
+      "strongs": [
+        "G3618"
+      ],
+      "metadata": {
+        "src": "14"
+      },
+      "gematria": {
+        "standard": 56,
+        "ordinal": 10,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 13,
+      "text": "ye",
+      "lemma": "strong:G3618 lemma.TR:οικοδομησετε",
+      "morph": "robinson:V-FAI-2P",
+      "strongs": [
+        "G3618"
+      ],
+      "metadata": {
+        "src": "14"
+      },
+      "gematria": {
+        "standard": 30,
+        "ordinal": 3,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 14,
+      "text": "build",
+      "lemma": "strong:G3618 lemma.TR:οικοδομησετε",
+      "morph": "robinson:V-FAI-2P",
+      "strongs": [
+        "G3618"
+      ],
+      "metadata": {
+        "src": "14"
+      },
+      "gematria": {
+        "standard": 48,
+        "ordinal": 15,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 15,
+      "text": "me?",
+      "lemma": "strong:G1473 lemma.TR:μοι",
+      "morph": "robinson:P-1DS",
+      "strongs": [
+        "G1473"
+      ],
+      "metadata": {
+        "src": "15"
+      },
+      "gematria": {
+        "standard": 18,
+        "ordinal": 3,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 16,
+      "text": "saith",
+      "lemma": "strong:G3004 lemma.TR:λεγει",
+      "morph": "robinson:V-PAI-3S",
+      "strongs": [
+        "G3004"
+      ],
+      "metadata": {
+        "src": "16"
+      },
+      "gematria": {
+        "standard": 57,
+        "ordinal": 15,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 17,
+      "text": "the",
+      "lemma": "strong:G2962 lemma.TR:κυριος",
+      "morph": "robinson:N-NSM",
+      "strongs": [
+        "G2962"
+      ],
+      "metadata": {
+        "src": "17"
+      },
+      "gematria": {
+        "standard": 33,
+        "ordinal": 6,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 18,
+      "text": "Lord:",
+      "lemma": "strong:G2962 lemma.TR:κυριος",
+      "morph": "robinson:N-NSM",
+      "strongs": [
+        "G2962"
+      ],
+      "metadata": {
+        "src": "17"
+      },
+      "gematria": {
+        "standard": 49,
+        "ordinal": 10,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 19,
+      "text": "or",
+      "lemma": "strong:G2228 lemma.TR:η",
+      "morph": "robinson:PRT",
+      "strongs": [
+        "G2228"
+      ],
+      "metadata": {
+        "src": "18"
+      },
+      "gematria": {
+        "standard": 33,
+        "ordinal": 3,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 20,
+      "text": "what",
+      "lemma": "strong:G5101 lemma.TR:τις",
+      "morph": "robinson:I-NSM",
+      "strongs": [
+        "G5101"
+      ],
+      "metadata": {
+        "src": "19"
+      },
+      "gematria": {
+        "standard": 52,
+        "ordinal": 10,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 21,
+      "text": "is",
+      "lemma": null,
+      "morph": null,
+      "metadata": {
+        "type": "added"
+      },
+      "gematria": {
+        "standard": 28,
+        "ordinal": 3,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 22,
+      "text": "the",
+      "lemma": "strong:G5117 lemma.TR:τοπος",
+      "morph": "robinson:N-NSM",
+      "strongs": [
+        "G5117"
+      ],
+      "metadata": {
+        "src": "20"
+      },
+      "gematria": {
+        "standard": 33,
+        "ordinal": 6,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 23,
+      "text": "place",
+      "lemma": "strong:G5117 lemma.TR:τοπος",
+      "morph": "robinson:N-NSM",
+      "strongs": [
+        "G5117"
+      ],
+      "metadata": {
+        "src": "20"
+      },
+      "gematria": {
+        "standard": 37,
+        "ordinal": 15,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 24,
+      "text": "of",
+      "lemma": "strong:G3588 strong:G2663 lemma.TR:της lemma.TR:καταπαυσεως",
+      "morph": "robinson:T-GSF robinson:N-GSF",
+      "strongs": [
+        "G3588",
+        "G2663"
+      ],
+      "metadata": {
+        "src": "21 22",
+        "type": "x-split-2255"
+      },
+      "gematria": {
+        "standard": 21,
+        "ordinal": 3,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 25,
+      "text": "my",
+      "lemma": "strong:G1473 lemma.TR:μου",
+      "morph": "robinson:P-1GS",
+      "strongs": [
+        "G1473"
+      ],
+      "metadata": {
+        "src": "23"
+      },
+      "gematria": {
+        "standard": 38,
+        "ordinal": 3,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 26,
+      "text": "rest?",
+      "lemma": "strong:G3588 strong:G2663 lemma.TR:της lemma.TR:καταπαυσεως",
+      "morph": "robinson:T-GSF robinson:N-GSF",
+      "strongs": [
+        "G3588",
+        "G2663"
+      ],
+      "metadata": {
+        "src": "21 22",
+        "type": "x-split-2255"
+      },
+      "gematria": {
+        "standard": 62,
+        "ordinal": 10,
+        "reduced": 17
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 1190,
+    "ordinal": 260,
+    "reduced": 452
+  }
+}

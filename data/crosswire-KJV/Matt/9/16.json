@@ -1,0 +1,568 @@
+{
+  "text": "No man putteth a piece of new cloth unto an old garment, for that which is put in to fill it up taketh from the garment, and the rent is made worse.",
+  "words": [
+    {
+      "position": 1,
+      "text": "No",
+      "lemma": "strong:G3762 lemma.TR:ουδεις",
+      "morph": "robinson:A-NSM-N",
+      "strongs": [
+        "G3762"
+      ],
+      "metadata": {
+        "src": "1"
+      },
+      "gematria": {
+        "standard": 29,
+        "ordinal": 3,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 2,
+      "text": "man",
+      "lemma": "strong:G3762 lemma.TR:ουδεις",
+      "morph": "robinson:A-NSM-N",
+      "strongs": [
+        "G3762"
+      ],
+      "metadata": {
+        "src": "1"
+      },
+      "gematria": {
+        "standard": 28,
+        "ordinal": 6,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 3,
+      "text": "putteth",
+      "lemma": "strong:G1911 lemma.TR:επιβαλλει",
+      "morph": "robinson:V-PAI-3S",
+      "strongs": [
+        "G1911"
+      ],
+      "metadata": {
+        "src": "3"
+      },
+      "gematria": {
+        "standard": 110,
+        "ordinal": 28,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 4,
+      "text": "a",
+      "lemma": "strong:G1915 lemma.TR:επιβλημα",
+      "morph": "robinson:N-ASN",
+      "strongs": [
+        "G1915"
+      ],
+      "metadata": {
+        "src": "4"
+      },
+      "gematria": {
+        "standard": 1,
+        "ordinal": 1,
+        "reduced": 1
+      }
+    },
+    {
+      "position": 5,
+      "text": "piece",
+      "lemma": "strong:G1915 lemma.TR:επιβλημα",
+      "morph": "robinson:N-ASN",
+      "strongs": [
+        "G1915"
+      ],
+      "metadata": {
+        "src": "4"
+      },
+      "gematria": {
+        "standard": 38,
+        "ordinal": 15,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 6,
+      "text": "of",
+      "lemma": "strong:G46 lemma.TR:αγναφου",
+      "morph": "robinson:A-GSN",
+      "metadata": {
+        "src": "6"
+      },
+      "gematria": {
+        "standard": 21,
+        "ordinal": 3,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 7,
+      "text": "new",
+      "lemma": "strong:G46 lemma.TR:αγναφου",
+      "morph": "robinson:A-GSN",
+      "metadata": {
+        "src": "6"
+      },
+      "gematria": {
+        "standard": 42,
+        "ordinal": 6,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 8,
+      "text": "cloth",
+      "lemma": "strong:G4470 lemma.TR:ρακους",
+      "morph": "robinson:N-GSN",
+      "strongs": [
+        "G4470"
+      ],
+      "metadata": {
+        "src": "5"
+      },
+      "gematria": {
+        "standard": 58,
+        "ordinal": 15,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 9,
+      "text": "unto",
+      "lemma": "strong:G1909 lemma.TR:επι",
+      "morph": "robinson:PREP",
+      "strongs": [
+        "G1909"
+      ],
+      "metadata": {
+        "src": "7"
+      },
+      "gematria": {
+        "standard": 70,
+        "ordinal": 10,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 10,
+      "text": "an",
+      "lemma": "strong:G2440 lemma.TR:ιματιω",
+      "morph": "robinson:N-DSN",
+      "strongs": [
+        "G2440"
+      ],
+      "metadata": {
+        "src": "8",
+        "type": "x-split-502"
+      },
+      "gematria": {
+        "standard": 15,
+        "ordinal": 3,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 11,
+      "text": "old",
+      "lemma": "strong:G3820 lemma.TR:παλαιω",
+      "morph": "robinson:A-DSN",
+      "strongs": [
+        "G3820"
+      ],
+      "metadata": {
+        "src": "9"
+      },
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 12,
+      "text": "garment,",
+      "lemma": "strong:G2440 lemma.TR:ιματιω",
+      "morph": "robinson:N-DSN",
+      "strongs": [
+        "G2440"
+      ],
+      "metadata": {
+        "src": "8",
+        "type": "x-split-502"
+      },
+      "gematria": {
+        "standard": 78,
+        "ordinal": 28,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 13,
+      "text": "for",
+      "lemma": "strong:G1063 lemma.TR:γαρ",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G1063"
+      ],
+      "metadata": {
+        "src": "11"
+      },
+      "gematria": {
+        "standard": 39,
+        "ordinal": 6,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 14,
+      "text": "that",
+      "lemma": "strong:G3588 strong:G4138 lemma.TR:το lemma.TR:πληρωμα",
+      "morph": "robinson:T-NSN robinson:N-NSN",
+      "strongs": [
+        "G3588",
+        "G4138"
+      ],
+      "metadata": {
+        "src": "12 13",
+        "type": "x-split-503"
+      },
+      "gematria": {
+        "standard": 49,
+        "ordinal": 10,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 15,
+      "text": "which",
+      "lemma": "strong:G3588 strong:G4138 lemma.TR:το lemma.TR:πληρωμα",
+      "morph": "robinson:T-NSN robinson:N-NSN",
+      "strongs": [
+        "G3588",
+        "G4138"
+      ],
+      "metadata": {
+        "src": "12 13",
+        "type": "x-split-503"
+      },
+      "gematria": {
+        "standard": 51,
+        "ordinal": 15,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 16,
+      "text": "is",
+      "lemma": "strong:G3588 strong:G4138 lemma.TR:το lemma.TR:πληρωμα",
+      "morph": "robinson:T-NSN robinson:N-NSN",
+      "strongs": [
+        "G3588",
+        "G4138"
+      ],
+      "metadata": {
+        "src": "12 13",
+        "type": "x-split-503"
+      },
+      "gematria": {
+        "standard": 28,
+        "ordinal": 3,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 17,
+      "text": "put",
+      "lemma": "strong:G3588 strong:G4138 lemma.TR:το lemma.TR:πληρωμα",
+      "morph": "robinson:T-NSN robinson:N-NSN",
+      "strongs": [
+        "G3588",
+        "G4138"
+      ],
+      "metadata": {
+        "src": "12 13",
+        "type": "x-split-503"
+      },
+      "gematria": {
+        "standard": 57,
+        "ordinal": 6,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 18,
+      "text": "in",
+      "lemma": "strong:G3588 strong:G4138 lemma.TR:το lemma.TR:πληρωμα",
+      "morph": "robinson:T-NSN robinson:N-NSN",
+      "strongs": [
+        "G3588",
+        "G4138"
+      ],
+      "metadata": {
+        "src": "12 13",
+        "type": "x-split-503"
+      },
+      "gematria": {
+        "standard": 23,
+        "ordinal": 3,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 19,
+      "text": "to",
+      "lemma": "strong:G3588 strong:G4138 lemma.TR:το lemma.TR:πληρωμα",
+      "morph": "robinson:T-NSN robinson:N-NSN",
+      "strongs": [
+        "G3588",
+        "G4138"
+      ],
+      "metadata": {
+        "src": "12 13",
+        "type": "x-split-503"
+      },
+      "gematria": {
+        "standard": 35,
+        "ordinal": 3,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 20,
+      "text": "fill",
+      "lemma": "strong:G3588 strong:G4138 lemma.TR:το lemma.TR:πληρωμα",
+      "morph": "robinson:T-NSN robinson:N-NSN",
+      "strongs": [
+        "G3588",
+        "G4138"
+      ],
+      "metadata": {
+        "src": "12 13",
+        "type": "x-split-503"
+      },
+      "gematria": {
+        "standard": 39,
+        "ordinal": 10,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 21,
+      "text": "it",
+      "lemma": "strong:G846 lemma.TR:αυτου",
+      "morph": "robinson:P-GSN",
+      "strongs": [
+        "G846"
+      ],
+      "metadata": {
+        "src": "14"
+      },
+      "gematria": {
+        "standard": 29,
+        "ordinal": 3,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 22,
+      "text": "up",
+      "lemma": "strong:G3588 strong:G4138 lemma.TR:το lemma.TR:πληρωμα",
+      "morph": "robinson:T-NSN robinson:N-NSN",
+      "strongs": [
+        "G3588",
+        "G4138"
+      ],
+      "metadata": {
+        "src": "12 13",
+        "type": "x-split-503"
+      },
+      "gematria": {
+        "standard": 37,
+        "ordinal": 3,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 23,
+      "text": "taketh",
+      "lemma": "strong:G142 lemma.TR:αιρει",
+      "morph": "robinson:V-PAI-3S",
+      "strongs": [
+        "G142"
+      ],
+      "metadata": {
+        "src": "10"
+      },
+      "gematria": {
+        "standard": 65,
+        "ordinal": 21,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 24,
+      "text": "from",
+      "lemma": "strong:G575 lemma.TR:απο",
+      "morph": "robinson:PREP",
+      "strongs": [
+        "G575"
+      ],
+      "metadata": {
+        "src": "15"
+      },
+      "gematria": {
+        "standard": 52,
+        "ordinal": 10,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 25,
+      "text": "the",
+      "lemma": "strong:G3588 strong:G2440 lemma.TR:του lemma.TR:ιματιου",
+      "morph": "robinson:T-GSN robinson:N-GSN",
+      "strongs": [
+        "G3588",
+        "G2440"
+      ],
+      "metadata": {
+        "src": "16 17"
+      },
+      "gematria": {
+        "standard": 33,
+        "ordinal": 6,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 26,
+      "text": "garment,",
+      "lemma": "strong:G3588 strong:G2440 lemma.TR:του lemma.TR:ιματιου",
+      "morph": "robinson:T-GSN robinson:N-GSN",
+      "strongs": [
+        "G3588",
+        "G2440"
+      ],
+      "metadata": {
+        "src": "16 17"
+      },
+      "gematria": {
+        "standard": 78,
+        "ordinal": 28,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 27,
+      "text": "and",
+      "lemma": "strong:G2532 lemma.TR:και",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G2532"
+      ],
+      "metadata": {
+        "src": "18"
+      },
+      "gematria": {
+        "standard": 19,
+        "ordinal": 6,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 28,
+      "text": "the",
+      "lemma": "strong:G4978 lemma.TR:σχισμα",
+      "morph": "robinson:N-NSN",
+      "strongs": [
+        "G4978"
+      ],
+      "metadata": {
+        "src": "20"
+      },
+      "gematria": {
+        "standard": 33,
+        "ordinal": 6,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 29,
+      "text": "rent",
+      "lemma": "strong:G4978 lemma.TR:σχισμα",
+      "morph": "robinson:N-NSN",
+      "strongs": [
+        "G4978"
+      ],
+      "metadata": {
+        "src": "20"
+      },
+      "gematria": {
+        "standard": 57,
+        "ordinal": 10,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 30,
+      "text": "is",
+      "lemma": "strong:G1096 lemma.TR:γινεται",
+      "morph": "robinson:V-PNI-3S",
+      "strongs": [
+        "G1096"
+      ],
+      "metadata": {
+        "src": "21"
+      },
+      "gematria": {
+        "standard": 28,
+        "ordinal": 3,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 31,
+      "text": "made",
+      "lemma": "strong:G1096 lemma.TR:γινεται",
+      "morph": "robinson:V-PNI-3S",
+      "strongs": [
+        "G1096"
+      ],
+      "metadata": {
+        "src": "21"
+      },
+      "gematria": {
+        "standard": 23,
+        "ordinal": 10,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 32,
+      "text": "worse.",
+      "lemma": "strong:G5501 lemma.TR:χειρον",
+      "morph": "robinson:A-NSN",
+      "strongs": [
+        "G5501"
+      ],
+      "metadata": {
+        "src": "19"
+      },
+      "gematria": {
+        "standard": 80,
+        "ordinal": 15,
+        "reduced": 26
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 1376,
+    "ordinal": 301,
+    "reduced": 539
+  }
+}

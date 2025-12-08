@@ -1,0 +1,677 @@
+{
+  "text": "Now there were in the church that was at Antioch certain prophets and teachers; as Barnabas, and Simeon that was called Niger, and Lucius of Cyrene, and Manaen, which had been brought up with Herod the tetrarch, and Saul.",
+  "words": [
+    {
+      "position": 1,
+      "text": "Now",
+      "lemma": "strong:G1161 lemma.TR:δε",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G1161"
+      ],
+      "metadata": {
+        "src": "2"
+      },
+      "gematria": {
+        "standard": 52,
+        "ordinal": 6,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 2,
+      "text": "there",
+      "lemma": "strong:G1510 lemma.TR:ησαν",
+      "morph": "robinson:V-IAI-3P",
+      "strongs": [
+        "G1510"
+      ],
+      "metadata": {
+        "src": "1"
+      },
+      "gematria": {
+        "standard": 56,
+        "ordinal": 15,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 3,
+      "text": "were",
+      "lemma": "strong:G1510 lemma.TR:ησαν",
+      "morph": "robinson:V-IAI-3P",
+      "strongs": [
+        "G1510"
+      ],
+      "metadata": {
+        "src": "1"
+      },
+      "gematria": {
+        "standard": 51,
+        "ordinal": 10,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 4,
+      "text": "in",
+      "lemma": "strong:G2596 lemma.TR:κατα",
+      "morph": "robinson:PREP",
+      "strongs": [
+        "G2596"
+      ],
+      "metadata": {
+        "src": "6"
+      },
+      "gematria": {
+        "standard": 23,
+        "ordinal": 3,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 5,
+      "text": "the",
+      "lemma": "strong:G1577 lemma.TR:εκκλησιαν",
+      "morph": "robinson:N-ASF",
+      "strongs": [
+        "G1577"
+      ],
+      "metadata": {
+        "src": "9"
+      },
+      "gematria": {
+        "standard": 33,
+        "ordinal": 6,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 6,
+      "text": "church",
+      "lemma": "strong:G1577 lemma.TR:εκκλησιαν",
+      "morph": "robinson:N-ASF",
+      "strongs": [
+        "G1577"
+      ],
+      "metadata": {
+        "src": "9"
+      },
+      "gematria": {
+        "standard": 61,
+        "ordinal": 21,
+        "reduced": 34
+      }
+    },
+    {
+      "position": 7,
+      "text": "that",
+      "lemma": "strong:G1510 lemma.TR:ουσαν",
+      "morph": "robinson:V-PAP-ASF",
+      "strongs": [
+        "G1510"
+      ],
+      "metadata": {
+        "src": "8"
+      },
+      "gematria": {
+        "standard": 49,
+        "ordinal": 10,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 8,
+      "text": "was",
+      "lemma": "strong:G1510 lemma.TR:ουσαν",
+      "morph": "robinson:V-PAP-ASF",
+      "strongs": [
+        "G1510"
+      ],
+      "metadata": {
+        "src": "8"
+      },
+      "gematria": {
+        "standard": 43,
+        "ordinal": 6,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 9,
+      "text": "at",
+      "lemma": "strong:G1722 lemma.TR:εν",
+      "morph": "robinson:PREP",
+      "strongs": [
+        "G1722"
+      ],
+      "metadata": {
+        "src": "4"
+      },
+      "gematria": {
+        "standard": 21,
+        "ordinal": 3,
+        "reduced": 3
+      }
+    },
+    {
+      "position": 10,
+      "text": "Antioch",
+      "lemma": "strong:G490 lemma.TR:αντιοχεια",
+      "morph": "robinson:N-DSF",
+      "strongs": [
+        "G490"
+      ],
+      "metadata": {
+        "src": "5"
+      },
+      "gematria": {
+        "standard": 70,
+        "ordinal": 28,
+        "reduced": 34
+      }
+    },
+    {
+      "position": 11,
+      "text": "certain",
+      "lemma": "strong:G5100 lemma.TR:τινες",
+      "morph": "robinson:X-NPM",
+      "strongs": [
+        "G5100"
+      ],
+      "metadata": {
+        "src": "3"
+      },
+      "gematria": {
+        "standard": 70,
+        "ordinal": 28,
+        "reduced": 34
+      }
+    },
+    {
+      "position": 12,
+      "text": "prophets",
+      "lemma": "strong:G4396 lemma.TR:προφηται",
+      "morph": "robinson:N-NPM",
+      "strongs": [
+        "G4396"
+      ],
+      "metadata": {
+        "src": "10"
+      },
+      "gematria": {
+        "standard": 117,
+        "ordinal": 36,
+        "reduced": 45
+      }
+    },
+    {
+      "position": 13,
+      "text": "and",
+      "lemma": "strong:G2532 lemma.TR:και",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G2532"
+      ],
+      "metadata": {
+        "src": "11"
+      },
+      "gematria": {
+        "standard": 19,
+        "ordinal": 6,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 14,
+      "text": "teachers;",
+      "lemma": "strong:G1320 lemma.TR:διδασκαλοι",
+      "morph": "robinson:N-NPM",
+      "strongs": [
+        "G1320"
+      ],
+      "metadata": {
+        "src": "12"
+      },
+      "gematria": {
+        "standard": 79,
+        "ordinal": 36,
+        "reduced": 34
+      }
+    },
+    {
+      "position": 15,
+      "text": "as",
+      "lemma": "strong:G5037 lemma.TR:τε",
+      "morph": "robinson:PRT",
+      "strongs": [
+        "G5037"
+      ],
+      "metadata": {
+        "src": "14"
+      },
+      "gematria": {
+        "standard": 20,
+        "ordinal": 3,
+        "reduced": 2
+      }
+    },
+    {
+      "position": 16,
+      "text": "Barnabas,",
+      "lemma": "strong:G921 lemma.TR:βαρναβας",
+      "morph": "robinson:N-NSM",
+      "strongs": [
+        "G921"
+      ],
+      "metadata": {
+        "src": "15"
+      },
+      "gematria": {
+        "standard": 58,
+        "ordinal": 36,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 17,
+      "text": "and",
+      "lemma": "strong:G2532 lemma.TR:και",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G2532"
+      ],
+      "metadata": {
+        "src": "16"
+      },
+      "gematria": {
+        "standard": 19,
+        "ordinal": 6,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 18,
+      "text": "Simeon",
+      "lemma": "strong:G4826 lemma.TR:συμεων",
+      "morph": "robinson:N-PRI",
+      "strongs": [
+        "G4826"
+      ],
+      "metadata": {
+        "src": "17"
+      },
+      "gematria": {
+        "standard": 75,
+        "ordinal": 21,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 19,
+      "text": "that",
+      "lemma": "strong:G2564 lemma.TR:καλουμενος",
+      "morph": "robinson:V-PPP-NSM",
+      "strongs": [
+        "G2564"
+      ],
+      "metadata": {
+        "src": "19"
+      },
+      "gematria": {
+        "standard": 49,
+        "ordinal": 10,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 20,
+      "text": "was",
+      "lemma": "strong:G2564 lemma.TR:καλουμενος",
+      "morph": "robinson:V-PPP-NSM",
+      "strongs": [
+        "G2564"
+      ],
+      "metadata": {
+        "src": "19"
+      },
+      "gematria": {
+        "standard": 43,
+        "ordinal": 6,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 21,
+      "text": "called",
+      "lemma": "strong:G2564 lemma.TR:καλουμενος",
+      "morph": "robinson:V-PPP-NSM",
+      "strongs": [
+        "G2564"
+      ],
+      "metadata": {
+        "src": "19"
+      },
+      "gematria": {
+        "standard": 37,
+        "ordinal": 21,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 22,
+      "text": "Niger,",
+      "lemma": "strong:G3526 lemma.TR:νιγερ",
+      "morph": "robinson:N-PRI",
+      "strongs": [
+        "G3526"
+      ],
+      "metadata": {
+        "src": "20"
+      },
+      "gematria": {
+        "standard": 53,
+        "ordinal": 15,
+        "reduced": 35
+      }
+    },
+    {
+      "position": 23,
+      "text": "and",
+      "lemma": "strong:G2532 lemma.TR:και",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G2532"
+      ],
+      "metadata": {
+        "src": "21"
+      },
+      "gematria": {
+        "standard": 19,
+        "ordinal": 6,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 24,
+      "text": "Lucius",
+      "lemma": "strong:G3066 lemma.TR:λουκιος",
+      "morph": "robinson:N-NSM",
+      "strongs": [
+        "G3066"
+      ],
+      "metadata": {
+        "src": "22"
+      },
+      "gematria": {
+        "standard": 85,
+        "ordinal": 21,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 25,
+      "text": "of",
+      "lemma": "strong:G3588 strong:G2956 lemma.TR:ο lemma.TR:κυρηναιος",
+      "morph": "robinson:T-NSM robinson:N-NSM",
+      "strongs": [
+        "G3588",
+        "G2956"
+      ],
+      "metadata": {
+        "src": "23 24"
+      },
+      "gematria": {
+        "standard": 21,
+        "ordinal": 3,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 26,
+      "text": "Cyrene,",
+      "lemma": "strong:G3588 strong:G2956 lemma.TR:ο lemma.TR:κυρηναιος",
+      "morph": "robinson:T-NSM robinson:N-NSM",
+      "strongs": [
+        "G3588",
+        "G2956"
+      ],
+      "metadata": {
+        "src": "23 24"
+      },
+      "gematria": {
+        "standard": 70,
+        "ordinal": 21,
+        "reduced": 34
+      }
+    },
+    {
+      "position": 27,
+      "text": "and",
+      "lemma": "strong:G5037 lemma.TR:τε",
+      "morph": "robinson:PRT",
+      "strongs": [
+        "G5037"
+      ],
+      "metadata": {
+        "src": "26"
+      },
+      "gematria": {
+        "standard": 19,
+        "ordinal": 6,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 28,
+      "text": "Manaen,",
+      "lemma": "strong:G3127 lemma.TR:μαναην",
+      "morph": "robinson:N-PRI",
+      "strongs": [
+        "G3127"
+      ],
+      "metadata": {
+        "src": "25"
+      },
+      "gematria": {
+        "standard": 48,
+        "ordinal": 21,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 29,
+      "text": "which",
+      "lemma": "strong:G4939 lemma.TR:συντροφος",
+      "morph": "robinson:A-NSM",
+      "strongs": [
+        "G4939"
+      ],
+      "metadata": {
+        "src": "30"
+      },
+      "gematria": {
+        "standard": 51,
+        "ordinal": 15,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 30,
+      "text": "had",
+      "lemma": "strong:G4939 lemma.TR:συντροφος",
+      "morph": "robinson:A-NSM",
+      "strongs": [
+        "G4939"
+      ],
+      "metadata": {
+        "src": "30"
+      },
+      "gematria": {
+        "standard": 13,
+        "ordinal": 6,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 31,
+      "text": "been",
+      "lemma": "strong:G4939 lemma.TR:συντροφος",
+      "morph": "robinson:A-NSM",
+      "strongs": [
+        "G4939"
+      ],
+      "metadata": {
+        "src": "30"
+      },
+      "gematria": {
+        "standard": 26,
+        "ordinal": 10,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 32,
+      "text": "brought",
+      "lemma": "strong:G4939 lemma.TR:συντροφος",
+      "morph": "robinson:A-NSM",
+      "strongs": [
+        "G4939"
+      ],
+      "metadata": {
+        "src": "30"
+      },
+      "gematria": {
+        "standard": 91,
+        "ordinal": 28,
+        "reduced": 37
+      }
+    },
+    {
+      "position": 33,
+      "text": "up",
+      "lemma": "strong:G4939 lemma.TR:συντροφος",
+      "morph": "robinson:A-NSM",
+      "strongs": [
+        "G4939"
+      ],
+      "metadata": {
+        "src": "30"
+      },
+      "gematria": {
+        "standard": 37,
+        "ordinal": 3,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 34,
+      "text": "with",
+      "lemma": "strong:G4939 lemma.TR:συντροφος",
+      "morph": "robinson:A-NSM",
+      "strongs": [
+        "G4939"
+      ],
+      "metadata": {
+        "src": "30"
+      },
+      "gematria": {
+        "standard": 60,
+        "ordinal": 10,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 35,
+      "text": "Herod",
+      "lemma": "strong:G2264 lemma.TR:ηρωδου",
+      "morph": "robinson:N-GSM",
+      "strongs": [
+        "G2264"
+      ],
+      "metadata": {
+        "src": "27"
+      },
+      "gematria": {
+        "standard": 50,
+        "ordinal": 15,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 36,
+      "text": "the",
+      "lemma": "strong:G3588 strong:G5076 lemma.TR:του lemma.TR:τετραρχου",
+      "morph": "robinson:T-GSM robinson:N-GSM",
+      "strongs": [
+        "G3588",
+        "G5076"
+      ],
+      "metadata": {
+        "src": "28 29"
+      },
+      "gematria": {
+        "standard": 33,
+        "ordinal": 6,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 37,
+      "text": "tetrarch,",
+      "lemma": "strong:G3588 strong:G5076 lemma.TR:του lemma.TR:τετραρχου",
+      "morph": "robinson:T-GSM robinson:N-GSM",
+      "strongs": [
+        "G3588",
+        "G5076"
+      ],
+      "metadata": {
+        "src": "28 29"
+      },
+      "gematria": {
+        "standard": 93,
+        "ordinal": 36,
+        "reduced": 39
+      }
+    },
+    {
+      "position": 38,
+      "text": "and",
+      "lemma": "strong:G2532 lemma.TR:και",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G2532"
+      ],
+      "metadata": {
+        "src": "31"
+      },
+      "gematria": {
+        "standard": 19,
+        "ordinal": 6,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 39,
+      "text": "Saul.",
+      "lemma": "strong:G4569 lemma.TR:σαυλος",
+      "morph": "robinson:N-NSM",
+      "strongs": [
+        "G4569"
+      ],
+      "metadata": {
+        "src": "32"
+      },
+      "gematria": {
+        "standard": 53,
+        "ordinal": 10,
+        "reduced": 8
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 1886,
+    "ordinal": 555,
+    "reduced": 797
+  }
+}

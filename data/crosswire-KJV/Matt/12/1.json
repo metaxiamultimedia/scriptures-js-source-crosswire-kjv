@@ -1,0 +1,508 @@
+{
+  "text": "At that time Jesus went on the sabbath day through the corn; and his disciples were an hungred, and began to pluck the ears of corn, and to eat.",
+  "words": [
+    {
+      "position": 1,
+      "text": "At",
+      "lemma": "strong:G1722 lemma.TR:εν",
+      "morph": "robinson:PREP",
+      "strongs": [
+        "G1722"
+      ],
+      "metadata": {
+        "src": "1"
+      },
+      "gematria": {
+        "standard": 21,
+        "ordinal": 3,
+        "reduced": 3
+      }
+    },
+    {
+      "position": 2,
+      "text": "that",
+      "lemma": "strong:G1565 lemma.TR:εκεινω",
+      "morph": "robinson:D-DSM",
+      "strongs": [
+        "G1565"
+      ],
+      "metadata": {
+        "src": "2"
+      },
+      "gematria": {
+        "standard": 49,
+        "ordinal": 10,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 3,
+      "text": "time",
+      "lemma": "strong:G3588 strong:G2540 lemma.TR:τω lemma.TR:καιρω",
+      "morph": "robinson:T-DSM robinson:N-DSM",
+      "strongs": [
+        "G3588",
+        "G2540"
+      ],
+      "metadata": {
+        "src": "3 4"
+      },
+      "gematria": {
+        "standard": 47,
+        "ordinal": 10,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 4,
+      "text": "Jesus",
+      "lemma": "strong:G3588 strong:G2424 lemma.TR:ο lemma.TR:ιησους",
+      "morph": "robinson:T-NSM robinson:N-NSM",
+      "strongs": [
+        "G3588",
+        "G2424"
+      ],
+      "metadata": {
+        "src": "6 7"
+      },
+      "gematria": {
+        "standard": 74,
+        "ordinal": 15,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 5,
+      "text": "went",
+      "lemma": "strong:G4198 lemma.TR:επορευθη",
+      "morph": "robinson:V-AOI-3S",
+      "strongs": [
+        "G4198"
+      ],
+      "metadata": {
+        "src": "5"
+      },
+      "gematria": {
+        "standard": 62,
+        "ordinal": 10,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 6,
+      "text": "on",
+      "lemma": "strong:G4198 lemma.TR:επορευθη",
+      "morph": "robinson:V-AOI-3S",
+      "strongs": [
+        "G4198"
+      ],
+      "metadata": {
+        "src": "5"
+      },
+      "gematria": {
+        "standard": 29,
+        "ordinal": 3,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 7,
+      "text": "the",
+      "lemma": "strong:G3588 strong:G4521 lemma.TR:τοις lemma.TR:σαββασιν",
+      "morph": "robinson:T-DPN robinson:N-DPN",
+      "strongs": [
+        "G3588",
+        "G4521"
+      ],
+      "metadata": {
+        "src": "8 9"
+      },
+      "gematria": {
+        "standard": 33,
+        "ordinal": 6,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 8,
+      "text": "sabbath",
+      "lemma": "strong:G3588 strong:G4521 lemma.TR:τοις lemma.TR:σαββασιν",
+      "morph": "robinson:T-DPN robinson:N-DPN",
+      "strongs": [
+        "G3588",
+        "G4521"
+      ],
+      "metadata": {
+        "src": "8 9"
+      },
+      "gematria": {
+        "standard": 53,
+        "ordinal": 28,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 9,
+      "text": "day",
+      "lemma": "strong:G3588 strong:G4521 lemma.TR:τοις lemma.TR:σαββασιν",
+      "morph": "robinson:T-DPN robinson:N-DPN",
+      "strongs": [
+        "G3588",
+        "G4521"
+      ],
+      "metadata": {
+        "src": "8 9"
+      },
+      "gematria": {
+        "standard": 30,
+        "ordinal": 6,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 10,
+      "text": "through",
+      "lemma": "strong:G1223 lemma.TR:δια",
+      "morph": "robinson:PREP",
+      "strongs": [
+        "G1223"
+      ],
+      "metadata": {
+        "src": "10"
+      },
+      "gematria": {
+        "standard": 97,
+        "ordinal": 28,
+        "reduced": 43
+      }
+    },
+    {
+      "position": 11,
+      "text": "the",
+      "lemma": "strong:G4702 lemma.TR:σποριμων",
+      "morph": "robinson:A-GPM",
+      "strongs": [
+        "G4702"
+      ],
+      "metadata": {
+        "src": "12"
+      },
+      "gematria": {
+        "standard": 33,
+        "ordinal": 6,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 12,
+      "text": "corn;",
+      "lemma": "strong:G4702 lemma.TR:σποριμων",
+      "morph": "robinson:A-GPM",
+      "strongs": [
+        "G4702"
+      ],
+      "metadata": {
+        "src": "12"
+      },
+      "gematria": {
+        "standard": 50,
+        "ordinal": 10,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 13,
+      "text": "and",
+      "lemma": "strong:G1161 lemma.TR:δε",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G1161"
+      ],
+      "metadata": {
+        "src": "14"
+      },
+      "gematria": {
+        "standard": 19,
+        "ordinal": 6,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 14,
+      "text": "his",
+      "lemma": "strong:G846 lemma.TR:αυτου",
+      "morph": "robinson:P-GSM",
+      "strongs": [
+        "G846"
+      ],
+      "metadata": {
+        "src": "16"
+      },
+      "gematria": {
+        "standard": 36,
+        "ordinal": 6,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 15,
+      "text": "disciples",
+      "lemma": "strong:G3101 lemma.TR:μαθηται",
+      "morph": "robinson:N-NPM",
+      "strongs": [
+        "G3101"
+      ],
+      "metadata": {
+        "src": "15"
+      },
+      "gematria": {
+        "standard": 96,
+        "ordinal": 45,
+        "reduced": 42
+      }
+    },
+    {
+      "position": 16,
+      "text": "were",
+      "lemma": "strong:G3983 lemma.TR:επεινασαν",
+      "morph": "robinson:V-AAI-3P",
+      "strongs": [
+        "G3983"
+      ],
+      "metadata": {
+        "src": "17"
+      },
+      "gematria": {
+        "standard": 51,
+        "ordinal": 10,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 17,
+      "text": "an",
+      "lemma": "strong:G3983 lemma.TR:επεινασαν",
+      "morph": "robinson:V-AAI-3P",
+      "strongs": [
+        "G3983"
+      ],
+      "metadata": {
+        "src": "17"
+      },
+      "gematria": {
+        "standard": 15,
+        "ordinal": 3,
+        "reduced": 6
+      }
+    },
+    {
+      "position": 18,
+      "text": "hungred,",
+      "lemma": "strong:G3983 lemma.TR:επεινασαν",
+      "morph": "robinson:V-AAI-3P",
+      "strongs": [
+        "G3983"
+      ],
+      "metadata": {
+        "src": "17"
+      },
+      "gematria": {
+        "standard": 77,
+        "ordinal": 28,
+        "reduced": 41
+      }
+    },
+    {
+      "position": 19,
+      "text": "and",
+      "lemma": "strong:G2532 lemma.TR:και",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G2532"
+      ],
+      "metadata": {
+        "src": "18"
+      },
+      "gematria": {
+        "standard": 19,
+        "ordinal": 6,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 20,
+      "text": "began",
+      "lemma": "strong:G756 lemma.TR:ηρξαντο",
+      "morph": "robinson:V-ADI-3P",
+      "strongs": [
+        "G756"
+      ],
+      "metadata": {
+        "src": "19"
+      },
+      "gematria": {
+        "standard": 29,
+        "ordinal": 15,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 21,
+      "text": "to",
+      "lemma": "strong:G5089 lemma.TR:τιλλειν",
+      "morph": "robinson:V-PAN",
+      "strongs": [
+        "G5089"
+      ],
+      "metadata": {
+        "src": "20"
+      },
+      "gematria": {
+        "standard": 35,
+        "ordinal": 3,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 22,
+      "text": "pluck",
+      "lemma": "strong:G5089 lemma.TR:τιλλειν",
+      "morph": "robinson:V-PAN",
+      "strongs": [
+        "G5089"
+      ],
+      "metadata": {
+        "src": "20"
+      },
+      "gematria": {
+        "standard": 63,
+        "ordinal": 15,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 23,
+      "text": "the",
+      "lemma": "strong:G4719 lemma.TR:σταχυας",
+      "morph": "robinson:N-APM",
+      "strongs": [
+        "G4719"
+      ],
+      "metadata": {
+        "src": "21"
+      },
+      "gematria": {
+        "standard": 33,
+        "ordinal": 6,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 24,
+      "text": "ears",
+      "lemma": "strong:G4719 lemma.TR:σταχυας",
+      "morph": "robinson:N-APM",
+      "strongs": [
+        "G4719"
+      ],
+      "metadata": {
+        "src": "21"
+      },
+      "gematria": {
+        "standard": 43,
+        "ordinal": 10,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 25,
+      "text": "of",
+      "lemma": "strong:G4719 lemma.TR:σταχυας",
+      "morph": "robinson:N-APM",
+      "strongs": [
+        "G4719"
+      ],
+      "metadata": {
+        "src": "21"
+      },
+      "gematria": {
+        "standard": 21,
+        "ordinal": 3,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 26,
+      "text": "corn,",
+      "lemma": "strong:G4719 lemma.TR:σταχυας",
+      "morph": "robinson:N-APM",
+      "strongs": [
+        "G4719"
+      ],
+      "metadata": {
+        "src": "21"
+      },
+      "gematria": {
+        "standard": 50,
+        "ordinal": 10,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 27,
+      "text": "and",
+      "lemma": "strong:G2532 lemma.TR:και",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G2532"
+      ],
+      "metadata": {
+        "src": "22"
+      },
+      "gematria": {
+        "standard": 19,
+        "ordinal": 6,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 28,
+      "text": "to",
+      "lemma": "strong:G2068 lemma.TR:εσθιειν",
+      "morph": "robinson:V-PAN",
+      "strongs": [
+        "G2068"
+      ],
+      "metadata": {
+        "src": "23"
+      },
+      "gematria": {
+        "standard": 35,
+        "ordinal": 3,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 29,
+      "text": "eat.",
+      "lemma": "strong:G2068 lemma.TR:εσθιειν",
+      "morph": "robinson:V-PAN",
+      "strongs": [
+        "G2068"
+      ],
+      "metadata": {
+        "src": "23"
+      },
+      "gematria": {
+        "standard": 26,
+        "ordinal": 6,
+        "reduced": 8
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 1245,
+    "ordinal": 316,
+    "reduced": 489
+  }
+}

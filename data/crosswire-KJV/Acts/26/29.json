@@ -1,0 +1,547 @@
+{
+  "text": "And Paul said, I would to God, that not only thou, but also all that hear me this day, were both almost, and altogether such as I am, except these bonds.",
+  "words": [
+    {
+      "position": 1,
+      "text": "And",
+      "lemma": "strong:G1161 lemma.TR:δε",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G1161"
+      ],
+      "metadata": {
+        "src": "2"
+      },
+      "gematria": {
+        "standard": 19,
+        "ordinal": 6,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 2,
+      "text": "Paul",
+      "lemma": "strong:G3588 strong:G3972 lemma.TR:ο lemma.TR:παυλος",
+      "morph": "robinson:T-NSM robinson:N-NSM",
+      "strongs": [
+        "G3588",
+        "G3972"
+      ],
+      "metadata": {
+        "src": "1 3"
+      },
+      "gematria": {
+        "standard": 50,
+        "ordinal": 10,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 3,
+      "text": "said,",
+      "lemma": "strong:G3004 lemma.TR:ειπεν",
+      "morph": "robinson:V-2AAI-3S",
+      "strongs": [
+        "G3004"
+      ],
+      "metadata": {
+        "src": "4"
+      },
+      "gematria": {
+        "standard": 33,
+        "ordinal": 10,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 4,
+      "text": "I",
+      "lemma": "strong:G2172 lemma.TR:ευξαιμην",
+      "morph": "robinson:V-ADO-1S",
+      "strongs": [
+        "G2172"
+      ],
+      "metadata": {
+        "src": "5",
+        "type": "x-split-2449"
+      },
+      "gematria": {
+        "standard": 9,
+        "ordinal": 1,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 5,
+      "text": "would",
+      "lemma": "strong:G2172 lemma.TR:ευξαιμην",
+      "morph": "robinson:V-ADO-1S",
+      "strongs": [
+        "G2172"
+      ],
+      "metadata": {
+        "src": "5",
+        "type": "x-split-2449"
+      },
+      "gematria": {
+        "standard": 75,
+        "ordinal": 15,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 6,
+      "text": "to",
+      "lemma": "strong:G3588 strong:G2316 lemma.TR:τω lemma.TR:θεω",
+      "morph": "robinson:T-DSM robinson:N-DSM",
+      "strongs": [
+        "G3588",
+        "G2316"
+      ],
+      "metadata": {
+        "src": "7 8"
+      },
+      "gematria": {
+        "standard": 35,
+        "ordinal": 3,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 7,
+      "text": "God,",
+      "lemma": "strong:G3588 strong:G2316 lemma.TR:τω lemma.TR:θεω",
+      "morph": "robinson:T-DSM robinson:N-DSM",
+      "strongs": [
+        "G3588",
+        "G2316"
+      ],
+      "metadata": {
+        "src": "7 8"
+      },
+      "gematria": {
+        "standard": 26,
+        "ordinal": 6,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 8,
+      "text": "that",
+      "lemma": "strong:G2172 lemma.TR:ευξαιμην",
+      "morph": "robinson:V-ADO-1S",
+      "strongs": [
+        "G2172"
+      ],
+      "metadata": {
+        "src": "5",
+        "type": "x-split-2449"
+      },
+      "gematria": {
+        "standard": 49,
+        "ordinal": 10,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 9,
+      "text": "not",
+      "lemma": "strong:G3756 lemma.TR:ου",
+      "morph": "robinson:PRT-N",
+      "strongs": [
+        "G3756"
+      ],
+      "metadata": {
+        "src": "15"
+      },
+      "gematria": {
+        "standard": 49,
+        "ordinal": 6,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 10,
+      "text": "only",
+      "lemma": "strong:G3440 lemma.TR:μονον",
+      "morph": "robinson:ADV",
+      "strongs": [
+        "G3440"
+      ],
+      "metadata": {
+        "src": "16"
+      },
+      "gematria": {
+        "standard": 66,
+        "ordinal": 10,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 11,
+      "text": "thou,",
+      "lemma": "strong:G4771 lemma.TR:σε",
+      "morph": "robinson:P-2AS",
+      "strongs": [
+        "G4771"
+      ],
+      "metadata": {
+        "src": "17"
+      },
+      "gematria": {
+        "standard": 64,
+        "ordinal": 10,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 12,
+      "text": "but",
+      "lemma": "strong:G235 lemma.TR:αλλα",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G235"
+      ],
+      "metadata": {
+        "src": "18"
+      },
+      "gematria": {
+        "standard": 43,
+        "ordinal": 6,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 13,
+      "text": "also",
+      "lemma": "strong:G2532 lemma.TR:και",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G2532"
+      ],
+      "metadata": {
+        "src": "19"
+      },
+      "gematria": {
+        "standard": 47,
+        "ordinal": 10,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 14,
+      "text": "all",
+      "lemma": "strong:G3956 lemma.TR:παντας",
+      "morph": "robinson:A-APM",
+      "strongs": [
+        "G3956"
+      ],
+      "metadata": {
+        "src": "20"
+      },
+      "gematria": {
+        "standard": 25,
+        "ordinal": 6,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 15,
+      "text": "that",
+      "lemma": "strong:G3588 strong:G191 lemma.TR:τους lemma.TR:ακουοντας",
+      "morph": "robinson:T-APM robinson:V-PAP-APM",
+      "strongs": [
+        "G3588",
+        "G191"
+      ],
+      "metadata": {
+        "src": "21 22"
+      },
+      "gematria": {
+        "standard": 49,
+        "ordinal": 10,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 16,
+      "text": "hear",
+      "lemma": "strong:G3588 strong:G191 lemma.TR:τους lemma.TR:ακουοντας",
+      "morph": "robinson:T-APM robinson:V-PAP-APM",
+      "strongs": [
+        "G3588",
+        "G191"
+      ],
+      "metadata": {
+        "src": "21 22"
+      },
+      "gematria": {
+        "standard": 32,
+        "ordinal": 10,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 17,
+      "text": "me",
+      "lemma": "strong:G1473 lemma.TR:μου",
+      "morph": "robinson:P-1GS",
+      "strongs": [
+        "G1473"
+      ],
+      "metadata": {
+        "src": "23"
+      },
+      "gematria": {
+        "standard": 18,
+        "ordinal": 3,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 18,
+      "text": "this",
+      "lemma": "strong:G4594 lemma.TR:σημερον",
+      "morph": "robinson:ADV",
+      "strongs": [
+        "G4594"
+      ],
+      "metadata": {
+        "src": "24"
+      },
+      "gematria": {
+        "standard": 56,
+        "ordinal": 10,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 19,
+      "text": "day,",
+      "lemma": "strong:G4594 lemma.TR:σημερον",
+      "morph": "robinson:ADV",
+      "strongs": [
+        "G4594"
+      ],
+      "metadata": {
+        "src": "24"
+      },
+      "gematria": {
+        "standard": 30,
+        "ordinal": 6,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 20,
+      "text": "were",
+      "lemma": "strong:G1096 lemma.TR:γενεσθαι",
+      "morph": "robinson:V-2ADN",
+      "strongs": [
+        "G1096"
+      ],
+      "metadata": {
+        "src": "25"
+      },
+      "gematria": {
+        "standard": 51,
+        "ordinal": 10,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 21,
+      "text": "both",
+      "lemma": "strong:G2532 lemma.TR:και",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G2532"
+      ],
+      "metadata": {
+        "src": "9"
+      },
+      "gematria": {
+        "standard": 45,
+        "ordinal": 10,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 22,
+      "text": "almost,",
+      "lemma": "strong:G3641 lemma.TR:ολιγω",
+      "morph": "robinson:A-DSN",
+      "strongs": [
+        "G3641"
+      ],
+      "metadata": {
+        "src": "11"
+      },
+      "gematria": {
+        "standard": 80,
+        "ordinal": 21,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 23,
+      "text": "and",
+      "lemma": "strong:G2532 lemma.TR:και",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G2532"
+      ],
+      "metadata": {
+        "src": "12"
+      },
+      "gematria": {
+        "standard": 19,
+        "ordinal": 6,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 24,
+      "text": "altogether",
+      "lemma": "strong:G1722 strong:G4183 lemma.TR:εν lemma.TR:πολλω",
+      "morph": "robinson:PREP robinson:A-DSN",
+      "strongs": [
+        "G1722",
+        "G4183"
+      ],
+      "metadata": {
+        "src": "13 14"
+      },
+      "gematria": {
+        "standard": 111,
+        "ordinal": 55,
+        "reduced": 48
+      }
+    },
+    {
+      "position": 25,
+      "text": "such",
+      "lemma": "strong:G5108 lemma.TR:τοιουτους",
+      "morph": "robinson:D-APM",
+      "strongs": [
+        "G5108"
+      ],
+      "metadata": {
+        "src": "26"
+      },
+      "gematria": {
+        "standard": 51,
+        "ordinal": 10,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 26,
+      "text": "as",
+      "lemma": "strong:G3697 lemma.TR:οποιος",
+      "morph": "robinson:A-NSM",
+      "strongs": [
+        "G3697"
+      ],
+      "metadata": {
+        "src": "27"
+      },
+      "gematria": {
+        "standard": 20,
+        "ordinal": 3,
+        "reduced": 2
+      }
+    },
+    {
+      "position": 27,
+      "text": "I",
+      "lemma": "strong:G2504 lemma.TR:καγω",
+      "morph": "robinson:P-1NS-K",
+      "strongs": [
+        "G2504"
+      ],
+      "metadata": {
+        "src": "28"
+      },
+      "gematria": {
+        "standard": 9,
+        "ordinal": 1,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 28,
+      "text": "am,",
+      "lemma": "strong:G1510 lemma.TR:ειμι",
+      "morph": "robinson:V-PAI-1S",
+      "strongs": [
+        "G1510"
+      ],
+      "metadata": {
+        "src": "29"
+      },
+      "gematria": {
+        "standard": 14,
+        "ordinal": 3,
+        "reduced": 5
+      }
+    },
+    {
+      "position": 29,
+      "text": "except",
+      "lemma": "strong:G3924 lemma.TR:παρεκτος",
+      "morph": "robinson:ADV",
+      "strongs": [
+        "G3924"
+      ],
+      "metadata": {
+        "src": "30"
+      },
+      "gematria": {
+        "standard": 73,
+        "ordinal": 21,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 30,
+      "text": "these",
+      "lemma": "strong:G3778 lemma.TR:τουτων",
+      "morph": "robinson:D-GPN",
+      "strongs": [
+        "G3778"
+      ],
+      "metadata": {
+        "src": "33"
+      },
+      "gematria": {
+        "standard": 57,
+        "ordinal": 15,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 31,
+      "text": "bonds.",
+      "lemma": "strong:G3588 strong:G1199 lemma.TR:των lemma.TR:δεσμων",
+      "morph": "robinson:T-GPN robinson:N-GPN",
+      "strongs": [
+        "G3588",
+        "G1199"
+      ],
+      "metadata": {
+        "src": "31 32"
+      },
+      "gematria": {
+        "standard": 54,
+        "ordinal": 15,
+        "reduced": 18
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 1359,
+    "ordinal": 318,
+    "reduced": 477
+  }
+}

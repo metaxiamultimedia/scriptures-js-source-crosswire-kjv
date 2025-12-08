@@ -1,0 +1,702 @@
+{
+  "text": "Let both grow together until the harvest: and in the time of harvest I will say to the reapers, Gather ye together first the tares, and bind them in bundles to burn them: but gather the wheat into my barn.",
+  "words": [
+    {
+      "position": 1,
+      "text": "Let",
+      "lemma": "strong:G863 lemma.TR:αφετε",
+      "morph": "robinson:V-2AAM-2P",
+      "strongs": [
+        "G863"
+      ],
+      "metadata": {
+        "src": "1"
+      },
+      "gematria": {
+        "standard": 37,
+        "ordinal": 6,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 2,
+      "text": "both",
+      "lemma": "strong:G297 lemma.TR:αμφοτερα",
+      "morph": "robinson:A-APN",
+      "strongs": [
+        "G297"
+      ],
+      "metadata": {
+        "src": "3"
+      },
+      "gematria": {
+        "standard": 45,
+        "ordinal": 10,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 3,
+      "text": "grow",
+      "lemma": "strong:G4885 lemma.TR:συναυξανεσθαι",
+      "morph": "robinson:V-PPN",
+      "strongs": [
+        "G4885"
+      ],
+      "metadata": {
+        "src": "2"
+      },
+      "gematria": {
+        "standard": 63,
+        "ordinal": 10,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 4,
+      "text": "together",
+      "lemma": "strong:G4885 lemma.TR:συναυξανεσθαι",
+      "morph": "robinson:V-PPN",
+      "strongs": [
+        "G4885"
+      ],
+      "metadata": {
+        "src": "2"
+      },
+      "gematria": {
+        "standard": 98,
+        "ordinal": 36,
+        "reduced": 44
+      }
+    },
+    {
+      "position": 5,
+      "text": "until",
+      "lemma": "strong:G3360 lemma.TR:μεχρι",
+      "morph": "robinson:ADV",
+      "strongs": [
+        "G3360"
+      ],
+      "metadata": {
+        "src": "4"
+      },
+      "gematria": {
+        "standard": 76,
+        "ordinal": 15,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 6,
+      "text": "the",
+      "lemma": "strong:G3588 strong:G2326 lemma.TR:του lemma.TR:θερισμου",
+      "morph": "robinson:T-GSM robinson:N-GSM",
+      "strongs": [
+        "G3588",
+        "G2326"
+      ],
+      "metadata": {
+        "src": "5 6"
+      },
+      "gematria": {
+        "standard": 33,
+        "ordinal": 6,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 7,
+      "text": "harvest:",
+      "lemma": "strong:G3588 strong:G2326 lemma.TR:του lemma.TR:θερισμου",
+      "morph": "robinson:T-GSM robinson:N-GSM",
+      "strongs": [
+        "G3588",
+        "G2326"
+      ],
+      "metadata": {
+        "src": "5 6"
+      },
+      "gematria": {
+        "standard": 93,
+        "ordinal": 28,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 8,
+      "text": "and",
+      "lemma": "strong:G2532 lemma.TR:και",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G2532"
+      ],
+      "metadata": {
+        "src": "7"
+      },
+      "gematria": {
+        "standard": 19,
+        "ordinal": 6,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 9,
+      "text": "in",
+      "lemma": "strong:G1722 lemma.TR:εν",
+      "morph": "robinson:PREP",
+      "strongs": [
+        "G1722"
+      ],
+      "metadata": {
+        "src": "8"
+      },
+      "gematria": {
+        "standard": 23,
+        "ordinal": 3,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 10,
+      "text": "the",
+      "lemma": "strong:G3588 strong:G2540 lemma.TR:τω lemma.TR:καιρω",
+      "morph": "robinson:T-DSM robinson:N-DSM",
+      "strongs": [
+        "G3588",
+        "G2540"
+      ],
+      "metadata": {
+        "src": "9 10"
+      },
+      "gematria": {
+        "standard": 33,
+        "ordinal": 6,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 11,
+      "text": "time",
+      "lemma": "strong:G3588 strong:G2540 lemma.TR:τω lemma.TR:καιρω",
+      "morph": "robinson:T-DSM robinson:N-DSM",
+      "strongs": [
+        "G3588",
+        "G2540"
+      ],
+      "metadata": {
+        "src": "9 10"
+      },
+      "gematria": {
+        "standard": 47,
+        "ordinal": 10,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 12,
+      "text": "of",
+      "lemma": "strong:G3588 strong:G2326 lemma.TR:του lemma.TR:θερισμου",
+      "morph": "robinson:T-GSM robinson:N-GSM",
+      "strongs": [
+        "G3588",
+        "G2326"
+      ],
+      "metadata": {
+        "src": "11 12"
+      },
+      "gematria": {
+        "standard": 21,
+        "ordinal": 3,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 13,
+      "text": "harvest",
+      "lemma": "strong:G3588 strong:G2326 lemma.TR:του lemma.TR:θερισμου",
+      "morph": "robinson:T-GSM robinson:N-GSM",
+      "strongs": [
+        "G3588",
+        "G2326"
+      ],
+      "metadata": {
+        "src": "11 12"
+      },
+      "gematria": {
+        "standard": 93,
+        "ordinal": 28,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 14,
+      "text": "I",
+      "lemma": "strong:G2046 lemma.TR:ερω",
+      "morph": "robinson:V-FAI-1S",
+      "strongs": [
+        "G2046"
+      ],
+      "metadata": {
+        "src": "13"
+      },
+      "gematria": {
+        "standard": 9,
+        "ordinal": 1,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 15,
+      "text": "will",
+      "lemma": "strong:G2046 lemma.TR:ερω",
+      "morph": "robinson:V-FAI-1S",
+      "strongs": [
+        "G2046"
+      ],
+      "metadata": {
+        "src": "13"
+      },
+      "gematria": {
+        "standard": 56,
+        "ordinal": 10,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 16,
+      "text": "say",
+      "lemma": "strong:G2046 lemma.TR:ερω",
+      "morph": "robinson:V-FAI-1S",
+      "strongs": [
+        "G2046"
+      ],
+      "metadata": {
+        "src": "13"
+      },
+      "gematria": {
+        "standard": 45,
+        "ordinal": 6,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 17,
+      "text": "to",
+      "lemma": "strong:G3588 strong:G2327 lemma.TR:τοις lemma.TR:θερισταις",
+      "morph": "robinson:T-DPM robinson:N-DPM",
+      "strongs": [
+        "G3588",
+        "G2327"
+      ],
+      "metadata": {
+        "src": "14 15"
+      },
+      "gematria": {
+        "standard": 35,
+        "ordinal": 3,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 18,
+      "text": "the",
+      "lemma": "strong:G3588 strong:G2327 lemma.TR:τοις lemma.TR:θερισταις",
+      "morph": "robinson:T-DPM robinson:N-DPM",
+      "strongs": [
+        "G3588",
+        "G2327"
+      ],
+      "metadata": {
+        "src": "14 15"
+      },
+      "gematria": {
+        "standard": 33,
+        "ordinal": 6,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 19,
+      "text": "reapers,",
+      "lemma": "strong:G3588 strong:G2327 lemma.TR:τοις lemma.TR:θερισταις",
+      "morph": "robinson:T-DPM robinson:N-DPM",
+      "strongs": [
+        "G3588",
+        "G2327"
+      ],
+      "metadata": {
+        "src": "14 15"
+      },
+      "gematria": {
+        "standard": 82,
+        "ordinal": 28,
+        "reduced": 37
+      }
+    },
+    {
+      "position": 20,
+      "text": "Gather",
+      "lemma": "strong:G4816 lemma.TR:συλλεξατε",
+      "morph": "robinson:V-AAM-2P",
+      "strongs": [
+        "G4816"
+      ],
+      "metadata": {
+        "src": "16"
+      },
+      "gematria": {
+        "standard": 59,
+        "ordinal": 21,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 21,
+      "text": "ye",
+      "lemma": "strong:G4816 lemma.TR:συλλεξατε",
+      "morph": "robinson:V-AAM-2P",
+      "strongs": [
+        "G4816"
+      ],
+      "metadata": {
+        "src": "16"
+      },
+      "gematria": {
+        "standard": 30,
+        "ordinal": 3,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 22,
+      "text": "together",
+      "lemma": "strong:G4816 lemma.TR:συλλεξατε",
+      "morph": "robinson:V-AAM-2P",
+      "strongs": [
+        "G4816"
+      ],
+      "metadata": {
+        "src": "16"
+      },
+      "gematria": {
+        "standard": 98,
+        "ordinal": 36,
+        "reduced": 44
+      }
+    },
+    {
+      "position": 23,
+      "text": "first",
+      "lemma": "strong:G4412 lemma.TR:πρωτον",
+      "morph": "robinson:ADV-S",
+      "strongs": [
+        "G4412"
+      ],
+      "metadata": {
+        "src": "17"
+      },
+      "gematria": {
+        "standard": 72,
+        "ordinal": 15,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 24,
+      "text": "the",
+      "lemma": "strong:G3588 strong:G2215 lemma.TR:τα lemma.TR:ζιζανια",
+      "morph": "robinson:T-APN robinson:N-APN",
+      "strongs": [
+        "G3588",
+        "G2215"
+      ],
+      "metadata": {
+        "src": "18 19"
+      },
+      "gematria": {
+        "standard": 33,
+        "ordinal": 6,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 25,
+      "text": "tares,",
+      "lemma": "strong:G3588 strong:G2215 lemma.TR:τα lemma.TR:ζιζανια",
+      "morph": "robinson:T-APN robinson:N-APN",
+      "strongs": [
+        "G3588",
+        "G2215"
+      ],
+      "metadata": {
+        "src": "18 19"
+      },
+      "gematria": {
+        "standard": 63,
+        "ordinal": 15,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 26,
+      "text": "and",
+      "lemma": "strong:G2532 lemma.TR:και",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G2532"
+      ],
+      "metadata": {
+        "src": "20"
+      },
+      "gematria": {
+        "standard": 19,
+        "ordinal": 6,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 27,
+      "text": "bind",
+      "lemma": "strong:G1210 lemma.TR:δησατε",
+      "morph": "robinson:V-AAM-2P",
+      "strongs": [
+        "G1210"
+      ],
+      "metadata": {
+        "src": "21"
+      },
+      "gematria": {
+        "standard": 29,
+        "ordinal": 10,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 28,
+      "text": "them",
+      "lemma": "strong:G846 lemma.TR:αυτα",
+      "morph": "robinson:P-APN",
+      "strongs": [
+        "G846"
+      ],
+      "metadata": {
+        "src": "22"
+      },
+      "gematria": {
+        "standard": 46,
+        "ordinal": 10,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 29,
+      "text": "in",
+      "lemma": "strong:G1519 lemma.TR:εις",
+      "morph": "robinson:PREP",
+      "strongs": [
+        "G1519"
+      ],
+      "metadata": {
+        "src": "23"
+      },
+      "gematria": {
+        "standard": 23,
+        "ordinal": 3,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 30,
+      "text": "bundles",
+      "lemma": "strong:G1197 lemma.TR:δεσμας",
+      "morph": "robinson:N-APF",
+      "strongs": [
+        "G1197"
+      ],
+      "metadata": {
+        "src": "24"
+      },
+      "gematria": {
+        "standard": 77,
+        "ordinal": 28,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 31,
+      "text": "to",
+      "lemma": "strong:G4314 lemma.TR:προς",
+      "morph": "robinson:PREP",
+      "strongs": [
+        "G4314"
+      ],
+      "metadata": {
+        "src": "25"
+      },
+      "gematria": {
+        "standard": 35,
+        "ordinal": 3,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 32,
+      "text": "burn",
+      "lemma": "strong:G2618 lemma.TR:κατακαυσαι",
+      "morph": "robinson:V-AAN",
+      "strongs": [
+        "G2618"
+      ],
+      "metadata": {
+        "src": "27"
+      },
+      "gematria": {
+        "standard": 55,
+        "ordinal": 10,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 33,
+      "text": "them:",
+      "lemma": "strong:G846 lemma.TR:αυτα",
+      "morph": "robinson:P-APN",
+      "strongs": [
+        "G846"
+      ],
+      "metadata": {
+        "src": "28"
+      },
+      "gematria": {
+        "standard": 46,
+        "ordinal": 10,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 34,
+      "text": "but",
+      "lemma": "strong:G1161 lemma.TR:δε",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G1161"
+      ],
+      "metadata": {
+        "src": "30"
+      },
+      "gematria": {
+        "standard": 43,
+        "ordinal": 6,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 35,
+      "text": "gather",
+      "lemma": "strong:G4863 lemma.TR:συναγαγετε",
+      "morph": "robinson:V-2AAM-2P",
+      "strongs": [
+        "G4863"
+      ],
+      "metadata": {
+        "src": "32"
+      },
+      "gematria": {
+        "standard": 59,
+        "ordinal": 21,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 36,
+      "text": "the",
+      "lemma": "strong:G4621 lemma.TR:σιτον",
+      "morph": "robinson:N-ASM",
+      "strongs": [
+        "G4621"
+      ],
+      "metadata": {
+        "src": "31"
+      },
+      "gematria": {
+        "standard": 33,
+        "ordinal": 6,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 37,
+      "text": "wheat",
+      "lemma": "strong:G4621 lemma.TR:σιτον",
+      "morph": "robinson:N-ASM",
+      "strongs": [
+        "G4621"
+      ],
+      "metadata": {
+        "src": "31"
+      },
+      "gematria": {
+        "standard": 57,
+        "ordinal": 15,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 38,
+      "text": "into",
+      "lemma": "strong:G1519 lemma.TR:εις",
+      "morph": "robinson:PREP",
+      "strongs": [
+        "G1519"
+      ],
+      "metadata": {
+        "src": "33"
+      },
+      "gematria": {
+        "standard": 58,
+        "ordinal": 10,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 39,
+      "text": "my",
+      "lemma": "strong:G1473 lemma.TR:μου",
+      "morph": "robinson:P-1GS",
+      "strongs": [
+        "G1473"
+      ],
+      "metadata": {
+        "src": "36"
+      },
+      "gematria": {
+        "standard": 38,
+        "ordinal": 3,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 40,
+      "text": "barn.",
+      "lemma": "strong:G3588 strong:G596 lemma.TR:την lemma.TR:αποθηκην",
+      "morph": "robinson:T-ASF robinson:N-ASF",
+      "strongs": [
+        "G3588",
+        "G596"
+      ],
+      "metadata": {
+        "src": "34 35"
+      },
+      "gematria": {
+        "standard": 35,
+        "ordinal": 10,
+        "reduced": 17
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 1949,
+    "ordinal": 468,
+    "reduced": 770
+  }
+}

@@ -1,0 +1,486 @@
+{
+  "text": "And the twelve gates were twelve pearls; every several gate was of one pearl: and the street of the city was pure gold, as it were transparent glass.",
+  "words": [
+    {
+      "position": 1,
+      "text": "And",
+      "lemma": "strong:G2532 lemma.TR:και",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G2532"
+      ],
+      "metadata": {
+        "src": "1"
+      },
+      "gematria": {
+        "standard": 19,
+        "ordinal": 6,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 2,
+      "text": "the",
+      "lemma": "strong:G1427 lemma.TR:δωδεκα",
+      "morph": "robinson:A-NUI",
+      "strongs": [
+        "G1427"
+      ],
+      "metadata": {
+        "src": "3"
+      },
+      "gematria": {
+        "standard": 33,
+        "ordinal": 6,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 3,
+      "text": "twelve",
+      "lemma": "strong:G1427 lemma.TR:δωδεκα",
+      "morph": "robinson:A-NUI",
+      "strongs": [
+        "G1427"
+      ],
+      "metadata": {
+        "src": "3"
+      },
+      "gematria": {
+        "standard": 87,
+        "ordinal": 21,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 4,
+      "text": "gates",
+      "lemma": "strong:G4440 lemma.TR:πυλωνες",
+      "morph": "robinson:N-NPM",
+      "strongs": [
+        "G4440"
+      ],
+      "metadata": {
+        "src": "4"
+      },
+      "gematria": {
+        "standard": 52,
+        "ordinal": 15,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 5,
+      "text": "were",
+      "lemma": null,
+      "morph": null,
+      "metadata": {
+        "type": "added"
+      },
+      "gematria": {
+        "standard": 51,
+        "ordinal": 10,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 6,
+      "text": "twelve",
+      "lemma": "strong:G1427 lemma.TR:δωδεκα",
+      "morph": "robinson:A-NUI",
+      "strongs": [
+        "G1427"
+      ],
+      "metadata": {
+        "src": "5"
+      },
+      "gematria": {
+        "standard": 87,
+        "ordinal": 21,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 7,
+      "text": "pearls;",
+      "lemma": "strong:G3135 lemma.TR:μαργαριται",
+      "morph": "robinson:N-NPM",
+      "strongs": [
+        "G3135"
+      ],
+      "metadata": {
+        "src": "6"
+      },
+      "gematria": {
+        "standard": 71,
+        "ordinal": 21,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 8,
+      "text": "every",
+      "lemma": "strong:G1538 lemma.TR:εκαστος",
+      "morph": "robinson:A-NSM",
+      "strongs": [
+        "G1538"
+      ],
+      "metadata": {
+        "src": "9"
+      },
+      "gematria": {
+        "standard": 75,
+        "ordinal": 15,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 9,
+      "text": "several",
+      "lemma": "strong:G303 lemma.TR:ανα",
+      "morph": "robinson:PREP",
+      "strongs": [
+        "G303"
+      ],
+      "metadata": {
+        "src": "7"
+      },
+      "gematria": {
+        "standard": 82,
+        "ordinal": 28,
+        "reduced": 28
+      }
+    },
+    {
+      "position": 10,
+      "text": "gate",
+      "lemma": "strong:G3588 strong:G4440 lemma.TR:των lemma.TR:πυλωνων",
+      "morph": "robinson:T-GPM robinson:N-GPM",
+      "strongs": [
+        "G3588",
+        "G4440"
+      ],
+      "metadata": {
+        "src": "10 11"
+      },
+      "gematria": {
+        "standard": 33,
+        "ordinal": 10,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 11,
+      "text": "was",
+      "lemma": "strong:G1510 lemma.TR:ην",
+      "morph": "robinson:V-IAI-3S",
+      "strongs": [
+        "G1510"
+      ],
+      "metadata": {
+        "src": "12"
+      },
+      "gematria": {
+        "standard": 43,
+        "ordinal": 6,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 12,
+      "text": "of",
+      "lemma": "strong:G1537 lemma.TR:εξ",
+      "morph": "robinson:PREP",
+      "strongs": [
+        "G1537"
+      ],
+      "metadata": {
+        "src": "13"
+      },
+      "gematria": {
+        "standard": 21,
+        "ordinal": 3,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 13,
+      "text": "one",
+      "lemma": "strong:G1520 lemma.TR:ενος",
+      "morph": "robinson:A-GSM",
+      "strongs": [
+        "G1520"
+      ],
+      "metadata": {
+        "src": "14"
+      },
+      "gematria": {
+        "standard": 34,
+        "ordinal": 6,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 14,
+      "text": "pearl:",
+      "lemma": "strong:G3135 lemma.TR:μαργαριτου",
+      "morph": "robinson:N-GSM",
+      "strongs": [
+        "G3135"
+      ],
+      "metadata": {
+        "src": "15"
+      },
+      "gematria": {
+        "standard": 52,
+        "ordinal": 15,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 15,
+      "text": "and",
+      "lemma": "strong:G2532 lemma.TR:και",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G2532"
+      ],
+      "metadata": {
+        "src": "16"
+      },
+      "gematria": {
+        "standard": 19,
+        "ordinal": 6,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 16,
+      "text": "the",
+      "lemma": "strong:G3588 strong:G4113 lemma.TR:η lemma.TR:πλατεια",
+      "morph": "robinson:T-NSF robinson:N-NSF",
+      "strongs": [
+        "G3588",
+        "G4113"
+      ],
+      "metadata": {
+        "src": "17 18"
+      },
+      "gematria": {
+        "standard": 33,
+        "ordinal": 6,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 17,
+      "text": "street",
+      "lemma": "strong:G3588 strong:G4113 lemma.TR:η lemma.TR:πλατεια",
+      "morph": "robinson:T-NSF robinson:N-NSF",
+      "strongs": [
+        "G3588",
+        "G4113"
+      ],
+      "metadata": {
+        "src": "17 18"
+      },
+      "gematria": {
+        "standard": 87,
+        "ordinal": 21,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 18,
+      "text": "of",
+      "lemma": "strong:G3588 strong:G4172 lemma.TR:της lemma.TR:πολεως",
+      "morph": "robinson:T-GSF robinson:N-GSF",
+      "strongs": [
+        "G3588",
+        "G4172"
+      ],
+      "metadata": {
+        "src": "19 20"
+      },
+      "gematria": {
+        "standard": 21,
+        "ordinal": 3,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 19,
+      "text": "the",
+      "lemma": "strong:G3588 strong:G4172 lemma.TR:της lemma.TR:πολεως",
+      "morph": "robinson:T-GSF robinson:N-GSF",
+      "strongs": [
+        "G3588",
+        "G4172"
+      ],
+      "metadata": {
+        "src": "19 20"
+      },
+      "gematria": {
+        "standard": 33,
+        "ordinal": 6,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 20,
+      "text": "city",
+      "lemma": "strong:G3588 strong:G4172 lemma.TR:της lemma.TR:πολεως",
+      "morph": "robinson:T-GSF robinson:N-GSF",
+      "strongs": [
+        "G3588",
+        "G4172"
+      ],
+      "metadata": {
+        "src": "19 20"
+      },
+      "gematria": {
+        "standard": 57,
+        "ordinal": 10,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 21,
+      "text": "was",
+      "lemma": null,
+      "morph": null,
+      "metadata": {
+        "type": "added"
+      },
+      "gematria": {
+        "standard": 43,
+        "ordinal": 6,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 22,
+      "text": "pure",
+      "lemma": "strong:G2513 lemma.TR:καθαρον",
+      "morph": "robinson:A-NSN",
+      "strongs": [
+        "G2513"
+      ],
+      "metadata": {
+        "src": "22"
+      },
+      "gematria": {
+        "standard": 60,
+        "ordinal": 10,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 23,
+      "text": "gold,",
+      "lemma": "strong:G5553 lemma.TR:χρυσιον",
+      "morph": "robinson:N-NSN",
+      "strongs": [
+        "G5553"
+      ],
+      "metadata": {
+        "src": "21"
+      },
+      "gematria": {
+        "standard": 38,
+        "ordinal": 10,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 24,
+      "text": "as",
+      "lemma": "strong:G5613 lemma.TR:ως",
+      "morph": "robinson:ADV",
+      "strongs": [
+        "G5613"
+      ],
+      "metadata": {
+        "src": "23"
+      },
+      "gematria": {
+        "standard": 20,
+        "ordinal": 3,
+        "reduced": 2
+      }
+    },
+    {
+      "position": 25,
+      "text": "it",
+      "lemma": "strong:G5613 lemma.TR:ως",
+      "morph": "robinson:ADV",
+      "strongs": [
+        "G5613"
+      ],
+      "metadata": {
+        "src": "23"
+      },
+      "gematria": {
+        "standard": 29,
+        "ordinal": 3,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 26,
+      "text": "were",
+      "lemma": "strong:G5613 lemma.TR:ως",
+      "morph": "robinson:ADV",
+      "strongs": [
+        "G5613"
+      ],
+      "metadata": {
+        "src": "23"
+      },
+      "gematria": {
+        "standard": 51,
+        "ordinal": 10,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 27,
+      "text": "transparent",
+      "lemma": "strong:G1307 lemma.TR:διαφανης",
+      "morph": "robinson:A-NSM",
+      "strongs": [
+        "G1307"
+      ],
+      "metadata": {
+        "src": "25"
+      },
+      "gematria": {
+        "standard": 146,
+        "ordinal": 66,
+        "reduced": 47
+      }
+    },
+    {
+      "position": 28,
+      "text": "glass.",
+      "lemma": "strong:G5194 lemma.TR:υαλος",
+      "morph": "robinson:N-NSM",
+      "strongs": [
+        "G5194"
+      ],
+      "metadata": {
+        "src": "24"
+      },
+      "gematria": {
+        "standard": 58,
+        "ordinal": 15,
+        "reduced": 13
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 1435,
+    "ordinal": 358,
+    "reduced": 517
+  }
+}

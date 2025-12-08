@@ -1,0 +1,571 @@
+{
+  "text": "And as he was yet a coming, the devil threw him down, and tare him. And Jesus rebuked the unclean spirit, and healed the child, and delivered him again to his father.",
+  "words": [
+    {
+      "position": 1,
+      "text": "And",
+      "lemma": "strong:G1161 lemma.TR:δε",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G1161"
+      ],
+      "metadata": {
+        "src": "2"
+      },
+      "gematria": {
+        "standard": 19,
+        "ordinal": 6,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 2,
+      "text": "as",
+      "lemma": "strong:G1161 lemma.TR:δε",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G1161"
+      ],
+      "metadata": {
+        "src": "2"
+      },
+      "gematria": {
+        "standard": 20,
+        "ordinal": 3,
+        "reduced": 2
+      }
+    },
+    {
+      "position": 3,
+      "text": "he",
+      "lemma": "strong:G846 lemma.TR:αυτου",
+      "morph": "robinson:P-GSM",
+      "strongs": [
+        "G846"
+      ],
+      "metadata": {
+        "src": "4"
+      },
+      "gematria": {
+        "standard": 13,
+        "ordinal": 3,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 4,
+      "text": "was",
+      "lemma": "strong:G4334 lemma.TR:προσερχομενου",
+      "morph": "robinson:V-PNP-GSM",
+      "strongs": [
+        "G4334"
+      ],
+      "metadata": {
+        "src": "3",
+        "type": "x-split-1511"
+      },
+      "gematria": {
+        "standard": 43,
+        "ordinal": 6,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 5,
+      "text": "yet",
+      "lemma": "strong:G2089 lemma.TR:ετι",
+      "morph": "robinson:ADV",
+      "strongs": [
+        "G2089"
+      ],
+      "metadata": {
+        "src": "1"
+      },
+      "gematria": {
+        "standard": 50,
+        "ordinal": 6,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 6,
+      "text": "a",
+      "lemma": "strong:G4334 lemma.TR:προσερχομενου",
+      "morph": "robinson:V-PNP-GSM",
+      "strongs": [
+        "G4334"
+      ],
+      "metadata": {
+        "src": "3",
+        "type": "x-split-1511"
+      },
+      "gematria": {
+        "standard": 1,
+        "ordinal": 1,
+        "reduced": 1
+      }
+    },
+    {
+      "position": 7,
+      "text": "coming,",
+      "lemma": "strong:G4334 lemma.TR:προσερχομενου",
+      "morph": "robinson:V-PNP-GSM",
+      "strongs": [
+        "G4334"
+      ],
+      "metadata": {
+        "src": "3",
+        "type": "x-split-1511"
+      },
+      "gematria": {
+        "standard": 61,
+        "ordinal": 21,
+        "reduced": 34
+      }
+    },
+    {
+      "position": 8,
+      "text": "the",
+      "lemma": "strong:G3588 strong:G1140 lemma.TR:το lemma.TR:δαιμονιον",
+      "morph": "robinson:T-NSN robinson:N-NSN",
+      "strongs": [
+        "G3588",
+        "G1140"
+      ],
+      "metadata": {
+        "src": "7 8"
+      },
+      "gematria": {
+        "standard": 33,
+        "ordinal": 6,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 9,
+      "text": "devil",
+      "lemma": "strong:G3588 strong:G1140 lemma.TR:το lemma.TR:δαιμονιον",
+      "morph": "robinson:T-NSN robinson:N-NSN",
+      "strongs": [
+        "G3588",
+        "G1140"
+      ],
+      "metadata": {
+        "src": "7 8"
+      },
+      "gematria": {
+        "standard": 52,
+        "ordinal": 15,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 10,
+      "text": "threw",
+      "lemma": "strong:G4486 lemma.TR:ερρηξεν",
+      "morph": "robinson:V-AAI-3S",
+      "strongs": [
+        "G4486"
+      ],
+      "metadata": {
+        "src": "5",
+        "type": "x-split-1512"
+      },
+      "gematria": {
+        "standard": 74,
+        "ordinal": 15,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 11,
+      "text": "him",
+      "lemma": "strong:G846 lemma.TR:αυτον",
+      "morph": "robinson:P-ASM",
+      "strongs": [
+        "G846"
+      ],
+      "metadata": {
+        "src": "6"
+      },
+      "gematria": {
+        "standard": 30,
+        "ordinal": 6,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 12,
+      "text": "down,",
+      "lemma": "strong:G4486 lemma.TR:ερρηξεν",
+      "morph": "robinson:V-AAI-3S",
+      "strongs": [
+        "G4486"
+      ],
+      "metadata": {
+        "src": "5",
+        "type": "x-split-1512"
+      },
+      "gematria": {
+        "standard": 56,
+        "ordinal": 10,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 13,
+      "text": "and",
+      "lemma": "strong:G2532 lemma.TR:και",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G2532"
+      ],
+      "metadata": {
+        "src": "9"
+      },
+      "gematria": {
+        "standard": 19,
+        "ordinal": 6,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 14,
+      "text": "tare",
+      "lemma": "strong:G4952 lemma.TR:συνεσπαραξεν",
+      "morph": "robinson:V-AAI-3S",
+      "strongs": [
+        "G4952"
+      ],
+      "metadata": {
+        "src": "10"
+      },
+      "gematria": {
+        "standard": 44,
+        "ordinal": 10,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 15,
+      "text": "him.",
+      "lemma": null,
+      "morph": null,
+      "metadata": {
+        "type": "added"
+      },
+      "gematria": {
+        "standard": 30,
+        "ordinal": 6,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 16,
+      "text": "And",
+      "lemma": "strong:G1161 lemma.TR:δε",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G1161"
+      ],
+      "metadata": {
+        "src": "12"
+      },
+      "gematria": {
+        "standard": 19,
+        "ordinal": 6,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 17,
+      "text": "Jesus",
+      "lemma": "strong:G3588 strong:G2424 lemma.TR:ο lemma.TR:ιησους",
+      "morph": "robinson:T-NSM robinson:N-NSM",
+      "strongs": [
+        "G3588",
+        "G2424"
+      ],
+      "metadata": {
+        "src": "13 14"
+      },
+      "gematria": {
+        "standard": 74,
+        "ordinal": 15,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 18,
+      "text": "rebuked",
+      "lemma": "strong:G2008 lemma.TR:επετιμησεν",
+      "morph": "robinson:V-AAI-3S",
+      "strongs": [
+        "G2008"
+      ],
+      "metadata": {
+        "src": "11"
+      },
+      "gematria": {
+        "standard": 66,
+        "ordinal": 28,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 19,
+      "text": "the",
+      "lemma": "strong:G3588 strong:G4151 lemma.TR:τω lemma.TR:πνευματι",
+      "morph": "robinson:T-DSN robinson:N-DSN",
+      "strongs": [
+        "G3588",
+        "G4151"
+      ],
+      "metadata": {
+        "src": "15 16",
+        "type": "x-split-1513"
+      },
+      "gematria": {
+        "standard": 33,
+        "ordinal": 6,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 20,
+      "text": "unclean",
+      "lemma": "strong:G169 lemma.TR:ακαθαρτω",
+      "morph": "robinson:A-DSN",
+      "strongs": [
+        "G169"
+      ],
+      "metadata": {
+        "src": "18"
+      },
+      "gematria": {
+        "standard": 70,
+        "ordinal": 28,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 21,
+      "text": "spirit,",
+      "lemma": "strong:G3588 strong:G4151 lemma.TR:τω lemma.TR:πνευματι",
+      "morph": "robinson:T-DSN robinson:N-DSN",
+      "strongs": [
+        "G3588",
+        "G4151"
+      ],
+      "metadata": {
+        "src": "15 16",
+        "type": "x-split-1513"
+      },
+      "gematria": {
+        "standard": 91,
+        "ordinal": 21,
+        "reduced": 37
+      }
+    },
+    {
+      "position": 22,
+      "text": "and",
+      "lemma": "strong:G2532 lemma.TR:και",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G2532"
+      ],
+      "metadata": {
+        "src": "19"
+      },
+      "gematria": {
+        "standard": 19,
+        "ordinal": 6,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 23,
+      "text": "healed",
+      "lemma": "strong:G2390 lemma.TR:ιασατο",
+      "morph": "robinson:V-ADI-3S",
+      "strongs": [
+        "G2390"
+      ],
+      "metadata": {
+        "src": "20"
+      },
+      "gematria": {
+        "standard": 35,
+        "ordinal": 21,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 24,
+      "text": "the",
+      "lemma": "strong:G3588 strong:G3816 lemma.TR:τον lemma.TR:παιδα",
+      "morph": "robinson:T-ASM robinson:N-ASM",
+      "strongs": [
+        "G3588",
+        "G3816"
+      ],
+      "metadata": {
+        "src": "21 22"
+      },
+      "gematria": {
+        "standard": 33,
+        "ordinal": 6,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 25,
+      "text": "child,",
+      "lemma": "strong:G3588 strong:G3816 lemma.TR:τον lemma.TR:παιδα",
+      "morph": "robinson:T-ASM robinson:N-ASM",
+      "strongs": [
+        "G3588",
+        "G3816"
+      ],
+      "metadata": {
+        "src": "21 22"
+      },
+      "gematria": {
+        "standard": 36,
+        "ordinal": 15,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 26,
+      "text": "and",
+      "lemma": "strong:G2532 lemma.TR:και",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G2532"
+      ],
+      "metadata": {
+        "src": "23"
+      },
+      "gematria": {
+        "standard": 19,
+        "ordinal": 6,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 27,
+      "text": "delivered",
+      "lemma": "strong:G591 lemma.TR:απεδωκεν",
+      "morph": "robinson:V-AAI-3S",
+      "strongs": [
+        "G591"
+      ],
+      "metadata": {
+        "src": "24",
+        "type": "x-split-1514"
+      },
+      "gematria": {
+        "standard": 84,
+        "ordinal": 45,
+        "reduced": 48
+      }
+    },
+    {
+      "position": 28,
+      "text": "him",
+      "lemma": "strong:G846 lemma.TR:αυτον",
+      "morph": "robinson:P-ASM",
+      "strongs": [
+        "G846"
+      ],
+      "metadata": {
+        "src": "25"
+      },
+      "gematria": {
+        "standard": 30,
+        "ordinal": 6,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 29,
+      "text": "again",
+      "lemma": "strong:G591 lemma.TR:απεδωκεν",
+      "morph": "robinson:V-AAI-3S",
+      "strongs": [
+        "G591"
+      ],
+      "metadata": {
+        "src": "24",
+        "type": "x-split-1514"
+      },
+      "gematria": {
+        "standard": 32,
+        "ordinal": 15,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 30,
+      "text": "to",
+      "lemma": "strong:G3588 strong:G3962 lemma.TR:τω lemma.TR:πατρι",
+      "morph": "robinson:T-DSM robinson:N-DSM",
+      "strongs": [
+        "G3588",
+        "G3962"
+      ],
+      "metadata": {
+        "src": "26 27",
+        "type": "x-split-1515"
+      },
+      "gematria": {
+        "standard": 35,
+        "ordinal": 3,
+        "reduced": 8
+      }
+    },
+    {
+      "position": 31,
+      "text": "his",
+      "lemma": "strong:G846 lemma.TR:αυτου",
+      "morph": "robinson:P-GSM",
+      "strongs": [
+        "G846"
+      ],
+      "metadata": {
+        "src": "28"
+      },
+      "gematria": {
+        "standard": 36,
+        "ordinal": 6,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 32,
+      "text": "father.",
+      "lemma": "strong:G3588 strong:G3962 lemma.TR:τω lemma.TR:πατρι",
+      "morph": "robinson:T-DSM robinson:N-DSM",
+      "strongs": [
+        "G3588",
+        "G3962"
+      ],
+      "metadata": {
+        "src": "26 27",
+        "type": "x-split-1515"
+      },
+      "gematria": {
+        "standard": 58,
+        "ordinal": 21,
+        "reduced": 31
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 1315,
+    "ordinal": 374,
+    "reduced": 604
+  }
+}

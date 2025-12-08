@@ -1,0 +1,543 @@
+{
+  "text": "God forbid: yea, let God be true, but every man a liar; as it is written, That thou mightest be justified in thy sayings, and mightest overcome when thou art judged.",
+  "words": [
+    {
+      "position": 1,
+      "text": "God",
+      "lemma": "strong:G3361 strong:G1096 lemma.TR:μη lemma.TR:γενοιτο",
+      "morph": "robinson:PRT-N robinson:V-2ADO-3S",
+      "strongs": [
+        "G3361",
+        "G1096"
+      ],
+      "metadata": {
+        "src": "1 2"
+      },
+      "gematria": {
+        "standard": 26,
+        "ordinal": 6,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 2,
+      "text": "forbid:",
+      "lemma": "strong:G3361 strong:G1096 lemma.TR:μη lemma.TR:γενοιτο",
+      "morph": "robinson:PRT-N robinson:V-2ADO-3S",
+      "strongs": [
+        "G3361",
+        "G1096"
+      ],
+      "metadata": {
+        "src": "1 2"
+      },
+      "gematria": {
+        "standard": 54,
+        "ordinal": 21,
+        "reduced": 36
+      }
+    },
+    {
+      "position": 3,
+      "text": "yea,",
+      "lemma": "strong:G1161 lemma.TR:δε",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G1161"
+      ],
+      "metadata": {
+        "src": "4"
+      },
+      "gematria": {
+        "standard": 31,
+        "ordinal": 6,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 4,
+      "text": "let",
+      "lemma": "strong:G1096 lemma.TR:γινεσθω",
+      "morph": "robinson:V-PNM-3S",
+      "strongs": [
+        "G1096"
+      ],
+      "metadata": {
+        "src": "3",
+        "type": "x-split-2489"
+      },
+      "gematria": {
+        "standard": 37,
+        "ordinal": 6,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 5,
+      "text": "God",
+      "lemma": "strong:G3588 strong:G2316 lemma.TR:ο lemma.TR:θεος",
+      "morph": "robinson:T-NSM robinson:N-NSM",
+      "strongs": [
+        "G3588",
+        "G2316"
+      ],
+      "metadata": {
+        "src": "5 6"
+      },
+      "gematria": {
+        "standard": 26,
+        "ordinal": 6,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 6,
+      "text": "be",
+      "lemma": "strong:G1096 lemma.TR:γινεσθω",
+      "morph": "robinson:V-PNM-3S",
+      "strongs": [
+        "G1096"
+      ],
+      "metadata": {
+        "src": "3",
+        "type": "x-split-2489"
+      },
+      "gematria": {
+        "standard": 7,
+        "ordinal": 3,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 7,
+      "text": "true,",
+      "lemma": "strong:G227 lemma.TR:αληθης",
+      "morph": "robinson:A-NSM",
+      "strongs": [
+        "G227"
+      ],
+      "metadata": {
+        "src": "7"
+      },
+      "gematria": {
+        "standard": 64,
+        "ordinal": 10,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 8,
+      "text": "but",
+      "lemma": "strong:G1161 lemma.TR:δε",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G1161"
+      ],
+      "metadata": {
+        "src": "9"
+      },
+      "gematria": {
+        "standard": 43,
+        "ordinal": 6,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 9,
+      "text": "every",
+      "lemma": "strong:G3956 lemma.TR:πας",
+      "morph": "robinson:A-NSM",
+      "strongs": [
+        "G3956"
+      ],
+      "metadata": {
+        "src": "8"
+      },
+      "gematria": {
+        "standard": 75,
+        "ordinal": 15,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 10,
+      "text": "man",
+      "lemma": "strong:G444 lemma.TR:ανθρωπος",
+      "morph": "robinson:N-NSM",
+      "strongs": [
+        "G444"
+      ],
+      "metadata": {
+        "src": "10"
+      },
+      "gematria": {
+        "standard": 28,
+        "ordinal": 6,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 11,
+      "text": "a",
+      "lemma": "strong:G5583 lemma.TR:ψευστης",
+      "morph": "robinson:N-NSM",
+      "strongs": [
+        "G5583"
+      ],
+      "metadata": {
+        "src": "11"
+      },
+      "gematria": {
+        "standard": 1,
+        "ordinal": 1,
+        "reduced": 1
+      }
+    },
+    {
+      "position": 12,
+      "text": "liar;",
+      "lemma": "strong:G5583 lemma.TR:ψευστης",
+      "morph": "robinson:N-NSM",
+      "strongs": [
+        "G5583"
+      ],
+      "metadata": {
+        "src": "11"
+      },
+      "gematria": {
+        "standard": 40,
+        "ordinal": 10,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 13,
+      "text": "as",
+      "lemma": "strong:G2531 lemma.TR:καθως",
+      "morph": "robinson:ADV",
+      "strongs": [
+        "G2531"
+      ],
+      "metadata": {
+        "src": "12"
+      },
+      "gematria": {
+        "standard": 20,
+        "ordinal": 3,
+        "reduced": 2
+      }
+    },
+    {
+      "position": 14,
+      "text": "it",
+      "lemma": "strong:G1125 lemma.TR:γεγραπται",
+      "morph": "robinson:V-RPI-3S",
+      "strongs": [
+        "G1125"
+      ],
+      "metadata": {
+        "src": "13"
+      },
+      "gematria": {
+        "standard": 29,
+        "ordinal": 3,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 15,
+      "text": "is",
+      "lemma": "strong:G1125 lemma.TR:γεγραπται",
+      "morph": "robinson:V-RPI-3S",
+      "strongs": [
+        "G1125"
+      ],
+      "metadata": {
+        "src": "13"
+      },
+      "gematria": {
+        "standard": 28,
+        "ordinal": 3,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 16,
+      "text": "written,",
+      "lemma": "strong:G1125 lemma.TR:γεγραπται",
+      "morph": "robinson:V-RPI-3S",
+      "strongs": [
+        "G1125"
+      ],
+      "metadata": {
+        "src": "13"
+      },
+      "gematria": {
+        "standard": 109,
+        "ordinal": 28,
+        "reduced": 37
+      }
+    },
+    {
+      "position": 17,
+      "text": "That",
+      "lemma": "strong:G3704 lemma.TR:οπως",
+      "morph": "robinson:ADV",
+      "strongs": [
+        "G3704"
+      ],
+      "metadata": {
+        "src": "14"
+      },
+      "gematria": {
+        "standard": 49,
+        "ordinal": 10,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 18,
+      "text": "thou",
+      "lemma": "strong:G1344 lemma.TR:δικαιωθης",
+      "morph": "robinson:V-APS-2S",
+      "strongs": [
+        "G1344"
+      ],
+      "metadata": {
+        "src": "16"
+      },
+      "gematria": {
+        "standard": 64,
+        "ordinal": 10,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 19,
+      "text": "mightest",
+      "lemma": "strong:G1344 lemma.TR:δικαιωθης",
+      "morph": "robinson:V-APS-2S",
+      "strongs": [
+        "G1344"
+      ],
+      "metadata": {
+        "src": "16"
+      },
+      "gematria": {
+        "standard": 101,
+        "ordinal": 36,
+        "reduced": 38
+      }
+    },
+    {
+      "position": 20,
+      "text": "be",
+      "lemma": "strong:G1344 lemma.TR:δικαιωθης",
+      "morph": "robinson:V-APS-2S",
+      "strongs": [
+        "G1344"
+      ],
+      "metadata": {
+        "src": "16"
+      },
+      "gematria": {
+        "standard": 7,
+        "ordinal": 3,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 21,
+      "text": "justified",
+      "lemma": "strong:G1344 lemma.TR:δικαιωθης",
+      "morph": "robinson:V-APS-2S",
+      "strongs": [
+        "G1344"
+      ],
+      "metadata": {
+        "src": "16"
+      },
+      "gematria": {
+        "standard": 103,
+        "ordinal": 45,
+        "reduced": 40
+      }
+    },
+    {
+      "position": 22,
+      "text": "in",
+      "lemma": "strong:G1722 lemma.TR:εν",
+      "morph": "robinson:PREP",
+      "strongs": [
+        "G1722"
+      ],
+      "metadata": {
+        "src": "17"
+      },
+      "gematria": {
+        "standard": 23,
+        "ordinal": 3,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 23,
+      "text": "thy",
+      "lemma": "strong:G4771 lemma.TR:σου",
+      "morph": "robinson:P-2GS",
+      "strongs": [
+        "G4771"
+      ],
+      "metadata": {
+        "src": "20"
+      },
+      "gematria": {
+        "standard": 53,
+        "ordinal": 6,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 24,
+      "text": "sayings,",
+      "lemma": "strong:G3588 strong:G3056 lemma.TR:τοις lemma.TR:λογοις",
+      "morph": "robinson:T-DPM robinson:N-DPM",
+      "strongs": [
+        "G3588",
+        "G3056"
+      ],
+      "metadata": {
+        "src": "18 19"
+      },
+      "gematria": {
+        "standard": 94,
+        "ordinal": 28,
+        "reduced": 31
+      }
+    },
+    {
+      "position": 25,
+      "text": "and",
+      "lemma": "strong:G2532 lemma.TR:και",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G2532"
+      ],
+      "metadata": {
+        "src": "21"
+      },
+      "gematria": {
+        "standard": 19,
+        "ordinal": 6,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 26,
+      "text": "mightest",
+      "lemma": "strong:G3528 lemma.TR:νικησης",
+      "morph": "robinson:V-AAS-2S",
+      "strongs": [
+        "G3528"
+      ],
+      "metadata": {
+        "src": "22"
+      },
+      "gematria": {
+        "standard": 101,
+        "ordinal": 36,
+        "reduced": 38
+      }
+    },
+    {
+      "position": 27,
+      "text": "overcome",
+      "lemma": "strong:G3528 lemma.TR:νικησης",
+      "morph": "robinson:V-AAS-2S",
+      "strongs": [
+        "G3528"
+      ],
+      "metadata": {
+        "src": "22"
+      },
+      "gematria": {
+        "standard": 96,
+        "ordinal": 36,
+        "reduced": 42
+      }
+    },
+    {
+      "position": 28,
+      "text": "when",
+      "lemma": "strong:G1722 lemma.TR:εν",
+      "morph": "robinson:PREP",
+      "strongs": [
+        "G1722"
+      ],
+      "metadata": {
+        "src": "23"
+      },
+      "gematria": {
+        "standard": 50,
+        "ordinal": 10,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 29,
+      "text": "thou",
+      "lemma": "strong:G4771 lemma.TR:σε",
+      "morph": "robinson:P-2AS",
+      "strongs": [
+        "G4771"
+      ],
+      "metadata": {
+        "src": "26"
+      },
+      "gematria": {
+        "standard": 64,
+        "ordinal": 10,
+        "reduced": 19
+      }
+    },
+    {
+      "position": 30,
+      "text": "art",
+      "lemma": "strong:G2919 lemma.TR:κρινεσθαι",
+      "morph": "robinson:V-PPN",
+      "strongs": [
+        "G2919"
+      ],
+      "metadata": {
+        "src": "25"
+      },
+      "gematria": {
+        "standard": 39,
+        "ordinal": 6,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 31,
+      "text": "judged.",
+      "lemma": "strong:G2919 lemma.TR:κρινεσθαι",
+      "morph": "robinson:V-PPN",
+      "strongs": [
+        "G2919"
+      ],
+      "metadata": {
+        "src": "25"
+      },
+      "gematria": {
+        "standard": 51,
+        "ordinal": 21,
+        "reduced": 24
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 1532,
+    "ordinal": 399,
+    "reduced": 596
+  }
+}

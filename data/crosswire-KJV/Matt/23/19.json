@@ -1,0 +1,293 @@
+{
+  "text": "Ye fools and blind: for whether is greater, the gift, or the altar that sanctifieth the gift?",
+  "words": [
+    {
+      "position": 1,
+      "text": "Ye",
+      "lemma": null,
+      "morph": null,
+      "metadata": {
+        "type": "added"
+      },
+      "gematria": {
+        "standard": 30,
+        "ordinal": 3,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 2,
+      "text": "fools",
+      "lemma": "strong:G3474 lemma.TR:μωροι",
+      "morph": "robinson:A-VPM",
+      "strongs": [
+        "G3474"
+      ],
+      "metadata": {
+        "src": "1"
+      },
+      "gematria": {
+        "standard": 67,
+        "ordinal": 15,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 3,
+      "text": "and",
+      "lemma": "strong:G2532 lemma.TR:και",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G2532"
+      ],
+      "metadata": {
+        "src": "2"
+      },
+      "gematria": {
+        "standard": 19,
+        "ordinal": 6,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 4,
+      "text": "blind:",
+      "lemma": "strong:G5185 lemma.TR:τυφλοι",
+      "morph": "robinson:A-VPM",
+      "strongs": [
+        "G5185"
+      ],
+      "metadata": {
+        "src": "3"
+      },
+      "gematria": {
+        "standard": 41,
+        "ordinal": 15,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 5,
+      "text": "for",
+      "lemma": "strong:G1063 lemma.TR:γαρ",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G1063"
+      ],
+      "metadata": {
+        "src": "5"
+      },
+      "gematria": {
+        "standard": 39,
+        "ordinal": 6,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 6,
+      "text": "whether",
+      "lemma": "strong:G5101 lemma.TR:τι",
+      "morph": "robinson:I-NSN",
+      "strongs": [
+        "G5101"
+      ],
+      "metadata": {
+        "src": "4"
+      },
+      "gematria": {
+        "standard": 87,
+        "ordinal": 28,
+        "reduced": 42
+      }
+    },
+    {
+      "position": 7,
+      "text": "is",
+      "lemma": null,
+      "morph": null,
+      "metadata": {
+        "type": "added"
+      },
+      "gematria": {
+        "standard": 28,
+        "ordinal": 3,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 8,
+      "text": "greater,",
+      "lemma": "strong:G3173 lemma.TR:μειζον",
+      "morph": "robinson:A-NSN-C",
+      "strongs": [
+        "G3173"
+      ],
+      "metadata": {
+        "src": "6"
+      },
+      "gematria": {
+        "standard": 74,
+        "ordinal": 28,
+        "reduced": 38
+      }
+    },
+    {
+      "position": 9,
+      "text": "the",
+      "lemma": "strong:G3588 strong:G1435 lemma.TR:το lemma.TR:δωρον",
+      "morph": "robinson:T-NSN robinson:N-NSN",
+      "strongs": [
+        "G3588",
+        "G1435"
+      ],
+      "metadata": {
+        "src": "7 8"
+      },
+      "gematria": {
+        "standard": 33,
+        "ordinal": 6,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 10,
+      "text": "gift,",
+      "lemma": "strong:G3588 strong:G1435 lemma.TR:το lemma.TR:δωρον",
+      "morph": "robinson:T-NSN robinson:N-NSN",
+      "strongs": [
+        "G3588",
+        "G1435"
+      ],
+      "metadata": {
+        "src": "7 8"
+      },
+      "gematria": {
+        "standard": 42,
+        "ordinal": 10,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 11,
+      "text": "or",
+      "lemma": "strong:G2228 lemma.TR:η",
+      "morph": "robinson:PRT",
+      "strongs": [
+        "G2228"
+      ],
+      "metadata": {
+        "src": "9"
+      },
+      "gematria": {
+        "standard": 33,
+        "ordinal": 3,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 12,
+      "text": "the",
+      "lemma": "strong:G3588 strong:G2379 lemma.TR:το lemma.TR:θυσιαστηριον",
+      "morph": "robinson:T-NSN robinson:N-NSN",
+      "strongs": [
+        "G3588",
+        "G2379"
+      ],
+      "metadata": {
+        "src": "10 11"
+      },
+      "gematria": {
+        "standard": 33,
+        "ordinal": 6,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 13,
+      "text": "altar",
+      "lemma": "strong:G3588 strong:G2379 lemma.TR:το lemma.TR:θυσιαστηριον",
+      "morph": "robinson:T-NSN robinson:N-NSN",
+      "strongs": [
+        "G3588",
+        "G2379"
+      ],
+      "metadata": {
+        "src": "10 11"
+      },
+      "gematria": {
+        "standard": 52,
+        "ordinal": 15,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 14,
+      "text": "that",
+      "lemma": "strong:G37 lemma.TR:αγιαζον",
+      "morph": "robinson:V-PAP-NSN",
+      "metadata": {
+        "src": "13"
+      },
+      "gematria": {
+        "standard": 49,
+        "ordinal": 10,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 15,
+      "text": "sanctifieth",
+      "lemma": "strong:G37 lemma.TR:αγιαζον",
+      "morph": "robinson:V-PAP-NSN",
+      "metadata": {
+        "src": "13"
+      },
+      "gematria": {
+        "standard": 114,
+        "ordinal": 66,
+        "reduced": 51
+      }
+    },
+    {
+      "position": 16,
+      "text": "the",
+      "lemma": "strong:G3588 strong:G1435 lemma.TR:το lemma.TR:δωρον",
+      "morph": "robinson:T-ASN robinson:N-ASN",
+      "strongs": [
+        "G3588",
+        "G1435"
+      ],
+      "metadata": {
+        "src": "14 15"
+      },
+      "gematria": {
+        "standard": 33,
+        "ordinal": 6,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 17,
+      "text": "gift?",
+      "lemma": "strong:G3588 strong:G1435 lemma.TR:το lemma.TR:δωρον",
+      "morph": "robinson:T-ASN robinson:N-ASN",
+      "strongs": [
+        "G3588",
+        "G1435"
+      ],
+      "metadata": {
+        "src": "14 15"
+      },
+      "gematria": {
+        "standard": 42,
+        "ordinal": 10,
+        "reduced": 24
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 816,
+    "ordinal": 236,
+    "reduced": 366
+  }
+}

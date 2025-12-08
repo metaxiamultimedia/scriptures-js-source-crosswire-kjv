@@ -1,0 +1,534 @@
+{
+  "text": "Then said Paul, John verily baptized with the baptism of repentance, saying unto the people, that they should believe on him which should come after him, that is, on Christ Jesus.",
+  "words": [
+    {
+      "position": 1,
+      "text": "Then",
+      "lemma": "strong:G1161 lemma.TR:δε",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G1161"
+      ],
+      "metadata": {
+        "src": "2"
+      },
+      "gematria": {
+        "standard": 47,
+        "ordinal": 10,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 2,
+      "text": "said",
+      "lemma": "strong:G3004 lemma.TR:ειπεν",
+      "morph": "robinson:V-2AAI-3S",
+      "strongs": [
+        "G3004"
+      ],
+      "metadata": {
+        "src": "1"
+      },
+      "gematria": {
+        "standard": 33,
+        "ordinal": 10,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 3,
+      "text": "Paul,",
+      "lemma": "strong:G3972 lemma.TR:παυλος",
+      "morph": "robinson:N-NSM",
+      "strongs": [
+        "G3972"
+      ],
+      "metadata": {
+        "src": "3"
+      },
+      "gematria": {
+        "standard": 50,
+        "ordinal": 10,
+        "reduced": 14
+      }
+    },
+    {
+      "position": 4,
+      "text": "John",
+      "lemma": "strong:G2491 lemma.TR:ιωαννης",
+      "morph": "robinson:N-NSM",
+      "strongs": [
+        "G2491"
+      ],
+      "metadata": {
+        "src": "4"
+      },
+      "gematria": {
+        "standard": 47,
+        "ordinal": 10,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 5,
+      "text": "verily",
+      "lemma": "strong:G3303 lemma.TR:μεν",
+      "morph": "robinson:PRT",
+      "strongs": [
+        "G3303"
+      ],
+      "metadata": {
+        "src": "5"
+      },
+      "gematria": {
+        "standard": 91,
+        "ordinal": 21,
+        "reduced": 37
+      }
+    },
+    {
+      "position": 6,
+      "text": "baptized",
+      "lemma": "strong:G907 lemma.TR:εβαπτισεν",
+      "morph": "robinson:V-AAI-3S",
+      "strongs": [
+        "G907"
+      ],
+      "metadata": {
+        "src": "6"
+      },
+      "gematria": {
+        "standard": 83,
+        "ordinal": 36,
+        "reduced": 38
+      }
+    },
+    {
+      "position": 7,
+      "text": "with",
+      "lemma": "strong:G908 lemma.TR:βαπτισμα",
+      "morph": "robinson:N-ASN",
+      "strongs": [
+        "G908"
+      ],
+      "metadata": {
+        "src": "7"
+      },
+      "gematria": {
+        "standard": 60,
+        "ordinal": 10,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 8,
+      "text": "the",
+      "lemma": "strong:G908 lemma.TR:βαπτισμα",
+      "morph": "robinson:N-ASN",
+      "strongs": [
+        "G908"
+      ],
+      "metadata": {
+        "src": "7"
+      },
+      "gematria": {
+        "standard": 33,
+        "ordinal": 6,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 9,
+      "text": "baptism",
+      "lemma": "strong:G908 lemma.TR:βαπτισμα",
+      "morph": "robinson:N-ASN",
+      "strongs": [
+        "G908"
+      ],
+      "metadata": {
+        "src": "7"
+      },
+      "gematria": {
+        "standard": 80,
+        "ordinal": 28,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 10,
+      "text": "of",
+      "lemma": "strong:G3341 lemma.TR:μετανοιας",
+      "morph": "robinson:N-GSF",
+      "strongs": [
+        "G3341"
+      ],
+      "metadata": {
+        "src": "8"
+      },
+      "gematria": {
+        "standard": 21,
+        "ordinal": 3,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 11,
+      "text": "repentance,",
+      "lemma": "strong:G3341 lemma.TR:μετανοιας",
+      "morph": "robinson:N-GSF",
+      "strongs": [
+        "G3341"
+      ],
+      "metadata": {
+        "src": "8"
+      },
+      "gematria": {
+        "standard": 101,
+        "ordinal": 55,
+        "reduced": 47
+      }
+    },
+    {
+      "position": 12,
+      "text": "saying",
+      "lemma": "strong:G3004 lemma.TR:λεγων",
+      "morph": "robinson:V-PAP-NSM",
+      "strongs": [
+        "G3004"
+      ],
+      "metadata": {
+        "src": "11"
+      },
+      "gematria": {
+        "standard": 75,
+        "ordinal": 21,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 13,
+      "text": "unto",
+      "lemma": null,
+      "morph": null,
+      "gematria": {
+        "standard": 70,
+        "ordinal": 10,
+        "reduced": 16
+      }
+    },
+    {
+      "position": 14,
+      "text": "the",
+      "lemma": "strong:G3588 strong:G2992 lemma.TR:τω lemma.TR:λαω",
+      "morph": "robinson:T-DSM robinson:N-DSM",
+      "strongs": [
+        "G3588",
+        "G2992"
+      ],
+      "metadata": {
+        "src": "9 10"
+      },
+      "gematria": {
+        "standard": 33,
+        "ordinal": 6,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 15,
+      "text": "people,",
+      "lemma": "strong:G3588 strong:G2992 lemma.TR:τω lemma.TR:λαω",
+      "morph": "robinson:T-DSM robinson:N-DSM",
+      "strongs": [
+        "G3588",
+        "G2992"
+      ],
+      "metadata": {
+        "src": "9 10"
+      },
+      "gematria": {
+        "standard": 69,
+        "ordinal": 21,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 16,
+      "text": "that",
+      "lemma": "strong:G2443 lemma.TR:ινα",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G2443"
+      ],
+      "metadata": {
+        "src": "17"
+      },
+      "gematria": {
+        "standard": 49,
+        "ordinal": 10,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 17,
+      "text": "they",
+      "lemma": "strong:G4100 lemma.TR:πιστευσωσιν",
+      "morph": "robinson:V-AAS-3P",
+      "strongs": [
+        "G4100"
+      ],
+      "metadata": {
+        "src": "18"
+      },
+      "gematria": {
+        "standard": 58,
+        "ordinal": 10,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 18,
+      "text": "should",
+      "lemma": "strong:G4100 lemma.TR:πιστευσωσιν",
+      "morph": "robinson:V-AAS-3P",
+      "strongs": [
+        "G4100"
+      ],
+      "metadata": {
+        "src": "18"
+      },
+      "gematria": {
+        "standard": 79,
+        "ordinal": 21,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 19,
+      "text": "believe",
+      "lemma": "strong:G4100 lemma.TR:πιστευσωσιν",
+      "morph": "robinson:V-AAS-3P",
+      "strongs": [
+        "G4100"
+      ],
+      "metadata": {
+        "src": "18"
+      },
+      "gematria": {
+        "standard": 60,
+        "ordinal": 28,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 20,
+      "text": "on",
+      "lemma": "strong:G1519 lemma.TR:εις",
+      "morph": "robinson:PREP",
+      "strongs": [
+        "G1519"
+      ],
+      "metadata": {
+        "src": "12"
+      },
+      "gematria": {
+        "standard": 29,
+        "ordinal": 3,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 21,
+      "text": "him",
+      "lemma": "strong:G3588 lemma.TR:τον",
+      "morph": "robinson:T-ASM",
+      "strongs": [
+        "G3588"
+      ],
+      "metadata": {
+        "src": "13"
+      },
+      "gematria": {
+        "standard": 30,
+        "ordinal": 6,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 22,
+      "text": "which",
+      "lemma": "strong:G3588 lemma.TR:τον",
+      "morph": "robinson:T-ASM",
+      "strongs": [
+        "G3588"
+      ],
+      "metadata": {
+        "src": "13"
+      },
+      "gematria": {
+        "standard": 51,
+        "ordinal": 15,
+        "reduced": 33
+      }
+    },
+    {
+      "position": 23,
+      "text": "should",
+      "lemma": "strong:G2064 lemma.TR:ερχομενον",
+      "morph": "robinson:V-PNP-ASM",
+      "strongs": [
+        "G2064"
+      ],
+      "metadata": {
+        "src": "14"
+      },
+      "gematria": {
+        "standard": 79,
+        "ordinal": 21,
+        "reduced": 25
+      }
+    },
+    {
+      "position": 24,
+      "text": "come",
+      "lemma": "strong:G2064 lemma.TR:ερχομενον",
+      "morph": "robinson:V-PNP-ASM",
+      "strongs": [
+        "G2064"
+      ],
+      "metadata": {
+        "src": "14"
+      },
+      "gematria": {
+        "standard": 36,
+        "ordinal": 10,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 25,
+      "text": "after",
+      "lemma": "strong:G3326 lemma.TR:μετ",
+      "morph": "robinson:PREP",
+      "strongs": [
+        "G3326"
+      ],
+      "metadata": {
+        "src": "15"
+      },
+      "gematria": {
+        "standard": 50,
+        "ordinal": 15,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 26,
+      "text": "him,",
+      "lemma": "strong:G846 lemma.TR:αυτον",
+      "morph": "robinson:P-ASM",
+      "strongs": [
+        "G846"
+      ],
+      "metadata": {
+        "src": "16"
+      },
+      "gematria": {
+        "standard": 30,
+        "ordinal": 6,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 27,
+      "text": "that",
+      "lemma": "strong:G3778 lemma.TR:τουτ",
+      "morph": "robinson:D-NSN",
+      "strongs": [
+        "G3778"
+      ],
+      "metadata": {
+        "src": "19"
+      },
+      "gematria": {
+        "standard": 49,
+        "ordinal": 10,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 28,
+      "text": "is,",
+      "lemma": "strong:G1510 lemma.TR:εστιν",
+      "morph": "robinson:V-PAI-3S",
+      "strongs": [
+        "G1510"
+      ],
+      "metadata": {
+        "src": "20"
+      },
+      "gematria": {
+        "standard": 28,
+        "ordinal": 3,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 29,
+      "text": "on",
+      "lemma": "strong:G1519 lemma.TR:εις",
+      "morph": "robinson:PREP",
+      "strongs": [
+        "G1519"
+      ],
+      "metadata": {
+        "src": "21"
+      },
+      "gematria": {
+        "standard": 29,
+        "ordinal": 3,
+        "reduced": 11
+      }
+    },
+    {
+      "position": 30,
+      "text": "Christ",
+      "lemma": "strong:G3588 strong:G5547 lemma.TR:τον lemma.TR:χριστον",
+      "morph": "robinson:T-ASM robinson:N-ASM",
+      "strongs": [
+        "G3588",
+        "G5547"
+      ],
+      "metadata": {
+        "src": "22 23"
+      },
+      "gematria": {
+        "standard": 77,
+        "ordinal": 21,
+        "reduced": 32
+      }
+    },
+    {
+      "position": 31,
+      "text": "Jesus.",
+      "lemma": "strong:G2424 lemma.TR:ιησουν",
+      "morph": "robinson:N-ASM",
+      "strongs": [
+        "G2424"
+      ],
+      "metadata": {
+        "src": "24"
+      },
+      "gematria": {
+        "standard": 74,
+        "ordinal": 15,
+        "reduced": 11
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 1701,
+    "ordinal": 454,
+    "reduced": 684
+  }
+}

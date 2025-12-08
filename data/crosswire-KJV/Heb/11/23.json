@@ -1,0 +1,531 @@
+{
+  "text": "By faith Moses, when he was born, was hid three months of his parents, because they saw he was a proper child; and they were not afraid of the king’s commandment.",
+  "words": [
+    {
+      "position": 1,
+      "text": "By",
+      "lemma": "strong:G4102 lemma.TR:πιστει",
+      "morph": "robinson:N-DSF",
+      "strongs": [
+        "G4102"
+      ],
+      "metadata": {
+        "src": "1"
+      },
+      "gematria": {
+        "standard": 27,
+        "ordinal": 3,
+        "reduced": 9
+      }
+    },
+    {
+      "position": 2,
+      "text": "faith",
+      "lemma": "strong:G4102 lemma.TR:πιστει",
+      "morph": "robinson:N-DSF",
+      "strongs": [
+        "G4102"
+      ],
+      "metadata": {
+        "src": "1"
+      },
+      "gematria": {
+        "standard": 44,
+        "ordinal": 15,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 3,
+      "text": "Moses,",
+      "lemma": "strong:G3475 lemma.TR:μωσης",
+      "morph": "robinson:N-NSM",
+      "strongs": [
+        "G3475"
+      ],
+      "metadata": {
+        "src": "2"
+      },
+      "gematria": {
+        "standard": 71,
+        "ordinal": 15,
+        "reduced": 17
+      }
+    },
+    {
+      "position": 4,
+      "text": "when",
+      "lemma": "strong:G1080 lemma.TR:γεννηθεις",
+      "morph": "robinson:V-APP-NSM",
+      "strongs": [
+        "G1080"
+      ],
+      "metadata": {
+        "src": "3"
+      },
+      "gematria": {
+        "standard": 50,
+        "ordinal": 10,
+        "reduced": 23
+      }
+    },
+    {
+      "position": 5,
+      "text": "he",
+      "lemma": "strong:G1080 lemma.TR:γεννηθεις",
+      "morph": "robinson:V-APP-NSM",
+      "strongs": [
+        "G1080"
+      ],
+      "metadata": {
+        "src": "3"
+      },
+      "gematria": {
+        "standard": 13,
+        "ordinal": 3,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 6,
+      "text": "was",
+      "lemma": "strong:G1080 lemma.TR:γεννηθεις",
+      "morph": "robinson:V-APP-NSM",
+      "strongs": [
+        "G1080"
+      ],
+      "metadata": {
+        "src": "3"
+      },
+      "gematria": {
+        "standard": 43,
+        "ordinal": 6,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 7,
+      "text": "born,",
+      "lemma": "strong:G1080 lemma.TR:γεννηθεις",
+      "morph": "robinson:V-APP-NSM",
+      "strongs": [
+        "G1080"
+      ],
+      "metadata": {
+        "src": "3"
+      },
+      "gematria": {
+        "standard": 49,
+        "ordinal": 10,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 8,
+      "text": "was",
+      "lemma": "strong:G2928 lemma.TR:εκρυβη",
+      "morph": "robinson:V-2API-3S",
+      "strongs": [
+        "G2928"
+      ],
+      "metadata": {
+        "src": "4"
+      },
+      "gematria": {
+        "standard": 43,
+        "ordinal": 6,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 9,
+      "text": "hid",
+      "lemma": "strong:G2928 lemma.TR:εκρυβη",
+      "morph": "robinson:V-2API-3S",
+      "strongs": [
+        "G2928"
+      ],
+      "metadata": {
+        "src": "4"
+      },
+      "gematria": {
+        "standard": 21,
+        "ordinal": 6,
+        "reduced": 21
+      }
+    },
+    {
+      "position": 10,
+      "text": "three",
+      "lemma": "strong:G5150 lemma.TR:τριμηνον",
+      "morph": "robinson:A-ASN",
+      "strongs": [
+        "G5150"
+      ],
+      "metadata": {
+        "src": "5"
+      },
+      "gematria": {
+        "standard": 56,
+        "ordinal": 15,
+        "reduced": 29
+      }
+    },
+    {
+      "position": 11,
+      "text": "months",
+      "lemma": "strong:G5150 lemma.TR:τριμηνον",
+      "morph": "robinson:A-ASN",
+      "strongs": [
+        "G5150"
+      ],
+      "metadata": {
+        "src": "5"
+      },
+      "gematria": {
+        "standard": 89,
+        "ordinal": 21,
+        "reduced": 26
+      }
+    },
+    {
+      "position": 12,
+      "text": "of",
+      "lemma": "strong:G5259 lemma.TR:υπο",
+      "morph": "robinson:PREP",
+      "strongs": [
+        "G5259"
+      ],
+      "metadata": {
+        "src": "6"
+      },
+      "gematria": {
+        "standard": 21,
+        "ordinal": 3,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 13,
+      "text": "his",
+      "lemma": "strong:G846 lemma.TR:αυτου",
+      "morph": "robinson:P-GSM",
+      "strongs": [
+        "G846"
+      ],
+      "metadata": {
+        "src": "9"
+      },
+      "gematria": {
+        "standard": 36,
+        "ordinal": 6,
+        "reduced": 18
+      }
+    },
+    {
+      "position": 14,
+      "text": "parents,",
+      "lemma": "strong:G3588 strong:G3962 lemma.TR:των lemma.TR:πατερων",
+      "morph": "robinson:T-GPM robinson:N-GPM",
+      "strongs": [
+        "G3588",
+        "G3962"
+      ],
+      "metadata": {
+        "src": "7 8"
+      },
+      "gematria": {
+        "standard": 93,
+        "ordinal": 28,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 15,
+      "text": "because",
+      "lemma": "strong:G1360 lemma.TR:διοτι",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G1360"
+      ],
+      "metadata": {
+        "src": "10"
+      },
+      "gematria": {
+        "standard": 56,
+        "ordinal": 28,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 16,
+      "text": "they",
+      "lemma": "strong:G3708 lemma.TR:ειδον",
+      "morph": "robinson:V-2AAI-3P",
+      "strongs": [
+        "G3708"
+      ],
+      "metadata": {
+        "src": "11"
+      },
+      "gematria": {
+        "standard": 58,
+        "ordinal": 10,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 17,
+      "text": "saw",
+      "lemma": "strong:G3708 lemma.TR:ειδον",
+      "morph": "robinson:V-2AAI-3P",
+      "strongs": [
+        "G3708"
+      ],
+      "metadata": {
+        "src": "11"
+      },
+      "gematria": {
+        "standard": 43,
+        "ordinal": 6,
+        "reduced": 7
+      }
+    },
+    {
+      "position": 18,
+      "text": "he was",
+      "lemma": null,
+      "morph": null,
+      "metadata": {
+        "type": "added"
+      },
+      "gematria": {
+        "standard": 56,
+        "ordinal": 15,
+        "reduced": 20
+      }
+    },
+    {
+      "position": 19,
+      "text": "a",
+      "lemma": "strong:G3588 strong:G3813 lemma.TR:το lemma.TR:παιδιον",
+      "morph": "robinson:T-ASN robinson:N-ASN",
+      "strongs": [
+        "G3588",
+        "G3813"
+      ],
+      "metadata": {
+        "src": "13 14",
+        "type": "x-split-3500"
+      },
+      "gematria": {
+        "standard": 1,
+        "ordinal": 1,
+        "reduced": 1
+      }
+    },
+    {
+      "position": 20,
+      "text": "proper",
+      "lemma": "strong:G791 lemma.TR:αστειον",
+      "morph": "robinson:A-ASN",
+      "strongs": [
+        "G791"
+      ],
+      "metadata": {
+        "src": "12"
+      },
+      "gematria": {
+        "standard": 88,
+        "ordinal": 21,
+        "reduced": 43
+      }
+    },
+    {
+      "position": 21,
+      "text": "child;",
+      "lemma": "strong:G3588 strong:G3813 lemma.TR:το lemma.TR:παιδιον",
+      "morph": "robinson:T-ASN robinson:N-ASN",
+      "strongs": [
+        "G3588",
+        "G3813"
+      ],
+      "metadata": {
+        "src": "13 14",
+        "type": "x-split-3500"
+      },
+      "gematria": {
+        "standard": 36,
+        "ordinal": 15,
+        "reduced": 27
+      }
+    },
+    {
+      "position": 22,
+      "text": "and",
+      "lemma": "strong:G2532 lemma.TR:και",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G2532"
+      ],
+      "metadata": {
+        "src": "15"
+      },
+      "gematria": {
+        "standard": 19,
+        "ordinal": 6,
+        "reduced": 10
+      }
+    },
+    {
+      "position": 23,
+      "text": "they",
+      "lemma": "strong:G5399 lemma.TR:εφοβηθησαν",
+      "morph": "robinson:V-AOI-3P",
+      "strongs": [
+        "G5399"
+      ],
+      "metadata": {
+        "src": "17",
+        "type": "x-split-3501"
+      },
+      "gematria": {
+        "standard": 58,
+        "ordinal": 10,
+        "reduced": 22
+      }
+    },
+    {
+      "position": 24,
+      "text": "were",
+      "lemma": "strong:G5399 lemma.TR:εφοβηθησαν",
+      "morph": "robinson:V-AOI-3P",
+      "strongs": [
+        "G5399"
+      ],
+      "metadata": {
+        "src": "17",
+        "type": "x-split-3501"
+      },
+      "gematria": {
+        "standard": 51,
+        "ordinal": 10,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 25,
+      "text": "not",
+      "lemma": "strong:G3756 lemma.TR:ουκ",
+      "morph": "robinson:PRT-N",
+      "strongs": [
+        "G3756"
+      ],
+      "metadata": {
+        "src": "16"
+      },
+      "gematria": {
+        "standard": 49,
+        "ordinal": 6,
+        "reduced": 13
+      }
+    },
+    {
+      "position": 26,
+      "text": "afraid",
+      "lemma": "strong:G5399 lemma.TR:εφοβηθησαν",
+      "morph": "robinson:V-AOI-3P",
+      "strongs": [
+        "G5399"
+      ],
+      "metadata": {
+        "src": "17",
+        "type": "x-split-3501"
+      },
+      "gematria": {
+        "standard": 39,
+        "ordinal": 21,
+        "reduced": 30
+      }
+    },
+    {
+      "position": 27,
+      "text": "of",
+      "lemma": "strong:G3588 strong:G1297 lemma.TR:το lemma.TR:διαταγμα",
+      "morph": "robinson:T-ASN robinson:N-ASN",
+      "strongs": [
+        "G3588",
+        "G1297"
+      ],
+      "metadata": {
+        "src": "18 19",
+        "type": "x-split-3502"
+      },
+      "gematria": {
+        "standard": 21,
+        "ordinal": 3,
+        "reduced": 12
+      }
+    },
+    {
+      "position": 28,
+      "text": "the",
+      "lemma": "strong:G3588 strong:G935 lemma.TR:του lemma.TR:βασιλεως",
+      "morph": "robinson:T-GSM robinson:N-GSM",
+      "strongs": [
+        "G3588",
+        "G935"
+      ],
+      "metadata": {
+        "src": "20 21"
+      },
+      "gematria": {
+        "standard": 33,
+        "ordinal": 6,
+        "reduced": 15
+      }
+    },
+    {
+      "position": 29,
+      "text": "king’s",
+      "lemma": "strong:G3588 strong:G935 lemma.TR:του lemma.TR:βασιλεως",
+      "morph": "robinson:T-GSM robinson:N-GSM",
+      "strongs": [
+        "G3588",
+        "G935"
+      ],
+      "metadata": {
+        "src": "20 21"
+      },
+      "gematria": {
+        "standard": 60,
+        "ordinal": 15,
+        "reduced": 24
+      }
+    },
+    {
+      "position": 30,
+      "text": "commandment.",
+      "lemma": "strong:G3588 strong:G1297 lemma.TR:το lemma.TR:διαταγμα",
+      "morph": "robinson:T-ASN robinson:N-ASN",
+      "strongs": [
+        "G3588",
+        "G1297"
+      ],
+      "metadata": {
+        "src": "18 19",
+        "type": "x-split-3502"
+      },
+      "gematria": {
+        "standard": 115,
+        "ordinal": 66,
+        "reduced": 43
+      }
+    }
+  ],
+  "gematria": {
+    "standard": 1439,
+    "ordinal": 386,
+    "reduced": 593
+  }
+}
