@@ -12,6 +12,7 @@ import { existsSync } from 'fs';
 import { join, dirname } from 'path';
 import { fileURLToPath } from 'url';
 import { SaxesParser } from 'saxes';
+import { computeEnglish } from '@metaxia/scriptures-core';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
@@ -65,25 +66,6 @@ interface ParsedVerse {
 interface ColophonData {
   book: string;
   words: ParsedWord[];
-}
-
-// English simple gematria (A=1, B=2, etc.)
-function computeGematria(text: string): Record<string, number> {
-  const result: Record<string, number> = { standard: 0, ordinal: 0, reduced: 0 };
-  let pos = 1;
-
-  for (const char of text.toUpperCase()) {
-    const code = char.charCodeAt(0);
-    if (code >= 65 && code <= 90) { // A-Z
-      const val = code - 64;
-      result.standard += val;
-      result.ordinal += pos;
-      pos++;
-      result.reduced += val % 9 || 9;
-    }
-  }
-
-  return result;
 }
 
 const STRONGS_RE = /(?:strongs?:)?([HGhg]?\d{3,5})/g;
@@ -398,7 +380,7 @@ async function saveVerse(verse: ParsedVerse): Promise<void> {
     morph: w.morph,
     strongs: w.strongs && w.strongs.length > 0 ? w.strongs : undefined,
     metadata: Object.keys(w.metadata || {}).length > 0 ? w.metadata : undefined,
-    gematria: computeGematria(w.text),
+    gematria: computeEnglish(w.text),
   }));
 
   // Add colophon words if present
@@ -417,7 +399,7 @@ async function saveVerse(verse: ParsedVerse): Promise<void> {
         morph: w.morph,
         strongs: w.strongs && w.strongs.length > 0 ? w.strongs : undefined,
         metadata: Object.keys(w.metadata || {}).length > 0 ? w.metadata : undefined,
-        gematria: computeGematria(w.text),
+        gematria: computeEnglish(w.text),
       });
     }
   }
