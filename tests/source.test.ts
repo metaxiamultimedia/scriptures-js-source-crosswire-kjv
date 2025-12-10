@@ -58,3 +58,43 @@ describe('colophon handling', () => {
     expect(data.gematria.standard).toBe(expectedGematria.standard);
   });
 });
+
+describe('gematria calculations', () => {
+  it('should calculate ordinal gematria using alphabet position, not word position', async () => {
+    // This test catches a bug where ordinal was calculated as position-in-word (1,2,3...)
+    // instead of letter's alphabet position (A=1, B=2, ..., Z=26)
+    //
+    // For "God" (Gen 1:1):
+    //   Correct: G=7, O=15, D=4 → ordinal = 26
+    //   Buggy:   1 + 2 + 3 = 6
+    const dataPath = join(__dirname, '..', 'data', 'crosswire-KJV', 'Gen', '1', '1.json');
+    const data = JSON.parse(await readFile(dataPath, 'utf-8'));
+
+    // Find the word "God"
+    const godWord = data.words.find((w: { text: string }) => w.text === 'God');
+    expect(godWord).toBeDefined();
+
+    // Verify ordinal uses alphabet positions: G(7) + O(15) + D(4) = 26
+    expect(godWord.gematria.ordinal).toBe(26);
+
+    // Also verify standard (same as ordinal for English simple gematria)
+    expect(godWord.gematria.standard).toBe(26);
+
+    // And reduced: (7%9||9) + (15%9||9) + (4%9||9) = 7 + 6 + 4 = 17
+    expect(godWord.gematria.reduced).toBe(17);
+  });
+
+  it('should calculate correct ordinal for longer words', async () => {
+    // Test with "beginning" to ensure longer words are correct
+    // B=2, E=5, G=7, I=9, N=14, N=14, I=9, N=14, G=7
+    // Correct ordinal: 2+5+7+9+14+14+9+14+7 = 81
+    // Buggy ordinal: 1+2+3+4+5+6+7+8+9 = 45
+    const dataPath = join(__dirname, '..', 'data', 'crosswire-KJV', 'Gen', '1', '1.json');
+    const data = JSON.parse(await readFile(dataPath, 'utf-8'));
+
+    const beginningWord = data.words.find((w: { text: string }) => w.text === 'beginning');
+    expect(beginningWord).toBeDefined();
+
+    expect(beginningWord.gematria.ordinal).toBe(81);
+  });
+});
