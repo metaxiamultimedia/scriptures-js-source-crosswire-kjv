@@ -70,15 +70,13 @@ interface ColophonData {
 // English simple gematria (A=1, B=2, etc.)
 function computeGematria(text: string): Record<string, number> {
   const result: Record<string, number> = { standard: 0, ordinal: 0, reduced: 0 };
-  let pos = 1;
 
   for (const char of text.toUpperCase()) {
     const code = char.charCodeAt(0);
     if (code >= 65 && code <= 90) { // A-Z
-      const val = code - 64;
+      const val = code - 64; // A=1, B=2, ..., Z=26
       result.standard += val;
-      result.ordinal += pos;
-      pos++;
+      result.ordinal += val;
       result.reduced += val % 9 || 9;
     }
   }
