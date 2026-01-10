@@ -56,10 +56,10 @@
   },
   "homepage": "https://github.com/metaxiamultimedia/scriptures-js-source-crosswire-kjv#readme",
   "peerDependencies": {
-    "@metaxia/scriptures-core": ">=0.1.1"
+    "@metaxia/scriptures-core": ">=0.1.2"
   },
   "devDependencies": {
-    "@metaxia/scriptures-core": "^0.1.1",
+    "@metaxia/scriptures-core": "git+https://github.com/metaxiamultimedia/scriptures-js-core.git#v0.1.2",
     "fast-xml-parser": "^4.3.0",
     "tsx": "^4.7.0",
     "typescript": "^5.3.0",
