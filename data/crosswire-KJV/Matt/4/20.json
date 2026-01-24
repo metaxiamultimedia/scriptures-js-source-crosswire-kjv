@@ -12,10 +12,14 @@
       "metadata": {
         "src": "2"
       },
-      "gematria": {
-        "standard": 19,
-        "ordinal": 19,
-        "reduced": 1
+      "source": {
+        "lemma": "strong:G1161 lemma.TR:δε",
+        "morph": "robinson:CONJ",
+        "attrs": {
+          "src": "2",
+          "lemma": "strong:G1161 lemma.TR:δε",
+          "morph": "robinson:CONJ"
+        }
       }
     },
     {
@@ -30,10 +34,15 @@
         "src": "4",
         "type": "x-split-416"
       },
-      "gematria": {
-        "standard": 58,
-        "ordinal": 58,
-        "reduced": 4
+      "source": {
+        "lemma": "strong:G863 lemma.TR:αφεντες",
+        "morph": "robinson:V-2AAP-NPM",
+        "attrs": {
+          "src": "4",
+          "lemma": "strong:G863 lemma.TR:αφεντες",
+          "morph": "robinson:V-2AAP-NPM",
+          "type": "x-split-416"
+        }
       }
     },
     {
@@ -47,10 +56,14 @@
       "metadata": {
         "src": "3"
       },
-      "gematria": {
-        "standard": 151,
-        "ordinal": 151,
-        "reduced": 7
+      "source": {
+        "lemma": "strong:G2112 lemma.TR:ευθεως",
+        "morph": "robinson:ADV",
+        "attrs": {
+          "src": "3",
+          "lemma": "strong:G2112 lemma.TR:ευθεως",
+          "morph": "robinson:ADV"
+        }
       }
     },
     {
@@ -65,10 +78,15 @@
         "src": "4",
         "type": "x-split-416"
       },
-      "gematria": {
-        "standard": 43,
-        "ordinal": 43,
-        "reduced": 7
+      "source": {
+        "lemma": "strong:G863 lemma.TR:αφεντες",
+        "morph": "robinson:V-2AAP-NPM",
+        "attrs": {
+          "src": "4",
+          "lemma": "strong:G863 lemma.TR:αφεντες",
+          "morph": "robinson:V-2AAP-NPM",
+          "type": "x-split-416"
+        }
       }
     },
     {
@@ -79,10 +97,10 @@
       "metadata": {
         "type": "added"
       },
-      "gematria": {
-        "standard": 60,
-        "ordinal": 60,
-        "reduced": 6
+      "source": {
+        "attrs": {
+          "type": "added"
+        }
       }
     },
     {
@@ -97,10 +115,14 @@
       "metadata": {
         "src": "5 6"
       },
-      "gematria": {
-        "standard": 58,
-        "ordinal": 58,
-        "reduced": 4
+      "source": {
+        "lemma": "strong:G3588 strong:G1350 lemma.TR:τα lemma.TR:δικτυα",
+        "morph": "robinson:T-APN robinson:N-APN",
+        "attrs": {
+          "src": "5 6",
+          "lemma": "strong:G3588 strong:G1350 lemma.TR:τα lemma.TR:δικτυα",
+          "morph": "robinson:T-APN robinson:N-APN"
+        }
       }
     },
     {
@@ -114,10 +136,14 @@
       "metadata": {
         "src": "7"
       },
-      "gematria": {
-        "standard": 19,
-        "ordinal": 19,
-        "reduced": 1
+      "source": {
+        "lemma": "strong:G190 lemma.TR:ηκολουθησαν",
+        "morph": "robinson:V-AAI-3P",
+        "attrs": {
+          "src": "7",
+          "lemma": "strong:G190 lemma.TR:ηκολουθησαν",
+          "morph": "robinson:V-AAI-3P"
+        }
       }
     },
     {
@@ -131,10 +157,14 @@
       "metadata": {
         "src": "7"
       },
-      "gematria": {
-        "standard": 92,
-        "ordinal": 92,
-        "reduced": 2
+      "source": {
+        "lemma": "strong:G190 lemma.TR:ηκολουθησαν",
+        "morph": "robinson:V-AAI-3P",
+        "attrs": {
+          "src": "7",
+          "lemma": "strong:G190 lemma.TR:ηκολουθησαν",
+          "morph": "robinson:V-AAI-3P"
+        }
       }
     },
     {
@@ -148,16 +178,15 @@
       "metadata": {
         "src": "8"
       },
-      "gematria": {
-        "standard": 30,
-        "ordinal": 30,
-        "reduced": 3
+      "source": {
+        "lemma": "strong:G846 lemma.TR:αυτω",
+        "morph": "robinson:P-DSM",
+        "attrs": {
+          "src": "8",
+          "lemma": "strong:G846 lemma.TR:αυτω",
+          "morph": "robinson:P-DSM"
+        }
       }
     }
-  ],
-  "gematria": {
-    "standard": 530,
-    "ordinal": 530,
-    "reduced": 35
-  }
+  ]
 }

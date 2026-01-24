@@ -9,10 +9,13 @@
       "strongs": [
         "H7999"
       ],
-      "gematria": {
-        "standard": 39,
-        "ordinal": 39,
-        "reduced": 3
+      "source": {
+        "lemma": "strong:H07999",
+        "morph": "strongMorph:TH8686",
+        "attrs": {
+          "morph": "strongMorph:TH8686",
+          "lemma": "strong:H07999"
+        }
       }
     },
     {
@@ -23,10 +26,13 @@
       "strongs": [
         "H7999"
       ],
-      "gematria": {
-        "standard": 13,
-        "ordinal": 13,
-        "reduced": 4
+      "source": {
+        "lemma": "strong:H07999",
+        "morph": "strongMorph:TH8686",
+        "attrs": {
+          "morph": "strongMorph:TH8686",
+          "lemma": "strong:H07999"
+        }
       }
     },
     {
@@ -37,10 +43,13 @@
       "strongs": [
         "H7999"
       ],
-      "gematria": {
-        "standard": 124,
-        "ordinal": 124,
-        "reduced": 7
+      "source": {
+        "lemma": "strong:H07999",
+        "morph": "strongMorph:TH8686",
+        "attrs": {
+          "morph": "strongMorph:TH8686",
+          "lemma": "strong:H07999"
+        }
       }
     },
     {
@@ -51,10 +60,10 @@
       "metadata": {
         "type": "added"
       },
-      "gematria": {
-        "standard": 168,
-        "ordinal": 168,
-        "reduced": 6
+      "source": {
+        "attrs": {
+          "type": "added"
+        }
       }
     },
     {
@@ -65,10 +74,11 @@
       "strongs": [
         "H2706"
       ],
-      "gematria": {
-        "standard": 100,
-        "ordinal": 100,
-        "reduced": 1
+      "source": {
+        "lemma": "strong:H02706",
+        "attrs": {
+          "lemma": "strong:H02706"
+        }
       }
     },
     {
@@ -79,10 +89,11 @@
       "strongs": [
         "H7227"
       ],
-      "gematria": {
-        "standard": 39,
-        "ordinal": 39,
-        "reduced": 3
+      "source": {
+        "lemma": "strong:H07227",
+        "attrs": {
+          "lemma": "strong:H07227"
+        }
       }
     },
     {
@@ -93,10 +104,11 @@
       "strongs": [
         "H7227"
       ],
-      "gematria": {
-        "standard": 18,
-        "ordinal": 18,
-        "reduced": 9
+      "source": {
+        "lemma": "strong:H07227",
+        "attrs": {
+          "lemma": "strong:H07227"
+        }
       }
     },
     {
@@ -107,10 +119,11 @@
       "strongs": [
         "H7227"
       ],
-      "gematria": {
-        "standard": 19,
-        "ordinal": 19,
-        "reduced": 1
+      "source": {
+        "lemma": "strong:H07227",
+        "attrs": {
+          "lemma": "strong:H07227"
+        }
       }
     },
     {
@@ -121,10 +134,11 @@
       "strongs": [
         "H7227"
       ],
-      "gematria": {
-        "standard": 53,
-        "ordinal": 53,
-        "reduced": 8
+      "source": {
+        "lemma": "strong:H07227",
+        "attrs": {
+          "lemma": "strong:H07227"
+        }
       }
     },
     {
@@ -135,10 +149,11 @@
       "strongs": [
         "H2007"
       ],
-      "gematria": {
-        "standard": 51,
-        "ordinal": 51,
-        "reduced": 6
+      "source": {
+        "lemma": "strong:H02007",
+        "attrs": {
+          "lemma": "strong:H02007"
+        }
       }
     },
     {
@@ -149,38 +164,23 @@
       "metadata": {
         "type": "added"
       },
-      "gematria": {
-        "standard": 101,
-        "ordinal": 101,
-        "reduced": 2
+      "source": {
+        "attrs": {
+          "type": "added"
+        }
       }
     },
     {
       "position": 12,
       "text": "with",
       "lemma": null,
-      "morph": null,
-      "gematria": {
-        "standard": 60,
-        "ordinal": 60,
-        "reduced": 6
-      }
+      "morph": null
     },
     {
       "position": 13,
       "text": "him.",
       "lemma": null,
-      "morph": null,
-      "gematria": {
-        "standard": 30,
-        "ordinal": 30,
-        "reduced": 3
-      }
+      "morph": null
     }
-  ],
-  "gematria": {
-    "standard": 815,
-    "ordinal": 815,
-    "reduced": 59
-  }
+  ]
 }

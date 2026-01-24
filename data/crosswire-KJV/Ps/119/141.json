@@ -5,12 +5,7 @@
       "position": 1,
       "text": "I",
       "lemma": null,
-      "morph": null,
-      "gematria": {
-        "standard": 9,
-        "ordinal": 9,
-        "reduced": 9
-      }
+      "morph": null
     },
     {
       "position": 2,
@@ -20,10 +15,10 @@
       "metadata": {
         "type": "added"
       },
-      "gematria": {
-        "standard": 14,
-        "ordinal": 14,
-        "reduced": 5
+      "source": {
+        "attrs": {
+          "type": "added"
+        }
       }
     },
     {
@@ -34,10 +29,11 @@
       "strongs": [
         "H6810"
       ],
-      "gematria": {
-        "standard": 57,
-        "ordinal": 57,
-        "reduced": 3
+      "source": {
+        "lemma": "strong:H06810",
+        "attrs": {
+          "lemma": "strong:H06810"
+        }
       }
     },
     {
@@ -48,10 +44,13 @@
       "strongs": [
         "H959"
       ],
-      "gematria": {
-        "standard": 19,
-        "ordinal": 19,
-        "reduced": 1
+      "source": {
+        "lemma": "strong:H0959",
+        "morph": "strongMorph:TH8737",
+        "attrs": {
+          "morph": "strongMorph:TH8737",
+          "lemma": "strong:H0959"
+        }
       }
     },
     {
@@ -62,10 +61,13 @@
       "strongs": [
         "H959"
       ],
-      "gematria": {
-        "standard": 81,
-        "ordinal": 81,
-        "reduced": 9
+      "source": {
+        "lemma": "strong:H0959",
+        "morph": "strongMorph:TH8737",
+        "attrs": {
+          "morph": "strongMorph:TH8737",
+          "lemma": "strong:H0959"
+        }
       }
     },
     {
@@ -76,10 +78,10 @@
       "metadata": {
         "type": "added"
       },
-      "gematria": {
-        "standard": 50,
-        "ordinal": 50,
-        "reduced": 5
+      "source": {
+        "attrs": {
+          "type": "added"
+        }
       }
     },
     {
@@ -90,10 +92,13 @@
       "strongs": [
         "H7911"
       ],
-      "gematria": {
-        "standard": 19,
-        "ordinal": 19,
-        "reduced": 1
+      "source": {
+        "lemma": "strong:H07911",
+        "morph": "strongMorph:TH8804",
+        "attrs": {
+          "morph": "strongMorph:TH8804",
+          "lemma": "strong:H07911"
+        }
       }
     },
     {
@@ -104,10 +109,13 @@
       "strongs": [
         "H7911"
       ],
-      "gematria": {
-        "standard": 49,
-        "ordinal": 49,
-        "reduced": 4
+      "source": {
+        "lemma": "strong:H07911",
+        "morph": "strongMorph:TH8804",
+        "attrs": {
+          "morph": "strongMorph:TH8804",
+          "lemma": "strong:H07911"
+        }
       }
     },
     {
@@ -118,10 +126,13 @@
       "strongs": [
         "H7911"
       ],
-      "gematria": {
-        "standard": 9,
-        "ordinal": 9,
-        "reduced": 9
+      "source": {
+        "lemma": "strong:H07911",
+        "morph": "strongMorph:TH8804",
+        "attrs": {
+          "morph": "strongMorph:TH8804",
+          "lemma": "strong:H07911"
+        }
       }
     },
     {
@@ -132,10 +143,13 @@
       "strongs": [
         "H7911"
       ],
-      "gematria": {
-        "standard": 71,
-        "ordinal": 71,
-        "reduced": 8
+      "source": {
+        "lemma": "strong:H07911",
+        "morph": "strongMorph:TH8804",
+        "attrs": {
+          "morph": "strongMorph:TH8804",
+          "lemma": "strong:H07911"
+        }
       }
     },
     {
@@ -146,10 +160,11 @@
       "strongs": [
         "H6490"
       ],
-      "gematria": {
-        "standard": 53,
-        "ordinal": 53,
-        "reduced": 8
+      "source": {
+        "lemma": "strong:H06490",
+        "attrs": {
+          "lemma": "strong:H06490"
+        }
       }
     },
     {
@@ -160,16 +175,12 @@
       "strongs": [
         "H6490"
       ],
-      "gematria": {
-        "standard": 102,
-        "ordinal": 102,
-        "reduced": 3
+      "source": {
+        "lemma": "strong:H06490",
+        "attrs": {
+          "lemma": "strong:H06490"
+        }
       }
     }
-  ],
-  "gematria": {
-    "standard": 533,
-    "ordinal": 533,
-    "reduced": 65
-  }
+  ]
 }

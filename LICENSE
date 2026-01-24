@@ -25,3 +25,18 @@ SOFTWARE.
 Scripture text: King James Version
 Source: CrossWire Bible Society (https://wiki.crosswire.org/CrossWire_KJV)
 License: General public license granted by CrossWire Bible Society for any purpose
+
+---
+
+MODIFICATIONS FROM ORIGINAL DATA
+
+This package processes the original CrossWire KJV data as follows:
+- Converted from OSIS XML to JSON format
+- Restructured into per-verse files organized by book/chapter
+- Standardized word structure with position, text, lemma, morph, strongs fields
+- Strong's numbers extracted and normalized to array format (e.g., ["G1234"])
+- Colophon words (subscriptions at end of epistles) flagged with `isColophon` field
+- Verse metadata includes colophon information (hasColophon, colophonWordRange, colophonType)
+
+Gematria values are NOT pre-computed in the stored data; they are computed
+on-demand by the scriptures-core library when accessed.

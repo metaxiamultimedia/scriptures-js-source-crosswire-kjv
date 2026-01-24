@@ -9,10 +9,11 @@
       "strongs": [
         "H259"
       ],
-      "gematria": {
-        "standard": 34,
-        "ordinal": 34,
-        "reduced": 7
+      "source": {
+        "lemma": "strong:H0259",
+        "attrs": {
+          "lemma": "strong:H0259"
+        }
       }
     },
     {
@@ -23,10 +24,11 @@
       "strongs": [
         "H3220"
       ],
-      "gematria": {
-        "standard": 25,
-        "ordinal": 25,
-        "reduced": 7
+      "source": {
+        "lemma": "strong:H03220",
+        "attrs": {
+          "lemma": "strong:H03220"
+        }
       }
     },
     {
@@ -38,10 +40,11 @@
         "H6240",
         "H8147"
       ],
-      "gematria": {
-        "standard": 19,
-        "ordinal": 19,
-        "reduced": 1
+      "source": {
+        "lemma": "strong:H06240 strong:H08147",
+        "attrs": {
+          "lemma": "strong:H06240 strong:H08147"
+        }
       }
     },
     {
@@ -53,10 +56,11 @@
         "H6240",
         "H8147"
       ],
-      "gematria": {
-        "standard": 87,
-        "ordinal": 87,
-        "reduced": 6
+      "source": {
+        "lemma": "strong:H06240 strong:H08147",
+        "attrs": {
+          "lemma": "strong:H06240 strong:H08147"
+        }
       }
     },
     {
@@ -67,38 +71,24 @@
       "strongs": [
         "H1241"
       ],
-      "gematria": {
-        "standard": 58,
-        "ordinal": 58,
-        "reduced": 4
+      "source": {
+        "lemma": "strong:H01241",
+        "attrs": {
+          "lemma": "strong:H01241"
+        }
       }
     },
     {
       "position": 6,
       "text": "under",
       "lemma": null,
-      "morph": null,
-      "gematria": {
-        "standard": 62,
-        "ordinal": 62,
-        "reduced": 8
-      }
+      "morph": null
     },
     {
       "position": 7,
       "text": "it.",
       "lemma": null,
-      "morph": null,
-      "gematria": {
-        "standard": 29,
-        "ordinal": 29,
-        "reduced": 2
-      }
+      "morph": null
     }
-  ],
-  "gematria": {
-    "standard": 314,
-    "ordinal": 314,
-    "reduced": 35
-  }
+  ]
 }

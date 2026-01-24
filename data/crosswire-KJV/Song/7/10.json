@@ -5,12 +5,7 @@
       "position": 1,
       "text": "I",
       "lemma": null,
-      "morph": null,
-      "gematria": {
-        "standard": 9,
-        "ordinal": 9,
-        "reduced": 9
-      }
+      "morph": null
     },
     {
       "position": 2,
@@ -20,10 +15,10 @@
       "metadata": {
         "type": "added"
       },
-      "gematria": {
-        "standard": 14,
-        "ordinal": 14,
-        "reduced": 5
+      "source": {
+        "attrs": {
+          "type": "added"
+        }
       }
     },
     {
@@ -34,10 +29,11 @@
       "strongs": [
         "H1730"
       ],
-      "gematria": {
-        "standard": 38,
-        "ordinal": 38,
-        "reduced": 2
+      "source": {
+        "lemma": "strong:H01730",
+        "attrs": {
+          "lemma": "strong:H01730"
+        }
       }
     },
     {
@@ -48,10 +44,11 @@
       "strongs": [
         "H1730"
       ],
-      "gematria": {
-        "standard": 84,
-        "ordinal": 84,
-        "reduced": 3
+      "source": {
+        "lemma": "strong:H01730",
+        "attrs": {
+          "lemma": "strong:H01730"
+        }
       }
     },
     {
@@ -62,10 +59,11 @@
       "strongs": [
         "H8669"
       ],
-      "gematria": {
-        "standard": 19,
-        "ordinal": 19,
-        "reduced": 1
+      "source": {
+        "lemma": "strong:H08669",
+        "attrs": {
+          "lemma": "strong:H08669"
+        }
       }
     },
     {
@@ -76,10 +74,11 @@
       "strongs": [
         "H8669"
       ],
-      "gematria": {
-        "standard": 36,
-        "ordinal": 36,
-        "reduced": 9
+      "source": {
+        "lemma": "strong:H08669",
+        "attrs": {
+          "lemma": "strong:H08669"
+        }
       }
     },
     {
@@ -90,10 +89,11 @@
       "strongs": [
         "H8669"
       ],
-      "gematria": {
-        "standard": 60,
-        "ordinal": 60,
-        "reduced": 6
+      "source": {
+        "lemma": "strong:H08669",
+        "attrs": {
+          "lemma": "strong:H08669"
+        }
       }
     },
     {
@@ -104,38 +104,23 @@
       "metadata": {
         "type": "added"
       },
-      "gematria": {
-        "standard": 28,
-        "ordinal": 28,
-        "reduced": 1
+      "source": {
+        "attrs": {
+          "type": "added"
+        }
       }
     },
     {
       "position": 9,
       "text": "toward",
       "lemma": null,
-      "morph": null,
-      "gematria": {
-        "standard": 81,
-        "ordinal": 81,
-        "reduced": 9
-      }
+      "morph": null
     },
     {
       "position": 10,
       "text": "me.",
       "lemma": null,
-      "morph": null,
-      "gematria": {
-        "standard": 18,
-        "ordinal": 18,
-        "reduced": 9
-      }
+      "morph": null
     }
-  ],
-  "gematria": {
-    "standard": 387,
-    "ordinal": 387,
-    "reduced": 54
-  }
+  ]
 }

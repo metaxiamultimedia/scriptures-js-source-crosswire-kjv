@@ -12,10 +12,14 @@
       "metadata": {
         "src": "1"
       },
-      "gematria": {
-        "standard": 28,
-        "ordinal": 28,
-        "reduced": 1
+      "source": {
+        "lemma": "strong:G1473 lemma.TR:ημεις",
+        "morph": "robinson:P-1NP",
+        "attrs": {
+          "src": "1",
+          "lemma": "strong:G1473 lemma.TR:ημεις",
+          "morph": "robinson:P-1NP"
+        }
       }
     },
     {
@@ -26,10 +30,14 @@
       "metadata": {
         "src": "2"
       },
-      "gematria": {
-        "standard": 54,
-        "ordinal": 54,
-        "reduced": 9
+      "source": {
+        "lemma": "strong:G25 lemma.TR:αγαπωμεν",
+        "morph": "robinson:V-PAI-1P",
+        "attrs": {
+          "src": "2",
+          "lemma": "strong:G25 lemma.TR:αγαπωμεν",
+          "morph": "robinson:V-PAI-1P"
+        }
       }
     },
     {
@@ -43,10 +51,14 @@
       "metadata": {
         "src": "3"
       },
-      "gematria": {
-        "standard": 30,
-        "ordinal": 30,
-        "reduced": 3
+      "source": {
+        "lemma": "strong:G846 lemma.TR:αυτον",
+        "morph": "robinson:P-ASM",
+        "attrs": {
+          "src": "3",
+          "lemma": "strong:G846 lemma.TR:αυτον",
+          "morph": "robinson:P-ASM"
+        }
       }
     },
     {
@@ -60,10 +72,14 @@
       "metadata": {
         "src": "4"
       },
-      "gematria": {
-        "standard": 56,
-        "ordinal": 56,
-        "reduced": 2
+      "source": {
+        "lemma": "strong:G3754 lemma.TR:οτι",
+        "morph": "robinson:CONJ",
+        "attrs": {
+          "src": "4",
+          "lemma": "strong:G3754 lemma.TR:οτι",
+          "morph": "robinson:CONJ"
+        }
       }
     },
     {
@@ -77,10 +93,14 @@
       "metadata": {
         "src": "5"
       },
-      "gematria": {
-        "standard": 13,
-        "ordinal": 13,
-        "reduced": 4
+      "source": {
+        "lemma": "strong:G846 lemma.TR:αυτος",
+        "morph": "robinson:P-NSM",
+        "attrs": {
+          "src": "5",
+          "lemma": "strong:G846 lemma.TR:αυτος",
+          "morph": "robinson:P-NSM"
+        }
       }
     },
     {
@@ -94,10 +114,14 @@
       "metadata": {
         "src": "6"
       },
-      "gematria": {
-        "standard": 72,
-        "ordinal": 72,
-        "reduced": 9
+      "source": {
+        "lemma": "strong:G4413 lemma.TR:πρωτος",
+        "morph": "robinson:A-NSM-S",
+        "attrs": {
+          "src": "6",
+          "lemma": "strong:G4413 lemma.TR:πρωτος",
+          "morph": "robinson:A-NSM-S"
+        }
       }
     },
     {
@@ -108,10 +132,14 @@
       "metadata": {
         "src": "7"
       },
-      "gematria": {
-        "standard": 58,
-        "ordinal": 58,
-        "reduced": 4
+      "source": {
+        "lemma": "strong:G25 lemma.TR:ηγαπησεν",
+        "morph": "robinson:V-AAI-3S",
+        "attrs": {
+          "src": "7",
+          "lemma": "strong:G25 lemma.TR:ηγαπησεν",
+          "morph": "robinson:V-AAI-3S"
+        }
       }
     },
     {
@@ -125,16 +153,15 @@
       "metadata": {
         "src": "8"
       },
-      "gematria": {
-        "standard": 40,
-        "ordinal": 40,
-        "reduced": 4
+      "source": {
+        "lemma": "strong:G1473 lemma.TR:ημας",
+        "morph": "robinson:P-1AP",
+        "attrs": {
+          "src": "8",
+          "lemma": "strong:G1473 lemma.TR:ημας",
+          "morph": "robinson:P-1AP"
+        }
       }
     }
-  ],
-  "gematria": {
-    "standard": 351,
-    "ordinal": 351,
-    "reduced": 36
-  }
+  ]
 }

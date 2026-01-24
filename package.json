@@ -1,6 +1,6 @@
 {
   "name": "@metaxia/scriptures-source-crosswire-kjv",
-  "version": "0.1.5",
+  "version": "2.0.0",
   "description": "King James Version (English) data for @metaxia/scriptures. Source: CrossWire Bible Society.",
   "type": "module",
   "main": "./dist/index.js",
@@ -56,10 +56,10 @@
   },
   "homepage": "https://github.com/metaxiamultimedia/scriptures-js-source-crosswire-kjv#readme",
   "peerDependencies": {
-    "@metaxia/scriptures-core": ">=0.1.2"
+    "@metaxia/scriptures-core": "^2.0.0"
   },
   "devDependencies": {
-    "@metaxia/scriptures-core": "git+https://github.com/metaxiamultimedia/scriptures-js-core.git#v0.1.2",
+    "@metaxia/scriptures-core": "^2.0.0",
     "@types/node": "^22.0.0",
     "fast-xml-parser": "^4.3.0",
     "tsx": "^4.7.0",

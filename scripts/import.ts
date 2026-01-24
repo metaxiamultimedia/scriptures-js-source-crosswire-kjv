@@ -12,7 +12,6 @@ import { existsSync } from 'fs';
 import { join, dirname } from 'path';
 import { fileURLToPath } from 'url';
 import { SaxesParser } from 'saxes';
-import { computeEnglish } from '@metaxia/scriptures-core';
 
 const __filename = fileURLToPath(import.meta.url);
 const __dirname = dirname(__filename);
@@ -31,13 +30,20 @@ interface WordEntry {
   morph?: string | null;
   strongs?: string[];
   metadata?: Record<string, unknown>;
-  gematria: Record<string, number>;
+  /** Raw source data preserved for reference */
+  source?: {
+    /** Original lemma attribute value */
+    lemma?: string;
+    /** Original morph attribute value */
+    morph?: string;
+    /** All original attributes from the XML element */
+    attrs?: Record<string, string>;
+  };
 }
 
 interface VerseData {
   text: string;
   words: WordEntry[];
-  gematria: Record<string, number>;
   metadata?: {
     has_colophon?: boolean;
     colophon_word_range?: [number, number];
@@ -52,6 +58,12 @@ interface ParsedWord {
   morph: string | null;
   strongs: string[] | null;
   metadata: Record<string, unknown>;
+  /** Raw source attributes preserved */
+  source: {
+    lemma?: string;
+    morph?: string;
+    attrs?: Record<string, string>;
+  };
 }
 
 interface ParsedVerse {
@@ -157,6 +169,7 @@ function parseOsis(xml: string): ParsedVerse[] {
           morph: null,
           strongs: null,
           metadata: {},
+          source: {},
         });
       }
     }
@@ -279,6 +292,15 @@ function parseOsis(xml: string): ParsedVerse[] {
           metadata.colophon_type = 'subscription';
         }
 
+        // Build source object to preserve raw attributes
+        const source: ParsedWord['source'] = {};
+        if (wordAttrs.lemma) source.lemma = wordAttrs.lemma;
+        if (wordAttrs.morph) source.morph = wordAttrs.morph;
+        // Store all attributes
+        if (Object.keys(wordAttrs).length > 0) {
+          source.attrs = { ...wordAttrs };
+        }
+
         // Handle multi-word content (split on spaces)
         for (const piece of wText.split(/\s+/).filter(Boolean)) {
           const wordEntry: ParsedWord = {
@@ -288,6 +310,7 @@ function parseOsis(xml: string): ParsedVerse[] {
             morph,
             strongs: strongs && strongs.length > 0 ? strongs : null,
             metadata: Object.keys(metadata).length > 0 ? { ...metadata } : {},
+            source,
           };
 
           if (inColophon) {
@@ -310,6 +333,12 @@ function parseOsis(xml: string): ParsedVerse[] {
           metadata.colophon_type = 'subscription';
         }
 
+        // Build source object for transChange elements
+        const source: ParsedWord['source'] = {};
+        if (Object.keys(transChangeAttrs).length > 0) {
+          source.attrs = { ...transChangeAttrs };
+        }
+
         const wordEntry: ParsedWord = {
           position: inColophon ? colophonPos++ : pos++,
           text: tcText,
@@ -317,6 +346,7 @@ function parseOsis(xml: string): ParsedVerse[] {
           morph: null,
           strongs: null,
           metadata,
+          source,
         };
 
         if (inColophon) {
@@ -380,7 +410,7 @@ async function saveVerse(verse: ParsedVerse): Promise<void> {
     morph: w.morph,
     strongs: w.strongs && w.strongs.length > 0 ? w.strongs : undefined,
     metadata: Object.keys(w.metadata || {}).length > 0 ? w.metadata : undefined,
-    gematria: computeEnglish(w.text),
+    source: Object.keys(w.source || {}).length > 0 ? w.source : undefined,
   }));
 
   // Add colophon words if present
@@ -399,26 +429,14 @@ async function saveVerse(verse: ParsedVerse): Promise<void> {
         morph: w.morph,
         strongs: w.strongs && w.strongs.length > 0 ? w.strongs : undefined,
         metadata: Object.keys(w.metadata || {}).length > 0 ? w.metadata : undefined,
-        gematria: computeEnglish(w.text),
+        source: Object.keys(w.source || {}).length > 0 ? w.source : undefined,
       });
-    }
-  }
-
-  // Calculate total gematria - EXCLUDE colophon words
-  const totals: Record<string, number> = {};
-  for (const entry of wordEntries) {
-    // Skip colophon words in gematria calculation
-    if (entry.metadata?.colophon) continue;
-
-    for (const [k, v] of Object.entries(entry.gematria)) {
-      totals[k] = (totals[k] || 0) + v;
     }
   }
 
   const data: VerseData = {
     text: verse.text,
     words: wordEntries,
-    gematria: totals,
   };
 
   // Add colophon metadata if present

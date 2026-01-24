@@ -9,10 +9,10 @@
       "metadata": {
         "type": "added"
       },
-      "gematria": {
-        "standard": 28,
-        "ordinal": 28,
-        "reduced": 1
+      "source": {
+        "attrs": {
+          "type": "added"
+        }
       }
     },
     {
@@ -23,10 +23,11 @@
       "strongs": [
         "H3581"
       ],
-      "gematria": {
-        "standard": 38,
-        "ordinal": 38,
-        "reduced": 2
+      "source": {
+        "lemma": "strong:H03581",
+        "attrs": {
+          "lemma": "strong:H03581"
+        }
       }
     },
     {
@@ -37,10 +38,11 @@
       "strongs": [
         "H3581"
       ],
-      "gematria": {
-        "standard": 111,
-        "ordinal": 111,
-        "reduced": 3
+      "source": {
+        "lemma": "strong:H03581",
+        "attrs": {
+          "lemma": "strong:H03581"
+        }
       }
     },
     {
@@ -51,10 +53,11 @@
       "strongs": [
         "H3581"
       ],
-      "gematria": {
-        "standard": 33,
-        "ordinal": 33,
-        "reduced": 6
+      "source": {
+        "lemma": "strong:H03581",
+        "attrs": {
+          "lemma": "strong:H03581"
+        }
       }
     },
     {
@@ -65,10 +68,11 @@
       "strongs": [
         "H3581"
       ],
-      "gematria": {
-        "standard": 111,
-        "ordinal": 111,
-        "reduced": 3
+      "source": {
+        "lemma": "strong:H03581",
+        "attrs": {
+          "lemma": "strong:H03581"
+        }
       }
     },
     {
@@ -79,10 +83,11 @@
       "strongs": [
         "H68"
       ],
-      "gematria": {
-        "standard": 21,
-        "ordinal": 21,
-        "reduced": 3
+      "source": {
+        "lemma": "strong:H068",
+        "attrs": {
+          "lemma": "strong:H068"
+        }
       }
     },
     {
@@ -93,22 +98,18 @@
       "strongs": [
         "H68"
       ],
-      "gematria": {
-        "standard": 92,
-        "ordinal": 92,
-        "reduced": 2
+      "source": {
+        "lemma": "strong:H068",
+        "attrs": {
+          "lemma": "strong:H068"
+        }
       }
     },
     {
       "position": 8,
       "text": "or",
       "lemma": null,
-      "morph": null,
-      "gematria": {
-        "standard": 33,
-        "ordinal": 33,
-        "reduced": 6
-      }
+      "morph": null
     },
     {
       "position": 9,
@@ -118,10 +119,10 @@
       "metadata": {
         "type": "added"
       },
-      "gematria": {
-        "standard": 28,
-        "ordinal": 28,
-        "reduced": 1
+      "source": {
+        "attrs": {
+          "type": "added"
+        }
       }
     },
     {
@@ -132,10 +133,11 @@
       "strongs": [
         "H1320"
       ],
-      "gematria": {
-        "standard": 38,
-        "ordinal": 38,
-        "reduced": 2
+      "source": {
+        "lemma": "strong:H01320",
+        "attrs": {
+          "lemma": "strong:H01320"
+        }
       }
     },
     {
@@ -146,10 +148,11 @@
       "strongs": [
         "H1320"
       ],
-      "gematria": {
-        "standard": 50,
-        "ordinal": 50,
-        "reduced": 5
+      "source": {
+        "lemma": "strong:H01320",
+        "attrs": {
+          "lemma": "strong:H01320"
+        }
       }
     },
     {
@@ -160,10 +163,11 @@
       "strongs": [
         "H5153"
       ],
-      "gematria": {
-        "standard": 21,
-        "ordinal": 21,
-        "reduced": 3
+      "source": {
+        "lemma": "strong:H05153",
+        "attrs": {
+          "lemma": "strong:H05153"
+        }
       }
     },
     {
@@ -174,16 +178,12 @@
       "strongs": [
         "H5153"
       ],
-      "gematria": {
-        "standard": 59,
-        "ordinal": 59,
-        "reduced": 5
+      "source": {
+        "lemma": "strong:H05153",
+        "attrs": {
+          "lemma": "strong:H05153"
+        }
       }
     }
-  ],
-  "gematria": {
-    "standard": 663,
-    "ordinal": 663,
-    "reduced": 42
-  }
+  ]
 }

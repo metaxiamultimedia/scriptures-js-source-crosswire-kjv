@@ -12,10 +12,14 @@
       "metadata": {
         "src": "2"
       },
-      "gematria": {
-        "standard": 19,
-        "ordinal": 19,
-        "reduced": 1
+      "source": {
+        "lemma": "strong:G1161 lemma.TR:δε",
+        "morph": "robinson:CONJ",
+        "attrs": {
+          "src": "2",
+          "lemma": "strong:G1161 lemma.TR:δε",
+          "morph": "robinson:CONJ"
+        }
       }
     },
     {
@@ -29,10 +33,14 @@
       "metadata": {
         "src": "3"
       },
-      "gematria": {
-        "standard": 58,
-        "ordinal": 58,
-        "reduced": 4
+      "source": {
+        "lemma": "strong:G3004 lemma.TR:ειπον",
+        "morph": "robinson:V-2AAI-3P",
+        "attrs": {
+          "src": "3",
+          "lemma": "strong:G3004 lemma.TR:ειπον",
+          "morph": "robinson:V-2AAI-3P"
+        }
       }
     },
     {
@@ -46,10 +54,14 @@
       "metadata": {
         "src": "3"
       },
-      "gematria": {
-        "standard": 33,
-        "ordinal": 33,
-        "reduced": 6
+      "source": {
+        "lemma": "strong:G3004 lemma.TR:ειπον",
+        "morph": "robinson:V-2AAI-3P",
+        "attrs": {
+          "src": "3",
+          "lemma": "strong:G3004 lemma.TR:ειπον",
+          "morph": "robinson:V-2AAI-3P"
+        }
       }
     },
     {
@@ -64,10 +76,14 @@
       "metadata": {
         "src": "4 5"
       },
-      "gematria": {
-        "standard": 33,
-        "ordinal": 33,
-        "reduced": 6
+      "source": {
+        "lemma": "strong:G3588 strong:G2962 lemma.TR:ο lemma.TR:κυριος",
+        "morph": "robinson:T-NSM robinson:N-NSM",
+        "attrs": {
+          "src": "4 5",
+          "lemma": "strong:G3588 strong:G2962 lemma.TR:ο lemma.TR:κυριος",
+          "morph": "robinson:T-NSM robinson:N-NSM"
+        }
       }
     },
     {
@@ -82,10 +98,14 @@
       "metadata": {
         "src": "4 5"
       },
-      "gematria": {
-        "standard": 49,
-        "ordinal": 49,
-        "reduced": 4
+      "source": {
+        "lemma": "strong:G3588 strong:G2962 lemma.TR:ο lemma.TR:κυριος",
+        "morph": "robinson:T-NSM robinson:N-NSM",
+        "attrs": {
+          "src": "4 5",
+          "lemma": "strong:G3588 strong:G2962 lemma.TR:ο lemma.TR:κυριος",
+          "morph": "robinson:T-NSM robinson:N-NSM"
+        }
       }
     },
     {
@@ -99,10 +119,14 @@
       "metadata": {
         "src": "8"
       },
-      "gematria": {
-        "standard": 37,
-        "ordinal": 37,
-        "reduced": 1
+      "source": {
+        "lemma": "strong:G2192 lemma.TR:εχει",
+        "morph": "robinson:V-PAI-3S",
+        "attrs": {
+          "src": "8",
+          "lemma": "strong:G2192 lemma.TR:εχει",
+          "morph": "robinson:V-PAI-3S"
+        }
       }
     },
     {
@@ -116,10 +140,14 @@
       "metadata": {
         "src": "7"
       },
-      "gematria": {
-        "standard": 28,
-        "ordinal": 28,
-        "reduced": 1
+      "source": {
+        "lemma": "strong:G5532 lemma.TR:χρειαν",
+        "morph": "robinson:N-ASF",
+        "attrs": {
+          "src": "7",
+          "lemma": "strong:G5532 lemma.TR:χρειαν",
+          "morph": "robinson:N-ASF"
+        }
       }
     },
     {
@@ -133,10 +161,14 @@
       "metadata": {
         "src": "6"
       },
-      "gematria": {
-        "standard": 21,
-        "ordinal": 21,
-        "reduced": 3
+      "source": {
+        "lemma": "strong:G846 lemma.TR:αυτου",
+        "morph": "robinson:P-GSM",
+        "attrs": {
+          "src": "6",
+          "lemma": "strong:G846 lemma.TR:αυτου",
+          "morph": "robinson:P-GSM"
+        }
       }
     },
     {
@@ -150,16 +182,15 @@
       "metadata": {
         "src": "6"
       },
-      "gematria": {
-        "standard": 30,
-        "ordinal": 30,
-        "reduced": 3
+      "source": {
+        "lemma": "strong:G846 lemma.TR:αυτου",
+        "morph": "robinson:P-GSM",
+        "attrs": {
+          "src": "6",
+          "lemma": "strong:G846 lemma.TR:αυτου",
+          "morph": "robinson:P-GSM"
+        }
       }
     }
-  ],
-  "gematria": {
-    "standard": 308,
-    "ordinal": 308,
-    "reduced": 29
-  }
+  ]
 }

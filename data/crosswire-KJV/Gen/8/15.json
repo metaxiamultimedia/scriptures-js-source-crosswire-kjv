@@ -9,10 +9,11 @@
       "strongs": [
         "H430"
       ],
-      "gematria": {
-        "standard": 19,
-        "ordinal": 19,
-        "reduced": 1
+      "source": {
+        "lemma": "strong:H0430",
+        "attrs": {
+          "lemma": "strong:H0430"
+        }
       }
     },
     {
@@ -23,10 +24,11 @@
       "strongs": [
         "H430"
       ],
-      "gematria": {
-        "standard": 26,
-        "ordinal": 26,
-        "reduced": 8
+      "source": {
+        "lemma": "strong:H0430",
+        "attrs": {
+          "lemma": "strong:H0430"
+        }
       }
     },
     {
@@ -37,10 +39,13 @@
       "strongs": [
         "H1696"
       ],
-      "gematria": {
-        "standard": 52,
-        "ordinal": 52,
-        "reduced": 7
+      "source": {
+        "lemma": "strong:H01696",
+        "morph": "strongMorph:TH8762",
+        "attrs": {
+          "morph": "strongMorph:TH8762",
+          "lemma": "strong:H01696"
+        }
       }
     },
     {
@@ -51,10 +56,11 @@
       "strongs": [
         "H5146"
       ],
-      "gematria": {
-        "standard": 70,
-        "ordinal": 70,
-        "reduced": 7
+      "source": {
+        "lemma": "strong:H05146",
+        "attrs": {
+          "lemma": "strong:H05146"
+        }
       }
     },
     {
@@ -65,10 +71,11 @@
       "strongs": [
         "H5146"
       ],
-      "gematria": {
-        "standard": 38,
-        "ordinal": 38,
-        "reduced": 2
+      "source": {
+        "lemma": "strong:H05146",
+        "attrs": {
+          "lemma": "strong:H05146"
+        }
       }
     },
     {
@@ -79,16 +86,14 @@
       "strongs": [
         "H559"
       ],
-      "gematria": {
-        "standard": 75,
-        "ordinal": 75,
-        "reduced": 3
+      "source": {
+        "lemma": "strong:H0559",
+        "morph": "strongMorph:TH8800",
+        "attrs": {
+          "morph": "strongMorph:TH8800",
+          "lemma": "strong:H0559"
+        }
       }
     }
-  ],
-  "gematria": {
-    "standard": 280,
-    "ordinal": 280,
-    "reduced": 28
-  }
+  ]
 }

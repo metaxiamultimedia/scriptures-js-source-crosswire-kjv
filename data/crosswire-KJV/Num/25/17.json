@@ -9,10 +9,13 @@
       "strongs": [
         "H6887"
       ],
-      "gematria": {
-        "standard": 51,
-        "ordinal": 51,
-        "reduced": 6
+      "source": {
+        "lemma": "strong:H06887",
+        "morph": "strongMorph:TH8800",
+        "attrs": {
+          "morph": "strongMorph:TH8800",
+          "lemma": "strong:H06887"
+        }
       }
     },
     {
@@ -23,10 +26,11 @@
       "strongs": [
         "H4084"
       ],
-      "gematria": {
-        "standard": 33,
-        "ordinal": 33,
-        "reduced": 6
+      "source": {
+        "lemma": "strong:H04084",
+        "attrs": {
+          "lemma": "strong:H04084"
+        }
       }
     },
     {
@@ -37,10 +41,11 @@
       "strongs": [
         "H4084"
       ],
-      "gematria": {
-        "standard": 103,
-        "ordinal": 103,
-        "reduced": 4
+      "source": {
+        "lemma": "strong:H04084",
+        "attrs": {
+          "lemma": "strong:H04084"
+        }
       }
     },
     {
@@ -51,10 +56,13 @@
       "strongs": [
         "H5221"
       ],
-      "gematria": {
-        "standard": 19,
-        "ordinal": 19,
-        "reduced": 1
+      "source": {
+        "lemma": "strong:H05221",
+        "morph": "strongMorph:TH8689",
+        "attrs": {
+          "morph": "strongMorph:TH8689",
+          "lemma": "strong:H05221"
+        }
       }
     },
     {
@@ -65,27 +73,20 @@
       "strongs": [
         "H5221"
       ],
-      "gematria": {
-        "standard": 66,
-        "ordinal": 66,
-        "reduced": 3
+      "source": {
+        "lemma": "strong:H05221",
+        "morph": "strongMorph:TH8689",
+        "attrs": {
+          "morph": "strongMorph:TH8689",
+          "lemma": "strong:H05221"
+        }
       }
     },
     {
       "position": 6,
       "text": "them:",
       "lemma": null,
-      "morph": null,
-      "gematria": {
-        "standard": 46,
-        "ordinal": 46,
-        "reduced": 1
-      }
+      "morph": null
     }
-  ],
-  "gematria": {
-    "standard": 318,
-    "ordinal": 318,
-    "reduced": 21
-  }
+  ]
 }
