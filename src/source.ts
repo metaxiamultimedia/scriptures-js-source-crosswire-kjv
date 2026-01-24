@@ -20,9 +20,10 @@ export const metadata: EditionMetadata = {
   abbreviation: 'crosswire-KJV',
   name: 'King James Version',
   language: 'English',
-  license: 'Public Domain',
+  license: 'General public license for distribution for any purpose',
   source: 'CrossWire Bible Society',
   urls: ['https://crosswire.org/'],
+  year: 1769,
 };
 
 /**
