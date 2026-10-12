@@ -1,0 +1,237 @@
+{
+  "text": "One of his disciples, Andrew, Simon Peter’s brother, saith unto him,",
+  "words": [
+    {
+      "position": 1,
+      "text": "One",
+      "lemma": "strong:G1520 lemma.TR:εις",
+      "morph": "robinson:A-NSM",
+      "strongs": [
+        "G1520"
+      ],
+      "metadata": {
+        "src": "3"
+      },
+      "source": {
+        "lemma": "strong:G1520 lemma.TR:εις",
+        "morph": "robinson:A-NSM",
+        "attrs": {
+          "src": "3",
+          "lemma": "strong:G1520 lemma.TR:εις",
+          "morph": "robinson:A-NSM"
+        }
+      }
+    },
+    {
+      "position": 2,
+      "text": "of",
+      "lemma": "strong:G1537 lemma.TR:εκ",
+      "morph": "robinson:PREP",
+      "strongs": [
+        "G1537"
+      ],
+      "metadata": {
+        "src": "4"
+      },
+      "source": {
+        "lemma": "strong:G1537 lemma.TR:εκ",
+        "morph": "robinson:PREP",
+        "attrs": {
+          "src": "4",
+          "lemma": "strong:G1537 lemma.TR:εκ",
+          "morph": "robinson:PREP"
+        }
+      }
+    },
+    {
+      "position": 3,
+      "text": "his",
+      "lemma": "strong:G846 lemma.TR:αυτου",
+      "morph": "robinson:P-GSM",
+      "strongs": [
+        "G846"
+      ],
+      "metadata": {
+        "src": "7"
+      },
+      "source": {
+        "lemma": "strong:G846 lemma.TR:αυτου",
+        "morph": "robinson:P-GSM",
+        "attrs": {
+          "src": "7",
+          "lemma": "strong:G846 lemma.TR:αυτου",
+          "morph": "robinson:P-GSM"
+        }
+      }
+    },
+    {
+      "position": 4,
+      "text": "disciples,",
+      "lemma": "strong:G3588 strong:G3101 lemma.TR:των lemma.TR:μαθητων",
+      "morph": "robinson:T-GPM robinson:N-GPM",
+      "strongs": [
+        "G3588",
+        "G3101"
+      ],
+      "metadata": {
+        "src": "5 6"
+      },
+      "source": {
+        "lemma": "strong:G3588 strong:G3101 lemma.TR:των lemma.TR:μαθητων",
+        "morph": "robinson:T-GPM robinson:N-GPM",
+        "attrs": {
+          "src": "5 6",
+          "lemma": "strong:G3588 strong:G3101 lemma.TR:των lemma.TR:μαθητων",
+          "morph": "robinson:T-GPM robinson:N-GPM"
+        }
+      }
+    },
+    {
+      "position": 5,
+      "text": "Andrew,",
+      "lemma": "strong:G406 lemma.TR:ανδρεας",
+      "morph": "robinson:N-NSM",
+      "strongs": [
+        "G406"
+      ],
+      "metadata": {
+        "src": "8"
+      },
+      "source": {
+        "lemma": "strong:G406 lemma.TR:ανδρεας",
+        "morph": "robinson:N-NSM",
+        "attrs": {
+          "src": "8",
+          "lemma": "strong:G406 lemma.TR:ανδρεας",
+          "morph": "robinson:N-NSM"
+        }
+      }
+    },
+    {
+      "position": 6,
+      "text": "Simon",
+      "lemma": "strong:G4613 lemma.TR:σιμωνος",
+      "morph": "robinson:N-GSM",
+      "strongs": [
+        "G4613"
+      ],
+      "metadata": {
+        "src": "11"
+      },
+      "source": {
+        "lemma": "strong:G4613 lemma.TR:σιμωνος",
+        "morph": "robinson:N-GSM",
+        "attrs": {
+          "src": "11",
+          "lemma": "strong:G4613 lemma.TR:σιμωνος",
+          "morph": "robinson:N-GSM"
+        }
+      }
+    },
+    {
+      "position": 7,
+      "text": "Peter’s",
+      "lemma": "strong:G4074 lemma.TR:πετρου",
+      "morph": "robinson:N-GSM",
+      "strongs": [
+        "G4074"
+      ],
+      "metadata": {
+        "src": "12"
+      },
+      "source": {
+        "lemma": "strong:G4074 lemma.TR:πετρου",
+        "morph": "robinson:N-GSM",
+        "attrs": {
+          "src": "12",
+          "lemma": "strong:G4074 lemma.TR:πετρου",
+          "morph": "robinson:N-GSM"
+        }
+      }
+    },
+    {
+      "position": 8,
+      "text": "brother,",
+      "lemma": "strong:G3588 strong:G80 lemma.TR:ο lemma.TR:αδελφος",
+      "morph": "robinson:T-NSM robinson:N-NSM",
+      "strongs": [
+        "G3588"
+      ],
+      "metadata": {
+        "src": "9 10"
+      },
+      "source": {
+        "lemma": "strong:G3588 strong:G80 lemma.TR:ο lemma.TR:αδελφος",
+        "morph": "robinson:T-NSM robinson:N-NSM",
+        "attrs": {
+          "src": "9 10",
+          "lemma": "strong:G3588 strong:G80 lemma.TR:ο lemma.TR:αδελφος",
+          "morph": "robinson:T-NSM robinson:N-NSM"
+        }
+      }
+    },
+    {
+      "position": 9,
+      "text": "saith",
+      "lemma": "strong:G3004 lemma.TR:λεγει",
+      "morph": "robinson:V-PAI-3S",
+      "strongs": [
+        "G3004"
+      ],
+      "metadata": {
+        "src": "1"
+      },
+      "source": {
+        "lemma": "strong:G3004 lemma.TR:λεγει",
+        "morph": "robinson:V-PAI-3S",
+        "attrs": {
+          "src": "1",
+          "lemma": "strong:G3004 lemma.TR:λεγει",
+          "morph": "robinson:V-PAI-3S"
+        }
+      }
+    },
+    {
+      "position": 10,
+      "text": "unto",
+      "lemma": "strong:G846 lemma.TR:αυτω",
+      "morph": "robinson:P-DSM",
+      "strongs": [
+        "G846"
+      ],
+      "metadata": {
+        "src": "2"
+      },
+      "source": {
+        "lemma": "strong:G846 lemma.TR:αυτω",
+        "morph": "robinson:P-DSM",
+        "attrs": {
+          "src": "2",
+          "lemma": "strong:G846 lemma.TR:αυτω",
+          "morph": "robinson:P-DSM"
+        }
+      }
+    },
+    {
+      "position": 11,
+      "text": "him,",
+      "lemma": "strong:G846 lemma.TR:αυτω",
+      "morph": "robinson:P-DSM",
+      "strongs": [
+        "G846"
+      ],
+      "metadata": {
+        "src": "2"
+      },
+      "source": {
+        "lemma": "strong:G846 lemma.TR:αυτω",
+        "morph": "robinson:P-DSM",
+        "attrs": {
+          "src": "2",
+          "lemma": "strong:G846 lemma.TR:αυτω",
+          "morph": "robinson:P-DSM"
+        }
+      }
+    }
+  ]
+}

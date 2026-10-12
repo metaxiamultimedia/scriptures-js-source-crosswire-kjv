@@ -1,0 +1,350 @@
+{
+  "text": "It is a faithful saying: For if we be dead with him, we shall also live with him:",
+  "words": [
+    {
+      "position": 1,
+      "text": "It is",
+      "lemma": null,
+      "morph": null,
+      "metadata": {
+        "type": "added"
+      },
+      "source": {
+        "attrs": {
+          "type": "added"
+        }
+      }
+    },
+    {
+      "position": 2,
+      "text": "a",
+      "lemma": "strong:G4103 lemma.TR:πιστος",
+      "morph": "robinson:A-NSM",
+      "strongs": [
+        "G4103"
+      ],
+      "metadata": {
+        "src": "1"
+      },
+      "source": {
+        "lemma": "strong:G4103 lemma.TR:πιστος",
+        "morph": "robinson:A-NSM",
+        "attrs": {
+          "src": "1",
+          "lemma": "strong:G4103 lemma.TR:πιστος",
+          "morph": "robinson:A-NSM"
+        }
+      }
+    },
+    {
+      "position": 3,
+      "text": "faithful",
+      "lemma": "strong:G4103 lemma.TR:πιστος",
+      "morph": "robinson:A-NSM",
+      "strongs": [
+        "G4103"
+      ],
+      "metadata": {
+        "src": "1"
+      },
+      "source": {
+        "lemma": "strong:G4103 lemma.TR:πιστος",
+        "morph": "robinson:A-NSM",
+        "attrs": {
+          "src": "1",
+          "lemma": "strong:G4103 lemma.TR:πιστος",
+          "morph": "robinson:A-NSM"
+        }
+      }
+    },
+    {
+      "position": 4,
+      "text": "saying:",
+      "lemma": "strong:G3588 strong:G3056 lemma.TR:ο lemma.TR:λογος",
+      "morph": "robinson:T-NSM robinson:N-NSM",
+      "strongs": [
+        "G3588",
+        "G3056"
+      ],
+      "metadata": {
+        "src": "2 3"
+      },
+      "source": {
+        "lemma": "strong:G3588 strong:G3056 lemma.TR:ο lemma.TR:λογος",
+        "morph": "robinson:T-NSM robinson:N-NSM",
+        "attrs": {
+          "src": "2 3",
+          "lemma": "strong:G3588 strong:G3056 lemma.TR:ο lemma.TR:λογος",
+          "morph": "robinson:T-NSM robinson:N-NSM"
+        }
+      }
+    },
+    {
+      "position": 5,
+      "text": "For",
+      "lemma": "strong:G1063 lemma.TR:γαρ",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G1063"
+      ],
+      "metadata": {
+        "src": "5"
+      },
+      "source": {
+        "lemma": "strong:G1063 lemma.TR:γαρ",
+        "morph": "robinson:CONJ",
+        "attrs": {
+          "src": "5",
+          "lemma": "strong:G1063 lemma.TR:γαρ",
+          "morph": "robinson:CONJ"
+        }
+      }
+    },
+    {
+      "position": 6,
+      "text": "if",
+      "lemma": "strong:G1487 lemma.TR:ει",
+      "morph": "robinson:COND",
+      "strongs": [
+        "G1487"
+      ],
+      "metadata": {
+        "src": "4"
+      },
+      "source": {
+        "lemma": "strong:G1487 lemma.TR:ει",
+        "morph": "robinson:COND",
+        "attrs": {
+          "src": "4",
+          "lemma": "strong:G1487 lemma.TR:ει",
+          "morph": "robinson:COND"
+        }
+      }
+    },
+    {
+      "position": 7,
+      "text": "we",
+      "lemma": "strong:G4880 lemma.TR:συναπεθανομεν",
+      "morph": "robinson:V-2AAI-1P",
+      "strongs": [
+        "G4880"
+      ],
+      "metadata": {
+        "src": "6"
+      },
+      "source": {
+        "lemma": "strong:G4880 lemma.TR:συναπεθανομεν",
+        "morph": "robinson:V-2AAI-1P",
+        "attrs": {
+          "src": "6",
+          "lemma": "strong:G4880 lemma.TR:συναπεθανομεν",
+          "morph": "robinson:V-2AAI-1P"
+        }
+      }
+    },
+    {
+      "position": 8,
+      "text": "be",
+      "lemma": "strong:G4880 lemma.TR:συναπεθανομεν",
+      "morph": "robinson:V-2AAI-1P",
+      "strongs": [
+        "G4880"
+      ],
+      "metadata": {
+        "src": "6"
+      },
+      "source": {
+        "lemma": "strong:G4880 lemma.TR:συναπεθανομεν",
+        "morph": "robinson:V-2AAI-1P",
+        "attrs": {
+          "src": "6",
+          "lemma": "strong:G4880 lemma.TR:συναπεθανομεν",
+          "morph": "robinson:V-2AAI-1P"
+        }
+      }
+    },
+    {
+      "position": 9,
+      "text": "dead",
+      "lemma": "strong:G4880 lemma.TR:συναπεθανομεν",
+      "morph": "robinson:V-2AAI-1P",
+      "strongs": [
+        "G4880"
+      ],
+      "metadata": {
+        "src": "6"
+      },
+      "source": {
+        "lemma": "strong:G4880 lemma.TR:συναπεθανομεν",
+        "morph": "robinson:V-2AAI-1P",
+        "attrs": {
+          "src": "6",
+          "lemma": "strong:G4880 lemma.TR:συναπεθανομεν",
+          "morph": "robinson:V-2AAI-1P"
+        }
+      }
+    },
+    {
+      "position": 10,
+      "text": "with",
+      "lemma": "strong:G4880 lemma.TR:συναπεθανομεν",
+      "morph": "robinson:V-2AAI-1P",
+      "strongs": [
+        "G4880"
+      ],
+      "metadata": {
+        "src": "6"
+      },
+      "source": {
+        "lemma": "strong:G4880 lemma.TR:συναπεθανομεν",
+        "morph": "robinson:V-2AAI-1P",
+        "attrs": {
+          "src": "6",
+          "lemma": "strong:G4880 lemma.TR:συναπεθανομεν",
+          "morph": "robinson:V-2AAI-1P"
+        }
+      }
+    },
+    {
+      "position": 11,
+      "text": "him,",
+      "lemma": null,
+      "morph": null,
+      "metadata": {
+        "type": "added"
+      },
+      "source": {
+        "attrs": {
+          "type": "added"
+        }
+      }
+    },
+    {
+      "position": 12,
+      "text": "we",
+      "lemma": "strong:G4800 lemma.TR:συζησομεν",
+      "morph": "robinson:V-FAI-1P",
+      "strongs": [
+        "G4800"
+      ],
+      "metadata": {
+        "src": "8",
+        "type": "x-split-3267"
+      },
+      "source": {
+        "lemma": "strong:G4800 lemma.TR:συζησομεν",
+        "morph": "robinson:V-FAI-1P",
+        "attrs": {
+          "src": "8",
+          "lemma": "strong:G4800 lemma.TR:συζησομεν",
+          "morph": "robinson:V-FAI-1P",
+          "type": "x-split-3267"
+        }
+      }
+    },
+    {
+      "position": 13,
+      "text": "shall",
+      "lemma": "strong:G4800 lemma.TR:συζησομεν",
+      "morph": "robinson:V-FAI-1P",
+      "strongs": [
+        "G4800"
+      ],
+      "metadata": {
+        "src": "8",
+        "type": "x-split-3267"
+      },
+      "source": {
+        "lemma": "strong:G4800 lemma.TR:συζησομεν",
+        "morph": "robinson:V-FAI-1P",
+        "attrs": {
+          "src": "8",
+          "lemma": "strong:G4800 lemma.TR:συζησομεν",
+          "morph": "robinson:V-FAI-1P",
+          "type": "x-split-3267"
+        }
+      }
+    },
+    {
+      "position": 14,
+      "text": "also",
+      "lemma": "strong:G2532 lemma.TR:και",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G2532"
+      ],
+      "metadata": {
+        "src": "7"
+      },
+      "source": {
+        "lemma": "strong:G2532 lemma.TR:και",
+        "morph": "robinson:CONJ",
+        "attrs": {
+          "src": "7",
+          "lemma": "strong:G2532 lemma.TR:και",
+          "morph": "robinson:CONJ"
+        }
+      }
+    },
+    {
+      "position": 15,
+      "text": "live",
+      "lemma": "strong:G4800 lemma.TR:συζησομεν",
+      "morph": "robinson:V-FAI-1P",
+      "strongs": [
+        "G4800"
+      ],
+      "metadata": {
+        "src": "8",
+        "type": "x-split-3267"
+      },
+      "source": {
+        "lemma": "strong:G4800 lemma.TR:συζησομεν",
+        "morph": "robinson:V-FAI-1P",
+        "attrs": {
+          "src": "8",
+          "lemma": "strong:G4800 lemma.TR:συζησομεν",
+          "morph": "robinson:V-FAI-1P",
+          "type": "x-split-3267"
+        }
+      }
+    },
+    {
+      "position": 16,
+      "text": "with",
+      "lemma": "strong:G4800 lemma.TR:συζησομεν",
+      "morph": "robinson:V-FAI-1P",
+      "strongs": [
+        "G4800"
+      ],
+      "metadata": {
+        "src": "8",
+        "type": "x-split-3267"
+      },
+      "source": {
+        "lemma": "strong:G4800 lemma.TR:συζησομεν",
+        "morph": "robinson:V-FAI-1P",
+        "attrs": {
+          "src": "8",
+          "lemma": "strong:G4800 lemma.TR:συζησομεν",
+          "morph": "robinson:V-FAI-1P",
+          "type": "x-split-3267"
+        }
+      }
+    },
+    {
+      "position": 17,
+      "text": "him:",
+      "lemma": null,
+      "morph": null,
+      "metadata": {
+        "type": "added"
+      },
+      "source": {
+        "attrs": {
+          "type": "added"
+        }
+      }
+    }
+  ]
+}

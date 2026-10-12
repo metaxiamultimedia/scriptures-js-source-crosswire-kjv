@@ -1,0 +1,241 @@
+{
+  "text": "And herein is that saying true, One soweth, and another reapeth.",
+  "words": [
+    {
+      "position": 1,
+      "text": "And",
+      "lemma": "strong:G1063 lemma.TR:γαρ",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G1063"
+      ],
+      "metadata": {
+        "src": "2"
+      },
+      "source": {
+        "lemma": "strong:G1063 lemma.TR:γαρ",
+        "morph": "robinson:CONJ",
+        "attrs": {
+          "src": "2",
+          "lemma": "strong:G1063 lemma.TR:γαρ",
+          "morph": "robinson:CONJ"
+        }
+      }
+    },
+    {
+      "position": 2,
+      "text": "herein",
+      "lemma": "strong:G1722 lemma.TR:εν",
+      "morph": "robinson:PREP",
+      "strongs": [
+        "G1722"
+      ],
+      "metadata": {
+        "src": "1"
+      },
+      "source": {
+        "lemma": "strong:G1722 lemma.TR:εν",
+        "morph": "robinson:PREP",
+        "attrs": {
+          "src": "1",
+          "lemma": "strong:G1722 lemma.TR:εν",
+          "morph": "robinson:PREP"
+        }
+      }
+    },
+    {
+      "position": 3,
+      "text": "is",
+      "lemma": "strong:G1510 lemma.TR:εστιν",
+      "morph": "robinson:V-PAI-3S",
+      "strongs": [
+        "G1510"
+      ],
+      "metadata": {
+        "src": "6"
+      },
+      "source": {
+        "lemma": "strong:G1510 lemma.TR:εστιν",
+        "morph": "robinson:V-PAI-3S",
+        "attrs": {
+          "src": "6",
+          "lemma": "strong:G1510 lemma.TR:εστιν",
+          "morph": "robinson:V-PAI-3S"
+        }
+      }
+    },
+    {
+      "position": 4,
+      "text": "that",
+      "lemma": "strong:G3778 lemma.TR:τουτω",
+      "morph": "robinson:D-DSM",
+      "strongs": [
+        "G3778"
+      ],
+      "metadata": {
+        "src": "3"
+      },
+      "source": {
+        "lemma": "strong:G3778 lemma.TR:τουτω",
+        "morph": "robinson:D-DSM",
+        "attrs": {
+          "src": "3",
+          "lemma": "strong:G3778 lemma.TR:τουτω",
+          "morph": "robinson:D-DSM"
+        }
+      }
+    },
+    {
+      "position": 5,
+      "text": "saying",
+      "lemma": "strong:G3588 strong:G3056 lemma.TR:ο lemma.TR:λογος",
+      "morph": "robinson:T-NSM robinson:N-NSM",
+      "strongs": [
+        "G3588",
+        "G3056"
+      ],
+      "metadata": {
+        "src": "4 5"
+      },
+      "source": {
+        "lemma": "strong:G3588 strong:G3056 lemma.TR:ο lemma.TR:λογος",
+        "morph": "robinson:T-NSM robinson:N-NSM",
+        "attrs": {
+          "src": "4 5",
+          "lemma": "strong:G3588 strong:G3056 lemma.TR:ο lemma.TR:λογος",
+          "morph": "robinson:T-NSM robinson:N-NSM"
+        }
+      }
+    },
+    {
+      "position": 6,
+      "text": "true,",
+      "lemma": "strong:G3588 strong:G228 lemma.TR:ο lemma.TR:αληθινος",
+      "morph": "robinson:T-NSM robinson:A-NSM",
+      "strongs": [
+        "G3588",
+        "G228"
+      ],
+      "metadata": {
+        "src": "7 8"
+      },
+      "source": {
+        "lemma": "strong:G3588 strong:G228 lemma.TR:ο lemma.TR:αληθινος",
+        "morph": "robinson:T-NSM robinson:A-NSM",
+        "attrs": {
+          "src": "7 8",
+          "lemma": "strong:G3588 strong:G228 lemma.TR:ο lemma.TR:αληθινος",
+          "morph": "robinson:T-NSM robinson:A-NSM"
+        }
+      }
+    },
+    {
+      "position": 7,
+      "text": "One",
+      "lemma": "strong:G243 lemma.TR:αλλος",
+      "morph": "robinson:A-NSM",
+      "strongs": [
+        "G243"
+      ],
+      "metadata": {
+        "src": "10"
+      },
+      "source": {
+        "lemma": "strong:G243 lemma.TR:αλλος",
+        "morph": "robinson:A-NSM",
+        "attrs": {
+          "src": "10",
+          "lemma": "strong:G243 lemma.TR:αλλος",
+          "morph": "robinson:A-NSM"
+        }
+      }
+    },
+    {
+      "position": 8,
+      "text": "soweth,",
+      "lemma": "strong:G1510 strong:G3588 strong:G4687 lemma.TR:εστιν lemma.TR:ο lemma.TR:σπειρων",
+      "morph": "robinson:V-PAI-3S robinson:T-NSM robinson:V-PAP-NSM",
+      "strongs": [
+        "G1510",
+        "G3588",
+        "G4687"
+      ],
+      "metadata": {
+        "src": "11 12 13"
+      },
+      "source": {
+        "lemma": "strong:G1510 strong:G3588 strong:G4687 lemma.TR:εστιν lemma.TR:ο lemma.TR:σπειρων",
+        "morph": "robinson:V-PAI-3S robinson:T-NSM robinson:V-PAP-NSM",
+        "attrs": {
+          "src": "11 12 13",
+          "lemma": "strong:G1510 strong:G3588 strong:G4687 lemma.TR:εστιν lemma.TR:ο lemma.TR:σπειρων",
+          "morph": "robinson:V-PAI-3S robinson:T-NSM robinson:V-PAP-NSM"
+        }
+      }
+    },
+    {
+      "position": 9,
+      "text": "and",
+      "lemma": "strong:G2532 lemma.TR:και",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G2532"
+      ],
+      "metadata": {
+        "src": "14"
+      },
+      "source": {
+        "lemma": "strong:G2532 lemma.TR:και",
+        "morph": "robinson:CONJ",
+        "attrs": {
+          "src": "14",
+          "lemma": "strong:G2532 lemma.TR:και",
+          "morph": "robinson:CONJ"
+        }
+      }
+    },
+    {
+      "position": 10,
+      "text": "another",
+      "lemma": "strong:G243 lemma.TR:αλλος",
+      "morph": "robinson:A-NSM",
+      "strongs": [
+        "G243"
+      ],
+      "metadata": {
+        "src": "15"
+      },
+      "source": {
+        "lemma": "strong:G243 lemma.TR:αλλος",
+        "morph": "robinson:A-NSM",
+        "attrs": {
+          "src": "15",
+          "lemma": "strong:G243 lemma.TR:αλλος",
+          "morph": "robinson:A-NSM"
+        }
+      }
+    },
+    {
+      "position": 11,
+      "text": "reapeth.",
+      "lemma": "strong:G3588 strong:G2325 lemma.TR:ο lemma.TR:θεριζων",
+      "morph": "robinson:T-NSM robinson:V-PAP-NSM",
+      "strongs": [
+        "G3588",
+        "G2325"
+      ],
+      "metadata": {
+        "src": "16 17"
+      },
+      "source": {
+        "lemma": "strong:G3588 strong:G2325 lemma.TR:ο lemma.TR:θεριζων",
+        "morph": "robinson:T-NSM robinson:V-PAP-NSM",
+        "attrs": {
+          "src": "16 17",
+          "lemma": "strong:G3588 strong:G2325 lemma.TR:ο lemma.TR:θεριζων",
+          "morph": "robinson:T-NSM robinson:V-PAP-NSM"
+        }
+      }
+    }
+  ]
+}

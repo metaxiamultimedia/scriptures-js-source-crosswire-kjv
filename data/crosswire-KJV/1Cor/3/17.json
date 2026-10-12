@@ -1,0 +1,489 @@
+{
+  "text": "If any man defile the temple of God, him shall God destroy; for the temple of God is holy, which temple ye are.",
+  "words": [
+    {
+      "position": 1,
+      "text": "If",
+      "lemma": "strong:G1487 lemma.TR:ει",
+      "morph": "robinson:COND",
+      "strongs": [
+        "G1487"
+      ],
+      "metadata": {
+        "src": "1"
+      },
+      "source": {
+        "lemma": "strong:G1487 lemma.TR:ει",
+        "morph": "robinson:COND",
+        "attrs": {
+          "src": "1",
+          "lemma": "strong:G1487 lemma.TR:ει",
+          "morph": "robinson:COND"
+        }
+      }
+    },
+    {
+      "position": 2,
+      "text": "any",
+      "lemma": "strong:G5100 lemma.TR:τις",
+      "morph": "robinson:X-NSM",
+      "strongs": [
+        "G5100"
+      ],
+      "metadata": {
+        "src": "2"
+      },
+      "source": {
+        "lemma": "strong:G5100 lemma.TR:τις",
+        "morph": "robinson:X-NSM",
+        "attrs": {
+          "src": "2",
+          "lemma": "strong:G5100 lemma.TR:τις",
+          "morph": "robinson:X-NSM"
+        }
+      }
+    },
+    {
+      "position": 3,
+      "text": "man",
+      "lemma": "strong:G5100 lemma.TR:τις",
+      "morph": "robinson:X-NSM",
+      "strongs": [
+        "G5100"
+      ],
+      "metadata": {
+        "src": "2"
+      },
+      "source": {
+        "lemma": "strong:G5100 lemma.TR:τις",
+        "morph": "robinson:X-NSM",
+        "attrs": {
+          "src": "2",
+          "lemma": "strong:G5100 lemma.TR:τις",
+          "morph": "robinson:X-NSM"
+        }
+      }
+    },
+    {
+      "position": 4,
+      "text": "defile",
+      "lemma": "strong:G5351 lemma.TR:φθειρει",
+      "morph": "robinson:V-PAI-3S",
+      "strongs": [
+        "G5351"
+      ],
+      "metadata": {
+        "src": "7"
+      },
+      "source": {
+        "lemma": "strong:G5351 lemma.TR:φθειρει",
+        "morph": "robinson:V-PAI-3S",
+        "attrs": {
+          "src": "7",
+          "lemma": "strong:G5351 lemma.TR:φθειρει",
+          "morph": "robinson:V-PAI-3S"
+        }
+      }
+    },
+    {
+      "position": 5,
+      "text": "the",
+      "lemma": "strong:G3588 strong:G3485 lemma.TR:τον lemma.TR:ναον",
+      "morph": "robinson:T-ASM robinson:N-ASM",
+      "strongs": [
+        "G3588",
+        "G3485"
+      ],
+      "metadata": {
+        "src": "3 4"
+      },
+      "source": {
+        "lemma": "strong:G3588 strong:G3485 lemma.TR:τον lemma.TR:ναον",
+        "morph": "robinson:T-ASM robinson:N-ASM",
+        "attrs": {
+          "src": "3 4",
+          "lemma": "strong:G3588 strong:G3485 lemma.TR:τον lemma.TR:ναον",
+          "morph": "robinson:T-ASM robinson:N-ASM"
+        }
+      }
+    },
+    {
+      "position": 6,
+      "text": "temple",
+      "lemma": "strong:G3588 strong:G3485 lemma.TR:τον lemma.TR:ναον",
+      "morph": "robinson:T-ASM robinson:N-ASM",
+      "strongs": [
+        "G3588",
+        "G3485"
+      ],
+      "metadata": {
+        "src": "3 4"
+      },
+      "source": {
+        "lemma": "strong:G3588 strong:G3485 lemma.TR:τον lemma.TR:ναον",
+        "morph": "robinson:T-ASM robinson:N-ASM",
+        "attrs": {
+          "src": "3 4",
+          "lemma": "strong:G3588 strong:G3485 lemma.TR:τον lemma.TR:ναον",
+          "morph": "robinson:T-ASM robinson:N-ASM"
+        }
+      }
+    },
+    {
+      "position": 7,
+      "text": "of",
+      "lemma": "strong:G3588 strong:G2316 lemma.TR:του lemma.TR:θεου",
+      "morph": "robinson:T-GSM robinson:N-GSM",
+      "strongs": [
+        "G3588",
+        "G2316"
+      ],
+      "metadata": {
+        "src": "5 6"
+      },
+      "source": {
+        "lemma": "strong:G3588 strong:G2316 lemma.TR:του lemma.TR:θεου",
+        "morph": "robinson:T-GSM robinson:N-GSM",
+        "attrs": {
+          "src": "5 6",
+          "lemma": "strong:G3588 strong:G2316 lemma.TR:του lemma.TR:θεου",
+          "morph": "robinson:T-GSM robinson:N-GSM"
+        }
+      }
+    },
+    {
+      "position": 8,
+      "text": "God,",
+      "lemma": "strong:G3588 strong:G2316 lemma.TR:του lemma.TR:θεου",
+      "morph": "robinson:T-GSM robinson:N-GSM",
+      "strongs": [
+        "G3588",
+        "G2316"
+      ],
+      "metadata": {
+        "src": "5 6"
+      },
+      "source": {
+        "lemma": "strong:G3588 strong:G2316 lemma.TR:του lemma.TR:θεου",
+        "morph": "robinson:T-GSM robinson:N-GSM",
+        "attrs": {
+          "src": "5 6",
+          "lemma": "strong:G3588 strong:G2316 lemma.TR:του lemma.TR:θεου",
+          "morph": "robinson:T-GSM robinson:N-GSM"
+        }
+      }
+    },
+    {
+      "position": 9,
+      "text": "him",
+      "lemma": "strong:G3778 lemma.TR:τουτον",
+      "morph": "robinson:D-ASM",
+      "strongs": [
+        "G3778"
+      ],
+      "metadata": {
+        "src": "9"
+      },
+      "source": {
+        "lemma": "strong:G3778 lemma.TR:τουτον",
+        "morph": "robinson:D-ASM",
+        "attrs": {
+          "src": "9",
+          "lemma": "strong:G3778 lemma.TR:τουτον",
+          "morph": "robinson:D-ASM"
+        }
+      }
+    },
+    {
+      "position": 10,
+      "text": "shall",
+      "lemma": "strong:G5351 lemma.TR:φθερει",
+      "morph": "robinson:V-FAI-3S",
+      "strongs": [
+        "G5351"
+      ],
+      "metadata": {
+        "src": "8",
+        "type": "x-split-2721"
+      },
+      "source": {
+        "lemma": "strong:G5351 lemma.TR:φθερει",
+        "morph": "robinson:V-FAI-3S",
+        "attrs": {
+          "src": "8",
+          "lemma": "strong:G5351 lemma.TR:φθερει",
+          "morph": "robinson:V-FAI-3S",
+          "type": "x-split-2721"
+        }
+      }
+    },
+    {
+      "position": 11,
+      "text": "God",
+      "lemma": "strong:G3588 strong:G2316 lemma.TR:ο lemma.TR:θεος",
+      "morph": "robinson:T-NSM robinson:N-NSM",
+      "strongs": [
+        "G3588",
+        "G2316"
+      ],
+      "metadata": {
+        "src": "10 11"
+      },
+      "source": {
+        "lemma": "strong:G3588 strong:G2316 lemma.TR:ο lemma.TR:θεος",
+        "morph": "robinson:T-NSM robinson:N-NSM",
+        "attrs": {
+          "src": "10 11",
+          "lemma": "strong:G3588 strong:G2316 lemma.TR:ο lemma.TR:θεος",
+          "morph": "robinson:T-NSM robinson:N-NSM"
+        }
+      }
+    },
+    {
+      "position": 12,
+      "text": "destroy;",
+      "lemma": "strong:G5351 lemma.TR:φθερει",
+      "morph": "robinson:V-FAI-3S",
+      "strongs": [
+        "G5351"
+      ],
+      "metadata": {
+        "src": "8",
+        "type": "x-split-2721"
+      },
+      "source": {
+        "lemma": "strong:G5351 lemma.TR:φθερει",
+        "morph": "robinson:V-FAI-3S",
+        "attrs": {
+          "src": "8",
+          "lemma": "strong:G5351 lemma.TR:φθερει",
+          "morph": "robinson:V-FAI-3S",
+          "type": "x-split-2721"
+        }
+      }
+    },
+    {
+      "position": 13,
+      "text": "for",
+      "lemma": "strong:G1063 lemma.TR:γαρ",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G1063"
+      ],
+      "metadata": {
+        "src": "13"
+      },
+      "source": {
+        "lemma": "strong:G1063 lemma.TR:γαρ",
+        "morph": "robinson:CONJ",
+        "attrs": {
+          "src": "13",
+          "lemma": "strong:G1063 lemma.TR:γαρ",
+          "morph": "robinson:CONJ"
+        }
+      }
+    },
+    {
+      "position": 14,
+      "text": "the",
+      "lemma": "strong:G3485 lemma.TR:ναος",
+      "morph": "robinson:N-NSM",
+      "strongs": [
+        "G3485"
+      ],
+      "metadata": {
+        "src": "14"
+      },
+      "source": {
+        "lemma": "strong:G3485 lemma.TR:ναος",
+        "morph": "robinson:N-NSM",
+        "attrs": {
+          "src": "14",
+          "lemma": "strong:G3485 lemma.TR:ναος",
+          "morph": "robinson:N-NSM"
+        }
+      }
+    },
+    {
+      "position": 15,
+      "text": "temple",
+      "lemma": "strong:G3485 lemma.TR:ναος",
+      "morph": "robinson:N-NSM",
+      "strongs": [
+        "G3485"
+      ],
+      "metadata": {
+        "src": "14"
+      },
+      "source": {
+        "lemma": "strong:G3485 lemma.TR:ναος",
+        "morph": "robinson:N-NSM",
+        "attrs": {
+          "src": "14",
+          "lemma": "strong:G3485 lemma.TR:ναος",
+          "morph": "robinson:N-NSM"
+        }
+      }
+    },
+    {
+      "position": 16,
+      "text": "of",
+      "lemma": "strong:G3588 strong:G2316 lemma.TR:του lemma.TR:θεου",
+      "morph": "robinson:T-GSM robinson:N-GSM",
+      "strongs": [
+        "G3588",
+        "G2316"
+      ],
+      "metadata": {
+        "src": "15 16"
+      },
+      "source": {
+        "lemma": "strong:G3588 strong:G2316 lemma.TR:του lemma.TR:θεου",
+        "morph": "robinson:T-GSM robinson:N-GSM",
+        "attrs": {
+          "src": "15 16",
+          "lemma": "strong:G3588 strong:G2316 lemma.TR:του lemma.TR:θεου",
+          "morph": "robinson:T-GSM robinson:N-GSM"
+        }
+      }
+    },
+    {
+      "position": 17,
+      "text": "God",
+      "lemma": "strong:G3588 strong:G2316 lemma.TR:του lemma.TR:θεου",
+      "morph": "robinson:T-GSM robinson:N-GSM",
+      "strongs": [
+        "G3588",
+        "G2316"
+      ],
+      "metadata": {
+        "src": "15 16"
+      },
+      "source": {
+        "lemma": "strong:G3588 strong:G2316 lemma.TR:του lemma.TR:θεου",
+        "morph": "robinson:T-GSM robinson:N-GSM",
+        "attrs": {
+          "src": "15 16",
+          "lemma": "strong:G3588 strong:G2316 lemma.TR:του lemma.TR:θεου",
+          "morph": "robinson:T-GSM robinson:N-GSM"
+        }
+      }
+    },
+    {
+      "position": 18,
+      "text": "is",
+      "lemma": "strong:G1510 lemma.TR:εστιν",
+      "morph": "robinson:V-PAI-3S",
+      "strongs": [
+        "G1510"
+      ],
+      "metadata": {
+        "src": "18"
+      },
+      "source": {
+        "lemma": "strong:G1510 lemma.TR:εστιν",
+        "morph": "robinson:V-PAI-3S",
+        "attrs": {
+          "src": "18",
+          "lemma": "strong:G1510 lemma.TR:εστιν",
+          "morph": "robinson:V-PAI-3S"
+        }
+      }
+    },
+    {
+      "position": 19,
+      "text": "holy,",
+      "lemma": "strong:G40 lemma.TR:αγιος",
+      "morph": "robinson:A-NSM",
+      "metadata": {
+        "src": "17"
+      },
+      "source": {
+        "lemma": "strong:G40 lemma.TR:αγιος",
+        "morph": "robinson:A-NSM",
+        "attrs": {
+          "src": "17",
+          "lemma": "strong:G40 lemma.TR:αγιος",
+          "morph": "robinson:A-NSM"
+        }
+      }
+    },
+    {
+      "position": 20,
+      "text": "which",
+      "lemma": "strong:G3748 lemma.TR:οιτινες",
+      "morph": "robinson:R-NPM",
+      "strongs": [
+        "G3748"
+      ],
+      "metadata": {
+        "src": "19"
+      },
+      "source": {
+        "lemma": "strong:G3748 lemma.TR:οιτινες",
+        "morph": "robinson:R-NPM",
+        "attrs": {
+          "src": "19",
+          "lemma": "strong:G3748 lemma.TR:οιτινες",
+          "morph": "robinson:R-NPM"
+        }
+      }
+    },
+    {
+      "position": 21,
+      "text": "temple",
+      "lemma": null,
+      "morph": null,
+      "metadata": {
+        "type": "added"
+      },
+      "source": {
+        "attrs": {
+          "type": "added"
+        }
+      }
+    },
+    {
+      "position": 22,
+      "text": "ye",
+      "lemma": "strong:G4771 lemma.TR:υμεις",
+      "morph": "robinson:P-2NP",
+      "strongs": [
+        "G4771"
+      ],
+      "metadata": {
+        "src": "21"
+      },
+      "source": {
+        "lemma": "strong:G4771 lemma.TR:υμεις",
+        "morph": "robinson:P-2NP",
+        "attrs": {
+          "src": "21",
+          "lemma": "strong:G4771 lemma.TR:υμεις",
+          "morph": "robinson:P-2NP"
+        }
+      }
+    },
+    {
+      "position": 23,
+      "text": "are.",
+      "lemma": "strong:G1510 lemma.TR:εστε",
+      "morph": "robinson:V-PAI-2P",
+      "strongs": [
+        "G1510"
+      ],
+      "metadata": {
+        "src": "20"
+      },
+      "source": {
+        "lemma": "strong:G1510 lemma.TR:εστε",
+        "morph": "robinson:V-PAI-2P",
+        "attrs": {
+          "src": "20",
+          "lemma": "strong:G1510 lemma.TR:εστε",
+          "morph": "robinson:V-PAI-2P"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,153 @@
+{
+  "text": "For Adam was first formed, then Eve.",
+  "words": [
+    {
+      "position": 1,
+      "text": "For",
+      "lemma": "strong:G1063 lemma.TR:γαρ",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G1063"
+      ],
+      "metadata": {
+        "src": "2"
+      },
+      "source": {
+        "lemma": "strong:G1063 lemma.TR:γαρ",
+        "morph": "robinson:CONJ",
+        "attrs": {
+          "src": "2",
+          "lemma": "strong:G1063 lemma.TR:γαρ",
+          "morph": "robinson:CONJ"
+        }
+      }
+    },
+    {
+      "position": 2,
+      "text": "Adam",
+      "lemma": "strong:G76 lemma.TR:αδαμ",
+      "morph": "robinson:N-PRI",
+      "metadata": {
+        "src": "1"
+      },
+      "source": {
+        "lemma": "strong:G76 lemma.TR:αδαμ",
+        "morph": "robinson:N-PRI",
+        "attrs": {
+          "src": "1",
+          "lemma": "strong:G76 lemma.TR:αδαμ",
+          "morph": "robinson:N-PRI"
+        }
+      }
+    },
+    {
+      "position": 3,
+      "text": "was",
+      "lemma": "strong:G4111 lemma.TR:επλασθη",
+      "morph": "robinson:V-API-3S",
+      "strongs": [
+        "G4111"
+      ],
+      "metadata": {
+        "src": "4",
+        "type": "x-split-3211"
+      },
+      "source": {
+        "lemma": "strong:G4111 lemma.TR:επλασθη",
+        "morph": "robinson:V-API-3S",
+        "attrs": {
+          "src": "4",
+          "lemma": "strong:G4111 lemma.TR:επλασθη",
+          "morph": "robinson:V-API-3S",
+          "type": "x-split-3211"
+        }
+      }
+    },
+    {
+      "position": 4,
+      "text": "first",
+      "lemma": "strong:G4413 lemma.TR:πρωτος",
+      "morph": "robinson:A-NSM-S",
+      "strongs": [
+        "G4413"
+      ],
+      "metadata": {
+        "src": "3"
+      },
+      "source": {
+        "lemma": "strong:G4413 lemma.TR:πρωτος",
+        "morph": "robinson:A-NSM-S",
+        "attrs": {
+          "src": "3",
+          "lemma": "strong:G4413 lemma.TR:πρωτος",
+          "morph": "robinson:A-NSM-S"
+        }
+      }
+    },
+    {
+      "position": 5,
+      "text": "formed,",
+      "lemma": "strong:G4111 lemma.TR:επλασθη",
+      "morph": "robinson:V-API-3S",
+      "strongs": [
+        "G4111"
+      ],
+      "metadata": {
+        "src": "4",
+        "type": "x-split-3211"
+      },
+      "source": {
+        "lemma": "strong:G4111 lemma.TR:επλασθη",
+        "morph": "robinson:V-API-3S",
+        "attrs": {
+          "src": "4",
+          "lemma": "strong:G4111 lemma.TR:επλασθη",
+          "morph": "robinson:V-API-3S",
+          "type": "x-split-3211"
+        }
+      }
+    },
+    {
+      "position": 6,
+      "text": "then",
+      "lemma": "strong:G1534 lemma.TR:ειτα",
+      "morph": "robinson:ADV",
+      "strongs": [
+        "G1534"
+      ],
+      "metadata": {
+        "src": "5"
+      },
+      "source": {
+        "lemma": "strong:G1534 lemma.TR:ειτα",
+        "morph": "robinson:ADV",
+        "attrs": {
+          "src": "5",
+          "lemma": "strong:G1534 lemma.TR:ειτα",
+          "morph": "robinson:ADV"
+        }
+      }
+    },
+    {
+      "position": 7,
+      "text": "Eve.",
+      "lemma": "strong:G2096 lemma.TR:ευα",
+      "morph": "robinson:N-NSF",
+      "strongs": [
+        "G2096"
+      ],
+      "metadata": {
+        "src": "6"
+      },
+      "source": {
+        "lemma": "strong:G2096 lemma.TR:ευα",
+        "morph": "robinson:N-NSF",
+        "attrs": {
+          "src": "6",
+          "lemma": "strong:G2096 lemma.TR:ευα",
+          "morph": "robinson:N-NSF"
+        }
+      }
+    }
+  ]
+}

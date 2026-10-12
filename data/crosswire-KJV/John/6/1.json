@@ -1,0 +1,290 @@
+{
+  "text": "After these things Jesus went over the sea of Galilee, which is the sea of Tiberias.",
+  "words": [
+    {
+      "position": 1,
+      "text": "After",
+      "lemma": "strong:G3326 lemma.TR:μετα",
+      "morph": "robinson:PREP",
+      "strongs": [
+        "G3326"
+      ],
+      "metadata": {
+        "src": "1"
+      },
+      "source": {
+        "lemma": "strong:G3326 lemma.TR:μετα",
+        "morph": "robinson:PREP",
+        "attrs": {
+          "src": "1",
+          "lemma": "strong:G3326 lemma.TR:μετα",
+          "morph": "robinson:PREP"
+        }
+      }
+    },
+    {
+      "position": 2,
+      "text": "these",
+      "lemma": "strong:G3778 lemma.TR:ταυτα",
+      "morph": "robinson:D-APN",
+      "strongs": [
+        "G3778"
+      ],
+      "metadata": {
+        "src": "2"
+      },
+      "source": {
+        "lemma": "strong:G3778 lemma.TR:ταυτα",
+        "morph": "robinson:D-APN",
+        "attrs": {
+          "src": "2",
+          "lemma": "strong:G3778 lemma.TR:ταυτα",
+          "morph": "robinson:D-APN"
+        }
+      }
+    },
+    {
+      "position": 3,
+      "text": "things",
+      "lemma": "strong:G3778 lemma.TR:ταυτα",
+      "morph": "robinson:D-APN",
+      "strongs": [
+        "G3778"
+      ],
+      "metadata": {
+        "src": "2"
+      },
+      "source": {
+        "lemma": "strong:G3778 lemma.TR:ταυτα",
+        "morph": "robinson:D-APN",
+        "attrs": {
+          "src": "2",
+          "lemma": "strong:G3778 lemma.TR:ταυτα",
+          "morph": "robinson:D-APN"
+        }
+      }
+    },
+    {
+      "position": 4,
+      "text": "Jesus",
+      "lemma": "strong:G3588 strong:G2424 lemma.TR:ο lemma.TR:ιησους",
+      "morph": "robinson:T-NSM robinson:N-NSM",
+      "strongs": [
+        "G3588",
+        "G2424"
+      ],
+      "metadata": {
+        "src": "4 5"
+      },
+      "source": {
+        "lemma": "strong:G3588 strong:G2424 lemma.TR:ο lemma.TR:ιησους",
+        "morph": "robinson:T-NSM robinson:N-NSM",
+        "attrs": {
+          "src": "4 5",
+          "lemma": "strong:G3588 strong:G2424 lemma.TR:ο lemma.TR:ιησους",
+          "morph": "robinson:T-NSM robinson:N-NSM"
+        }
+      }
+    },
+    {
+      "position": 5,
+      "text": "went",
+      "lemma": "strong:G565 lemma.TR:απηλθεν",
+      "morph": "robinson:V-2AAI-3S",
+      "strongs": [
+        "G565"
+      ],
+      "metadata": {
+        "src": "3"
+      },
+      "source": {
+        "lemma": "strong:G565 lemma.TR:απηλθεν",
+        "morph": "robinson:V-2AAI-3S",
+        "attrs": {
+          "src": "3",
+          "lemma": "strong:G565 lemma.TR:απηλθεν",
+          "morph": "robinson:V-2AAI-3S"
+        }
+      }
+    },
+    {
+      "position": 6,
+      "text": "over",
+      "lemma": "strong:G4008 lemma.TR:περαν",
+      "morph": "robinson:ADV",
+      "strongs": [
+        "G4008"
+      ],
+      "metadata": {
+        "src": "6"
+      },
+      "source": {
+        "lemma": "strong:G4008 lemma.TR:περαν",
+        "morph": "robinson:ADV",
+        "attrs": {
+          "src": "6",
+          "lemma": "strong:G4008 lemma.TR:περαν",
+          "morph": "robinson:ADV"
+        }
+      }
+    },
+    {
+      "position": 7,
+      "text": "the",
+      "lemma": "strong:G3588 strong:G2281 lemma.TR:της lemma.TR:θαλασσης",
+      "morph": "robinson:T-GSF robinson:N-GSF",
+      "strongs": [
+        "G3588",
+        "G2281"
+      ],
+      "metadata": {
+        "src": "7 8"
+      },
+      "source": {
+        "lemma": "strong:G3588 strong:G2281 lemma.TR:της lemma.TR:θαλασσης",
+        "morph": "robinson:T-GSF robinson:N-GSF",
+        "attrs": {
+          "src": "7 8",
+          "lemma": "strong:G3588 strong:G2281 lemma.TR:της lemma.TR:θαλασσης",
+          "morph": "robinson:T-GSF robinson:N-GSF"
+        }
+      }
+    },
+    {
+      "position": 8,
+      "text": "sea",
+      "lemma": "strong:G3588 strong:G2281 lemma.TR:της lemma.TR:θαλασσης",
+      "morph": "robinson:T-GSF robinson:N-GSF",
+      "strongs": [
+        "G3588",
+        "G2281"
+      ],
+      "metadata": {
+        "src": "7 8"
+      },
+      "source": {
+        "lemma": "strong:G3588 strong:G2281 lemma.TR:της lemma.TR:θαλασσης",
+        "morph": "robinson:T-GSF robinson:N-GSF",
+        "attrs": {
+          "src": "7 8",
+          "lemma": "strong:G3588 strong:G2281 lemma.TR:της lemma.TR:θαλασσης",
+          "morph": "robinson:T-GSF robinson:N-GSF"
+        }
+      }
+    },
+    {
+      "position": 9,
+      "text": "of",
+      "lemma": "strong:G3588 strong:G1056 lemma.TR:της lemma.TR:γαλιλαιας",
+      "morph": "robinson:T-GSF robinson:N-GSF",
+      "strongs": [
+        "G3588",
+        "G1056"
+      ],
+      "metadata": {
+        "src": "9 10"
+      },
+      "source": {
+        "lemma": "strong:G3588 strong:G1056 lemma.TR:της lemma.TR:γαλιλαιας",
+        "morph": "robinson:T-GSF robinson:N-GSF",
+        "attrs": {
+          "src": "9 10",
+          "lemma": "strong:G3588 strong:G1056 lemma.TR:της lemma.TR:γαλιλαιας",
+          "morph": "robinson:T-GSF robinson:N-GSF"
+        }
+      }
+    },
+    {
+      "position": 10,
+      "text": "Galilee,",
+      "lemma": "strong:G3588 strong:G1056 lemma.TR:της lemma.TR:γαλιλαιας",
+      "morph": "robinson:T-GSF robinson:N-GSF",
+      "strongs": [
+        "G3588",
+        "G1056"
+      ],
+      "metadata": {
+        "src": "9 10"
+      },
+      "source": {
+        "lemma": "strong:G3588 strong:G1056 lemma.TR:της lemma.TR:γαλιλαιας",
+        "morph": "robinson:T-GSF robinson:N-GSF",
+        "attrs": {
+          "src": "9 10",
+          "lemma": "strong:G3588 strong:G1056 lemma.TR:της lemma.TR:γαλιλαιας",
+          "morph": "robinson:T-GSF robinson:N-GSF"
+        }
+      }
+    },
+    {
+      "position": 11,
+      "text": "which",
+      "lemma": null,
+      "morph": null
+    },
+    {
+      "position": 12,
+      "text": "is",
+      "lemma": null,
+      "morph": null
+    },
+    {
+      "position": 13,
+      "text": "the sea",
+      "lemma": null,
+      "morph": null,
+      "metadata": {
+        "type": "added"
+      },
+      "source": {
+        "attrs": {
+          "type": "added"
+        }
+      }
+    },
+    {
+      "position": 14,
+      "text": "of",
+      "lemma": "strong:G3588 strong:G5085 lemma.TR:της lemma.TR:τιβεριαδος",
+      "morph": "robinson:T-GSF robinson:N-GSF",
+      "strongs": [
+        "G3588",
+        "G5085"
+      ],
+      "metadata": {
+        "src": "11 12"
+      },
+      "source": {
+        "lemma": "strong:G3588 strong:G5085 lemma.TR:της lemma.TR:τιβεριαδος",
+        "morph": "robinson:T-GSF robinson:N-GSF",
+        "attrs": {
+          "src": "11 12",
+          "lemma": "strong:G3588 strong:G5085 lemma.TR:της lemma.TR:τιβεριαδος",
+          "morph": "robinson:T-GSF robinson:N-GSF"
+        }
+      }
+    },
+    {
+      "position": 15,
+      "text": "Tiberias.",
+      "lemma": "strong:G3588 strong:G5085 lemma.TR:της lemma.TR:τιβεριαδος",
+      "morph": "robinson:T-GSF robinson:N-GSF",
+      "strongs": [
+        "G3588",
+        "G5085"
+      ],
+      "metadata": {
+        "src": "11 12"
+      },
+      "source": {
+        "lemma": "strong:G3588 strong:G5085 lemma.TR:της lemma.TR:τιβεριαδος",
+        "morph": "robinson:T-GSF robinson:N-GSF",
+        "attrs": {
+          "src": "11 12",
+          "lemma": "strong:G3588 strong:G5085 lemma.TR:της lemma.TR:τιβεριαδος",
+          "morph": "robinson:T-GSF robinson:N-GSF"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,408 @@
+{
+  "text": "And in the sixth month the angel Gabriel was sent from God unto a city of Galilee, named Nazareth,",
+  "words": [
+    {
+      "position": 1,
+      "text": "And",
+      "lemma": "strong:G1161 lemma.TR:δε",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G1161"
+      ],
+      "metadata": {
+        "src": "2"
+      },
+      "source": {
+        "lemma": "strong:G1161 lemma.TR:δε",
+        "morph": "robinson:CONJ",
+        "attrs": {
+          "src": "2",
+          "lemma": "strong:G1161 lemma.TR:δε",
+          "morph": "robinson:CONJ"
+        }
+      }
+    },
+    {
+      "position": 2,
+      "text": "in",
+      "lemma": "strong:G1722 lemma.TR:εν",
+      "morph": "robinson:PREP",
+      "strongs": [
+        "G1722"
+      ],
+      "metadata": {
+        "src": "1"
+      },
+      "source": {
+        "lemma": "strong:G1722 lemma.TR:εν",
+        "morph": "robinson:PREP",
+        "attrs": {
+          "src": "1",
+          "lemma": "strong:G1722 lemma.TR:εν",
+          "morph": "robinson:PREP"
+        }
+      }
+    },
+    {
+      "position": 3,
+      "text": "the",
+      "lemma": "strong:G1623 lemma.TR:εκτω",
+      "morph": "robinson:A-DSM",
+      "strongs": [
+        "G1623"
+      ],
+      "metadata": {
+        "src": "6"
+      },
+      "source": {
+        "lemma": "strong:G1623 lemma.TR:εκτω",
+        "morph": "robinson:A-DSM",
+        "attrs": {
+          "src": "6",
+          "lemma": "strong:G1623 lemma.TR:εκτω",
+          "morph": "robinson:A-DSM"
+        }
+      }
+    },
+    {
+      "position": 4,
+      "text": "sixth",
+      "lemma": "strong:G1623 lemma.TR:εκτω",
+      "morph": "robinson:A-DSM",
+      "strongs": [
+        "G1623"
+      ],
+      "metadata": {
+        "src": "6"
+      },
+      "source": {
+        "lemma": "strong:G1623 lemma.TR:εκτω",
+        "morph": "robinson:A-DSM",
+        "attrs": {
+          "src": "6",
+          "lemma": "strong:G1623 lemma.TR:εκτω",
+          "morph": "robinson:A-DSM"
+        }
+      }
+    },
+    {
+      "position": 5,
+      "text": "month",
+      "lemma": "strong:G3588 strong:G3376 lemma.TR:τω lemma.TR:μηνι",
+      "morph": "robinson:T-DSM robinson:N-DSM",
+      "strongs": [
+        "G3588",
+        "G3376"
+      ],
+      "metadata": {
+        "src": "3 4"
+      },
+      "source": {
+        "lemma": "strong:G3588 strong:G3376 lemma.TR:τω lemma.TR:μηνι",
+        "morph": "robinson:T-DSM robinson:N-DSM",
+        "attrs": {
+          "src": "3 4",
+          "lemma": "strong:G3588 strong:G3376 lemma.TR:τω lemma.TR:μηνι",
+          "morph": "robinson:T-DSM robinson:N-DSM"
+        }
+      }
+    },
+    {
+      "position": 6,
+      "text": "the",
+      "lemma": "strong:G3588 strong:G32 lemma.TR:ο lemma.TR:αγγελος",
+      "morph": "robinson:T-NSM robinson:N-NSM",
+      "strongs": [
+        "G3588"
+      ],
+      "metadata": {
+        "src": "8 9"
+      },
+      "source": {
+        "lemma": "strong:G3588 strong:G32 lemma.TR:ο lemma.TR:αγγελος",
+        "morph": "robinson:T-NSM robinson:N-NSM",
+        "attrs": {
+          "src": "8 9",
+          "lemma": "strong:G3588 strong:G32 lemma.TR:ο lemma.TR:αγγελος",
+          "morph": "robinson:T-NSM robinson:N-NSM"
+        }
+      }
+    },
+    {
+      "position": 7,
+      "text": "angel",
+      "lemma": "strong:G3588 strong:G32 lemma.TR:ο lemma.TR:αγγελος",
+      "morph": "robinson:T-NSM robinson:N-NSM",
+      "strongs": [
+        "G3588"
+      ],
+      "metadata": {
+        "src": "8 9"
+      },
+      "source": {
+        "lemma": "strong:G3588 strong:G32 lemma.TR:ο lemma.TR:αγγελος",
+        "morph": "robinson:T-NSM robinson:N-NSM",
+        "attrs": {
+          "src": "8 9",
+          "lemma": "strong:G3588 strong:G32 lemma.TR:ο lemma.TR:αγγελος",
+          "morph": "robinson:T-NSM robinson:N-NSM"
+        }
+      }
+    },
+    {
+      "position": 8,
+      "text": "Gabriel",
+      "lemma": "strong:G1043 lemma.TR:γαβριηλ",
+      "morph": "robinson:N-PRI",
+      "strongs": [
+        "G1043"
+      ],
+      "metadata": {
+        "src": "10"
+      },
+      "source": {
+        "lemma": "strong:G1043 lemma.TR:γαβριηλ",
+        "morph": "robinson:N-PRI",
+        "attrs": {
+          "src": "10",
+          "lemma": "strong:G1043 lemma.TR:γαβριηλ",
+          "morph": "robinson:N-PRI"
+        }
+      }
+    },
+    {
+      "position": 9,
+      "text": "was",
+      "lemma": "strong:G649 lemma.TR:απεσταλη",
+      "morph": "robinson:V-2API-3S",
+      "strongs": [
+        "G649"
+      ],
+      "metadata": {
+        "src": "7"
+      },
+      "source": {
+        "lemma": "strong:G649 lemma.TR:απεσταλη",
+        "morph": "robinson:V-2API-3S",
+        "attrs": {
+          "src": "7",
+          "lemma": "strong:G649 lemma.TR:απεσταλη",
+          "morph": "robinson:V-2API-3S"
+        }
+      }
+    },
+    {
+      "position": 10,
+      "text": "sent",
+      "lemma": "strong:G649 lemma.TR:απεσταλη",
+      "morph": "robinson:V-2API-3S",
+      "strongs": [
+        "G649"
+      ],
+      "metadata": {
+        "src": "7"
+      },
+      "source": {
+        "lemma": "strong:G649 lemma.TR:απεσταλη",
+        "morph": "robinson:V-2API-3S",
+        "attrs": {
+          "src": "7",
+          "lemma": "strong:G649 lemma.TR:απεσταλη",
+          "morph": "robinson:V-2API-3S"
+        }
+      }
+    },
+    {
+      "position": 11,
+      "text": "from",
+      "lemma": "strong:G5259 lemma.TR:υπο",
+      "morph": "robinson:PREP",
+      "strongs": [
+        "G5259"
+      ],
+      "metadata": {
+        "src": "11"
+      },
+      "source": {
+        "lemma": "strong:G5259 lemma.TR:υπο",
+        "morph": "robinson:PREP",
+        "attrs": {
+          "src": "11",
+          "lemma": "strong:G5259 lemma.TR:υπο",
+          "morph": "robinson:PREP"
+        }
+      }
+    },
+    {
+      "position": 12,
+      "text": "God",
+      "lemma": "strong:G3588 strong:G2316 lemma.TR:του lemma.TR:θεου",
+      "morph": "robinson:T-GSM robinson:N-GSM",
+      "strongs": [
+        "G3588",
+        "G2316"
+      ],
+      "metadata": {
+        "src": "12 13"
+      },
+      "source": {
+        "lemma": "strong:G3588 strong:G2316 lemma.TR:του lemma.TR:θεου",
+        "morph": "robinson:T-GSM robinson:N-GSM",
+        "attrs": {
+          "src": "12 13",
+          "lemma": "strong:G3588 strong:G2316 lemma.TR:του lemma.TR:θεου",
+          "morph": "robinson:T-GSM robinson:N-GSM"
+        }
+      }
+    },
+    {
+      "position": 13,
+      "text": "unto",
+      "lemma": "strong:G1519 lemma.TR:εις",
+      "morph": "robinson:PREP",
+      "strongs": [
+        "G1519"
+      ],
+      "metadata": {
+        "src": "14"
+      },
+      "source": {
+        "lemma": "strong:G1519 lemma.TR:εις",
+        "morph": "robinson:PREP",
+        "attrs": {
+          "src": "14",
+          "lemma": "strong:G1519 lemma.TR:εις",
+          "morph": "robinson:PREP"
+        }
+      }
+    },
+    {
+      "position": 14,
+      "text": "a",
+      "lemma": "strong:G4172 lemma.TR:πολιν",
+      "morph": "robinson:N-ASF",
+      "strongs": [
+        "G4172"
+      ],
+      "metadata": {
+        "src": "15"
+      },
+      "source": {
+        "lemma": "strong:G4172 lemma.TR:πολιν",
+        "morph": "robinson:N-ASF",
+        "attrs": {
+          "src": "15",
+          "lemma": "strong:G4172 lemma.TR:πολιν",
+          "morph": "robinson:N-ASF"
+        }
+      }
+    },
+    {
+      "position": 15,
+      "text": "city",
+      "lemma": "strong:G4172 lemma.TR:πολιν",
+      "morph": "robinson:N-ASF",
+      "strongs": [
+        "G4172"
+      ],
+      "metadata": {
+        "src": "15"
+      },
+      "source": {
+        "lemma": "strong:G4172 lemma.TR:πολιν",
+        "morph": "robinson:N-ASF",
+        "attrs": {
+          "src": "15",
+          "lemma": "strong:G4172 lemma.TR:πολιν",
+          "morph": "robinson:N-ASF"
+        }
+      }
+    },
+    {
+      "position": 16,
+      "text": "of",
+      "lemma": "strong:G3588 strong:G1056 lemma.TR:της lemma.TR:γαλιλαιας",
+      "morph": "robinson:T-GSF robinson:N-GSF",
+      "strongs": [
+        "G3588",
+        "G1056"
+      ],
+      "metadata": {
+        "src": "16 17"
+      },
+      "source": {
+        "lemma": "strong:G3588 strong:G1056 lemma.TR:της lemma.TR:γαλιλαιας",
+        "morph": "robinson:T-GSF robinson:N-GSF",
+        "attrs": {
+          "src": "16 17",
+          "lemma": "strong:G3588 strong:G1056 lemma.TR:της lemma.TR:γαλιλαιας",
+          "morph": "robinson:T-GSF robinson:N-GSF"
+        }
+      }
+    },
+    {
+      "position": 17,
+      "text": "Galilee,",
+      "lemma": "strong:G3588 strong:G1056 lemma.TR:της lemma.TR:γαλιλαιας",
+      "morph": "robinson:T-GSF robinson:N-GSF",
+      "strongs": [
+        "G3588",
+        "G1056"
+      ],
+      "metadata": {
+        "src": "16 17"
+      },
+      "source": {
+        "lemma": "strong:G3588 strong:G1056 lemma.TR:της lemma.TR:γαλιλαιας",
+        "morph": "robinson:T-GSF robinson:N-GSF",
+        "attrs": {
+          "src": "16 17",
+          "lemma": "strong:G3588 strong:G1056 lemma.TR:της lemma.TR:γαλιλαιας",
+          "morph": "robinson:T-GSF robinson:N-GSF"
+        }
+      }
+    },
+    {
+      "position": 18,
+      "text": "named",
+      "lemma": "strong:G3686 lemma.TR:ονομα",
+      "morph": "robinson:N-NSN",
+      "strongs": [
+        "G3686"
+      ],
+      "metadata": {
+        "src": "19"
+      },
+      "source": {
+        "lemma": "strong:G3686 lemma.TR:ονομα",
+        "morph": "robinson:N-NSN",
+        "attrs": {
+          "src": "19",
+          "lemma": "strong:G3686 lemma.TR:ονομα",
+          "morph": "robinson:N-NSN"
+        }
+      }
+    },
+    {
+      "position": 19,
+      "text": "Nazareth,",
+      "lemma": "strong:G3478 lemma.TR:ναζαρετ",
+      "morph": "robinson:N-PRI",
+      "strongs": [
+        "G3478"
+      ],
+      "metadata": {
+        "src": "20"
+      },
+      "source": {
+        "lemma": "strong:G3478 lemma.TR:ναζαρετ",
+        "morph": "robinson:N-PRI",
+        "attrs": {
+          "src": "20",
+          "lemma": "strong:G3478 lemma.TR:ναζαρετ",
+          "morph": "robinson:N-PRI"
+        }
+      }
+    }
+  ]
+}

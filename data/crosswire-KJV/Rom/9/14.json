@@ -1,0 +1,229 @@
+{
+  "text": "What shall we say then? Is there unrighteousness with God? God forbid.",
+  "words": [
+    {
+      "position": 1,
+      "text": "What",
+      "lemma": "strong:G5101 lemma.TR:τι",
+      "morph": "robinson:I-ASN",
+      "strongs": [
+        "G5101"
+      ],
+      "metadata": {
+        "src": "1"
+      },
+      "source": {
+        "lemma": "strong:G5101 lemma.TR:τι",
+        "morph": "robinson:I-ASN",
+        "attrs": {
+          "src": "1",
+          "lemma": "strong:G5101 lemma.TR:τι",
+          "morph": "robinson:I-ASN"
+        }
+      }
+    },
+    {
+      "position": 2,
+      "text": "shall",
+      "lemma": "strong:G2046 lemma.TR:ερουμεν",
+      "morph": "robinson:V-FAI-1P",
+      "strongs": [
+        "G2046"
+      ],
+      "metadata": {
+        "src": "3"
+      },
+      "source": {
+        "lemma": "strong:G2046 lemma.TR:ερουμεν",
+        "morph": "robinson:V-FAI-1P",
+        "attrs": {
+          "src": "3",
+          "lemma": "strong:G2046 lemma.TR:ερουμεν",
+          "morph": "robinson:V-FAI-1P"
+        }
+      }
+    },
+    {
+      "position": 3,
+      "text": "we",
+      "lemma": "strong:G2046 lemma.TR:ερουμεν",
+      "morph": "robinson:V-FAI-1P",
+      "strongs": [
+        "G2046"
+      ],
+      "metadata": {
+        "src": "3"
+      },
+      "source": {
+        "lemma": "strong:G2046 lemma.TR:ερουμεν",
+        "morph": "robinson:V-FAI-1P",
+        "attrs": {
+          "src": "3",
+          "lemma": "strong:G2046 lemma.TR:ερουμεν",
+          "morph": "robinson:V-FAI-1P"
+        }
+      }
+    },
+    {
+      "position": 4,
+      "text": "say",
+      "lemma": "strong:G2046 lemma.TR:ερουμεν",
+      "morph": "robinson:V-FAI-1P",
+      "strongs": [
+        "G2046"
+      ],
+      "metadata": {
+        "src": "3"
+      },
+      "source": {
+        "lemma": "strong:G2046 lemma.TR:ερουμεν",
+        "morph": "robinson:V-FAI-1P",
+        "attrs": {
+          "src": "3",
+          "lemma": "strong:G2046 lemma.TR:ερουμεν",
+          "morph": "robinson:V-FAI-1P"
+        }
+      }
+    },
+    {
+      "position": 5,
+      "text": "then?",
+      "lemma": "strong:G3767 lemma.TR:ουν",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G3767"
+      ],
+      "metadata": {
+        "src": "2"
+      },
+      "source": {
+        "lemma": "strong:G3767 lemma.TR:ουν",
+        "morph": "robinson:CONJ",
+        "attrs": {
+          "src": "2",
+          "lemma": "strong:G3767 lemma.TR:ουν",
+          "morph": "robinson:CONJ"
+        }
+      }
+    },
+    {
+      "position": 6,
+      "text": "Is there",
+      "lemma": null,
+      "morph": null,
+      "metadata": {
+        "type": "added"
+      },
+      "source": {
+        "attrs": {
+          "type": "added"
+        }
+      }
+    },
+    {
+      "position": 7,
+      "text": "unrighteousness",
+      "lemma": "strong:G93 lemma.TR:αδικια",
+      "morph": "robinson:N-NSF",
+      "metadata": {
+        "src": "5"
+      },
+      "source": {
+        "lemma": "strong:G93 lemma.TR:αδικια",
+        "morph": "robinson:N-NSF",
+        "attrs": {
+          "src": "5",
+          "lemma": "strong:G93 lemma.TR:αδικια",
+          "morph": "robinson:N-NSF"
+        }
+      }
+    },
+    {
+      "position": 8,
+      "text": "with",
+      "lemma": "strong:G3844 lemma.TR:παρα",
+      "morph": "robinson:PREP",
+      "strongs": [
+        "G3844"
+      ],
+      "metadata": {
+        "src": "6"
+      },
+      "source": {
+        "lemma": "strong:G3844 lemma.TR:παρα",
+        "morph": "robinson:PREP",
+        "attrs": {
+          "src": "6",
+          "lemma": "strong:G3844 lemma.TR:παρα",
+          "morph": "robinson:PREP"
+        }
+      }
+    },
+    {
+      "position": 9,
+      "text": "God?",
+      "lemma": "strong:G3588 strong:G2316 lemma.TR:τω lemma.TR:θεω",
+      "morph": "robinson:T-DSM robinson:N-DSM",
+      "strongs": [
+        "G3588",
+        "G2316"
+      ],
+      "metadata": {
+        "src": "7 8"
+      },
+      "source": {
+        "lemma": "strong:G3588 strong:G2316 lemma.TR:τω lemma.TR:θεω",
+        "morph": "robinson:T-DSM robinson:N-DSM",
+        "attrs": {
+          "src": "7 8",
+          "lemma": "strong:G3588 strong:G2316 lemma.TR:τω lemma.TR:θεω",
+          "morph": "robinson:T-DSM robinson:N-DSM"
+        }
+      }
+    },
+    {
+      "position": 10,
+      "text": "God",
+      "lemma": "strong:G3361 strong:G1096 lemma.TR:μη lemma.TR:γενοιτο",
+      "morph": "robinson:PRT-N robinson:V-2ADO-3S",
+      "strongs": [
+        "G3361",
+        "G1096"
+      ],
+      "metadata": {
+        "src": "9 10"
+      },
+      "source": {
+        "lemma": "strong:G3361 strong:G1096 lemma.TR:μη lemma.TR:γενοιτο",
+        "morph": "robinson:PRT-N robinson:V-2ADO-3S",
+        "attrs": {
+          "src": "9 10",
+          "lemma": "strong:G3361 strong:G1096 lemma.TR:μη lemma.TR:γενοιτο",
+          "morph": "robinson:PRT-N robinson:V-2ADO-3S"
+        }
+      }
+    },
+    {
+      "position": 11,
+      "text": "forbid.",
+      "lemma": "strong:G3361 strong:G1096 lemma.TR:μη lemma.TR:γενοιτο",
+      "morph": "robinson:PRT-N robinson:V-2ADO-3S",
+      "strongs": [
+        "G3361",
+        "G1096"
+      ],
+      "metadata": {
+        "src": "9 10"
+      },
+      "source": {
+        "lemma": "strong:G3361 strong:G1096 lemma.TR:μη lemma.TR:γενοιτο",
+        "morph": "robinson:PRT-N robinson:V-2ADO-3S",
+        "attrs": {
+          "src": "9 10",
+          "lemma": "strong:G3361 strong:G1096 lemma.TR:μη lemma.TR:γενοιτο",
+          "morph": "robinson:PRT-N robinson:V-2ADO-3S"
+        }
+      }
+    }
+  ]
+}

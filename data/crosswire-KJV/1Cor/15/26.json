@@ -1,0 +1,181 @@
+{
+  "text": "The last enemy that shall be destroyed is death.",
+  "words": [
+    {
+      "position": 1,
+      "text": "The",
+      "lemma": "strong:G2078 lemma.TR:εσχατος",
+      "morph": "robinson:A-NSM-S",
+      "strongs": [
+        "G2078"
+      ],
+      "metadata": {
+        "src": "1"
+      },
+      "source": {
+        "lemma": "strong:G2078 lemma.TR:εσχατος",
+        "morph": "robinson:A-NSM-S",
+        "attrs": {
+          "src": "1",
+          "lemma": "strong:G2078 lemma.TR:εσχατος",
+          "morph": "robinson:A-NSM-S"
+        }
+      }
+    },
+    {
+      "position": 2,
+      "text": "last",
+      "lemma": "strong:G2078 lemma.TR:εσχατος",
+      "morph": "robinson:A-NSM-S",
+      "strongs": [
+        "G2078"
+      ],
+      "metadata": {
+        "src": "1"
+      },
+      "source": {
+        "lemma": "strong:G2078 lemma.TR:εσχατος",
+        "morph": "robinson:A-NSM-S",
+        "attrs": {
+          "src": "1",
+          "lemma": "strong:G2078 lemma.TR:εσχατος",
+          "morph": "robinson:A-NSM-S"
+        }
+      }
+    },
+    {
+      "position": 3,
+      "text": "enemy",
+      "lemma": "strong:G2190 lemma.TR:εχθρος",
+      "morph": "robinson:A-NSM",
+      "strongs": [
+        "G2190"
+      ],
+      "metadata": {
+        "src": "2"
+      },
+      "source": {
+        "lemma": "strong:G2190 lemma.TR:εχθρος",
+        "morph": "robinson:A-NSM",
+        "attrs": {
+          "src": "2",
+          "lemma": "strong:G2190 lemma.TR:εχθρος",
+          "morph": "robinson:A-NSM"
+        }
+      }
+    },
+    {
+      "position": 4,
+      "text": "that",
+      "lemma": null,
+      "morph": null,
+      "metadata": {
+        "type": "added"
+      },
+      "source": {
+        "attrs": {
+          "type": "added"
+        }
+      }
+    },
+    {
+      "position": 5,
+      "text": "shall",
+      "lemma": "strong:G2673 lemma.TR:καταργειται",
+      "morph": "robinson:V-PPI-3S",
+      "strongs": [
+        "G2673"
+      ],
+      "metadata": {
+        "src": "3"
+      },
+      "source": {
+        "lemma": "strong:G2673 lemma.TR:καταργειται",
+        "morph": "robinson:V-PPI-3S",
+        "attrs": {
+          "src": "3",
+          "lemma": "strong:G2673 lemma.TR:καταργειται",
+          "morph": "robinson:V-PPI-3S"
+        }
+      }
+    },
+    {
+      "position": 6,
+      "text": "be",
+      "lemma": "strong:G2673 lemma.TR:καταργειται",
+      "morph": "robinson:V-PPI-3S",
+      "strongs": [
+        "G2673"
+      ],
+      "metadata": {
+        "src": "3"
+      },
+      "source": {
+        "lemma": "strong:G2673 lemma.TR:καταργειται",
+        "morph": "robinson:V-PPI-3S",
+        "attrs": {
+          "src": "3",
+          "lemma": "strong:G2673 lemma.TR:καταργειται",
+          "morph": "robinson:V-PPI-3S"
+        }
+      }
+    },
+    {
+      "position": 7,
+      "text": "destroyed",
+      "lemma": "strong:G2673 lemma.TR:καταργειται",
+      "morph": "robinson:V-PPI-3S",
+      "strongs": [
+        "G2673"
+      ],
+      "metadata": {
+        "src": "3"
+      },
+      "source": {
+        "lemma": "strong:G2673 lemma.TR:καταργειται",
+        "morph": "robinson:V-PPI-3S",
+        "attrs": {
+          "src": "3",
+          "lemma": "strong:G2673 lemma.TR:καταργειται",
+          "morph": "robinson:V-PPI-3S"
+        }
+      }
+    },
+    {
+      "position": 8,
+      "text": "is",
+      "lemma": null,
+      "morph": null,
+      "metadata": {
+        "type": "added"
+      },
+      "source": {
+        "attrs": {
+          "type": "added"
+        }
+      }
+    },
+    {
+      "position": 9,
+      "text": "death.",
+      "lemma": "strong:G3588 strong:G2288 lemma.TR:ο lemma.TR:θανατος",
+      "morph": "robinson:T-NSM robinson:N-NSM",
+      "strongs": [
+        "G3588",
+        "G2288"
+      ],
+      "metadata": {
+        "src": "4 5"
+      },
+      "source": {
+        "lemma": "strong:G3588 strong:G2288 lemma.TR:ο lemma.TR:θανατος",
+        "morph": "robinson:T-NSM robinson:N-NSM",
+        "attrs": {
+          "src": "4 5",
+          "lemma": "strong:G3588 strong:G2288 lemma.TR:ο lemma.TR:θανατος",
+          "morph": "robinson:T-NSM robinson:N-NSM"
+        }
+      }
+    }
+  ]
+}

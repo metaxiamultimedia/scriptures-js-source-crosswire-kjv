@@ -1,0 +1,306 @@
+{
+  "text": "For John said unto him, It is not lawful for thee to have her.",
+  "words": [
+    {
+      "position": 1,
+      "text": "For",
+      "lemma": "strong:G1063 lemma.TR:γαρ",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G1063"
+      ],
+      "metadata": {
+        "src": "2"
+      },
+      "source": {
+        "lemma": "strong:G1063 lemma.TR:γαρ",
+        "morph": "robinson:CONJ",
+        "attrs": {
+          "src": "2",
+          "lemma": "strong:G1063 lemma.TR:γαρ",
+          "morph": "robinson:CONJ"
+        }
+      }
+    },
+    {
+      "position": 2,
+      "text": "John",
+      "lemma": "strong:G3588 strong:G2491 lemma.TR:ο lemma.TR:ιωαννης",
+      "morph": "robinson:T-NSM robinson:N-NSM",
+      "strongs": [
+        "G3588",
+        "G2491"
+      ],
+      "metadata": {
+        "src": "4 5"
+      },
+      "source": {
+        "lemma": "strong:G3588 strong:G2491 lemma.TR:ο lemma.TR:ιωαννης",
+        "morph": "robinson:T-NSM robinson:N-NSM",
+        "attrs": {
+          "src": "4 5",
+          "lemma": "strong:G3588 strong:G2491 lemma.TR:ο lemma.TR:ιωαννης",
+          "morph": "robinson:T-NSM robinson:N-NSM"
+        }
+      }
+    },
+    {
+      "position": 3,
+      "text": "said",
+      "lemma": "strong:G3004 lemma.TR:ελεγεν",
+      "morph": "robinson:V-IAI-3S",
+      "strongs": [
+        "G3004"
+      ],
+      "metadata": {
+        "src": "1"
+      },
+      "source": {
+        "lemma": "strong:G3004 lemma.TR:ελεγεν",
+        "morph": "robinson:V-IAI-3S",
+        "attrs": {
+          "src": "1",
+          "lemma": "strong:G3004 lemma.TR:ελεγεν",
+          "morph": "robinson:V-IAI-3S"
+        }
+      }
+    },
+    {
+      "position": 4,
+      "text": "unto",
+      "lemma": "strong:G846 lemma.TR:αυτω",
+      "morph": "robinson:P-DSM",
+      "strongs": [
+        "G846"
+      ],
+      "metadata": {
+        "src": "3"
+      },
+      "source": {
+        "lemma": "strong:G846 lemma.TR:αυτω",
+        "morph": "robinson:P-DSM",
+        "attrs": {
+          "src": "3",
+          "lemma": "strong:G846 lemma.TR:αυτω",
+          "morph": "robinson:P-DSM"
+        }
+      }
+    },
+    {
+      "position": 5,
+      "text": "him,",
+      "lemma": "strong:G846 lemma.TR:αυτω",
+      "morph": "robinson:P-DSM",
+      "strongs": [
+        "G846"
+      ],
+      "metadata": {
+        "src": "3"
+      },
+      "source": {
+        "lemma": "strong:G846 lemma.TR:αυτω",
+        "morph": "robinson:P-DSM",
+        "attrs": {
+          "src": "3",
+          "lemma": "strong:G846 lemma.TR:αυτω",
+          "morph": "robinson:P-DSM"
+        }
+      }
+    },
+    {
+      "position": 6,
+      "text": "It",
+      "lemma": "strong:G1832 lemma.TR:εξεστιν",
+      "morph": "robinson:V-PAI-3S",
+      "strongs": [
+        "G1832"
+      ],
+      "metadata": {
+        "src": "7",
+        "type": "x-split-623"
+      },
+      "source": {
+        "lemma": "strong:G1832 lemma.TR:εξεστιν",
+        "morph": "robinson:V-PAI-3S",
+        "attrs": {
+          "src": "7",
+          "lemma": "strong:G1832 lemma.TR:εξεστιν",
+          "morph": "robinson:V-PAI-3S",
+          "type": "x-split-623"
+        }
+      }
+    },
+    {
+      "position": 7,
+      "text": "is",
+      "lemma": "strong:G1832 lemma.TR:εξεστιν",
+      "morph": "robinson:V-PAI-3S",
+      "strongs": [
+        "G1832"
+      ],
+      "metadata": {
+        "src": "7",
+        "type": "x-split-623"
+      },
+      "source": {
+        "lemma": "strong:G1832 lemma.TR:εξεστιν",
+        "morph": "robinson:V-PAI-3S",
+        "attrs": {
+          "src": "7",
+          "lemma": "strong:G1832 lemma.TR:εξεστιν",
+          "morph": "robinson:V-PAI-3S",
+          "type": "x-split-623"
+        }
+      }
+    },
+    {
+      "position": 8,
+      "text": "not",
+      "lemma": "strong:G3756 lemma.TR:ουκ",
+      "morph": "robinson:PRT-N",
+      "strongs": [
+        "G3756"
+      ],
+      "metadata": {
+        "src": "6"
+      },
+      "source": {
+        "lemma": "strong:G3756 lemma.TR:ουκ",
+        "morph": "robinson:PRT-N",
+        "attrs": {
+          "src": "6",
+          "lemma": "strong:G3756 lemma.TR:ουκ",
+          "morph": "robinson:PRT-N"
+        }
+      }
+    },
+    {
+      "position": 9,
+      "text": "lawful",
+      "lemma": "strong:G1832 lemma.TR:εξεστιν",
+      "morph": "robinson:V-PAI-3S",
+      "strongs": [
+        "G1832"
+      ],
+      "metadata": {
+        "src": "7",
+        "type": "x-split-623"
+      },
+      "source": {
+        "lemma": "strong:G1832 lemma.TR:εξεστιν",
+        "morph": "robinson:V-PAI-3S",
+        "attrs": {
+          "src": "7",
+          "lemma": "strong:G1832 lemma.TR:εξεστιν",
+          "morph": "robinson:V-PAI-3S",
+          "type": "x-split-623"
+        }
+      }
+    },
+    {
+      "position": 10,
+      "text": "for",
+      "lemma": "strong:G4771 lemma.TR:σοι",
+      "morph": "robinson:P-2DS",
+      "strongs": [
+        "G4771"
+      ],
+      "metadata": {
+        "src": "8"
+      },
+      "source": {
+        "lemma": "strong:G4771 lemma.TR:σοι",
+        "morph": "robinson:P-2DS",
+        "attrs": {
+          "src": "8",
+          "lemma": "strong:G4771 lemma.TR:σοι",
+          "morph": "robinson:P-2DS"
+        }
+      }
+    },
+    {
+      "position": 11,
+      "text": "thee",
+      "lemma": "strong:G4771 lemma.TR:σοι",
+      "morph": "robinson:P-2DS",
+      "strongs": [
+        "G4771"
+      ],
+      "metadata": {
+        "src": "8"
+      },
+      "source": {
+        "lemma": "strong:G4771 lemma.TR:σοι",
+        "morph": "robinson:P-2DS",
+        "attrs": {
+          "src": "8",
+          "lemma": "strong:G4771 lemma.TR:σοι",
+          "morph": "robinson:P-2DS"
+        }
+      }
+    },
+    {
+      "position": 12,
+      "text": "to",
+      "lemma": "strong:G2192 lemma.TR:εχειν",
+      "morph": "robinson:V-PAN",
+      "strongs": [
+        "G2192"
+      ],
+      "metadata": {
+        "src": "9"
+      },
+      "source": {
+        "lemma": "strong:G2192 lemma.TR:εχειν",
+        "morph": "robinson:V-PAN",
+        "attrs": {
+          "src": "9",
+          "lemma": "strong:G2192 lemma.TR:εχειν",
+          "morph": "robinson:V-PAN"
+        }
+      }
+    },
+    {
+      "position": 13,
+      "text": "have",
+      "lemma": "strong:G2192 lemma.TR:εχειν",
+      "morph": "robinson:V-PAN",
+      "strongs": [
+        "G2192"
+      ],
+      "metadata": {
+        "src": "9"
+      },
+      "source": {
+        "lemma": "strong:G2192 lemma.TR:εχειν",
+        "morph": "robinson:V-PAN",
+        "attrs": {
+          "src": "9",
+          "lemma": "strong:G2192 lemma.TR:εχειν",
+          "morph": "robinson:V-PAN"
+        }
+      }
+    },
+    {
+      "position": 14,
+      "text": "her.",
+      "lemma": "strong:G846 lemma.TR:αυτην",
+      "morph": "robinson:P-ASF",
+      "strongs": [
+        "G846"
+      ],
+      "metadata": {
+        "src": "10"
+      },
+      "source": {
+        "lemma": "strong:G846 lemma.TR:αυτην",
+        "morph": "robinson:P-ASF",
+        "attrs": {
+          "src": "10",
+          "lemma": "strong:G846 lemma.TR:αυτην",
+          "morph": "robinson:P-ASF"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,168 @@
+{
+  "text": "Wherefore? because I love you not? God knoweth.",
+  "words": [
+    {
+      "position": 1,
+      "text": "Wherefore?",
+      "lemma": "strong:G1223 lemma.TR:δια",
+      "morph": "robinson:PREP",
+      "strongs": [
+        "G1223"
+      ],
+      "metadata": {
+        "src": "1"
+      },
+      "source": {
+        "lemma": "strong:G1223 lemma.TR:δια",
+        "morph": "robinson:PREP",
+        "attrs": {
+          "src": "1",
+          "lemma": "strong:G1223 lemma.TR:δια",
+          "morph": "robinson:PREP"
+        }
+      }
+    },
+    {
+      "position": 2,
+      "text": "because",
+      "lemma": "strong:G3754 lemma.TR:οτι",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G3754"
+      ],
+      "metadata": {
+        "src": "3"
+      },
+      "source": {
+        "lemma": "strong:G3754 lemma.TR:οτι",
+        "morph": "robinson:CONJ",
+        "attrs": {
+          "src": "3",
+          "lemma": "strong:G3754 lemma.TR:οτι",
+          "morph": "robinson:CONJ"
+        }
+      }
+    },
+    {
+      "position": 3,
+      "text": "I",
+      "lemma": "strong:G25 lemma.TR:αγαπω",
+      "morph": "robinson:V-PAI-1S",
+      "metadata": {
+        "src": "5"
+      },
+      "source": {
+        "lemma": "strong:G25 lemma.TR:αγαπω",
+        "morph": "robinson:V-PAI-1S",
+        "attrs": {
+          "src": "5",
+          "lemma": "strong:G25 lemma.TR:αγαπω",
+          "morph": "robinson:V-PAI-1S"
+        }
+      }
+    },
+    {
+      "position": 4,
+      "text": "love",
+      "lemma": "strong:G25 lemma.TR:αγαπω",
+      "morph": "robinson:V-PAI-1S",
+      "metadata": {
+        "src": "5"
+      },
+      "source": {
+        "lemma": "strong:G25 lemma.TR:αγαπω",
+        "morph": "robinson:V-PAI-1S",
+        "attrs": {
+          "src": "5",
+          "lemma": "strong:G25 lemma.TR:αγαπω",
+          "morph": "robinson:V-PAI-1S"
+        }
+      }
+    },
+    {
+      "position": 5,
+      "text": "you",
+      "lemma": "strong:G4771 lemma.TR:υμας",
+      "morph": "robinson:P-2AP",
+      "strongs": [
+        "G4771"
+      ],
+      "metadata": {
+        "src": "6"
+      },
+      "source": {
+        "lemma": "strong:G4771 lemma.TR:υμας",
+        "morph": "robinson:P-2AP",
+        "attrs": {
+          "src": "6",
+          "lemma": "strong:G4771 lemma.TR:υμας",
+          "morph": "robinson:P-2AP"
+        }
+      }
+    },
+    {
+      "position": 6,
+      "text": "not?",
+      "lemma": "strong:G3756 lemma.TR:ουκ",
+      "morph": "robinson:PRT-N",
+      "strongs": [
+        "G3756"
+      ],
+      "metadata": {
+        "src": "4"
+      },
+      "source": {
+        "lemma": "strong:G3756 lemma.TR:ουκ",
+        "morph": "robinson:PRT-N",
+        "attrs": {
+          "src": "4",
+          "lemma": "strong:G3756 lemma.TR:ουκ",
+          "morph": "robinson:PRT-N"
+        }
+      }
+    },
+    {
+      "position": 7,
+      "text": "God",
+      "lemma": "strong:G3588 strong:G2316 lemma.TR:ο lemma.TR:θεος",
+      "morph": "robinson:T-NSM robinson:N-NSM",
+      "strongs": [
+        "G3588",
+        "G2316"
+      ],
+      "metadata": {
+        "src": "7 8"
+      },
+      "source": {
+        "lemma": "strong:G3588 strong:G2316 lemma.TR:ο lemma.TR:θεος",
+        "morph": "robinson:T-NSM robinson:N-NSM",
+        "attrs": {
+          "src": "7 8",
+          "lemma": "strong:G3588 strong:G2316 lemma.TR:ο lemma.TR:θεος",
+          "morph": "robinson:T-NSM robinson:N-NSM"
+        }
+      }
+    },
+    {
+      "position": 8,
+      "text": "knoweth.",
+      "lemma": "strong:G1492 lemma.TR:οιδεν",
+      "morph": "robinson:V-RAI-3S",
+      "strongs": [
+        "G1492"
+      ],
+      "metadata": {
+        "src": "9"
+      },
+      "source": {
+        "lemma": "strong:G1492 lemma.TR:οιδεν",
+        "morph": "robinson:V-RAI-3S",
+        "attrs": {
+          "src": "9",
+          "lemma": "strong:G1492 lemma.TR:οιδεν",
+          "morph": "robinson:V-RAI-3S"
+        }
+      }
+    }
+  ]
+}

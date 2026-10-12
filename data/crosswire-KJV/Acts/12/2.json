@@ -1,0 +1,236 @@
+{
+  "text": "And he killed James the brother of John with the sword.",
+  "words": [
+    {
+      "position": 1,
+      "text": "And",
+      "lemma": "strong:G1161 lemma.TR:δε",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G1161"
+      ],
+      "metadata": {
+        "src": "2"
+      },
+      "source": {
+        "lemma": "strong:G1161 lemma.TR:δε",
+        "morph": "robinson:CONJ",
+        "attrs": {
+          "src": "2",
+          "lemma": "strong:G1161 lemma.TR:δε",
+          "morph": "robinson:CONJ"
+        }
+      }
+    },
+    {
+      "position": 2,
+      "text": "he",
+      "lemma": "strong:G337 lemma.TR:ανειλεν",
+      "morph": "robinson:V-2AAI-3S",
+      "strongs": [
+        "G337"
+      ],
+      "metadata": {
+        "src": "1"
+      },
+      "source": {
+        "lemma": "strong:G337 lemma.TR:ανειλεν",
+        "morph": "robinson:V-2AAI-3S",
+        "attrs": {
+          "src": "1",
+          "lemma": "strong:G337 lemma.TR:ανειλεν",
+          "morph": "robinson:V-2AAI-3S"
+        }
+      }
+    },
+    {
+      "position": 3,
+      "text": "killed",
+      "lemma": "strong:G337 lemma.TR:ανειλεν",
+      "morph": "robinson:V-2AAI-3S",
+      "strongs": [
+        "G337"
+      ],
+      "metadata": {
+        "src": "1"
+      },
+      "source": {
+        "lemma": "strong:G337 lemma.TR:ανειλεν",
+        "morph": "robinson:V-2AAI-3S",
+        "attrs": {
+          "src": "1",
+          "lemma": "strong:G337 lemma.TR:ανειλεν",
+          "morph": "robinson:V-2AAI-3S"
+        }
+      }
+    },
+    {
+      "position": 4,
+      "text": "James",
+      "lemma": "strong:G2385 lemma.TR:ιακωβον",
+      "morph": "robinson:N-ASM",
+      "strongs": [
+        "G2385"
+      ],
+      "metadata": {
+        "src": "3"
+      },
+      "source": {
+        "lemma": "strong:G2385 lemma.TR:ιακωβον",
+        "morph": "robinson:N-ASM",
+        "attrs": {
+          "src": "3",
+          "lemma": "strong:G2385 lemma.TR:ιακωβον",
+          "morph": "robinson:N-ASM"
+        }
+      }
+    },
+    {
+      "position": 5,
+      "text": "the",
+      "lemma": "strong:G3588 strong:G80 lemma.TR:τον lemma.TR:αδελφον",
+      "morph": "robinson:T-ASM robinson:N-ASM",
+      "strongs": [
+        "G3588"
+      ],
+      "metadata": {
+        "src": "4 5"
+      },
+      "source": {
+        "lemma": "strong:G3588 strong:G80 lemma.TR:τον lemma.TR:αδελφον",
+        "morph": "robinson:T-ASM robinson:N-ASM",
+        "attrs": {
+          "src": "4 5",
+          "lemma": "strong:G3588 strong:G80 lemma.TR:τον lemma.TR:αδελφον",
+          "morph": "robinson:T-ASM robinson:N-ASM"
+        }
+      }
+    },
+    {
+      "position": 6,
+      "text": "brother",
+      "lemma": "strong:G3588 strong:G80 lemma.TR:τον lemma.TR:αδελφον",
+      "morph": "robinson:T-ASM robinson:N-ASM",
+      "strongs": [
+        "G3588"
+      ],
+      "metadata": {
+        "src": "4 5"
+      },
+      "source": {
+        "lemma": "strong:G3588 strong:G80 lemma.TR:τον lemma.TR:αδελφον",
+        "morph": "robinson:T-ASM robinson:N-ASM",
+        "attrs": {
+          "src": "4 5",
+          "lemma": "strong:G3588 strong:G80 lemma.TR:τον lemma.TR:αδελφον",
+          "morph": "robinson:T-ASM robinson:N-ASM"
+        }
+      }
+    },
+    {
+      "position": 7,
+      "text": "of",
+      "lemma": "strong:G2491 lemma.TR:ιωαννου",
+      "morph": "robinson:N-GSM",
+      "strongs": [
+        "G2491"
+      ],
+      "metadata": {
+        "src": "6"
+      },
+      "source": {
+        "lemma": "strong:G2491 lemma.TR:ιωαννου",
+        "morph": "robinson:N-GSM",
+        "attrs": {
+          "src": "6",
+          "lemma": "strong:G2491 lemma.TR:ιωαννου",
+          "morph": "robinson:N-GSM"
+        }
+      }
+    },
+    {
+      "position": 8,
+      "text": "John",
+      "lemma": "strong:G2491 lemma.TR:ιωαννου",
+      "morph": "robinson:N-GSM",
+      "strongs": [
+        "G2491"
+      ],
+      "metadata": {
+        "src": "6"
+      },
+      "source": {
+        "lemma": "strong:G2491 lemma.TR:ιωαννου",
+        "morph": "robinson:N-GSM",
+        "attrs": {
+          "src": "6",
+          "lemma": "strong:G2491 lemma.TR:ιωαννου",
+          "morph": "robinson:N-GSM"
+        }
+      }
+    },
+    {
+      "position": 9,
+      "text": "with",
+      "lemma": "strong:G3162 lemma.TR:μαχαιρα",
+      "morph": "robinson:N-DSF",
+      "strongs": [
+        "G3162"
+      ],
+      "metadata": {
+        "src": "7"
+      },
+      "source": {
+        "lemma": "strong:G3162 lemma.TR:μαχαιρα",
+        "morph": "robinson:N-DSF",
+        "attrs": {
+          "src": "7",
+          "lemma": "strong:G3162 lemma.TR:μαχαιρα",
+          "morph": "robinson:N-DSF"
+        }
+      }
+    },
+    {
+      "position": 10,
+      "text": "the",
+      "lemma": "strong:G3162 lemma.TR:μαχαιρα",
+      "morph": "robinson:N-DSF",
+      "strongs": [
+        "G3162"
+      ],
+      "metadata": {
+        "src": "7"
+      },
+      "source": {
+        "lemma": "strong:G3162 lemma.TR:μαχαιρα",
+        "morph": "robinson:N-DSF",
+        "attrs": {
+          "src": "7",
+          "lemma": "strong:G3162 lemma.TR:μαχαιρα",
+          "morph": "robinson:N-DSF"
+        }
+      }
+    },
+    {
+      "position": 11,
+      "text": "sword.",
+      "lemma": "strong:G3162 lemma.TR:μαχαιρα",
+      "morph": "robinson:N-DSF",
+      "strongs": [
+        "G3162"
+      ],
+      "metadata": {
+        "src": "7"
+      },
+      "source": {
+        "lemma": "strong:G3162 lemma.TR:μαχαιρα",
+        "morph": "robinson:N-DSF",
+        "attrs": {
+          "src": "7",
+          "lemma": "strong:G3162 lemma.TR:μαχαιρα",
+          "morph": "robinson:N-DSF"
+        }
+      }
+    }
+  ]
+}

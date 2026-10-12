@@ -1,0 +1,210 @@
+{
+  "text": "Now the God of peace be with you all. Amen.",
+  "words": [
+    {
+      "position": 1,
+      "text": "Now",
+      "lemma": "strong:G1161 lemma.TR:δε",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G1161"
+      ],
+      "metadata": {
+        "src": "2"
+      },
+      "source": {
+        "lemma": "strong:G1161 lemma.TR:δε",
+        "morph": "robinson:CONJ",
+        "attrs": {
+          "src": "2",
+          "lemma": "strong:G1161 lemma.TR:δε",
+          "morph": "robinson:CONJ"
+        }
+      }
+    },
+    {
+      "position": 2,
+      "text": "the",
+      "lemma": "strong:G2316 lemma.TR:θεος",
+      "morph": "robinson:N-NSM",
+      "strongs": [
+        "G2316"
+      ],
+      "metadata": {
+        "src": "3"
+      },
+      "source": {
+        "lemma": "strong:G2316 lemma.TR:θεος",
+        "morph": "robinson:N-NSM",
+        "attrs": {
+          "src": "3",
+          "lemma": "strong:G2316 lemma.TR:θεος",
+          "morph": "robinson:N-NSM"
+        }
+      }
+    },
+    {
+      "position": 3,
+      "text": "God",
+      "lemma": "strong:G2316 lemma.TR:θεος",
+      "morph": "robinson:N-NSM",
+      "strongs": [
+        "G2316"
+      ],
+      "metadata": {
+        "src": "3"
+      },
+      "source": {
+        "lemma": "strong:G2316 lemma.TR:θεος",
+        "morph": "robinson:N-NSM",
+        "attrs": {
+          "src": "3",
+          "lemma": "strong:G2316 lemma.TR:θεος",
+          "morph": "robinson:N-NSM"
+        }
+      }
+    },
+    {
+      "position": 4,
+      "text": "of",
+      "lemma": "strong:G3588 strong:G1515 lemma.TR:της lemma.TR:ειρηνης",
+      "morph": "robinson:T-GSF robinson:N-GSF",
+      "strongs": [
+        "G3588",
+        "G1515"
+      ],
+      "metadata": {
+        "src": "4 5"
+      },
+      "source": {
+        "lemma": "strong:G3588 strong:G1515 lemma.TR:της lemma.TR:ειρηνης",
+        "morph": "robinson:T-GSF robinson:N-GSF",
+        "attrs": {
+          "src": "4 5",
+          "lemma": "strong:G3588 strong:G1515 lemma.TR:της lemma.TR:ειρηνης",
+          "morph": "robinson:T-GSF robinson:N-GSF"
+        }
+      }
+    },
+    {
+      "position": 5,
+      "text": "peace",
+      "lemma": "strong:G3588 strong:G1515 lemma.TR:της lemma.TR:ειρηνης",
+      "morph": "robinson:T-GSF robinson:N-GSF",
+      "strongs": [
+        "G3588",
+        "G1515"
+      ],
+      "metadata": {
+        "src": "4 5"
+      },
+      "source": {
+        "lemma": "strong:G3588 strong:G1515 lemma.TR:της lemma.TR:ειρηνης",
+        "morph": "robinson:T-GSF robinson:N-GSF",
+        "attrs": {
+          "src": "4 5",
+          "lemma": "strong:G3588 strong:G1515 lemma.TR:της lemma.TR:ειρηνης",
+          "morph": "robinson:T-GSF robinson:N-GSF"
+        }
+      }
+    },
+    {
+      "position": 6,
+      "text": "be",
+      "lemma": null,
+      "morph": null,
+      "metadata": {
+        "type": "added"
+      },
+      "source": {
+        "attrs": {
+          "type": "added"
+        }
+      }
+    },
+    {
+      "position": 7,
+      "text": "with",
+      "lemma": "strong:G3326 lemma.TR:μετα",
+      "morph": "robinson:PREP",
+      "strongs": [
+        "G3326"
+      ],
+      "metadata": {
+        "src": "6"
+      },
+      "source": {
+        "lemma": "strong:G3326 lemma.TR:μετα",
+        "morph": "robinson:PREP",
+        "attrs": {
+          "src": "6",
+          "lemma": "strong:G3326 lemma.TR:μετα",
+          "morph": "robinson:PREP"
+        }
+      }
+    },
+    {
+      "position": 8,
+      "text": "you",
+      "lemma": "strong:G4771 lemma.TR:υμων",
+      "morph": "robinson:P-2GP",
+      "strongs": [
+        "G4771"
+      ],
+      "metadata": {
+        "src": "8"
+      },
+      "source": {
+        "lemma": "strong:G4771 lemma.TR:υμων",
+        "morph": "robinson:P-2GP",
+        "attrs": {
+          "src": "8",
+          "lemma": "strong:G4771 lemma.TR:υμων",
+          "morph": "robinson:P-2GP"
+        }
+      }
+    },
+    {
+      "position": 9,
+      "text": "all.",
+      "lemma": "strong:G3956 lemma.TR:παντων",
+      "morph": "robinson:A-GPM",
+      "strongs": [
+        "G3956"
+      ],
+      "metadata": {
+        "src": "7"
+      },
+      "source": {
+        "lemma": "strong:G3956 lemma.TR:παντων",
+        "morph": "robinson:A-GPM",
+        "attrs": {
+          "src": "7",
+          "lemma": "strong:G3956 lemma.TR:παντων",
+          "morph": "robinson:A-GPM"
+        }
+      }
+    },
+    {
+      "position": 10,
+      "text": "Amen.",
+      "lemma": "strong:G281 lemma.TR:αμην",
+      "morph": "robinson:HEB",
+      "strongs": [
+        "G281"
+      ],
+      "metadata": {
+        "src": "9"
+      },
+      "source": {
+        "lemma": "strong:G281 lemma.TR:αμην",
+        "morph": "robinson:HEB",
+        "attrs": {
+          "src": "9",
+          "lemma": "strong:G281 lemma.TR:αμην",
+          "morph": "robinson:HEB"
+        }
+      }
+    }
+  ]
+}

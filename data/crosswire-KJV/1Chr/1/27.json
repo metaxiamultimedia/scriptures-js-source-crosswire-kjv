@@ -1,0 +1,61 @@
+{
+  "text": "Abram; the same is Abraham.",
+  "words": [
+    {
+      "position": 1,
+      "text": "Abram;",
+      "lemma": "strong:H087",
+      "morph": null,
+      "strongs": [
+        "H87"
+      ],
+      "source": {
+        "lemma": "strong:H087",
+        "attrs": {
+          "lemma": "strong:H087"
+        }
+      }
+    },
+    {
+      "position": 2,
+      "text": "the",
+      "lemma": null,
+      "morph": null
+    },
+    {
+      "position": 3,
+      "text": "same",
+      "lemma": null,
+      "morph": null
+    },
+    {
+      "position": 4,
+      "text": "is",
+      "lemma": null,
+      "morph": null,
+      "metadata": {
+        "type": "added"
+      },
+      "source": {
+        "attrs": {
+          "type": "added"
+        }
+      }
+    },
+    {
+      "position": 5,
+      "text": "Abraham.",
+      "lemma": "strong:H085",
+      "morph": null,
+      "strongs": [
+        "H85"
+      ],
+      "source": {
+        "lemma": "strong:H085",
+        "attrs": {
+          "lemma": "strong:H085"
+        }
+      }
+    }
+  ]
+}

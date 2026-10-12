@@ -1,0 +1,229 @@
+{
+  "text": "There was a man sent from God, whose name was John.",
+  "words": [
+    {
+      "position": 1,
+      "text": "There",
+      "lemma": "strong:G1096 lemma.TR:εγενετο",
+      "morph": "robinson:V-2ADI-3S",
+      "strongs": [
+        "G1096"
+      ],
+      "metadata": {
+        "src": "1"
+      },
+      "source": {
+        "lemma": "strong:G1096 lemma.TR:εγενετο",
+        "morph": "robinson:V-2ADI-3S",
+        "attrs": {
+          "src": "1",
+          "lemma": "strong:G1096 lemma.TR:εγενετο",
+          "morph": "robinson:V-2ADI-3S"
+        }
+      }
+    },
+    {
+      "position": 2,
+      "text": "was",
+      "lemma": "strong:G1096 lemma.TR:εγενετο",
+      "morph": "robinson:V-2ADI-3S",
+      "strongs": [
+        "G1096"
+      ],
+      "metadata": {
+        "src": "1"
+      },
+      "source": {
+        "lemma": "strong:G1096 lemma.TR:εγενετο",
+        "morph": "robinson:V-2ADI-3S",
+        "attrs": {
+          "src": "1",
+          "lemma": "strong:G1096 lemma.TR:εγενετο",
+          "morph": "robinson:V-2ADI-3S"
+        }
+      }
+    },
+    {
+      "position": 3,
+      "text": "a",
+      "lemma": "strong:G444 lemma.TR:ανθρωπος",
+      "morph": "robinson:N-NSM",
+      "strongs": [
+        "G444"
+      ],
+      "metadata": {
+        "src": "2"
+      },
+      "source": {
+        "lemma": "strong:G444 lemma.TR:ανθρωπος",
+        "morph": "robinson:N-NSM",
+        "attrs": {
+          "src": "2",
+          "lemma": "strong:G444 lemma.TR:ανθρωπος",
+          "morph": "robinson:N-NSM"
+        }
+      }
+    },
+    {
+      "position": 4,
+      "text": "man",
+      "lemma": "strong:G444 lemma.TR:ανθρωπος",
+      "morph": "robinson:N-NSM",
+      "strongs": [
+        "G444"
+      ],
+      "metadata": {
+        "src": "2"
+      },
+      "source": {
+        "lemma": "strong:G444 lemma.TR:ανθρωπος",
+        "morph": "robinson:N-NSM",
+        "attrs": {
+          "src": "2",
+          "lemma": "strong:G444 lemma.TR:ανθρωπος",
+          "morph": "robinson:N-NSM"
+        }
+      }
+    },
+    {
+      "position": 5,
+      "text": "sent",
+      "lemma": "strong:G649 lemma.TR:απεσταλμενος",
+      "morph": "robinson:V-RPP-NSM",
+      "strongs": [
+        "G649"
+      ],
+      "metadata": {
+        "src": "3"
+      },
+      "source": {
+        "lemma": "strong:G649 lemma.TR:απεσταλμενος",
+        "morph": "robinson:V-RPP-NSM",
+        "attrs": {
+          "src": "3",
+          "lemma": "strong:G649 lemma.TR:απεσταλμενος",
+          "morph": "robinson:V-RPP-NSM"
+        }
+      }
+    },
+    {
+      "position": 6,
+      "text": "from",
+      "lemma": "strong:G3844 lemma.TR:παρα",
+      "morph": "robinson:PREP",
+      "strongs": [
+        "G3844"
+      ],
+      "metadata": {
+        "src": "4"
+      },
+      "source": {
+        "lemma": "strong:G3844 lemma.TR:παρα",
+        "morph": "robinson:PREP",
+        "attrs": {
+          "src": "4",
+          "lemma": "strong:G3844 lemma.TR:παρα",
+          "morph": "robinson:PREP"
+        }
+      }
+    },
+    {
+      "position": 7,
+      "text": "God,",
+      "lemma": "strong:G2316 lemma.TR:θεου",
+      "morph": "robinson:N-GSM",
+      "strongs": [
+        "G2316"
+      ],
+      "metadata": {
+        "src": "5"
+      },
+      "source": {
+        "lemma": "strong:G2316 lemma.TR:θεου",
+        "morph": "robinson:N-GSM",
+        "attrs": {
+          "src": "5",
+          "lemma": "strong:G2316 lemma.TR:θεου",
+          "morph": "robinson:N-GSM"
+        }
+      }
+    },
+    {
+      "position": 8,
+      "text": "whose",
+      "lemma": "strong:G846 lemma.TR:αυτω",
+      "morph": "robinson:P-DSM",
+      "strongs": [
+        "G846"
+      ],
+      "metadata": {
+        "src": "7"
+      },
+      "source": {
+        "lemma": "strong:G846 lemma.TR:αυτω",
+        "morph": "robinson:P-DSM",
+        "attrs": {
+          "src": "7",
+          "lemma": "strong:G846 lemma.TR:αυτω",
+          "morph": "robinson:P-DSM"
+        }
+      }
+    },
+    {
+      "position": 9,
+      "text": "name",
+      "lemma": "strong:G3686 lemma.TR:ονομα",
+      "morph": "robinson:N-NSN",
+      "strongs": [
+        "G3686"
+      ],
+      "metadata": {
+        "src": "6"
+      },
+      "source": {
+        "lemma": "strong:G3686 lemma.TR:ονομα",
+        "morph": "robinson:N-NSN",
+        "attrs": {
+          "src": "6",
+          "lemma": "strong:G3686 lemma.TR:ονομα",
+          "morph": "robinson:N-NSN"
+        }
+      }
+    },
+    {
+      "position": 10,
+      "text": "was",
+      "lemma": null,
+      "morph": null,
+      "metadata": {
+        "type": "added"
+      },
+      "source": {
+        "attrs": {
+          "type": "added"
+        }
+      }
+    },
+    {
+      "position": 11,
+      "text": "John.",
+      "lemma": "strong:G2491 lemma.TR:ιωαννης",
+      "morph": "robinson:N-NSM",
+      "strongs": [
+        "G2491"
+      ],
+      "metadata": {
+        "src": "8"
+      },
+      "source": {
+        "lemma": "strong:G2491 lemma.TR:ιωαννης",
+        "morph": "robinson:N-NSM",
+        "attrs": {
+          "src": "8",
+          "lemma": "strong:G2491 lemma.TR:ιωαννης",
+          "morph": "robinson:N-NSM"
+        }
+      }
+    }
+  ]
+}

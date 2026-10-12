@@ -1,0 +1,441 @@
+{
+  "text": "Which when the apostles, Barnabas and Paul, heard of, they rent their clothes, and ran in among the people, crying out,",
+  "words": [
+    {
+      "position": 1,
+      "text": "Which",
+      "lemma": null,
+      "morph": null,
+      "metadata": {
+        "type": "added"
+      },
+      "source": {
+        "attrs": {
+          "type": "added"
+        }
+      }
+    },
+    {
+      "position": 2,
+      "text": "when",
+      "lemma": "strong:G191 lemma.TR:ακουσαντες",
+      "morph": "robinson:V-AAP-NPM",
+      "strongs": [
+        "G191"
+      ],
+      "metadata": {
+        "src": "1",
+        "type": "x-split-2342"
+      },
+      "source": {
+        "lemma": "strong:G191 lemma.TR:ακουσαντες",
+        "morph": "robinson:V-AAP-NPM",
+        "attrs": {
+          "src": "1",
+          "lemma": "strong:G191 lemma.TR:ακουσαντες",
+          "morph": "robinson:V-AAP-NPM",
+          "type": "x-split-2342"
+        }
+      }
+    },
+    {
+      "position": 3,
+      "text": "the",
+      "lemma": "strong:G3588 strong:G652 lemma.TR:οι lemma.TR:αποστολοι",
+      "morph": "robinson:T-NPM robinson:N-NPM",
+      "strongs": [
+        "G3588",
+        "G652"
+      ],
+      "metadata": {
+        "src": "3 4"
+      },
+      "source": {
+        "lemma": "strong:G3588 strong:G652 lemma.TR:οι lemma.TR:αποστολοι",
+        "morph": "robinson:T-NPM robinson:N-NPM",
+        "attrs": {
+          "src": "3 4",
+          "lemma": "strong:G3588 strong:G652 lemma.TR:οι lemma.TR:αποστολοι",
+          "morph": "robinson:T-NPM robinson:N-NPM"
+        }
+      }
+    },
+    {
+      "position": 4,
+      "text": "apostles,",
+      "lemma": "strong:G3588 strong:G652 lemma.TR:οι lemma.TR:αποστολοι",
+      "morph": "robinson:T-NPM robinson:N-NPM",
+      "strongs": [
+        "G3588",
+        "G652"
+      ],
+      "metadata": {
+        "src": "3 4"
+      },
+      "source": {
+        "lemma": "strong:G3588 strong:G652 lemma.TR:οι lemma.TR:αποστολοι",
+        "morph": "robinson:T-NPM robinson:N-NPM",
+        "attrs": {
+          "src": "3 4",
+          "lemma": "strong:G3588 strong:G652 lemma.TR:οι lemma.TR:αποστολοι",
+          "morph": "robinson:T-NPM robinson:N-NPM"
+        }
+      }
+    },
+    {
+      "position": 5,
+      "text": "Barnabas",
+      "lemma": "strong:G921 lemma.TR:βαρναβας",
+      "morph": "robinson:N-NSM",
+      "strongs": [
+        "G921"
+      ],
+      "metadata": {
+        "src": "5"
+      },
+      "source": {
+        "lemma": "strong:G921 lemma.TR:βαρναβας",
+        "morph": "robinson:N-NSM",
+        "attrs": {
+          "src": "5",
+          "lemma": "strong:G921 lemma.TR:βαρναβας",
+          "morph": "robinson:N-NSM"
+        }
+      }
+    },
+    {
+      "position": 6,
+      "text": "and",
+      "lemma": "strong:G2532 lemma.TR:και",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G2532"
+      ],
+      "metadata": {
+        "src": "6"
+      },
+      "source": {
+        "lemma": "strong:G2532 lemma.TR:και",
+        "morph": "robinson:CONJ",
+        "attrs": {
+          "src": "6",
+          "lemma": "strong:G2532 lemma.TR:και",
+          "morph": "robinson:CONJ"
+        }
+      }
+    },
+    {
+      "position": 7,
+      "text": "Paul,",
+      "lemma": "strong:G3972 lemma.TR:παυλος",
+      "morph": "robinson:N-NSM",
+      "strongs": [
+        "G3972"
+      ],
+      "metadata": {
+        "src": "7"
+      },
+      "source": {
+        "lemma": "strong:G3972 lemma.TR:παυλος",
+        "morph": "robinson:N-NSM",
+        "attrs": {
+          "src": "7",
+          "lemma": "strong:G3972 lemma.TR:παυλος",
+          "morph": "robinson:N-NSM"
+        }
+      }
+    },
+    {
+      "position": 8,
+      "text": "heard",
+      "lemma": "strong:G191 lemma.TR:ακουσαντες",
+      "morph": "robinson:V-AAP-NPM",
+      "strongs": [
+        "G191"
+      ],
+      "metadata": {
+        "src": "1",
+        "type": "x-split-2342"
+      },
+      "source": {
+        "lemma": "strong:G191 lemma.TR:ακουσαντες",
+        "morph": "robinson:V-AAP-NPM",
+        "attrs": {
+          "src": "1",
+          "lemma": "strong:G191 lemma.TR:ακουσαντες",
+          "morph": "robinson:V-AAP-NPM",
+          "type": "x-split-2342"
+        }
+      }
+    },
+    {
+      "position": 9,
+      "text": "of,",
+      "lemma": null,
+      "morph": null,
+      "metadata": {
+        "type": "added"
+      },
+      "source": {
+        "attrs": {
+          "type": "added"
+        }
+      }
+    },
+    {
+      "position": 10,
+      "text": "they",
+      "lemma": "strong:G1284 lemma.TR:διαρρηξαντες",
+      "morph": "robinson:V-AAP-NPM",
+      "strongs": [
+        "G1284"
+      ],
+      "metadata": {
+        "src": "8"
+      },
+      "source": {
+        "lemma": "strong:G1284 lemma.TR:διαρρηξαντες",
+        "morph": "robinson:V-AAP-NPM",
+        "attrs": {
+          "src": "8",
+          "lemma": "strong:G1284 lemma.TR:διαρρηξαντες",
+          "morph": "robinson:V-AAP-NPM"
+        }
+      }
+    },
+    {
+      "position": 11,
+      "text": "rent",
+      "lemma": "strong:G1284 lemma.TR:διαρρηξαντες",
+      "morph": "robinson:V-AAP-NPM",
+      "strongs": [
+        "G1284"
+      ],
+      "metadata": {
+        "src": "8"
+      },
+      "source": {
+        "lemma": "strong:G1284 lemma.TR:διαρρηξαντες",
+        "morph": "robinson:V-AAP-NPM",
+        "attrs": {
+          "src": "8",
+          "lemma": "strong:G1284 lemma.TR:διαρρηξαντες",
+          "morph": "robinson:V-AAP-NPM"
+        }
+      }
+    },
+    {
+      "position": 12,
+      "text": "their",
+      "lemma": "strong:G846 lemma.TR:αυτων",
+      "morph": "robinson:P-GPM",
+      "strongs": [
+        "G846"
+      ],
+      "metadata": {
+        "src": "11"
+      },
+      "source": {
+        "lemma": "strong:G846 lemma.TR:αυτων",
+        "morph": "robinson:P-GPM",
+        "attrs": {
+          "src": "11",
+          "lemma": "strong:G846 lemma.TR:αυτων",
+          "morph": "robinson:P-GPM"
+        }
+      }
+    },
+    {
+      "position": 13,
+      "text": "clothes,",
+      "lemma": "strong:G3588 strong:G2440 lemma.TR:τα lemma.TR:ιματια",
+      "morph": "robinson:T-APN robinson:N-APN",
+      "strongs": [
+        "G3588",
+        "G2440"
+      ],
+      "metadata": {
+        "src": "9 10"
+      },
+      "source": {
+        "lemma": "strong:G3588 strong:G2440 lemma.TR:τα lemma.TR:ιματια",
+        "morph": "robinson:T-APN robinson:N-APN",
+        "attrs": {
+          "src": "9 10",
+          "lemma": "strong:G3588 strong:G2440 lemma.TR:τα lemma.TR:ιματια",
+          "morph": "robinson:T-APN robinson:N-APN"
+        }
+      }
+    },
+    {
+      "position": 14,
+      "text": "and",
+      "lemma": "strong:G1530 lemma.TR:εισεπηδησαν",
+      "morph": "robinson:V-AAI-3P",
+      "strongs": [
+        "G1530"
+      ],
+      "metadata": {
+        "src": "12"
+      },
+      "source": {
+        "lemma": "strong:G1530 lemma.TR:εισεπηδησαν",
+        "morph": "robinson:V-AAI-3P",
+        "attrs": {
+          "src": "12",
+          "lemma": "strong:G1530 lemma.TR:εισεπηδησαν",
+          "morph": "robinson:V-AAI-3P"
+        }
+      }
+    },
+    {
+      "position": 15,
+      "text": "ran",
+      "lemma": "strong:G1530 lemma.TR:εισεπηδησαν",
+      "morph": "robinson:V-AAI-3P",
+      "strongs": [
+        "G1530"
+      ],
+      "metadata": {
+        "src": "12"
+      },
+      "source": {
+        "lemma": "strong:G1530 lemma.TR:εισεπηδησαν",
+        "morph": "robinson:V-AAI-3P",
+        "attrs": {
+          "src": "12",
+          "lemma": "strong:G1530 lemma.TR:εισεπηδησαν",
+          "morph": "robinson:V-AAI-3P"
+        }
+      }
+    },
+    {
+      "position": 16,
+      "text": "in",
+      "lemma": "strong:G1530 lemma.TR:εισεπηδησαν",
+      "morph": "robinson:V-AAI-3P",
+      "strongs": [
+        "G1530"
+      ],
+      "metadata": {
+        "src": "12"
+      },
+      "source": {
+        "lemma": "strong:G1530 lemma.TR:εισεπηδησαν",
+        "morph": "robinson:V-AAI-3P",
+        "attrs": {
+          "src": "12",
+          "lemma": "strong:G1530 lemma.TR:εισεπηδησαν",
+          "morph": "robinson:V-AAI-3P"
+        }
+      }
+    },
+    {
+      "position": 17,
+      "text": "among",
+      "lemma": "strong:G1519 lemma.TR:εις",
+      "morph": "robinson:PREP",
+      "strongs": [
+        "G1519"
+      ],
+      "metadata": {
+        "src": "13"
+      },
+      "source": {
+        "lemma": "strong:G1519 lemma.TR:εις",
+        "morph": "robinson:PREP",
+        "attrs": {
+          "src": "13",
+          "lemma": "strong:G1519 lemma.TR:εις",
+          "morph": "robinson:PREP"
+        }
+      }
+    },
+    {
+      "position": 18,
+      "text": "the",
+      "lemma": "strong:G3588 strong:G3793 lemma.TR:τον lemma.TR:οχλον",
+      "morph": "robinson:T-ASM robinson:N-ASM",
+      "strongs": [
+        "G3588",
+        "G3793"
+      ],
+      "metadata": {
+        "src": "14 15"
+      },
+      "source": {
+        "lemma": "strong:G3588 strong:G3793 lemma.TR:τον lemma.TR:οχλον",
+        "morph": "robinson:T-ASM robinson:N-ASM",
+        "attrs": {
+          "src": "14 15",
+          "lemma": "strong:G3588 strong:G3793 lemma.TR:τον lemma.TR:οχλον",
+          "morph": "robinson:T-ASM robinson:N-ASM"
+        }
+      }
+    },
+    {
+      "position": 19,
+      "text": "people,",
+      "lemma": "strong:G3588 strong:G3793 lemma.TR:τον lemma.TR:οχλον",
+      "morph": "robinson:T-ASM robinson:N-ASM",
+      "strongs": [
+        "G3588",
+        "G3793"
+      ],
+      "metadata": {
+        "src": "14 15"
+      },
+      "source": {
+        "lemma": "strong:G3588 strong:G3793 lemma.TR:τον lemma.TR:οχλον",
+        "morph": "robinson:T-ASM robinson:N-ASM",
+        "attrs": {
+          "src": "14 15",
+          "lemma": "strong:G3588 strong:G3793 lemma.TR:τον lemma.TR:οχλον",
+          "morph": "robinson:T-ASM robinson:N-ASM"
+        }
+      }
+    },
+    {
+      "position": 20,
+      "text": "crying",
+      "lemma": "strong:G2896 lemma.TR:κραζοντες",
+      "morph": "robinson:V-PAP-NPM",
+      "strongs": [
+        "G2896"
+      ],
+      "metadata": {
+        "src": "16"
+      },
+      "source": {
+        "lemma": "strong:G2896 lemma.TR:κραζοντες",
+        "morph": "robinson:V-PAP-NPM",
+        "attrs": {
+          "src": "16",
+          "lemma": "strong:G2896 lemma.TR:κραζοντες",
+          "morph": "robinson:V-PAP-NPM"
+        }
+      }
+    },
+    {
+      "position": 21,
+      "text": "out,",
+      "lemma": "strong:G2896 lemma.TR:κραζοντες",
+      "morph": "robinson:V-PAP-NPM",
+      "strongs": [
+        "G2896"
+      ],
+      "metadata": {
+        "src": "16"
+      },
+      "source": {
+        "lemma": "strong:G2896 lemma.TR:κραζοντες",
+        "morph": "robinson:V-PAP-NPM",
+        "attrs": {
+          "src": "16",
+          "lemma": "strong:G2896 lemma.TR:κραζοντες",
+          "morph": "robinson:V-PAP-NPM"
+        }
+      }
+    }
+  ]
+}

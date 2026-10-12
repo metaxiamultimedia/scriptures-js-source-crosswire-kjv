@@ -1,0 +1,371 @@
+{
+  "text": "Now a certain man was sick, named Lazarus, of Bethany, the town of Mary and her sister Martha.",
+  "words": [
+    {
+      "position": 1,
+      "text": "Now",
+      "lemma": "strong:G1161 lemma.TR:δε",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G1161"
+      ],
+      "metadata": {
+        "src": "2"
+      },
+      "source": {
+        "lemma": "strong:G1161 lemma.TR:δε",
+        "morph": "robinson:CONJ",
+        "attrs": {
+          "src": "2",
+          "lemma": "strong:G1161 lemma.TR:δε",
+          "morph": "robinson:CONJ"
+        }
+      }
+    },
+    {
+      "position": 2,
+      "text": "a",
+      "lemma": "strong:G5100 lemma.TR:τις",
+      "morph": "robinson:X-NSM",
+      "strongs": [
+        "G5100"
+      ],
+      "metadata": {
+        "src": "3"
+      },
+      "source": {
+        "lemma": "strong:G5100 lemma.TR:τις",
+        "morph": "robinson:X-NSM",
+        "attrs": {
+          "src": "3",
+          "lemma": "strong:G5100 lemma.TR:τις",
+          "morph": "robinson:X-NSM"
+        }
+      }
+    },
+    {
+      "position": 3,
+      "text": "certain",
+      "lemma": "strong:G5100 lemma.TR:τις",
+      "morph": "robinson:X-NSM",
+      "strongs": [
+        "G5100"
+      ],
+      "metadata": {
+        "src": "3"
+      },
+      "source": {
+        "lemma": "strong:G5100 lemma.TR:τις",
+        "morph": "robinson:X-NSM",
+        "attrs": {
+          "src": "3",
+          "lemma": "strong:G5100 lemma.TR:τις",
+          "morph": "robinson:X-NSM"
+        }
+      }
+    },
+    {
+      "position": 4,
+      "text": "man",
+      "lemma": null,
+      "morph": null,
+      "metadata": {
+        "type": "added"
+      },
+      "source": {
+        "attrs": {
+          "type": "added"
+        }
+      }
+    },
+    {
+      "position": 5,
+      "text": "was",
+      "lemma": "strong:G1510 lemma.TR:ην",
+      "morph": "robinson:V-IAI-3S",
+      "strongs": [
+        "G1510"
+      ],
+      "metadata": {
+        "src": "1"
+      },
+      "source": {
+        "lemma": "strong:G1510 lemma.TR:ην",
+        "morph": "robinson:V-IAI-3S",
+        "attrs": {
+          "src": "1",
+          "lemma": "strong:G1510 lemma.TR:ην",
+          "morph": "robinson:V-IAI-3S"
+        }
+      }
+    },
+    {
+      "position": 6,
+      "text": "sick,",
+      "lemma": "strong:G770 lemma.TR:ασθενων",
+      "morph": "robinson:V-PAP-NSM",
+      "strongs": [
+        "G770"
+      ],
+      "metadata": {
+        "src": "4"
+      },
+      "source": {
+        "lemma": "strong:G770 lemma.TR:ασθενων",
+        "morph": "robinson:V-PAP-NSM",
+        "attrs": {
+          "src": "4",
+          "lemma": "strong:G770 lemma.TR:ασθενων",
+          "morph": "robinson:V-PAP-NSM"
+        }
+      }
+    },
+    {
+      "position": 7,
+      "text": "named",
+      "lemma": null,
+      "morph": null,
+      "metadata": {
+        "type": "added"
+      },
+      "source": {
+        "attrs": {
+          "type": "added"
+        }
+      }
+    },
+    {
+      "position": 8,
+      "text": "Lazarus,",
+      "lemma": "strong:G2976 lemma.TR:λαζαρος",
+      "morph": "robinson:N-NSM",
+      "strongs": [
+        "G2976"
+      ],
+      "metadata": {
+        "src": "5"
+      },
+      "source": {
+        "lemma": "strong:G2976 lemma.TR:λαζαρος",
+        "morph": "robinson:N-NSM",
+        "attrs": {
+          "src": "5",
+          "lemma": "strong:G2976 lemma.TR:λαζαρος",
+          "morph": "robinson:N-NSM"
+        }
+      }
+    },
+    {
+      "position": 9,
+      "text": "of",
+      "lemma": "strong:G575 lemma.TR:απο",
+      "morph": "robinson:PREP",
+      "strongs": [
+        "G575"
+      ],
+      "metadata": {
+        "src": "6"
+      },
+      "source": {
+        "lemma": "strong:G575 lemma.TR:απο",
+        "morph": "robinson:PREP",
+        "attrs": {
+          "src": "6",
+          "lemma": "strong:G575 lemma.TR:απο",
+          "morph": "robinson:PREP"
+        }
+      }
+    },
+    {
+      "position": 10,
+      "text": "Bethany,",
+      "lemma": "strong:G963 lemma.TR:βηθανιας",
+      "morph": "robinson:N-GSF",
+      "strongs": [
+        "G963"
+      ],
+      "metadata": {
+        "src": "7"
+      },
+      "source": {
+        "lemma": "strong:G963 lemma.TR:βηθανιας",
+        "morph": "robinson:N-GSF",
+        "attrs": {
+          "src": "7",
+          "lemma": "strong:G963 lemma.TR:βηθανιας",
+          "morph": "robinson:N-GSF"
+        }
+      }
+    },
+    {
+      "position": 11,
+      "text": "the",
+      "lemma": "strong:G3588 strong:G2968 lemma.TR:της lemma.TR:κωμης",
+      "morph": "robinson:T-GSF robinson:N-GSF",
+      "strongs": [
+        "G3588",
+        "G2968"
+      ],
+      "metadata": {
+        "src": "9 10"
+      },
+      "source": {
+        "lemma": "strong:G3588 strong:G2968 lemma.TR:της lemma.TR:κωμης",
+        "morph": "robinson:T-GSF robinson:N-GSF",
+        "attrs": {
+          "src": "9 10",
+          "lemma": "strong:G3588 strong:G2968 lemma.TR:της lemma.TR:κωμης",
+          "morph": "robinson:T-GSF robinson:N-GSF"
+        }
+      }
+    },
+    {
+      "position": 12,
+      "text": "town",
+      "lemma": "strong:G3588 strong:G2968 lemma.TR:της lemma.TR:κωμης",
+      "morph": "robinson:T-GSF robinson:N-GSF",
+      "strongs": [
+        "G3588",
+        "G2968"
+      ],
+      "metadata": {
+        "src": "9 10"
+      },
+      "source": {
+        "lemma": "strong:G3588 strong:G2968 lemma.TR:της lemma.TR:κωμης",
+        "morph": "robinson:T-GSF robinson:N-GSF",
+        "attrs": {
+          "src": "9 10",
+          "lemma": "strong:G3588 strong:G2968 lemma.TR:της lemma.TR:κωμης",
+          "morph": "robinson:T-GSF robinson:N-GSF"
+        }
+      }
+    },
+    {
+      "position": 13,
+      "text": "of",
+      "lemma": "strong:G3137 lemma.TR:μαριας",
+      "morph": "robinson:N-GSF",
+      "strongs": [
+        "G3137"
+      ],
+      "metadata": {
+        "src": "11"
+      },
+      "source": {
+        "lemma": "strong:G3137 lemma.TR:μαριας",
+        "morph": "robinson:N-GSF",
+        "attrs": {
+          "src": "11",
+          "lemma": "strong:G3137 lemma.TR:μαριας",
+          "morph": "robinson:N-GSF"
+        }
+      }
+    },
+    {
+      "position": 14,
+      "text": "Mary",
+      "lemma": "strong:G3137 lemma.TR:μαριας",
+      "morph": "robinson:N-GSF",
+      "strongs": [
+        "G3137"
+      ],
+      "metadata": {
+        "src": "11"
+      },
+      "source": {
+        "lemma": "strong:G3137 lemma.TR:μαριας",
+        "morph": "robinson:N-GSF",
+        "attrs": {
+          "src": "11",
+          "lemma": "strong:G3137 lemma.TR:μαριας",
+          "morph": "robinson:N-GSF"
+        }
+      }
+    },
+    {
+      "position": 15,
+      "text": "and",
+      "lemma": "strong:G2532 lemma.TR:και",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G2532"
+      ],
+      "metadata": {
+        "src": "12"
+      },
+      "source": {
+        "lemma": "strong:G2532 lemma.TR:και",
+        "morph": "robinson:CONJ",
+        "attrs": {
+          "src": "12",
+          "lemma": "strong:G2532 lemma.TR:και",
+          "morph": "robinson:CONJ"
+        }
+      }
+    },
+    {
+      "position": 16,
+      "text": "her",
+      "lemma": "strong:G846 lemma.TR:αυτης",
+      "morph": "robinson:P-GSF",
+      "strongs": [
+        "G846"
+      ],
+      "metadata": {
+        "src": "16"
+      },
+      "source": {
+        "lemma": "strong:G846 lemma.TR:αυτης",
+        "morph": "robinson:P-GSF",
+        "attrs": {
+          "src": "16",
+          "lemma": "strong:G846 lemma.TR:αυτης",
+          "morph": "robinson:P-GSF"
+        }
+      }
+    },
+    {
+      "position": 17,
+      "text": "sister",
+      "lemma": "strong:G3588 strong:G79 lemma.TR:της lemma.TR:αδελφης",
+      "morph": "robinson:T-GSF robinson:N-GSF",
+      "strongs": [
+        "G3588"
+      ],
+      "metadata": {
+        "src": "14 15"
+      },
+      "source": {
+        "lemma": "strong:G3588 strong:G79 lemma.TR:της lemma.TR:αδελφης",
+        "morph": "robinson:T-GSF robinson:N-GSF",
+        "attrs": {
+          "src": "14 15",
+          "lemma": "strong:G3588 strong:G79 lemma.TR:της lemma.TR:αδελφης",
+          "morph": "robinson:T-GSF robinson:N-GSF"
+        }
+      }
+    },
+    {
+      "position": 18,
+      "text": "Martha.",
+      "lemma": "strong:G3136 lemma.TR:μαρθας",
+      "morph": "robinson:N-GSF",
+      "strongs": [
+        "G3136"
+      ],
+      "metadata": {
+        "src": "13"
+      },
+      "source": {
+        "lemma": "strong:G3136 lemma.TR:μαρθας",
+        "morph": "robinson:N-GSF",
+        "attrs": {
+          "src": "13",
+          "lemma": "strong:G3136 lemma.TR:μαρθας",
+          "morph": "robinson:N-GSF"
+        }
+      }
+    }
+  ]
+}

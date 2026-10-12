@@ -1,0 +1,428 @@
+{
+  "text": "For godly sorrow worketh repentance to salvation not to be repented of: but the sorrow of the world worketh death.",
+  "words": [
+    {
+      "position": 1,
+      "text": "For",
+      "lemma": "strong:G1063 lemma.TR:γαρ",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G1063"
+      ],
+      "metadata": {
+        "src": "2"
+      },
+      "source": {
+        "lemma": "strong:G1063 lemma.TR:γαρ",
+        "morph": "robinson:CONJ",
+        "attrs": {
+          "src": "2",
+          "lemma": "strong:G1063 lemma.TR:γαρ",
+          "morph": "robinson:CONJ"
+        }
+      }
+    },
+    {
+      "position": 2,
+      "text": "godly",
+      "lemma": "strong:G2316 lemma.TR:θεον",
+      "morph": "robinson:N-ASM",
+      "strongs": [
+        "G2316"
+      ],
+      "metadata": {
+        "src": "4"
+      },
+      "source": {
+        "lemma": "strong:G2316 lemma.TR:θεον",
+        "morph": "robinson:N-ASM",
+        "attrs": {
+          "src": "4",
+          "lemma": "strong:G2316 lemma.TR:θεον",
+          "morph": "robinson:N-ASM"
+        }
+      }
+    },
+    {
+      "position": 3,
+      "text": "sorrow",
+      "lemma": "strong:G3077 lemma.TR:λυπη",
+      "morph": "robinson:N-NSF",
+      "strongs": [
+        "G3077"
+      ],
+      "metadata": {
+        "src": "5"
+      },
+      "source": {
+        "lemma": "strong:G3077 lemma.TR:λυπη",
+        "morph": "robinson:N-NSF",
+        "attrs": {
+          "src": "5",
+          "lemma": "strong:G3077 lemma.TR:λυπη",
+          "morph": "robinson:N-NSF"
+        }
+      }
+    },
+    {
+      "position": 4,
+      "text": "worketh",
+      "lemma": "strong:G2716 lemma.TR:κατεργαζεται",
+      "morph": "robinson:V-PNI-3S",
+      "strongs": [
+        "G2716"
+      ],
+      "metadata": {
+        "src": "10"
+      },
+      "source": {
+        "lemma": "strong:G2716 lemma.TR:κατεργαζεται",
+        "morph": "robinson:V-PNI-3S",
+        "attrs": {
+          "src": "10",
+          "lemma": "strong:G2716 lemma.TR:κατεργαζεται",
+          "morph": "robinson:V-PNI-3S"
+        }
+      }
+    },
+    {
+      "position": 5,
+      "text": "repentance",
+      "lemma": "strong:G3341 lemma.TR:μετανοιαν",
+      "morph": "robinson:N-ASF",
+      "strongs": [
+        "G3341"
+      ],
+      "metadata": {
+        "src": "6"
+      },
+      "source": {
+        "lemma": "strong:G3341 lemma.TR:μετανοιαν",
+        "morph": "robinson:N-ASF",
+        "attrs": {
+          "src": "6",
+          "lemma": "strong:G3341 lemma.TR:μετανοιαν",
+          "morph": "robinson:N-ASF"
+        }
+      }
+    },
+    {
+      "position": 6,
+      "text": "to",
+      "lemma": "strong:G1519 lemma.TR:εις",
+      "morph": "robinson:PREP",
+      "strongs": [
+        "G1519"
+      ],
+      "metadata": {
+        "src": "7"
+      },
+      "source": {
+        "lemma": "strong:G1519 lemma.TR:εις",
+        "morph": "robinson:PREP",
+        "attrs": {
+          "src": "7",
+          "lemma": "strong:G1519 lemma.TR:εις",
+          "morph": "robinson:PREP"
+        }
+      }
+    },
+    {
+      "position": 7,
+      "text": "salvation",
+      "lemma": "strong:G4991 lemma.TR:σωτηριαν",
+      "morph": "robinson:N-ASF",
+      "strongs": [
+        "G4991"
+      ],
+      "metadata": {
+        "src": "8"
+      },
+      "source": {
+        "lemma": "strong:G4991 lemma.TR:σωτηριαν",
+        "morph": "robinson:N-ASF",
+        "attrs": {
+          "src": "8",
+          "lemma": "strong:G4991 lemma.TR:σωτηριαν",
+          "morph": "robinson:N-ASF"
+        }
+      }
+    },
+    {
+      "position": 8,
+      "text": "not",
+      "lemma": "strong:G278 lemma.TR:αμεταμελητον",
+      "morph": "robinson:A-ASF",
+      "strongs": [
+        "G278"
+      ],
+      "metadata": {
+        "src": "9"
+      },
+      "source": {
+        "lemma": "strong:G278 lemma.TR:αμεταμελητον",
+        "morph": "robinson:A-ASF",
+        "attrs": {
+          "src": "9",
+          "lemma": "strong:G278 lemma.TR:αμεταμελητον",
+          "morph": "robinson:A-ASF"
+        }
+      }
+    },
+    {
+      "position": 9,
+      "text": "to",
+      "lemma": "strong:G278 lemma.TR:αμεταμελητον",
+      "morph": "robinson:A-ASF",
+      "strongs": [
+        "G278"
+      ],
+      "metadata": {
+        "src": "9"
+      },
+      "source": {
+        "lemma": "strong:G278 lemma.TR:αμεταμελητον",
+        "morph": "robinson:A-ASF",
+        "attrs": {
+          "src": "9",
+          "lemma": "strong:G278 lemma.TR:αμεταμελητον",
+          "morph": "robinson:A-ASF"
+        }
+      }
+    },
+    {
+      "position": 10,
+      "text": "be",
+      "lemma": "strong:G278 lemma.TR:αμεταμελητον",
+      "morph": "robinson:A-ASF",
+      "strongs": [
+        "G278"
+      ],
+      "metadata": {
+        "src": "9"
+      },
+      "source": {
+        "lemma": "strong:G278 lemma.TR:αμεταμελητον",
+        "morph": "robinson:A-ASF",
+        "attrs": {
+          "src": "9",
+          "lemma": "strong:G278 lemma.TR:αμεταμελητον",
+          "morph": "robinson:A-ASF"
+        }
+      }
+    },
+    {
+      "position": 11,
+      "text": "repented",
+      "lemma": "strong:G278 lemma.TR:αμεταμελητον",
+      "morph": "robinson:A-ASF",
+      "strongs": [
+        "G278"
+      ],
+      "metadata": {
+        "src": "9"
+      },
+      "source": {
+        "lemma": "strong:G278 lemma.TR:αμεταμελητον",
+        "morph": "robinson:A-ASF",
+        "attrs": {
+          "src": "9",
+          "lemma": "strong:G278 lemma.TR:αμεταμελητον",
+          "morph": "robinson:A-ASF"
+        }
+      }
+    },
+    {
+      "position": 12,
+      "text": "of:",
+      "lemma": "strong:G278 lemma.TR:αμεταμελητον",
+      "morph": "robinson:A-ASF",
+      "strongs": [
+        "G278"
+      ],
+      "metadata": {
+        "src": "9"
+      },
+      "source": {
+        "lemma": "strong:G278 lemma.TR:αμεταμελητον",
+        "morph": "robinson:A-ASF",
+        "attrs": {
+          "src": "9",
+          "lemma": "strong:G278 lemma.TR:αμεταμελητον",
+          "morph": "robinson:A-ASF"
+        }
+      }
+    },
+    {
+      "position": 13,
+      "text": "but",
+      "lemma": "strong:G1161 lemma.TR:δε",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G1161"
+      ],
+      "metadata": {
+        "src": "12"
+      },
+      "source": {
+        "lemma": "strong:G1161 lemma.TR:δε",
+        "morph": "robinson:CONJ",
+        "attrs": {
+          "src": "12",
+          "lemma": "strong:G1161 lemma.TR:δε",
+          "morph": "robinson:CONJ"
+        }
+      }
+    },
+    {
+      "position": 14,
+      "text": "the",
+      "lemma": "strong:G3077 lemma.TR:λυπη",
+      "morph": "robinson:N-NSF",
+      "strongs": [
+        "G3077"
+      ],
+      "metadata": {
+        "src": "15"
+      },
+      "source": {
+        "lemma": "strong:G3077 lemma.TR:λυπη",
+        "morph": "robinson:N-NSF",
+        "attrs": {
+          "src": "15",
+          "lemma": "strong:G3077 lemma.TR:λυπη",
+          "morph": "robinson:N-NSF"
+        }
+      }
+    },
+    {
+      "position": 15,
+      "text": "sorrow",
+      "lemma": "strong:G3077 lemma.TR:λυπη",
+      "morph": "robinson:N-NSF",
+      "strongs": [
+        "G3077"
+      ],
+      "metadata": {
+        "src": "15"
+      },
+      "source": {
+        "lemma": "strong:G3077 lemma.TR:λυπη",
+        "morph": "robinson:N-NSF",
+        "attrs": {
+          "src": "15",
+          "lemma": "strong:G3077 lemma.TR:λυπη",
+          "morph": "robinson:N-NSF"
+        }
+      }
+    },
+    {
+      "position": 16,
+      "text": "of",
+      "lemma": "strong:G3588 strong:G2889 lemma.TR:του lemma.TR:κοσμου",
+      "morph": "robinson:T-GSM robinson:N-GSM",
+      "strongs": [
+        "G3588",
+        "G2889"
+      ],
+      "metadata": {
+        "src": "13 14"
+      },
+      "source": {
+        "lemma": "strong:G3588 strong:G2889 lemma.TR:του lemma.TR:κοσμου",
+        "morph": "robinson:T-GSM robinson:N-GSM",
+        "attrs": {
+          "src": "13 14",
+          "lemma": "strong:G3588 strong:G2889 lemma.TR:του lemma.TR:κοσμου",
+          "morph": "robinson:T-GSM robinson:N-GSM"
+        }
+      }
+    },
+    {
+      "position": 17,
+      "text": "the",
+      "lemma": "strong:G3588 strong:G2889 lemma.TR:του lemma.TR:κοσμου",
+      "morph": "robinson:T-GSM robinson:N-GSM",
+      "strongs": [
+        "G3588",
+        "G2889"
+      ],
+      "metadata": {
+        "src": "13 14"
+      },
+      "source": {
+        "lemma": "strong:G3588 strong:G2889 lemma.TR:του lemma.TR:κοσμου",
+        "morph": "robinson:T-GSM robinson:N-GSM",
+        "attrs": {
+          "src": "13 14",
+          "lemma": "strong:G3588 strong:G2889 lemma.TR:του lemma.TR:κοσμου",
+          "morph": "robinson:T-GSM robinson:N-GSM"
+        }
+      }
+    },
+    {
+      "position": 18,
+      "text": "world",
+      "lemma": "strong:G3588 strong:G2889 lemma.TR:του lemma.TR:κοσμου",
+      "morph": "robinson:T-GSM robinson:N-GSM",
+      "strongs": [
+        "G3588",
+        "G2889"
+      ],
+      "metadata": {
+        "src": "13 14"
+      },
+      "source": {
+        "lemma": "strong:G3588 strong:G2889 lemma.TR:του lemma.TR:κοσμου",
+        "morph": "robinson:T-GSM robinson:N-GSM",
+        "attrs": {
+          "src": "13 14",
+          "lemma": "strong:G3588 strong:G2889 lemma.TR:του lemma.TR:κοσμου",
+          "morph": "robinson:T-GSM robinson:N-GSM"
+        }
+      }
+    },
+    {
+      "position": 19,
+      "text": "worketh",
+      "lemma": "strong:G2716 lemma.TR:κατεργαζεται",
+      "morph": "robinson:V-PNI-3S",
+      "strongs": [
+        "G2716"
+      ],
+      "metadata": {
+        "src": "17"
+      },
+      "source": {
+        "lemma": "strong:G2716 lemma.TR:κατεργαζεται",
+        "morph": "robinson:V-PNI-3S",
+        "attrs": {
+          "src": "17",
+          "lemma": "strong:G2716 lemma.TR:κατεργαζεται",
+          "morph": "robinson:V-PNI-3S"
+        }
+      }
+    },
+    {
+      "position": 20,
+      "text": "death.",
+      "lemma": "strong:G2288 lemma.TR:θανατον",
+      "morph": "robinson:N-ASM",
+      "strongs": [
+        "G2288"
+      ],
+      "metadata": {
+        "src": "16"
+      },
+      "source": {
+        "lemma": "strong:G2288 lemma.TR:θανατον",
+        "morph": "robinson:N-ASM",
+        "attrs": {
+          "src": "16",
+          "lemma": "strong:G2288 lemma.TR:θανατον",
+          "morph": "robinson:N-ASM"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,764 @@
+{
+  "text": "Paul, and Silvanus, and Timotheus, unto the church of the Thessalonians which is in God the Father and in the Lord Jesus Christ: Grace be unto you, and peace, from God our Father, and the Lord Jesus Christ.",
+  "words": [
+    {
+      "position": 1,
+      "text": "Paul,",
+      "lemma": "strong:G3972 lemma.TR:παυλος",
+      "morph": "robinson:N-NSM",
+      "strongs": [
+        "G3972"
+      ],
+      "metadata": {
+        "src": "1"
+      },
+      "source": {
+        "lemma": "strong:G3972 lemma.TR:παυλος",
+        "morph": "robinson:N-NSM",
+        "attrs": {
+          "src": "1",
+          "lemma": "strong:G3972 lemma.TR:παυλος",
+          "morph": "robinson:N-NSM"
+        }
+      }
+    },
+    {
+      "position": 2,
+      "text": "and",
+      "lemma": "strong:G2532 lemma.TR:και",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G2532"
+      ],
+      "metadata": {
+        "src": "2"
+      },
+      "source": {
+        "lemma": "strong:G2532 lemma.TR:και",
+        "morph": "robinson:CONJ",
+        "attrs": {
+          "src": "2",
+          "lemma": "strong:G2532 lemma.TR:και",
+          "morph": "robinson:CONJ"
+        }
+      }
+    },
+    {
+      "position": 3,
+      "text": "Silvanus,",
+      "lemma": "strong:G4610 lemma.TR:σιλουανος",
+      "morph": "robinson:N-NSM",
+      "strongs": [
+        "G4610"
+      ],
+      "metadata": {
+        "src": "3"
+      },
+      "source": {
+        "lemma": "strong:G4610 lemma.TR:σιλουανος",
+        "morph": "robinson:N-NSM",
+        "attrs": {
+          "src": "3",
+          "lemma": "strong:G4610 lemma.TR:σιλουανος",
+          "morph": "robinson:N-NSM"
+        }
+      }
+    },
+    {
+      "position": 4,
+      "text": "and",
+      "lemma": "strong:G2532 lemma.TR:και",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G2532"
+      ],
+      "metadata": {
+        "src": "4"
+      },
+      "source": {
+        "lemma": "strong:G2532 lemma.TR:και",
+        "morph": "robinson:CONJ",
+        "attrs": {
+          "src": "4",
+          "lemma": "strong:G2532 lemma.TR:και",
+          "morph": "robinson:CONJ"
+        }
+      }
+    },
+    {
+      "position": 5,
+      "text": "Timotheus,",
+      "lemma": "strong:G5095 lemma.TR:τιμοθεος",
+      "morph": "robinson:N-NSM",
+      "strongs": [
+        "G5095"
+      ],
+      "metadata": {
+        "src": "5"
+      },
+      "source": {
+        "lemma": "strong:G5095 lemma.TR:τιμοθεος",
+        "morph": "robinson:N-NSM",
+        "attrs": {
+          "src": "5",
+          "lemma": "strong:G5095 lemma.TR:τιμοθεος",
+          "morph": "robinson:N-NSM"
+        }
+      }
+    },
+    {
+      "position": 6,
+      "text": "unto",
+      "lemma": "strong:G3588 strong:G1577 lemma.TR:τη lemma.TR:εκκλησια",
+      "morph": "robinson:T-DSF robinson:N-DSF",
+      "strongs": [
+        "G3588",
+        "G1577"
+      ],
+      "metadata": {
+        "src": "6 7"
+      },
+      "source": {
+        "lemma": "strong:G3588 strong:G1577 lemma.TR:τη lemma.TR:εκκλησια",
+        "morph": "robinson:T-DSF robinson:N-DSF",
+        "attrs": {
+          "src": "6 7",
+          "lemma": "strong:G3588 strong:G1577 lemma.TR:τη lemma.TR:εκκλησια",
+          "morph": "robinson:T-DSF robinson:N-DSF"
+        }
+      }
+    },
+    {
+      "position": 7,
+      "text": "the",
+      "lemma": "strong:G3588 strong:G1577 lemma.TR:τη lemma.TR:εκκλησια",
+      "morph": "robinson:T-DSF robinson:N-DSF",
+      "strongs": [
+        "G3588",
+        "G1577"
+      ],
+      "metadata": {
+        "src": "6 7"
+      },
+      "source": {
+        "lemma": "strong:G3588 strong:G1577 lemma.TR:τη lemma.TR:εκκλησια",
+        "morph": "robinson:T-DSF robinson:N-DSF",
+        "attrs": {
+          "src": "6 7",
+          "lemma": "strong:G3588 strong:G1577 lemma.TR:τη lemma.TR:εκκλησια",
+          "morph": "robinson:T-DSF robinson:N-DSF"
+        }
+      }
+    },
+    {
+      "position": 8,
+      "text": "church",
+      "lemma": "strong:G3588 strong:G1577 lemma.TR:τη lemma.TR:εκκλησια",
+      "morph": "robinson:T-DSF robinson:N-DSF",
+      "strongs": [
+        "G3588",
+        "G1577"
+      ],
+      "metadata": {
+        "src": "6 7"
+      },
+      "source": {
+        "lemma": "strong:G3588 strong:G1577 lemma.TR:τη lemma.TR:εκκλησια",
+        "morph": "robinson:T-DSF robinson:N-DSF",
+        "attrs": {
+          "src": "6 7",
+          "lemma": "strong:G3588 strong:G1577 lemma.TR:τη lemma.TR:εκκλησια",
+          "morph": "robinson:T-DSF robinson:N-DSF"
+        }
+      }
+    },
+    {
+      "position": 9,
+      "text": "of",
+      "lemma": "strong:G2331 lemma.TR:θεσσαλονικεων",
+      "morph": "robinson:N-GPM",
+      "strongs": [
+        "G2331"
+      ],
+      "metadata": {
+        "src": "8"
+      },
+      "source": {
+        "lemma": "strong:G2331 lemma.TR:θεσσαλονικεων",
+        "morph": "robinson:N-GPM",
+        "attrs": {
+          "src": "8",
+          "lemma": "strong:G2331 lemma.TR:θεσσαλονικεων",
+          "morph": "robinson:N-GPM"
+        }
+      }
+    },
+    {
+      "position": 10,
+      "text": "the",
+      "lemma": "strong:G2331 lemma.TR:θεσσαλονικεων",
+      "morph": "robinson:N-GPM",
+      "strongs": [
+        "G2331"
+      ],
+      "metadata": {
+        "src": "8"
+      },
+      "source": {
+        "lemma": "strong:G2331 lemma.TR:θεσσαλονικεων",
+        "morph": "robinson:N-GPM",
+        "attrs": {
+          "src": "8",
+          "lemma": "strong:G2331 lemma.TR:θεσσαλονικεων",
+          "morph": "robinson:N-GPM"
+        }
+      }
+    },
+    {
+      "position": 11,
+      "text": "Thessalonians",
+      "lemma": "strong:G2331 lemma.TR:θεσσαλονικεων",
+      "morph": "robinson:N-GPM",
+      "strongs": [
+        "G2331"
+      ],
+      "metadata": {
+        "src": "8"
+      },
+      "source": {
+        "lemma": "strong:G2331 lemma.TR:θεσσαλονικεων",
+        "morph": "robinson:N-GPM",
+        "attrs": {
+          "src": "8",
+          "lemma": "strong:G2331 lemma.TR:θεσσαλονικεων",
+          "morph": "robinson:N-GPM"
+        }
+      }
+    },
+    {
+      "position": 12,
+      "text": "which is",
+      "lemma": null,
+      "morph": null,
+      "metadata": {
+        "type": "added"
+      },
+      "source": {
+        "attrs": {
+          "type": "added"
+        }
+      }
+    },
+    {
+      "position": 13,
+      "text": "in",
+      "lemma": "strong:G1722 lemma.TR:εν",
+      "morph": "robinson:PREP",
+      "strongs": [
+        "G1722"
+      ],
+      "metadata": {
+        "src": "9"
+      },
+      "source": {
+        "lemma": "strong:G1722 lemma.TR:εν",
+        "morph": "robinson:PREP",
+        "attrs": {
+          "src": "9",
+          "lemma": "strong:G1722 lemma.TR:εν",
+          "morph": "robinson:PREP"
+        }
+      }
+    },
+    {
+      "position": 14,
+      "text": "God",
+      "lemma": "strong:G2316 lemma.TR:θεω",
+      "morph": "robinson:N-DSM",
+      "strongs": [
+        "G2316"
+      ],
+      "metadata": {
+        "src": "10"
+      },
+      "source": {
+        "lemma": "strong:G2316 lemma.TR:θεω",
+        "morph": "robinson:N-DSM",
+        "attrs": {
+          "src": "10",
+          "lemma": "strong:G2316 lemma.TR:θεω",
+          "morph": "robinson:N-DSM"
+        }
+      }
+    },
+    {
+      "position": 15,
+      "text": "the",
+      "lemma": "strong:G3962 lemma.TR:πατρι",
+      "morph": "robinson:N-DSM",
+      "strongs": [
+        "G3962"
+      ],
+      "metadata": {
+        "src": "11"
+      },
+      "source": {
+        "lemma": "strong:G3962 lemma.TR:πατρι",
+        "morph": "robinson:N-DSM",
+        "attrs": {
+          "src": "11",
+          "lemma": "strong:G3962 lemma.TR:πατρι",
+          "morph": "robinson:N-DSM"
+        }
+      }
+    },
+    {
+      "position": 16,
+      "text": "Father",
+      "lemma": "strong:G3962 lemma.TR:πατρι",
+      "morph": "robinson:N-DSM",
+      "strongs": [
+        "G3962"
+      ],
+      "metadata": {
+        "src": "11"
+      },
+      "source": {
+        "lemma": "strong:G3962 lemma.TR:πατρι",
+        "morph": "robinson:N-DSM",
+        "attrs": {
+          "src": "11",
+          "lemma": "strong:G3962 lemma.TR:πατρι",
+          "morph": "robinson:N-DSM"
+        }
+      }
+    },
+    {
+      "position": 17,
+      "text": "and",
+      "lemma": "strong:G2532 lemma.TR:και",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G2532"
+      ],
+      "metadata": {
+        "src": "12"
+      },
+      "source": {
+        "lemma": "strong:G2532 lemma.TR:και",
+        "morph": "robinson:CONJ",
+        "attrs": {
+          "src": "12",
+          "lemma": "strong:G2532 lemma.TR:και",
+          "morph": "robinson:CONJ"
+        }
+      }
+    },
+    {
+      "position": 18,
+      "text": "in",
+      "lemma": null,
+      "morph": null,
+      "metadata": {
+        "type": "added"
+      },
+      "source": {
+        "attrs": {
+          "type": "added"
+        }
+      }
+    },
+    {
+      "position": 19,
+      "text": "the",
+      "lemma": "strong:G2962 lemma.TR:κυριω",
+      "morph": "robinson:N-DSM",
+      "strongs": [
+        "G2962"
+      ],
+      "metadata": {
+        "src": "13"
+      },
+      "source": {
+        "lemma": "strong:G2962 lemma.TR:κυριω",
+        "morph": "robinson:N-DSM",
+        "attrs": {
+          "src": "13",
+          "lemma": "strong:G2962 lemma.TR:κυριω",
+          "morph": "robinson:N-DSM"
+        }
+      }
+    },
+    {
+      "position": 20,
+      "text": "Lord",
+      "lemma": "strong:G2962 lemma.TR:κυριω",
+      "morph": "robinson:N-DSM",
+      "strongs": [
+        "G2962"
+      ],
+      "metadata": {
+        "src": "13"
+      },
+      "source": {
+        "lemma": "strong:G2962 lemma.TR:κυριω",
+        "morph": "robinson:N-DSM",
+        "attrs": {
+          "src": "13",
+          "lemma": "strong:G2962 lemma.TR:κυριω",
+          "morph": "robinson:N-DSM"
+        }
+      }
+    },
+    {
+      "position": 21,
+      "text": "Jesus",
+      "lemma": "strong:G2424 lemma.TR:ιησου",
+      "morph": "robinson:N-DSM",
+      "strongs": [
+        "G2424"
+      ],
+      "metadata": {
+        "src": "14"
+      },
+      "source": {
+        "lemma": "strong:G2424 lemma.TR:ιησου",
+        "morph": "robinson:N-DSM",
+        "attrs": {
+          "src": "14",
+          "lemma": "strong:G2424 lemma.TR:ιησου",
+          "morph": "robinson:N-DSM"
+        }
+      }
+    },
+    {
+      "position": 22,
+      "text": "Christ:",
+      "lemma": "strong:G5547 lemma.TR:χριστω",
+      "morph": "robinson:N-DSM",
+      "strongs": [
+        "G5547"
+      ],
+      "metadata": {
+        "src": "15"
+      },
+      "source": {
+        "lemma": "strong:G5547 lemma.TR:χριστω",
+        "morph": "robinson:N-DSM",
+        "attrs": {
+          "src": "15",
+          "lemma": "strong:G5547 lemma.TR:χριστω",
+          "morph": "robinson:N-DSM"
+        }
+      }
+    },
+    {
+      "position": 23,
+      "text": "Grace",
+      "lemma": "strong:G5485 lemma.TR:χαρις",
+      "morph": "robinson:N-NSF",
+      "strongs": [
+        "G5485"
+      ],
+      "metadata": {
+        "src": "16"
+      },
+      "source": {
+        "lemma": "strong:G5485 lemma.TR:χαρις",
+        "morph": "robinson:N-NSF",
+        "attrs": {
+          "src": "16",
+          "lemma": "strong:G5485 lemma.TR:χαρις",
+          "morph": "robinson:N-NSF"
+        }
+      }
+    },
+    {
+      "position": 24,
+      "text": "be",
+      "lemma": null,
+      "morph": null,
+      "metadata": {
+        "type": "added"
+      },
+      "source": {
+        "attrs": {
+          "type": "added"
+        }
+      }
+    },
+    {
+      "position": 25,
+      "text": "unto",
+      "lemma": "strong:G4771 lemma.TR:υμιν",
+      "morph": "robinson:P-2DP",
+      "strongs": [
+        "G4771"
+      ],
+      "metadata": {
+        "src": "17"
+      },
+      "source": {
+        "lemma": "strong:G4771 lemma.TR:υμιν",
+        "morph": "robinson:P-2DP",
+        "attrs": {
+          "src": "17",
+          "lemma": "strong:G4771 lemma.TR:υμιν",
+          "morph": "robinson:P-2DP"
+        }
+      }
+    },
+    {
+      "position": 26,
+      "text": "you,",
+      "lemma": "strong:G4771 lemma.TR:υμιν",
+      "morph": "robinson:P-2DP",
+      "strongs": [
+        "G4771"
+      ],
+      "metadata": {
+        "src": "17"
+      },
+      "source": {
+        "lemma": "strong:G4771 lemma.TR:υμιν",
+        "morph": "robinson:P-2DP",
+        "attrs": {
+          "src": "17",
+          "lemma": "strong:G4771 lemma.TR:υμιν",
+          "morph": "robinson:P-2DP"
+        }
+      }
+    },
+    {
+      "position": 27,
+      "text": "and",
+      "lemma": "strong:G2532 lemma.TR:και",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G2532"
+      ],
+      "metadata": {
+        "src": "18"
+      },
+      "source": {
+        "lemma": "strong:G2532 lemma.TR:και",
+        "morph": "robinson:CONJ",
+        "attrs": {
+          "src": "18",
+          "lemma": "strong:G2532 lemma.TR:και",
+          "morph": "robinson:CONJ"
+        }
+      }
+    },
+    {
+      "position": 28,
+      "text": "peace,",
+      "lemma": "strong:G1515 lemma.TR:ειρηνη",
+      "morph": "robinson:N-NSF",
+      "strongs": [
+        "G1515"
+      ],
+      "metadata": {
+        "src": "19"
+      },
+      "source": {
+        "lemma": "strong:G1515 lemma.TR:ειρηνη",
+        "morph": "robinson:N-NSF",
+        "attrs": {
+          "src": "19",
+          "lemma": "strong:G1515 lemma.TR:ειρηνη",
+          "morph": "robinson:N-NSF"
+        }
+      }
+    },
+    {
+      "position": 29,
+      "text": "from",
+      "lemma": "strong:G575 lemma.TR:απο",
+      "morph": "robinson:PREP",
+      "strongs": [
+        "G575"
+      ],
+      "metadata": {
+        "src": "20"
+      },
+      "source": {
+        "lemma": "strong:G575 lemma.TR:απο",
+        "morph": "robinson:PREP",
+        "attrs": {
+          "src": "20",
+          "lemma": "strong:G575 lemma.TR:απο",
+          "morph": "robinson:PREP"
+        }
+      }
+    },
+    {
+      "position": 30,
+      "text": "God",
+      "lemma": "strong:G2316 lemma.TR:θεου",
+      "morph": "robinson:N-GSM",
+      "strongs": [
+        "G2316"
+      ],
+      "metadata": {
+        "src": "21"
+      },
+      "source": {
+        "lemma": "strong:G2316 lemma.TR:θεου",
+        "morph": "robinson:N-GSM",
+        "attrs": {
+          "src": "21",
+          "lemma": "strong:G2316 lemma.TR:θεου",
+          "morph": "robinson:N-GSM"
+        }
+      }
+    },
+    {
+      "position": 31,
+      "text": "our",
+      "lemma": "strong:G1473 lemma.TR:ημων",
+      "morph": "robinson:P-1GP",
+      "strongs": [
+        "G1473"
+      ],
+      "metadata": {
+        "src": "23"
+      },
+      "source": {
+        "lemma": "strong:G1473 lemma.TR:ημων",
+        "morph": "robinson:P-1GP",
+        "attrs": {
+          "src": "23",
+          "lemma": "strong:G1473 lemma.TR:ημων",
+          "morph": "robinson:P-1GP"
+        }
+      }
+    },
+    {
+      "position": 32,
+      "text": "Father,",
+      "lemma": "strong:G3962 lemma.TR:πατρος",
+      "morph": "robinson:N-GSM",
+      "strongs": [
+        "G3962"
+      ],
+      "metadata": {
+        "src": "22"
+      },
+      "source": {
+        "lemma": "strong:G3962 lemma.TR:πατρος",
+        "morph": "robinson:N-GSM",
+        "attrs": {
+          "src": "22",
+          "lemma": "strong:G3962 lemma.TR:πατρος",
+          "morph": "robinson:N-GSM"
+        }
+      }
+    },
+    {
+      "position": 33,
+      "text": "and",
+      "lemma": "strong:G2532 lemma.TR:και",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G2532"
+      ],
+      "metadata": {
+        "src": "24"
+      },
+      "source": {
+        "lemma": "strong:G2532 lemma.TR:και",
+        "morph": "robinson:CONJ",
+        "attrs": {
+          "src": "24",
+          "lemma": "strong:G2532 lemma.TR:και",
+          "morph": "robinson:CONJ"
+        }
+      }
+    },
+    {
+      "position": 34,
+      "text": "the",
+      "lemma": "strong:G2962 lemma.TR:κυριου",
+      "morph": "robinson:N-GSM",
+      "strongs": [
+        "G2962"
+      ],
+      "metadata": {
+        "src": "25"
+      },
+      "source": {
+        "lemma": "strong:G2962 lemma.TR:κυριου",
+        "morph": "robinson:N-GSM",
+        "attrs": {
+          "src": "25",
+          "lemma": "strong:G2962 lemma.TR:κυριου",
+          "morph": "robinson:N-GSM"
+        }
+      }
+    },
+    {
+      "position": 35,
+      "text": "Lord",
+      "lemma": "strong:G2962 lemma.TR:κυριου",
+      "morph": "robinson:N-GSM",
+      "strongs": [
+        "G2962"
+      ],
+      "metadata": {
+        "src": "25"
+      },
+      "source": {
+        "lemma": "strong:G2962 lemma.TR:κυριου",
+        "morph": "robinson:N-GSM",
+        "attrs": {
+          "src": "25",
+          "lemma": "strong:G2962 lemma.TR:κυριου",
+          "morph": "robinson:N-GSM"
+        }
+      }
+    },
+    {
+      "position": 36,
+      "text": "Jesus",
+      "lemma": "strong:G2424 lemma.TR:ιησου",
+      "morph": "robinson:N-GSM",
+      "strongs": [
+        "G2424"
+      ],
+      "metadata": {
+        "src": "26"
+      },
+      "source": {
+        "lemma": "strong:G2424 lemma.TR:ιησου",
+        "morph": "robinson:N-GSM",
+        "attrs": {
+          "src": "26",
+          "lemma": "strong:G2424 lemma.TR:ιησου",
+          "morph": "robinson:N-GSM"
+        }
+      }
+    },
+    {
+      "position": 37,
+      "text": "Christ.",
+      "lemma": "strong:G5547 lemma.TR:χριστου",
+      "morph": "robinson:N-GSM",
+      "strongs": [
+        "G5547"
+      ],
+      "metadata": {
+        "src": "27"
+      },
+      "source": {
+        "lemma": "strong:G5547 lemma.TR:χριστου",
+        "morph": "robinson:N-GSM",
+        "attrs": {
+          "src": "27",
+          "lemma": "strong:G5547 lemma.TR:χριστου",
+          "morph": "robinson:N-GSM"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,224 @@
+{
+  "text": "God forbid: for then how shall God judge the world?",
+  "words": [
+    {
+      "position": 1,
+      "text": "God",
+      "lemma": "strong:G3361 strong:G1096 lemma.TR:μη lemma.TR:γενοιτο",
+      "morph": "robinson:PRT-N robinson:V-2ADO-3S",
+      "strongs": [
+        "G3361",
+        "G1096"
+      ],
+      "metadata": {
+        "src": "1 2"
+      },
+      "source": {
+        "lemma": "strong:G3361 strong:G1096 lemma.TR:μη lemma.TR:γενοιτο",
+        "morph": "robinson:PRT-N robinson:V-2ADO-3S",
+        "attrs": {
+          "src": "1 2",
+          "lemma": "strong:G3361 strong:G1096 lemma.TR:μη lemma.TR:γενοιτο",
+          "morph": "robinson:PRT-N robinson:V-2ADO-3S"
+        }
+      }
+    },
+    {
+      "position": 2,
+      "text": "forbid:",
+      "lemma": "strong:G3361 strong:G1096 lemma.TR:μη lemma.TR:γενοιτο",
+      "morph": "robinson:PRT-N robinson:V-2ADO-3S",
+      "strongs": [
+        "G3361",
+        "G1096"
+      ],
+      "metadata": {
+        "src": "1 2"
+      },
+      "source": {
+        "lemma": "strong:G3361 strong:G1096 lemma.TR:μη lemma.TR:γενοιτο",
+        "morph": "robinson:PRT-N robinson:V-2ADO-3S",
+        "attrs": {
+          "src": "1 2",
+          "lemma": "strong:G3361 strong:G1096 lemma.TR:μη lemma.TR:γενοιτο",
+          "morph": "robinson:PRT-N robinson:V-2ADO-3S"
+        }
+      }
+    },
+    {
+      "position": 3,
+      "text": "for",
+      "lemma": "strong:G1893 lemma.TR:επει",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G1893"
+      ],
+      "metadata": {
+        "src": "3"
+      },
+      "source": {
+        "lemma": "strong:G1893 lemma.TR:επει",
+        "morph": "robinson:CONJ",
+        "attrs": {
+          "src": "3",
+          "lemma": "strong:G1893 lemma.TR:επει",
+          "morph": "robinson:CONJ"
+        }
+      }
+    },
+    {
+      "position": 4,
+      "text": "then",
+      "lemma": "strong:G1893 lemma.TR:επει",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G1893"
+      ],
+      "metadata": {
+        "src": "3"
+      },
+      "source": {
+        "lemma": "strong:G1893 lemma.TR:επει",
+        "morph": "robinson:CONJ",
+        "attrs": {
+          "src": "3",
+          "lemma": "strong:G1893 lemma.TR:επει",
+          "morph": "robinson:CONJ"
+        }
+      }
+    },
+    {
+      "position": 5,
+      "text": "how",
+      "lemma": "strong:G4459 lemma.TR:πως",
+      "morph": "robinson:ADV-I",
+      "strongs": [
+        "G4459"
+      ],
+      "metadata": {
+        "src": "4"
+      },
+      "source": {
+        "lemma": "strong:G4459 lemma.TR:πως",
+        "morph": "robinson:ADV-I",
+        "attrs": {
+          "src": "4",
+          "lemma": "strong:G4459 lemma.TR:πως",
+          "morph": "robinson:ADV-I"
+        }
+      }
+    },
+    {
+      "position": 6,
+      "text": "shall",
+      "lemma": "strong:G2919 lemma.TR:κρινει",
+      "morph": "robinson:V-FAI-3S",
+      "strongs": [
+        "G2919"
+      ],
+      "metadata": {
+        "src": "5",
+        "type": "x-split-2490"
+      },
+      "source": {
+        "lemma": "strong:G2919 lemma.TR:κρινει",
+        "morph": "robinson:V-FAI-3S",
+        "attrs": {
+          "src": "5",
+          "lemma": "strong:G2919 lemma.TR:κρινει",
+          "morph": "robinson:V-FAI-3S",
+          "type": "x-split-2490"
+        }
+      }
+    },
+    {
+      "position": 7,
+      "text": "God",
+      "lemma": "strong:G3588 strong:G2316 lemma.TR:ο lemma.TR:θεος",
+      "morph": "robinson:T-NSM robinson:N-NSM",
+      "strongs": [
+        "G3588",
+        "G2316"
+      ],
+      "metadata": {
+        "src": "6 7"
+      },
+      "source": {
+        "lemma": "strong:G3588 strong:G2316 lemma.TR:ο lemma.TR:θεος",
+        "morph": "robinson:T-NSM robinson:N-NSM",
+        "attrs": {
+          "src": "6 7",
+          "lemma": "strong:G3588 strong:G2316 lemma.TR:ο lemma.TR:θεος",
+          "morph": "robinson:T-NSM robinson:N-NSM"
+        }
+      }
+    },
+    {
+      "position": 8,
+      "text": "judge",
+      "lemma": "strong:G2919 lemma.TR:κρινει",
+      "morph": "robinson:V-FAI-3S",
+      "strongs": [
+        "G2919"
+      ],
+      "metadata": {
+        "src": "5",
+        "type": "x-split-2490"
+      },
+      "source": {
+        "lemma": "strong:G2919 lemma.TR:κρινει",
+        "morph": "robinson:V-FAI-3S",
+        "attrs": {
+          "src": "5",
+          "lemma": "strong:G2919 lemma.TR:κρινει",
+          "morph": "robinson:V-FAI-3S",
+          "type": "x-split-2490"
+        }
+      }
+    },
+    {
+      "position": 9,
+      "text": "the",
+      "lemma": "strong:G3588 strong:G2889 lemma.TR:τον lemma.TR:κοσμον",
+      "morph": "robinson:T-ASM robinson:N-ASM",
+      "strongs": [
+        "G3588",
+        "G2889"
+      ],
+      "metadata": {
+        "src": "8 9"
+      },
+      "source": {
+        "lemma": "strong:G3588 strong:G2889 lemma.TR:τον lemma.TR:κοσμον",
+        "morph": "robinson:T-ASM robinson:N-ASM",
+        "attrs": {
+          "src": "8 9",
+          "lemma": "strong:G3588 strong:G2889 lemma.TR:τον lemma.TR:κοσμον",
+          "morph": "robinson:T-ASM robinson:N-ASM"
+        }
+      }
+    },
+    {
+      "position": 10,
+      "text": "world?",
+      "lemma": "strong:G3588 strong:G2889 lemma.TR:τον lemma.TR:κοσμον",
+      "morph": "robinson:T-ASM robinson:N-ASM",
+      "strongs": [
+        "G3588",
+        "G2889"
+      ],
+      "metadata": {
+        "src": "8 9"
+      },
+      "source": {
+        "lemma": "strong:G3588 strong:G2889 lemma.TR:τον lemma.TR:κοσμον",
+        "morph": "robinson:T-ASM robinson:N-ASM",
+        "attrs": {
+          "src": "8 9",
+          "lemma": "strong:G3588 strong:G2889 lemma.TR:τον lemma.TR:κοσμον",
+          "morph": "robinson:T-ASM robinson:N-ASM"
+        }
+      }
+    }
+  ]
+}

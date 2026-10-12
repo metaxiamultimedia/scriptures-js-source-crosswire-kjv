@@ -1,0 +1,47 @@
+{
+  "text": "Rejoice evermore.",
+  "words": [
+    {
+      "position": 1,
+      "text": "Rejoice",
+      "lemma": "strong:G5463 lemma.TR:χαιρετε",
+      "morph": "robinson:V-PAM-2P",
+      "strongs": [
+        "G5463"
+      ],
+      "metadata": {
+        "src": "2"
+      },
+      "source": {
+        "lemma": "strong:G5463 lemma.TR:χαιρετε",
+        "morph": "robinson:V-PAM-2P",
+        "attrs": {
+          "src": "2",
+          "lemma": "strong:G5463 lemma.TR:χαιρετε",
+          "morph": "robinson:V-PAM-2P"
+        }
+      }
+    },
+    {
+      "position": 2,
+      "text": "evermore.",
+      "lemma": "strong:G3842 lemma.TR:παντοτε",
+      "morph": "robinson:ADV",
+      "strongs": [
+        "G3842"
+      ],
+      "metadata": {
+        "src": "1"
+      },
+      "source": {
+        "lemma": "strong:G3842 lemma.TR:παντοτε",
+        "morph": "robinson:ADV",
+        "attrs": {
+          "src": "1",
+          "lemma": "strong:G3842 lemma.TR:παντοτε",
+          "morph": "robinson:ADV"
+        }
+      }
+    }
+  ]
+}

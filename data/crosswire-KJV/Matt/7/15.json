@@ -1,0 +1,364 @@
+{
+  "text": "Beware of false prophets, which come to you in sheep’s clothing, but inwardly they are ravening wolves.",
+  "words": [
+    {
+      "position": 1,
+      "text": "Beware",
+      "lemma": "strong:G4337 lemma.TR:προσεχετε",
+      "morph": "robinson:V-PAM-2P",
+      "strongs": [
+        "G4337"
+      ],
+      "metadata": {
+        "src": "1"
+      },
+      "source": {
+        "lemma": "strong:G4337 lemma.TR:προσεχετε",
+        "morph": "robinson:V-PAM-2P",
+        "attrs": {
+          "src": "1",
+          "lemma": "strong:G4337 lemma.TR:προσεχετε",
+          "morph": "robinson:V-PAM-2P"
+        }
+      }
+    },
+    {
+      "position": 2,
+      "text": "of",
+      "lemma": "strong:G575 lemma.TR:απο",
+      "morph": "robinson:PREP",
+      "strongs": [
+        "G575"
+      ],
+      "metadata": {
+        "src": "3"
+      },
+      "source": {
+        "lemma": "strong:G575 lemma.TR:απο",
+        "morph": "robinson:PREP",
+        "attrs": {
+          "src": "3",
+          "lemma": "strong:G575 lemma.TR:απο",
+          "morph": "robinson:PREP"
+        }
+      }
+    },
+    {
+      "position": 3,
+      "text": "false",
+      "lemma": "strong:G3588 strong:G5578 lemma.TR:των lemma.TR:ψευδοπροφητων",
+      "morph": "robinson:T-GPM robinson:N-GPM",
+      "strongs": [
+        "G3588",
+        "G5578"
+      ],
+      "metadata": {
+        "src": "4 5"
+      },
+      "source": {
+        "lemma": "strong:G3588 strong:G5578 lemma.TR:των lemma.TR:ψευδοπροφητων",
+        "morph": "robinson:T-GPM robinson:N-GPM",
+        "attrs": {
+          "src": "4 5",
+          "lemma": "strong:G3588 strong:G5578 lemma.TR:των lemma.TR:ψευδοπροφητων",
+          "morph": "robinson:T-GPM robinson:N-GPM"
+        }
+      }
+    },
+    {
+      "position": 4,
+      "text": "prophets,",
+      "lemma": "strong:G3588 strong:G5578 lemma.TR:των lemma.TR:ψευδοπροφητων",
+      "morph": "robinson:T-GPM robinson:N-GPM",
+      "strongs": [
+        "G3588",
+        "G5578"
+      ],
+      "metadata": {
+        "src": "4 5"
+      },
+      "source": {
+        "lemma": "strong:G3588 strong:G5578 lemma.TR:των lemma.TR:ψευδοπροφητων",
+        "morph": "robinson:T-GPM robinson:N-GPM",
+        "attrs": {
+          "src": "4 5",
+          "lemma": "strong:G3588 strong:G5578 lemma.TR:των lemma.TR:ψευδοπροφητων",
+          "morph": "robinson:T-GPM robinson:N-GPM"
+        }
+      }
+    },
+    {
+      "position": 5,
+      "text": "which",
+      "lemma": "strong:G3748 lemma.TR:οιτινες",
+      "morph": "robinson:R-NPM",
+      "strongs": [
+        "G3748"
+      ],
+      "metadata": {
+        "src": "6"
+      },
+      "source": {
+        "lemma": "strong:G3748 lemma.TR:οιτινες",
+        "morph": "robinson:R-NPM",
+        "attrs": {
+          "src": "6",
+          "lemma": "strong:G3748 lemma.TR:οιτινες",
+          "morph": "robinson:R-NPM"
+        }
+      }
+    },
+    {
+      "position": 6,
+      "text": "come",
+      "lemma": "strong:G2064 lemma.TR:ερχονται",
+      "morph": "robinson:V-PNI-3P",
+      "strongs": [
+        "G2064"
+      ],
+      "metadata": {
+        "src": "7"
+      },
+      "source": {
+        "lemma": "strong:G2064 lemma.TR:ερχονται",
+        "morph": "robinson:V-PNI-3P",
+        "attrs": {
+          "src": "7",
+          "lemma": "strong:G2064 lemma.TR:ερχονται",
+          "morph": "robinson:V-PNI-3P"
+        }
+      }
+    },
+    {
+      "position": 7,
+      "text": "to",
+      "lemma": "strong:G4314 lemma.TR:προς",
+      "morph": "robinson:PREP",
+      "strongs": [
+        "G4314"
+      ],
+      "metadata": {
+        "src": "8"
+      },
+      "source": {
+        "lemma": "strong:G4314 lemma.TR:προς",
+        "morph": "robinson:PREP",
+        "attrs": {
+          "src": "8",
+          "lemma": "strong:G4314 lemma.TR:προς",
+          "morph": "robinson:PREP"
+        }
+      }
+    },
+    {
+      "position": 8,
+      "text": "you",
+      "lemma": "strong:G4771 lemma.TR:υμας",
+      "morph": "robinson:P-2AP",
+      "strongs": [
+        "G4771"
+      ],
+      "metadata": {
+        "src": "9"
+      },
+      "source": {
+        "lemma": "strong:G4771 lemma.TR:υμας",
+        "morph": "robinson:P-2AP",
+        "attrs": {
+          "src": "9",
+          "lemma": "strong:G4771 lemma.TR:υμας",
+          "morph": "robinson:P-2AP"
+        }
+      }
+    },
+    {
+      "position": 9,
+      "text": "in",
+      "lemma": "strong:G1722 lemma.TR:εν",
+      "morph": "robinson:PREP",
+      "strongs": [
+        "G1722"
+      ],
+      "metadata": {
+        "src": "10"
+      },
+      "source": {
+        "lemma": "strong:G1722 lemma.TR:εν",
+        "morph": "robinson:PREP",
+        "attrs": {
+          "src": "10",
+          "lemma": "strong:G1722 lemma.TR:εν",
+          "morph": "robinson:PREP"
+        }
+      }
+    },
+    {
+      "position": 10,
+      "text": "sheep’s",
+      "lemma": "strong:G4263 lemma.TR:προβατων",
+      "morph": "robinson:N-GPN",
+      "strongs": [
+        "G4263"
+      ],
+      "metadata": {
+        "src": "12"
+      },
+      "source": {
+        "lemma": "strong:G4263 lemma.TR:προβατων",
+        "morph": "robinson:N-GPN",
+        "attrs": {
+          "src": "12",
+          "lemma": "strong:G4263 lemma.TR:προβατων",
+          "morph": "robinson:N-GPN"
+        }
+      }
+    },
+    {
+      "position": 11,
+      "text": "clothing,",
+      "lemma": "strong:G1742 lemma.TR:ενδυμασιν",
+      "morph": "robinson:N-DPN",
+      "strongs": [
+        "G1742"
+      ],
+      "metadata": {
+        "src": "11"
+      },
+      "source": {
+        "lemma": "strong:G1742 lemma.TR:ενδυμασιν",
+        "morph": "robinson:N-DPN",
+        "attrs": {
+          "src": "11",
+          "lemma": "strong:G1742 lemma.TR:ενδυμασιν",
+          "morph": "robinson:N-DPN"
+        }
+      }
+    },
+    {
+      "position": 12,
+      "text": "but",
+      "lemma": "strong:G1161 lemma.TR:δε",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G1161"
+      ],
+      "metadata": {
+        "src": "14"
+      },
+      "source": {
+        "lemma": "strong:G1161 lemma.TR:δε",
+        "morph": "robinson:CONJ",
+        "attrs": {
+          "src": "14",
+          "lemma": "strong:G1161 lemma.TR:δε",
+          "morph": "robinson:CONJ"
+        }
+      }
+    },
+    {
+      "position": 13,
+      "text": "inwardly",
+      "lemma": "strong:G2081 lemma.TR:εσωθεν",
+      "morph": "robinson:ADV",
+      "strongs": [
+        "G2081"
+      ],
+      "metadata": {
+        "src": "13"
+      },
+      "source": {
+        "lemma": "strong:G2081 lemma.TR:εσωθεν",
+        "morph": "robinson:ADV",
+        "attrs": {
+          "src": "13",
+          "lemma": "strong:G2081 lemma.TR:εσωθεν",
+          "morph": "robinson:ADV"
+        }
+      }
+    },
+    {
+      "position": 14,
+      "text": "they",
+      "lemma": "strong:G1510 lemma.TR:εισιν",
+      "morph": "robinson:V-PAI-3P",
+      "strongs": [
+        "G1510"
+      ],
+      "metadata": {
+        "src": "15"
+      },
+      "source": {
+        "lemma": "strong:G1510 lemma.TR:εισιν",
+        "morph": "robinson:V-PAI-3P",
+        "attrs": {
+          "src": "15",
+          "lemma": "strong:G1510 lemma.TR:εισιν",
+          "morph": "robinson:V-PAI-3P"
+        }
+      }
+    },
+    {
+      "position": 15,
+      "text": "are",
+      "lemma": "strong:G1510 lemma.TR:εισιν",
+      "morph": "robinson:V-PAI-3P",
+      "strongs": [
+        "G1510"
+      ],
+      "metadata": {
+        "src": "15"
+      },
+      "source": {
+        "lemma": "strong:G1510 lemma.TR:εισιν",
+        "morph": "robinson:V-PAI-3P",
+        "attrs": {
+          "src": "15",
+          "lemma": "strong:G1510 lemma.TR:εισιν",
+          "morph": "robinson:V-PAI-3P"
+        }
+      }
+    },
+    {
+      "position": 16,
+      "text": "ravening",
+      "lemma": "strong:G727 lemma.TR:αρπαγες",
+      "morph": "robinson:A-NPM",
+      "strongs": [
+        "G727"
+      ],
+      "metadata": {
+        "src": "17"
+      },
+      "source": {
+        "lemma": "strong:G727 lemma.TR:αρπαγες",
+        "morph": "robinson:A-NPM",
+        "attrs": {
+          "src": "17",
+          "lemma": "strong:G727 lemma.TR:αρπαγες",
+          "morph": "robinson:A-NPM"
+        }
+      }
+    },
+    {
+      "position": 17,
+      "text": "wolves.",
+      "lemma": "strong:G3074 lemma.TR:λυκοι",
+      "morph": "robinson:N-NPM",
+      "strongs": [
+        "G3074"
+      ],
+      "metadata": {
+        "src": "16"
+      },
+      "source": {
+        "lemma": "strong:G3074 lemma.TR:λυκοι",
+        "morph": "robinson:N-NPM",
+        "attrs": {
+          "src": "16",
+          "lemma": "strong:G3074 lemma.TR:λυκοι",
+          "morph": "robinson:N-NPM"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,187 @@
+{
+  "text": "This persuasion cometh not of him that calleth you.",
+  "words": [
+    {
+      "position": 1,
+      "text": "This",
+      "lemma": "strong:G3588 lemma.TR:η",
+      "morph": "robinson:T-NSF",
+      "strongs": [
+        "G3588"
+      ],
+      "metadata": {
+        "src": "1"
+      },
+      "source": {
+        "lemma": "strong:G3588 lemma.TR:η",
+        "morph": "robinson:T-NSF",
+        "attrs": {
+          "src": "1",
+          "lemma": "strong:G3588 lemma.TR:η",
+          "morph": "robinson:T-NSF"
+        }
+      }
+    },
+    {
+      "position": 2,
+      "text": "persuasion",
+      "lemma": "strong:G3988 lemma.TR:πεισμονη",
+      "morph": "robinson:N-NSF",
+      "strongs": [
+        "G3988"
+      ],
+      "metadata": {
+        "src": "2"
+      },
+      "source": {
+        "lemma": "strong:G3988 lemma.TR:πεισμονη",
+        "morph": "robinson:N-NSF",
+        "attrs": {
+          "src": "2",
+          "lemma": "strong:G3988 lemma.TR:πεισμονη",
+          "morph": "robinson:N-NSF"
+        }
+      }
+    },
+    {
+      "position": 3,
+      "text": "cometh",
+      "lemma": null,
+      "morph": null,
+      "metadata": {
+        "type": "added"
+      },
+      "source": {
+        "attrs": {
+          "type": "added"
+        }
+      }
+    },
+    {
+      "position": 4,
+      "text": "not",
+      "lemma": "strong:G3756 lemma.TR:ουκ",
+      "morph": "robinson:PRT-N",
+      "strongs": [
+        "G3756"
+      ],
+      "metadata": {
+        "src": "3"
+      },
+      "source": {
+        "lemma": "strong:G3756 lemma.TR:ουκ",
+        "morph": "robinson:PRT-N",
+        "attrs": {
+          "src": "3",
+          "lemma": "strong:G3756 lemma.TR:ουκ",
+          "morph": "robinson:PRT-N"
+        }
+      }
+    },
+    {
+      "position": 5,
+      "text": "of",
+      "lemma": "strong:G1537 lemma.TR:εκ",
+      "morph": "robinson:PREP",
+      "strongs": [
+        "G1537"
+      ],
+      "metadata": {
+        "src": "4"
+      },
+      "source": {
+        "lemma": "strong:G1537 lemma.TR:εκ",
+        "morph": "robinson:PREP",
+        "attrs": {
+          "src": "4",
+          "lemma": "strong:G1537 lemma.TR:εκ",
+          "morph": "robinson:PREP"
+        }
+      }
+    },
+    {
+      "position": 6,
+      "text": "him",
+      "lemma": "strong:G3588 lemma.TR:του",
+      "morph": "robinson:T-GSM",
+      "strongs": [
+        "G3588"
+      ],
+      "metadata": {
+        "src": "5"
+      },
+      "source": {
+        "lemma": "strong:G3588 lemma.TR:του",
+        "morph": "robinson:T-GSM",
+        "attrs": {
+          "src": "5",
+          "lemma": "strong:G3588 lemma.TR:του",
+          "morph": "robinson:T-GSM"
+        }
+      }
+    },
+    {
+      "position": 7,
+      "text": "that",
+      "lemma": "strong:G3588 lemma.TR:του",
+      "morph": "robinson:T-GSM",
+      "strongs": [
+        "G3588"
+      ],
+      "metadata": {
+        "src": "5"
+      },
+      "source": {
+        "lemma": "strong:G3588 lemma.TR:του",
+        "morph": "robinson:T-GSM",
+        "attrs": {
+          "src": "5",
+          "lemma": "strong:G3588 lemma.TR:του",
+          "morph": "robinson:T-GSM"
+        }
+      }
+    },
+    {
+      "position": 8,
+      "text": "calleth",
+      "lemma": "strong:G2564 lemma.TR:καλουντος",
+      "morph": "robinson:V-PAP-GSM",
+      "strongs": [
+        "G2564"
+      ],
+      "metadata": {
+        "src": "6"
+      },
+      "source": {
+        "lemma": "strong:G2564 lemma.TR:καλουντος",
+        "morph": "robinson:V-PAP-GSM",
+        "attrs": {
+          "src": "6",
+          "lemma": "strong:G2564 lemma.TR:καλουντος",
+          "morph": "robinson:V-PAP-GSM"
+        }
+      }
+    },
+    {
+      "position": 9,
+      "text": "you.",
+      "lemma": "strong:G4771 lemma.TR:υμας",
+      "morph": "robinson:P-2AP",
+      "strongs": [
+        "G4771"
+      ],
+      "metadata": {
+        "src": "7"
+      },
+      "source": {
+        "lemma": "strong:G4771 lemma.TR:υμας",
+        "morph": "robinson:P-2AP",
+        "attrs": {
+          "src": "7",
+          "lemma": "strong:G4771 lemma.TR:υμας",
+          "morph": "robinson:P-2AP"
+        }
+      }
+    }
+  ]
+}

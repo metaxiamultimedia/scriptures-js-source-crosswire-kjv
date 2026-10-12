@@ -1,0 +1,235 @@
+{
+  "text": "This man went unto Pilate, and begged the body of Jesus.",
+  "words": [
+    {
+      "position": 1,
+      "text": "This",
+      "lemma": "strong:G3778 lemma.TR:ουτος",
+      "morph": "robinson:D-NSM",
+      "strongs": [
+        "G3778"
+      ],
+      "metadata": {
+        "src": "1"
+      },
+      "source": {
+        "lemma": "strong:G3778 lemma.TR:ουτος",
+        "morph": "robinson:D-NSM",
+        "attrs": {
+          "src": "1",
+          "lemma": "strong:G3778 lemma.TR:ουτος",
+          "morph": "robinson:D-NSM"
+        }
+      }
+    },
+    {
+      "position": 2,
+      "text": "man",
+      "lemma": null,
+      "morph": null,
+      "metadata": {
+        "type": "added"
+      },
+      "source": {
+        "attrs": {
+          "type": "added"
+        }
+      }
+    },
+    {
+      "position": 3,
+      "text": "went",
+      "lemma": "strong:G4334 lemma.TR:προσελθων",
+      "morph": "robinson:V-2AAP-NSM",
+      "strongs": [
+        "G4334"
+      ],
+      "metadata": {
+        "src": "2"
+      },
+      "source": {
+        "lemma": "strong:G4334 lemma.TR:προσελθων",
+        "morph": "robinson:V-2AAP-NSM",
+        "attrs": {
+          "src": "2",
+          "lemma": "strong:G4334 lemma.TR:προσελθων",
+          "morph": "robinson:V-2AAP-NSM"
+        }
+      }
+    },
+    {
+      "position": 4,
+      "text": "unto",
+      "lemma": "strong:G3588 strong:G4091 lemma.TR:τω lemma.TR:πιλατω",
+      "morph": "robinson:T-DSM robinson:N-DSM",
+      "strongs": [
+        "G3588",
+        "G4091"
+      ],
+      "metadata": {
+        "src": "3 4"
+      },
+      "source": {
+        "lemma": "strong:G3588 strong:G4091 lemma.TR:τω lemma.TR:πιλατω",
+        "morph": "robinson:T-DSM robinson:N-DSM",
+        "attrs": {
+          "src": "3 4",
+          "lemma": "strong:G3588 strong:G4091 lemma.TR:τω lemma.TR:πιλατω",
+          "morph": "robinson:T-DSM robinson:N-DSM"
+        }
+      }
+    },
+    {
+      "position": 5,
+      "text": "Pilate,",
+      "lemma": "strong:G3588 strong:G4091 lemma.TR:τω lemma.TR:πιλατω",
+      "morph": "robinson:T-DSM robinson:N-DSM",
+      "strongs": [
+        "G3588",
+        "G4091"
+      ],
+      "metadata": {
+        "src": "3 4"
+      },
+      "source": {
+        "lemma": "strong:G3588 strong:G4091 lemma.TR:τω lemma.TR:πιλατω",
+        "morph": "robinson:T-DSM robinson:N-DSM",
+        "attrs": {
+          "src": "3 4",
+          "lemma": "strong:G3588 strong:G4091 lemma.TR:τω lemma.TR:πιλατω",
+          "morph": "robinson:T-DSM robinson:N-DSM"
+        }
+      }
+    },
+    {
+      "position": 6,
+      "text": "and",
+      "lemma": "strong:G154 lemma.TR:ητησατο",
+      "morph": "robinson:V-AMI-3S",
+      "strongs": [
+        "G154"
+      ],
+      "metadata": {
+        "src": "5"
+      },
+      "source": {
+        "lemma": "strong:G154 lemma.TR:ητησατο",
+        "morph": "robinson:V-AMI-3S",
+        "attrs": {
+          "src": "5",
+          "lemma": "strong:G154 lemma.TR:ητησατο",
+          "morph": "robinson:V-AMI-3S"
+        }
+      }
+    },
+    {
+      "position": 7,
+      "text": "begged",
+      "lemma": "strong:G154 lemma.TR:ητησατο",
+      "morph": "robinson:V-AMI-3S",
+      "strongs": [
+        "G154"
+      ],
+      "metadata": {
+        "src": "5"
+      },
+      "source": {
+        "lemma": "strong:G154 lemma.TR:ητησατο",
+        "morph": "robinson:V-AMI-3S",
+        "attrs": {
+          "src": "5",
+          "lemma": "strong:G154 lemma.TR:ητησατο",
+          "morph": "robinson:V-AMI-3S"
+        }
+      }
+    },
+    {
+      "position": 8,
+      "text": "the",
+      "lemma": "strong:G3588 strong:G4983 lemma.TR:το lemma.TR:σωμα",
+      "morph": "robinson:T-ASN robinson:N-ASN",
+      "strongs": [
+        "G3588",
+        "G4983"
+      ],
+      "metadata": {
+        "src": "6 7"
+      },
+      "source": {
+        "lemma": "strong:G3588 strong:G4983 lemma.TR:το lemma.TR:σωμα",
+        "morph": "robinson:T-ASN robinson:N-ASN",
+        "attrs": {
+          "src": "6 7",
+          "lemma": "strong:G3588 strong:G4983 lemma.TR:το lemma.TR:σωμα",
+          "morph": "robinson:T-ASN robinson:N-ASN"
+        }
+      }
+    },
+    {
+      "position": 9,
+      "text": "body",
+      "lemma": "strong:G3588 strong:G4983 lemma.TR:το lemma.TR:σωμα",
+      "morph": "robinson:T-ASN robinson:N-ASN",
+      "strongs": [
+        "G3588",
+        "G4983"
+      ],
+      "metadata": {
+        "src": "6 7"
+      },
+      "source": {
+        "lemma": "strong:G3588 strong:G4983 lemma.TR:το lemma.TR:σωμα",
+        "morph": "robinson:T-ASN robinson:N-ASN",
+        "attrs": {
+          "src": "6 7",
+          "lemma": "strong:G3588 strong:G4983 lemma.TR:το lemma.TR:σωμα",
+          "morph": "robinson:T-ASN robinson:N-ASN"
+        }
+      }
+    },
+    {
+      "position": 10,
+      "text": "of",
+      "lemma": "strong:G3588 strong:G2424 lemma.TR:του lemma.TR:ιησου",
+      "morph": "robinson:T-GSM robinson:N-GSM",
+      "strongs": [
+        "G3588",
+        "G2424"
+      ],
+      "metadata": {
+        "src": "8 9"
+      },
+      "source": {
+        "lemma": "strong:G3588 strong:G2424 lemma.TR:του lemma.TR:ιησου",
+        "morph": "robinson:T-GSM robinson:N-GSM",
+        "attrs": {
+          "src": "8 9",
+          "lemma": "strong:G3588 strong:G2424 lemma.TR:του lemma.TR:ιησου",
+          "morph": "robinson:T-GSM robinson:N-GSM"
+        }
+      }
+    },
+    {
+      "position": 11,
+      "text": "Jesus.",
+      "lemma": "strong:G3588 strong:G2424 lemma.TR:του lemma.TR:ιησου",
+      "morph": "robinson:T-GSM robinson:N-GSM",
+      "strongs": [
+        "G3588",
+        "G2424"
+      ],
+      "metadata": {
+        "src": "8 9"
+      },
+      "source": {
+        "lemma": "strong:G3588 strong:G2424 lemma.TR:του lemma.TR:ιησου",
+        "morph": "robinson:T-GSM robinson:N-GSM",
+        "attrs": {
+          "src": "8 9",
+          "lemma": "strong:G3588 strong:G2424 lemma.TR:του lemma.TR:ιησου",
+          "morph": "robinson:T-GSM robinson:N-GSM"
+        }
+      }
+    }
+  ]
+}

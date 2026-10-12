@@ -1,0 +1,217 @@
+{
+  "text": "And they told him, that Jesus of Nazareth passeth by.",
+  "words": [
+    {
+      "position": 1,
+      "text": "And",
+      "lemma": "strong:G1161 lemma.TR:δε",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G1161"
+      ],
+      "metadata": {
+        "src": "2"
+      },
+      "source": {
+        "lemma": "strong:G1161 lemma.TR:δε",
+        "morph": "robinson:CONJ",
+        "attrs": {
+          "src": "2",
+          "lemma": "strong:G1161 lemma.TR:δε",
+          "morph": "robinson:CONJ"
+        }
+      }
+    },
+    {
+      "position": 2,
+      "text": "they",
+      "lemma": "strong:G518 lemma.TR:απηγγειλαν",
+      "morph": "robinson:V-AAI-3P",
+      "strongs": [
+        "G518"
+      ],
+      "metadata": {
+        "src": "1"
+      },
+      "source": {
+        "lemma": "strong:G518 lemma.TR:απηγγειλαν",
+        "morph": "robinson:V-AAI-3P",
+        "attrs": {
+          "src": "1",
+          "lemma": "strong:G518 lemma.TR:απηγγειλαν",
+          "morph": "robinson:V-AAI-3P"
+        }
+      }
+    },
+    {
+      "position": 3,
+      "text": "told",
+      "lemma": "strong:G518 lemma.TR:απηγγειλαν",
+      "morph": "robinson:V-AAI-3P",
+      "strongs": [
+        "G518"
+      ],
+      "metadata": {
+        "src": "1"
+      },
+      "source": {
+        "lemma": "strong:G518 lemma.TR:απηγγειλαν",
+        "morph": "robinson:V-AAI-3P",
+        "attrs": {
+          "src": "1",
+          "lemma": "strong:G518 lemma.TR:απηγγειλαν",
+          "morph": "robinson:V-AAI-3P"
+        }
+      }
+    },
+    {
+      "position": 4,
+      "text": "him,",
+      "lemma": "strong:G846 lemma.TR:αυτω",
+      "morph": "robinson:P-DSM",
+      "strongs": [
+        "G846"
+      ],
+      "metadata": {
+        "src": "3"
+      },
+      "source": {
+        "lemma": "strong:G846 lemma.TR:αυτω",
+        "morph": "robinson:P-DSM",
+        "attrs": {
+          "src": "3",
+          "lemma": "strong:G846 lemma.TR:αυτω",
+          "morph": "robinson:P-DSM"
+        }
+      }
+    },
+    {
+      "position": 5,
+      "text": "that",
+      "lemma": "strong:G3754 lemma.TR:οτι",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G3754"
+      ],
+      "metadata": {
+        "src": "4"
+      },
+      "source": {
+        "lemma": "strong:G3754 lemma.TR:οτι",
+        "morph": "robinson:CONJ",
+        "attrs": {
+          "src": "4",
+          "lemma": "strong:G3754 lemma.TR:οτι",
+          "morph": "robinson:CONJ"
+        }
+      }
+    },
+    {
+      "position": 6,
+      "text": "Jesus",
+      "lemma": "strong:G2424 lemma.TR:ιησους",
+      "morph": "robinson:N-NSM",
+      "strongs": [
+        "G2424"
+      ],
+      "metadata": {
+        "src": "5"
+      },
+      "source": {
+        "lemma": "strong:G2424 lemma.TR:ιησους",
+        "morph": "robinson:N-NSM",
+        "attrs": {
+          "src": "5",
+          "lemma": "strong:G2424 lemma.TR:ιησους",
+          "morph": "robinson:N-NSM"
+        }
+      }
+    },
+    {
+      "position": 7,
+      "text": "of",
+      "lemma": "strong:G3588 strong:G3480 lemma.TR:ο lemma.TR:ναζωραιος",
+      "morph": "robinson:T-NSM robinson:N-NSM",
+      "strongs": [
+        "G3588",
+        "G3480"
+      ],
+      "metadata": {
+        "src": "6 7"
+      },
+      "source": {
+        "lemma": "strong:G3588 strong:G3480 lemma.TR:ο lemma.TR:ναζωραιος",
+        "morph": "robinson:T-NSM robinson:N-NSM",
+        "attrs": {
+          "src": "6 7",
+          "lemma": "strong:G3588 strong:G3480 lemma.TR:ο lemma.TR:ναζωραιος",
+          "morph": "robinson:T-NSM robinson:N-NSM"
+        }
+      }
+    },
+    {
+      "position": 8,
+      "text": "Nazareth",
+      "lemma": "strong:G3588 strong:G3480 lemma.TR:ο lemma.TR:ναζωραιος",
+      "morph": "robinson:T-NSM robinson:N-NSM",
+      "strongs": [
+        "G3588",
+        "G3480"
+      ],
+      "metadata": {
+        "src": "6 7"
+      },
+      "source": {
+        "lemma": "strong:G3588 strong:G3480 lemma.TR:ο lemma.TR:ναζωραιος",
+        "morph": "robinson:T-NSM robinson:N-NSM",
+        "attrs": {
+          "src": "6 7",
+          "lemma": "strong:G3588 strong:G3480 lemma.TR:ο lemma.TR:ναζωραιος",
+          "morph": "robinson:T-NSM robinson:N-NSM"
+        }
+      }
+    },
+    {
+      "position": 9,
+      "text": "passeth",
+      "lemma": "strong:G3928 lemma.TR:παρερχεται",
+      "morph": "robinson:V-PNI-3S",
+      "strongs": [
+        "G3928"
+      ],
+      "metadata": {
+        "src": "8"
+      },
+      "source": {
+        "lemma": "strong:G3928 lemma.TR:παρερχεται",
+        "morph": "robinson:V-PNI-3S",
+        "attrs": {
+          "src": "8",
+          "lemma": "strong:G3928 lemma.TR:παρερχεται",
+          "morph": "robinson:V-PNI-3S"
+        }
+      }
+    },
+    {
+      "position": 10,
+      "text": "by.",
+      "lemma": "strong:G3928 lemma.TR:παρερχεται",
+      "morph": "robinson:V-PNI-3S",
+      "strongs": [
+        "G3928"
+      ],
+      "metadata": {
+        "src": "8"
+      },
+      "source": {
+        "lemma": "strong:G3928 lemma.TR:παρερχεται",
+        "morph": "robinson:V-PNI-3S",
+        "attrs": {
+          "src": "8",
+          "lemma": "strong:G3928 lemma.TR:παρερχεται",
+          "morph": "robinson:V-PNI-3S"
+        }
+      }
+    }
+  ]
+}

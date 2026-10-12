@@ -1,0 +1,327 @@
+{
+  "text": "For every house is builded by some man; but he that built all things is God.",
+  "words": [
+    {
+      "position": 1,
+      "text": "For",
+      "lemma": "strong:G1063 lemma.TR:γαρ",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G1063"
+      ],
+      "metadata": {
+        "src": "2"
+      },
+      "source": {
+        "lemma": "strong:G1063 lemma.TR:γαρ",
+        "morph": "robinson:CONJ",
+        "attrs": {
+          "src": "2",
+          "lemma": "strong:G1063 lemma.TR:γαρ",
+          "morph": "robinson:CONJ"
+        }
+      }
+    },
+    {
+      "position": 2,
+      "text": "every",
+      "lemma": "strong:G3956 lemma.TR:πας",
+      "morph": "robinson:A-NSM",
+      "strongs": [
+        "G3956"
+      ],
+      "metadata": {
+        "src": "1"
+      },
+      "source": {
+        "lemma": "strong:G3956 lemma.TR:πας",
+        "morph": "robinson:A-NSM",
+        "attrs": {
+          "src": "1",
+          "lemma": "strong:G3956 lemma.TR:πας",
+          "morph": "robinson:A-NSM"
+        }
+      }
+    },
+    {
+      "position": 3,
+      "text": "house",
+      "lemma": "strong:G3624 lemma.TR:οικος",
+      "morph": "robinson:N-NSM",
+      "strongs": [
+        "G3624"
+      ],
+      "metadata": {
+        "src": "3"
+      },
+      "source": {
+        "lemma": "strong:G3624 lemma.TR:οικος",
+        "morph": "robinson:N-NSM",
+        "attrs": {
+          "src": "3",
+          "lemma": "strong:G3624 lemma.TR:οικος",
+          "morph": "robinson:N-NSM"
+        }
+      }
+    },
+    {
+      "position": 4,
+      "text": "is",
+      "lemma": "strong:G2680 lemma.TR:κατασκευαζεται",
+      "morph": "robinson:V-PPI-3S",
+      "strongs": [
+        "G2680"
+      ],
+      "metadata": {
+        "src": "4"
+      },
+      "source": {
+        "lemma": "strong:G2680 lemma.TR:κατασκευαζεται",
+        "morph": "robinson:V-PPI-3S",
+        "attrs": {
+          "src": "4",
+          "lemma": "strong:G2680 lemma.TR:κατασκευαζεται",
+          "morph": "robinson:V-PPI-3S"
+        }
+      }
+    },
+    {
+      "position": 5,
+      "text": "builded",
+      "lemma": "strong:G2680 lemma.TR:κατασκευαζεται",
+      "morph": "robinson:V-PPI-3S",
+      "strongs": [
+        "G2680"
+      ],
+      "metadata": {
+        "src": "4"
+      },
+      "source": {
+        "lemma": "strong:G2680 lemma.TR:κατασκευαζεται",
+        "morph": "robinson:V-PPI-3S",
+        "attrs": {
+          "src": "4",
+          "lemma": "strong:G2680 lemma.TR:κατασκευαζεται",
+          "morph": "robinson:V-PPI-3S"
+        }
+      }
+    },
+    {
+      "position": 6,
+      "text": "by",
+      "lemma": "strong:G5259 lemma.TR:υπο",
+      "morph": "robinson:PREP",
+      "strongs": [
+        "G5259"
+      ],
+      "metadata": {
+        "src": "5"
+      },
+      "source": {
+        "lemma": "strong:G5259 lemma.TR:υπο",
+        "morph": "robinson:PREP",
+        "attrs": {
+          "src": "5",
+          "lemma": "strong:G5259 lemma.TR:υπο",
+          "morph": "robinson:PREP"
+        }
+      }
+    },
+    {
+      "position": 7,
+      "text": "some",
+      "lemma": "strong:G5100 lemma.TR:τινος",
+      "morph": "robinson:X-GSM",
+      "strongs": [
+        "G5100"
+      ],
+      "metadata": {
+        "src": "6"
+      },
+      "source": {
+        "lemma": "strong:G5100 lemma.TR:τινος",
+        "morph": "robinson:X-GSM",
+        "attrs": {
+          "src": "6",
+          "lemma": "strong:G5100 lemma.TR:τινος",
+          "morph": "robinson:X-GSM"
+        }
+      }
+    },
+    {
+      "position": 8,
+      "text": "man;",
+      "lemma": null,
+      "morph": null,
+      "metadata": {
+        "type": "added"
+      },
+      "source": {
+        "attrs": {
+          "type": "added"
+        }
+      }
+    },
+    {
+      "position": 9,
+      "text": "but",
+      "lemma": "strong:G1161 lemma.TR:δε",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G1161"
+      ],
+      "metadata": {
+        "src": "8"
+      },
+      "source": {
+        "lemma": "strong:G1161 lemma.TR:δε",
+        "morph": "robinson:CONJ",
+        "attrs": {
+          "src": "8",
+          "lemma": "strong:G1161 lemma.TR:δε",
+          "morph": "robinson:CONJ"
+        }
+      }
+    },
+    {
+      "position": 10,
+      "text": "he",
+      "lemma": "strong:G2680 lemma.TR:κατασκευασας",
+      "morph": "robinson:V-AAP-NSM",
+      "strongs": [
+        "G2680"
+      ],
+      "metadata": {
+        "src": "11"
+      },
+      "source": {
+        "lemma": "strong:G2680 lemma.TR:κατασκευασας",
+        "morph": "robinson:V-AAP-NSM",
+        "attrs": {
+          "src": "11",
+          "lemma": "strong:G2680 lemma.TR:κατασκευασας",
+          "morph": "robinson:V-AAP-NSM"
+        }
+      }
+    },
+    {
+      "position": 11,
+      "text": "that",
+      "lemma": "strong:G2680 lemma.TR:κατασκευασας",
+      "morph": "robinson:V-AAP-NSM",
+      "strongs": [
+        "G2680"
+      ],
+      "metadata": {
+        "src": "11"
+      },
+      "source": {
+        "lemma": "strong:G2680 lemma.TR:κατασκευασας",
+        "morph": "robinson:V-AAP-NSM",
+        "attrs": {
+          "src": "11",
+          "lemma": "strong:G2680 lemma.TR:κατασκευασας",
+          "morph": "robinson:V-AAP-NSM"
+        }
+      }
+    },
+    {
+      "position": 12,
+      "text": "built",
+      "lemma": "strong:G2680 lemma.TR:κατασκευασας",
+      "morph": "robinson:V-AAP-NSM",
+      "strongs": [
+        "G2680"
+      ],
+      "metadata": {
+        "src": "11"
+      },
+      "source": {
+        "lemma": "strong:G2680 lemma.TR:κατασκευασας",
+        "morph": "robinson:V-AAP-NSM",
+        "attrs": {
+          "src": "11",
+          "lemma": "strong:G2680 lemma.TR:κατασκευασας",
+          "morph": "robinson:V-AAP-NSM"
+        }
+      }
+    },
+    {
+      "position": 13,
+      "text": "all",
+      "lemma": "strong:G3956 lemma.TR:παντα",
+      "morph": "robinson:A-APN",
+      "strongs": [
+        "G3956"
+      ],
+      "metadata": {
+        "src": "10"
+      },
+      "source": {
+        "lemma": "strong:G3956 lemma.TR:παντα",
+        "morph": "robinson:A-APN",
+        "attrs": {
+          "src": "10",
+          "lemma": "strong:G3956 lemma.TR:παντα",
+          "morph": "robinson:A-APN"
+        }
+      }
+    },
+    {
+      "position": 14,
+      "text": "things",
+      "lemma": "strong:G3956 lemma.TR:παντα",
+      "morph": "robinson:A-APN",
+      "strongs": [
+        "G3956"
+      ],
+      "metadata": {
+        "src": "10"
+      },
+      "source": {
+        "lemma": "strong:G3956 lemma.TR:παντα",
+        "morph": "robinson:A-APN",
+        "attrs": {
+          "src": "10",
+          "lemma": "strong:G3956 lemma.TR:παντα",
+          "morph": "robinson:A-APN"
+        }
+      }
+    },
+    {
+      "position": 15,
+      "text": "is",
+      "lemma": null,
+      "morph": null,
+      "metadata": {
+        "type": "added"
+      },
+      "source": {
+        "attrs": {
+          "type": "added"
+        }
+      }
+    },
+    {
+      "position": 16,
+      "text": "God.",
+      "lemma": "strong:G2316 lemma.TR:θεος",
+      "morph": "robinson:N-NSM",
+      "strongs": [
+        "G2316"
+      ],
+      "metadata": {
+        "src": "12"
+      },
+      "source": {
+        "lemma": "strong:G2316 lemma.TR:θεος",
+        "morph": "robinson:N-NSM",
+        "attrs": {
+          "src": "12",
+          "lemma": "strong:G2316 lemma.TR:θεος",
+          "morph": "robinson:N-NSM"
+        }
+      }
+    }
+  ]
+}

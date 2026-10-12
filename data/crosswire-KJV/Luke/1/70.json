@@ -1,0 +1,363 @@
+{
+  "text": "As he spake by the mouth of his holy prophets, which have been since the world began:",
+  "words": [
+    {
+      "position": 1,
+      "text": "As",
+      "lemma": "strong:G2531 lemma.TR:καθως",
+      "morph": "robinson:ADV",
+      "strongs": [
+        "G2531"
+      ],
+      "metadata": {
+        "src": "1"
+      },
+      "source": {
+        "lemma": "strong:G2531 lemma.TR:καθως",
+        "morph": "robinson:ADV",
+        "attrs": {
+          "src": "1",
+          "lemma": "strong:G2531 lemma.TR:καθως",
+          "morph": "robinson:ADV"
+        }
+      }
+    },
+    {
+      "position": 2,
+      "text": "he",
+      "lemma": "strong:G2980 lemma.TR:ελαλησεν",
+      "morph": "robinson:V-AAI-3S",
+      "strongs": [
+        "G2980"
+      ],
+      "metadata": {
+        "src": "2"
+      },
+      "source": {
+        "lemma": "strong:G2980 lemma.TR:ελαλησεν",
+        "morph": "robinson:V-AAI-3S",
+        "attrs": {
+          "src": "2",
+          "lemma": "strong:G2980 lemma.TR:ελαλησεν",
+          "morph": "robinson:V-AAI-3S"
+        }
+      }
+    },
+    {
+      "position": 3,
+      "text": "spake",
+      "lemma": "strong:G2980 lemma.TR:ελαλησεν",
+      "morph": "robinson:V-AAI-3S",
+      "strongs": [
+        "G2980"
+      ],
+      "metadata": {
+        "src": "2"
+      },
+      "source": {
+        "lemma": "strong:G2980 lemma.TR:ελαλησεν",
+        "morph": "robinson:V-AAI-3S",
+        "attrs": {
+          "src": "2",
+          "lemma": "strong:G2980 lemma.TR:ελαλησεν",
+          "morph": "robinson:V-AAI-3S"
+        }
+      }
+    },
+    {
+      "position": 4,
+      "text": "by",
+      "lemma": "strong:G1223 lemma.TR:δια",
+      "morph": "robinson:PREP",
+      "strongs": [
+        "G1223"
+      ],
+      "metadata": {
+        "src": "3"
+      },
+      "source": {
+        "lemma": "strong:G1223 lemma.TR:δια",
+        "morph": "robinson:PREP",
+        "attrs": {
+          "src": "3",
+          "lemma": "strong:G1223 lemma.TR:δια",
+          "morph": "robinson:PREP"
+        }
+      }
+    },
+    {
+      "position": 5,
+      "text": "the",
+      "lemma": "strong:G4750 lemma.TR:στοματος",
+      "morph": "robinson:N-GSN",
+      "strongs": [
+        "G4750"
+      ],
+      "metadata": {
+        "src": "4"
+      },
+      "source": {
+        "lemma": "strong:G4750 lemma.TR:στοματος",
+        "morph": "robinson:N-GSN",
+        "attrs": {
+          "src": "4",
+          "lemma": "strong:G4750 lemma.TR:στοματος",
+          "morph": "robinson:N-GSN"
+        }
+      }
+    },
+    {
+      "position": 6,
+      "text": "mouth",
+      "lemma": "strong:G4750 lemma.TR:στοματος",
+      "morph": "robinson:N-GSN",
+      "strongs": [
+        "G4750"
+      ],
+      "metadata": {
+        "src": "4"
+      },
+      "source": {
+        "lemma": "strong:G4750 lemma.TR:στοματος",
+        "morph": "robinson:N-GSN",
+        "attrs": {
+          "src": "4",
+          "lemma": "strong:G4750 lemma.TR:στοματος",
+          "morph": "robinson:N-GSN"
+        }
+      }
+    },
+    {
+      "position": 7,
+      "text": "of",
+      "lemma": "strong:G4396 lemma.TR:προφητων",
+      "morph": "robinson:N-GPM",
+      "strongs": [
+        "G4396"
+      ],
+      "metadata": {
+        "src": "10",
+        "type": "x-split-1282"
+      },
+      "source": {
+        "lemma": "strong:G4396 lemma.TR:προφητων",
+        "morph": "robinson:N-GPM",
+        "attrs": {
+          "src": "10",
+          "lemma": "strong:G4396 lemma.TR:προφητων",
+          "morph": "robinson:N-GPM",
+          "type": "x-split-1282"
+        }
+      }
+    },
+    {
+      "position": 8,
+      "text": "his",
+      "lemma": "strong:G846 lemma.TR:αυτου",
+      "morph": "robinson:P-GSM",
+      "strongs": [
+        "G846"
+      ],
+      "metadata": {
+        "src": "11"
+      },
+      "source": {
+        "lemma": "strong:G846 lemma.TR:αυτου",
+        "morph": "robinson:P-GSM",
+        "attrs": {
+          "src": "11",
+          "lemma": "strong:G846 lemma.TR:αυτου",
+          "morph": "robinson:P-GSM"
+        }
+      }
+    },
+    {
+      "position": 9,
+      "text": "holy",
+      "lemma": "strong:G40 lemma.TR:αγιων",
+      "morph": "robinson:A-GPM",
+      "metadata": {
+        "src": "6"
+      },
+      "source": {
+        "lemma": "strong:G40 lemma.TR:αγιων",
+        "morph": "robinson:A-GPM",
+        "attrs": {
+          "src": "6",
+          "lemma": "strong:G40 lemma.TR:αγιων",
+          "morph": "robinson:A-GPM"
+        }
+      }
+    },
+    {
+      "position": 10,
+      "text": "prophets,",
+      "lemma": "strong:G4396 lemma.TR:προφητων",
+      "morph": "robinson:N-GPM",
+      "strongs": [
+        "G4396"
+      ],
+      "metadata": {
+        "src": "10",
+        "type": "x-split-1282"
+      },
+      "source": {
+        "lemma": "strong:G4396 lemma.TR:προφητων",
+        "morph": "robinson:N-GPM",
+        "attrs": {
+          "src": "10",
+          "lemma": "strong:G4396 lemma.TR:προφητων",
+          "morph": "robinson:N-GPM",
+          "type": "x-split-1282"
+        }
+      }
+    },
+    {
+      "position": 11,
+      "text": "which",
+      "lemma": "strong:G3588 lemma.TR:των",
+      "morph": "robinson:T-GPM",
+      "strongs": [
+        "G3588"
+      ],
+      "metadata": {
+        "src": "7"
+      },
+      "source": {
+        "lemma": "strong:G3588 lemma.TR:των",
+        "morph": "robinson:T-GPM",
+        "attrs": {
+          "src": "7",
+          "lemma": "strong:G3588 lemma.TR:των",
+          "morph": "robinson:T-GPM"
+        }
+      }
+    },
+    {
+      "position": 12,
+      "text": "have",
+      "lemma": "strong:G575 lemma.TR:απ",
+      "morph": "robinson:PREP",
+      "strongs": [
+        "G575"
+      ],
+      "metadata": {
+        "src": "8"
+      },
+      "source": {
+        "lemma": "strong:G575 lemma.TR:απ",
+        "morph": "robinson:PREP",
+        "attrs": {
+          "src": "8",
+          "lemma": "strong:G575 lemma.TR:απ",
+          "morph": "robinson:PREP"
+        }
+      }
+    },
+    {
+      "position": 13,
+      "text": "been",
+      "lemma": "strong:G575 lemma.TR:απ",
+      "morph": "robinson:PREP",
+      "strongs": [
+        "G575"
+      ],
+      "metadata": {
+        "src": "8"
+      },
+      "source": {
+        "lemma": "strong:G575 lemma.TR:απ",
+        "morph": "robinson:PREP",
+        "attrs": {
+          "src": "8",
+          "lemma": "strong:G575 lemma.TR:απ",
+          "morph": "robinson:PREP"
+        }
+      }
+    },
+    {
+      "position": 14,
+      "text": "since",
+      "lemma": "strong:G575 lemma.TR:απ",
+      "morph": "robinson:PREP",
+      "strongs": [
+        "G575"
+      ],
+      "metadata": {
+        "src": "8"
+      },
+      "source": {
+        "lemma": "strong:G575 lemma.TR:απ",
+        "morph": "robinson:PREP",
+        "attrs": {
+          "src": "8",
+          "lemma": "strong:G575 lemma.TR:απ",
+          "morph": "robinson:PREP"
+        }
+      }
+    },
+    {
+      "position": 15,
+      "text": "the",
+      "lemma": "strong:G165 lemma.TR:αιωνος",
+      "morph": "robinson:N-GSM",
+      "strongs": [
+        "G165"
+      ],
+      "metadata": {
+        "src": "9"
+      },
+      "source": {
+        "lemma": "strong:G165 lemma.TR:αιωνος",
+        "morph": "robinson:N-GSM",
+        "attrs": {
+          "src": "9",
+          "lemma": "strong:G165 lemma.TR:αιωνος",
+          "morph": "robinson:N-GSM"
+        }
+      }
+    },
+    {
+      "position": 16,
+      "text": "world",
+      "lemma": "strong:G165 lemma.TR:αιωνος",
+      "morph": "robinson:N-GSM",
+      "strongs": [
+        "G165"
+      ],
+      "metadata": {
+        "src": "9"
+      },
+      "source": {
+        "lemma": "strong:G165 lemma.TR:αιωνος",
+        "morph": "robinson:N-GSM",
+        "attrs": {
+          "src": "9",
+          "lemma": "strong:G165 lemma.TR:αιωνος",
+          "morph": "robinson:N-GSM"
+        }
+      }
+    },
+    {
+      "position": 17,
+      "text": "began:",
+      "lemma": "strong:G165 lemma.TR:αιωνος",
+      "morph": "robinson:N-GSM",
+      "strongs": [
+        "G165"
+      ],
+      "metadata": {
+        "src": "9"
+      },
+      "source": {
+        "lemma": "strong:G165 lemma.TR:αιωνος",
+        "morph": "robinson:N-GSM",
+        "attrs": {
+          "src": "9",
+          "lemma": "strong:G165 lemma.TR:αιωνος",
+          "morph": "robinson:N-GSM"
+        }
+      }
+    }
+  ]
+}

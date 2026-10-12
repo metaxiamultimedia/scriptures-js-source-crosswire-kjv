@@ -1,0 +1,258 @@
+{
+  "text": "For my flesh is meat indeed, and my blood is drink indeed.",
+  "words": [
+    {
+      "position": 1,
+      "text": "For",
+      "lemma": "strong:G1063 lemma.TR:γαρ",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G1063"
+      ],
+      "metadata": {
+        "src": "2"
+      },
+      "source": {
+        "lemma": "strong:G1063 lemma.TR:γαρ",
+        "morph": "robinson:CONJ",
+        "attrs": {
+          "src": "2",
+          "lemma": "strong:G1063 lemma.TR:γαρ",
+          "morph": "robinson:CONJ"
+        }
+      }
+    },
+    {
+      "position": 2,
+      "text": "my",
+      "lemma": "strong:G1473 lemma.TR:μου",
+      "morph": "robinson:P-1GS",
+      "strongs": [
+        "G1473"
+      ],
+      "metadata": {
+        "src": "4"
+      },
+      "source": {
+        "lemma": "strong:G1473 lemma.TR:μου",
+        "morph": "robinson:P-1GS",
+        "attrs": {
+          "src": "4",
+          "lemma": "strong:G1473 lemma.TR:μου",
+          "morph": "robinson:P-1GS"
+        }
+      }
+    },
+    {
+      "position": 3,
+      "text": "flesh",
+      "lemma": "strong:G4561 lemma.TR:σαρξ",
+      "morph": "robinson:N-NSF",
+      "strongs": [
+        "G4561"
+      ],
+      "metadata": {
+        "src": "3"
+      },
+      "source": {
+        "lemma": "strong:G4561 lemma.TR:σαρξ",
+        "morph": "robinson:N-NSF",
+        "attrs": {
+          "src": "3",
+          "lemma": "strong:G4561 lemma.TR:σαρξ",
+          "morph": "robinson:N-NSF"
+        }
+      }
+    },
+    {
+      "position": 4,
+      "text": "is",
+      "lemma": "strong:G1510 lemma.TR:εστιν",
+      "morph": "robinson:V-PAI-3S",
+      "strongs": [
+        "G1510"
+      ],
+      "metadata": {
+        "src": "6"
+      },
+      "source": {
+        "lemma": "strong:G1510 lemma.TR:εστιν",
+        "morph": "robinson:V-PAI-3S",
+        "attrs": {
+          "src": "6",
+          "lemma": "strong:G1510 lemma.TR:εστιν",
+          "morph": "robinson:V-PAI-3S"
+        }
+      }
+    },
+    {
+      "position": 5,
+      "text": "meat",
+      "lemma": "strong:G1035 lemma.TR:βρωσις",
+      "morph": "robinson:N-NSF",
+      "strongs": [
+        "G1035"
+      ],
+      "metadata": {
+        "src": "7"
+      },
+      "source": {
+        "lemma": "strong:G1035 lemma.TR:βρωσις",
+        "morph": "robinson:N-NSF",
+        "attrs": {
+          "src": "7",
+          "lemma": "strong:G1035 lemma.TR:βρωσις",
+          "morph": "robinson:N-NSF"
+        }
+      }
+    },
+    {
+      "position": 6,
+      "text": "indeed,",
+      "lemma": "strong:G230 lemma.TR:αληθως",
+      "morph": "robinson:ADV",
+      "strongs": [
+        "G230"
+      ],
+      "metadata": {
+        "src": "5"
+      },
+      "source": {
+        "lemma": "strong:G230 lemma.TR:αληθως",
+        "morph": "robinson:ADV",
+        "attrs": {
+          "src": "5",
+          "lemma": "strong:G230 lemma.TR:αληθως",
+          "morph": "robinson:ADV"
+        }
+      }
+    },
+    {
+      "position": 7,
+      "text": "and",
+      "lemma": "strong:G2532 lemma.TR:και",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G2532"
+      ],
+      "metadata": {
+        "src": "8"
+      },
+      "source": {
+        "lemma": "strong:G2532 lemma.TR:και",
+        "morph": "robinson:CONJ",
+        "attrs": {
+          "src": "8",
+          "lemma": "strong:G2532 lemma.TR:και",
+          "morph": "robinson:CONJ"
+        }
+      }
+    },
+    {
+      "position": 8,
+      "text": "my",
+      "lemma": "strong:G1473 lemma.TR:μου",
+      "morph": "robinson:P-1GS",
+      "strongs": [
+        "G1473"
+      ],
+      "metadata": {
+        "src": "11"
+      },
+      "source": {
+        "lemma": "strong:G1473 lemma.TR:μου",
+        "morph": "robinson:P-1GS",
+        "attrs": {
+          "src": "11",
+          "lemma": "strong:G1473 lemma.TR:μου",
+          "morph": "robinson:P-1GS"
+        }
+      }
+    },
+    {
+      "position": 9,
+      "text": "blood",
+      "lemma": "strong:G3588 strong:G129 lemma.TR:το lemma.TR:αιμα",
+      "morph": "robinson:T-NSN robinson:N-NSN",
+      "strongs": [
+        "G3588",
+        "G129"
+      ],
+      "metadata": {
+        "src": "9 10"
+      },
+      "source": {
+        "lemma": "strong:G3588 strong:G129 lemma.TR:το lemma.TR:αιμα",
+        "morph": "robinson:T-NSN robinson:N-NSN",
+        "attrs": {
+          "src": "9 10",
+          "lemma": "strong:G3588 strong:G129 lemma.TR:το lemma.TR:αιμα",
+          "morph": "robinson:T-NSN robinson:N-NSN"
+        }
+      }
+    },
+    {
+      "position": 10,
+      "text": "is",
+      "lemma": "strong:G1510 lemma.TR:εστιν",
+      "morph": "robinson:V-PAI-3S",
+      "strongs": [
+        "G1510"
+      ],
+      "metadata": {
+        "src": "13"
+      },
+      "source": {
+        "lemma": "strong:G1510 lemma.TR:εστιν",
+        "morph": "robinson:V-PAI-3S",
+        "attrs": {
+          "src": "13",
+          "lemma": "strong:G1510 lemma.TR:εστιν",
+          "morph": "robinson:V-PAI-3S"
+        }
+      }
+    },
+    {
+      "position": 11,
+      "text": "drink",
+      "lemma": "strong:G4213 lemma.TR:ποσις",
+      "morph": "robinson:N-NSF",
+      "strongs": [
+        "G4213"
+      ],
+      "metadata": {
+        "src": "14"
+      },
+      "source": {
+        "lemma": "strong:G4213 lemma.TR:ποσις",
+        "morph": "robinson:N-NSF",
+        "attrs": {
+          "src": "14",
+          "lemma": "strong:G4213 lemma.TR:ποσις",
+          "morph": "robinson:N-NSF"
+        }
+      }
+    },
+    {
+      "position": 12,
+      "text": "indeed.",
+      "lemma": "strong:G230 lemma.TR:αληθως",
+      "morph": "robinson:ADV",
+      "strongs": [
+        "G230"
+      ],
+      "metadata": {
+        "src": "12"
+      },
+      "source": {
+        "lemma": "strong:G230 lemma.TR:αληθως",
+        "morph": "robinson:ADV",
+        "attrs": {
+          "src": "12",
+          "lemma": "strong:G230 lemma.TR:αληθως",
+          "morph": "robinson:ADV"
+        }
+      }
+    }
+  ]
+}

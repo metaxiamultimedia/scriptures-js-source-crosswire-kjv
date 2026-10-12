@@ -1,0 +1,186 @@
+{
+  "text": "( Though Jesus himself baptized not, but his disciples,)",
+  "words": [
+    {
+      "position": 1,
+      "text": "(",
+      "lemma": null,
+      "morph": null
+    },
+    {
+      "position": 2,
+      "text": "Though",
+      "lemma": "strong:G2544 lemma.TR:καιτοιγε",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G2544"
+      ],
+      "metadata": {
+        "src": "1"
+      },
+      "source": {
+        "lemma": "strong:G2544 lemma.TR:καιτοιγε",
+        "morph": "robinson:CONJ",
+        "attrs": {
+          "src": "1",
+          "lemma": "strong:G2544 lemma.TR:καιτοιγε",
+          "morph": "robinson:CONJ"
+        }
+      }
+    },
+    {
+      "position": 3,
+      "text": "Jesus",
+      "lemma": "strong:G2424 lemma.TR:ιησους",
+      "morph": "robinson:N-NSM",
+      "strongs": [
+        "G2424"
+      ],
+      "metadata": {
+        "src": "2"
+      },
+      "source": {
+        "lemma": "strong:G2424 lemma.TR:ιησους",
+        "morph": "robinson:N-NSM",
+        "attrs": {
+          "src": "2",
+          "lemma": "strong:G2424 lemma.TR:ιησους",
+          "morph": "robinson:N-NSM"
+        }
+      }
+    },
+    {
+      "position": 4,
+      "text": "himself",
+      "lemma": "strong:G846 lemma.TR:αυτος",
+      "morph": "robinson:P-NSM",
+      "strongs": [
+        "G846"
+      ],
+      "metadata": {
+        "src": "3"
+      },
+      "source": {
+        "lemma": "strong:G846 lemma.TR:αυτος",
+        "morph": "robinson:P-NSM",
+        "attrs": {
+          "src": "3",
+          "lemma": "strong:G846 lemma.TR:αυτος",
+          "morph": "robinson:P-NSM"
+        }
+      }
+    },
+    {
+      "position": 5,
+      "text": "baptized",
+      "lemma": "strong:G907 lemma.TR:εβαπτιζεν",
+      "morph": "robinson:V-IAI-3S",
+      "strongs": [
+        "G907"
+      ],
+      "metadata": {
+        "src": "5"
+      },
+      "source": {
+        "lemma": "strong:G907 lemma.TR:εβαπτιζεν",
+        "morph": "robinson:V-IAI-3S",
+        "attrs": {
+          "src": "5",
+          "lemma": "strong:G907 lemma.TR:εβαπτιζεν",
+          "morph": "robinson:V-IAI-3S"
+        }
+      }
+    },
+    {
+      "position": 6,
+      "text": "not,",
+      "lemma": "strong:G3756 lemma.TR:ουκ",
+      "morph": "robinson:PRT-N",
+      "strongs": [
+        "G3756"
+      ],
+      "metadata": {
+        "src": "4"
+      },
+      "source": {
+        "lemma": "strong:G3756 lemma.TR:ουκ",
+        "morph": "robinson:PRT-N",
+        "attrs": {
+          "src": "4",
+          "lemma": "strong:G3756 lemma.TR:ουκ",
+          "morph": "robinson:PRT-N"
+        }
+      }
+    },
+    {
+      "position": 7,
+      "text": "but",
+      "lemma": "strong:G235 lemma.TR:αλλ",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G235"
+      ],
+      "metadata": {
+        "src": "6"
+      },
+      "source": {
+        "lemma": "strong:G235 lemma.TR:αλλ",
+        "morph": "robinson:CONJ",
+        "attrs": {
+          "src": "6",
+          "lemma": "strong:G235 lemma.TR:αλλ",
+          "morph": "robinson:CONJ"
+        }
+      }
+    },
+    {
+      "position": 8,
+      "text": "his",
+      "lemma": "strong:G846 lemma.TR:αυτου",
+      "morph": "robinson:P-GSM",
+      "strongs": [
+        "G846"
+      ],
+      "metadata": {
+        "src": "9"
+      },
+      "source": {
+        "lemma": "strong:G846 lemma.TR:αυτου",
+        "morph": "robinson:P-GSM",
+        "attrs": {
+          "src": "9",
+          "lemma": "strong:G846 lemma.TR:αυτου",
+          "morph": "robinson:P-GSM"
+        }
+      }
+    },
+    {
+      "position": 9,
+      "text": "disciples",
+      "lemma": "strong:G3588 strong:G3101 lemma.TR:οι lemma.TR:μαθηται",
+      "morph": "robinson:T-NPM robinson:N-NPM",
+      "strongs": [
+        "G3588",
+        "G3101"
+      ],
+      "metadata": {
+        "src": "7 8"
+      },
+      "source": {
+        "lemma": "strong:G3588 strong:G3101 lemma.TR:οι lemma.TR:μαθηται",
+        "morph": "robinson:T-NPM robinson:N-NPM",
+        "attrs": {
+          "src": "7 8",
+          "lemma": "strong:G3588 strong:G3101 lemma.TR:οι lemma.TR:μαθηται",
+          "morph": "robinson:T-NPM robinson:N-NPM"
+        }
+      }
+    },
+    {
+      "position": 10,
+      "text": ",)",
+      "lemma": null,
+      "morph": null
+    }
+  ]
+}

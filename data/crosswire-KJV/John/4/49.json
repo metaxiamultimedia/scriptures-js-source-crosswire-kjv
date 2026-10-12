@@ -1,0 +1,258 @@
+{
+  "text": "The nobleman saith unto him, Sir, come down ere my child die.",
+  "words": [
+    {
+      "position": 1,
+      "text": "The",
+      "lemma": "strong:G937 lemma.TR:βασιλικος",
+      "morph": "robinson:A-NSM",
+      "strongs": [
+        "G937"
+      ],
+      "metadata": {
+        "src": "5"
+      },
+      "source": {
+        "lemma": "strong:G937 lemma.TR:βασιλικος",
+        "morph": "robinson:A-NSM",
+        "attrs": {
+          "src": "5",
+          "lemma": "strong:G937 lemma.TR:βασιλικος",
+          "morph": "robinson:A-NSM"
+        }
+      }
+    },
+    {
+      "position": 2,
+      "text": "nobleman",
+      "lemma": "strong:G937 lemma.TR:βασιλικος",
+      "morph": "robinson:A-NSM",
+      "strongs": [
+        "G937"
+      ],
+      "metadata": {
+        "src": "5"
+      },
+      "source": {
+        "lemma": "strong:G937 lemma.TR:βασιλικος",
+        "morph": "robinson:A-NSM",
+        "attrs": {
+          "src": "5",
+          "lemma": "strong:G937 lemma.TR:βασιλικος",
+          "morph": "robinson:A-NSM"
+        }
+      }
+    },
+    {
+      "position": 3,
+      "text": "saith",
+      "lemma": "strong:G3004 lemma.TR:λεγει",
+      "morph": "robinson:V-PAI-3S",
+      "strongs": [
+        "G3004"
+      ],
+      "metadata": {
+        "src": "1"
+      },
+      "source": {
+        "lemma": "strong:G3004 lemma.TR:λεγει",
+        "morph": "robinson:V-PAI-3S",
+        "attrs": {
+          "src": "1",
+          "lemma": "strong:G3004 lemma.TR:λεγει",
+          "morph": "robinson:V-PAI-3S"
+        }
+      }
+    },
+    {
+      "position": 4,
+      "text": "unto",
+      "lemma": "strong:G4314 lemma.TR:προς",
+      "morph": "robinson:PREP",
+      "strongs": [
+        "G4314"
+      ],
+      "metadata": {
+        "src": "2"
+      },
+      "source": {
+        "lemma": "strong:G4314 lemma.TR:προς",
+        "morph": "robinson:PREP",
+        "attrs": {
+          "src": "2",
+          "lemma": "strong:G4314 lemma.TR:προς",
+          "morph": "robinson:PREP"
+        }
+      }
+    },
+    {
+      "position": 5,
+      "text": "him,",
+      "lemma": "strong:G846 lemma.TR:αυτον",
+      "morph": "robinson:P-ASM",
+      "strongs": [
+        "G846"
+      ],
+      "metadata": {
+        "src": "3"
+      },
+      "source": {
+        "lemma": "strong:G846 lemma.TR:αυτον",
+        "morph": "robinson:P-ASM",
+        "attrs": {
+          "src": "3",
+          "lemma": "strong:G846 lemma.TR:αυτον",
+          "morph": "robinson:P-ASM"
+        }
+      }
+    },
+    {
+      "position": 6,
+      "text": "Sir,",
+      "lemma": "strong:G2962 lemma.TR:κυριε",
+      "morph": "robinson:N-VSM",
+      "strongs": [
+        "G2962"
+      ],
+      "metadata": {
+        "src": "6"
+      },
+      "source": {
+        "lemma": "strong:G2962 lemma.TR:κυριε",
+        "morph": "robinson:N-VSM",
+        "attrs": {
+          "src": "6",
+          "lemma": "strong:G2962 lemma.TR:κυριε",
+          "morph": "robinson:N-VSM"
+        }
+      }
+    },
+    {
+      "position": 7,
+      "text": "come",
+      "lemma": "strong:G2597 lemma.TR:καταβηθι",
+      "morph": "robinson:V-2AAM-2S",
+      "strongs": [
+        "G2597"
+      ],
+      "metadata": {
+        "src": "7"
+      },
+      "source": {
+        "lemma": "strong:G2597 lemma.TR:καταβηθι",
+        "morph": "robinson:V-2AAM-2S",
+        "attrs": {
+          "src": "7",
+          "lemma": "strong:G2597 lemma.TR:καταβηθι",
+          "morph": "robinson:V-2AAM-2S"
+        }
+      }
+    },
+    {
+      "position": 8,
+      "text": "down",
+      "lemma": "strong:G2597 lemma.TR:καταβηθι",
+      "morph": "robinson:V-2AAM-2S",
+      "strongs": [
+        "G2597"
+      ],
+      "metadata": {
+        "src": "7"
+      },
+      "source": {
+        "lemma": "strong:G2597 lemma.TR:καταβηθι",
+        "morph": "robinson:V-2AAM-2S",
+        "attrs": {
+          "src": "7",
+          "lemma": "strong:G2597 lemma.TR:καταβηθι",
+          "morph": "robinson:V-2AAM-2S"
+        }
+      }
+    },
+    {
+      "position": 9,
+      "text": "ere",
+      "lemma": "strong:G4250 lemma.TR:πριν",
+      "morph": "robinson:ADV",
+      "strongs": [
+        "G4250"
+      ],
+      "metadata": {
+        "src": "8"
+      },
+      "source": {
+        "lemma": "strong:G4250 lemma.TR:πριν",
+        "morph": "robinson:ADV",
+        "attrs": {
+          "src": "8",
+          "lemma": "strong:G4250 lemma.TR:πριν",
+          "morph": "robinson:ADV"
+        }
+      }
+    },
+    {
+      "position": 10,
+      "text": "my",
+      "lemma": "strong:G1473 lemma.TR:μου",
+      "morph": "robinson:P-1GS",
+      "strongs": [
+        "G1473"
+      ],
+      "metadata": {
+        "src": "12"
+      },
+      "source": {
+        "lemma": "strong:G1473 lemma.TR:μου",
+        "morph": "robinson:P-1GS",
+        "attrs": {
+          "src": "12",
+          "lemma": "strong:G1473 lemma.TR:μου",
+          "morph": "robinson:P-1GS"
+        }
+      }
+    },
+    {
+      "position": 11,
+      "text": "child",
+      "lemma": "strong:G3588 strong:G3813 lemma.TR:το lemma.TR:παιδιον",
+      "morph": "robinson:T-ASN robinson:N-ASN",
+      "strongs": [
+        "G3588",
+        "G3813"
+      ],
+      "metadata": {
+        "src": "10 11"
+      },
+      "source": {
+        "lemma": "strong:G3588 strong:G3813 lemma.TR:το lemma.TR:παιδιον",
+        "morph": "robinson:T-ASN robinson:N-ASN",
+        "attrs": {
+          "src": "10 11",
+          "lemma": "strong:G3588 strong:G3813 lemma.TR:το lemma.TR:παιδιον",
+          "morph": "robinson:T-ASN robinson:N-ASN"
+        }
+      }
+    },
+    {
+      "position": 12,
+      "text": "die.",
+      "lemma": "strong:G599 lemma.TR:αποθανειν",
+      "morph": "robinson:V-2AAN",
+      "strongs": [
+        "G599"
+      ],
+      "metadata": {
+        "src": "9"
+      },
+      "source": {
+        "lemma": "strong:G599 lemma.TR:αποθανειν",
+        "morph": "robinson:V-2AAN",
+        "attrs": {
+          "src": "9",
+          "lemma": "strong:G599 lemma.TR:αποθανειν",
+          "morph": "robinson:V-2AAN"
+        }
+      }
+    }
+  ]
+}

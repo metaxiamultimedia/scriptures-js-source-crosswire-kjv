@@ -1,0 +1,86 @@
+{
+  "text": "Brethren, pray for us.",
+  "words": [
+    {
+      "position": 1,
+      "text": "Brethren,",
+      "lemma": "strong:G80 lemma.TR:αδελφοι",
+      "morph": "robinson:N-VPM",
+      "metadata": {
+        "src": "1"
+      },
+      "source": {
+        "lemma": "strong:G80 lemma.TR:αδελφοι",
+        "morph": "robinson:N-VPM",
+        "attrs": {
+          "src": "1",
+          "lemma": "strong:G80 lemma.TR:αδελφοι",
+          "morph": "robinson:N-VPM"
+        }
+      }
+    },
+    {
+      "position": 2,
+      "text": "pray",
+      "lemma": "strong:G4336 lemma.TR:προσευχεσθε",
+      "morph": "robinson:V-PNM-2P",
+      "strongs": [
+        "G4336"
+      ],
+      "metadata": {
+        "src": "2"
+      },
+      "source": {
+        "lemma": "strong:G4336 lemma.TR:προσευχεσθε",
+        "morph": "robinson:V-PNM-2P",
+        "attrs": {
+          "src": "2",
+          "lemma": "strong:G4336 lemma.TR:προσευχεσθε",
+          "morph": "robinson:V-PNM-2P"
+        }
+      }
+    },
+    {
+      "position": 3,
+      "text": "for",
+      "lemma": "strong:G4012 lemma.TR:περι",
+      "morph": "robinson:PREP",
+      "strongs": [
+        "G4012"
+      ],
+      "metadata": {
+        "src": "3"
+      },
+      "source": {
+        "lemma": "strong:G4012 lemma.TR:περι",
+        "morph": "robinson:PREP",
+        "attrs": {
+          "src": "3",
+          "lemma": "strong:G4012 lemma.TR:περι",
+          "morph": "robinson:PREP"
+        }
+      }
+    },
+    {
+      "position": 4,
+      "text": "us.",
+      "lemma": "strong:G1473 lemma.TR:ημων",
+      "morph": "robinson:P-1GP",
+      "strongs": [
+        "G1473"
+      ],
+      "metadata": {
+        "src": "4"
+      },
+      "source": {
+        "lemma": "strong:G1473 lemma.TR:ημων",
+        "morph": "robinson:P-1GP",
+        "attrs": {
+          "src": "4",
+          "lemma": "strong:G1473 lemma.TR:ημων",
+          "morph": "robinson:P-1GP"
+        }
+      }
+    }
+  ]
+}

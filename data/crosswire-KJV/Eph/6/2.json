@@ -1,0 +1,271 @@
+{
+  "text": "Honour thy father and mother; ( which is the first commandment with promise;)",
+  "words": [
+    {
+      "position": 1,
+      "text": "Honour",
+      "lemma": "strong:G5091 lemma.TR:τιμα",
+      "morph": "robinson:V-PAM-2S",
+      "strongs": [
+        "G5091"
+      ],
+      "metadata": {
+        "src": "1"
+      },
+      "source": {
+        "lemma": "strong:G5091 lemma.TR:τιμα",
+        "morph": "robinson:V-PAM-2S",
+        "attrs": {
+          "src": "1",
+          "lemma": "strong:G5091 lemma.TR:τιμα",
+          "morph": "robinson:V-PAM-2S"
+        }
+      }
+    },
+    {
+      "position": 2,
+      "text": "thy",
+      "lemma": "strong:G4771 lemma.TR:σου",
+      "morph": "robinson:P-2GS",
+      "strongs": [
+        "G4771"
+      ],
+      "metadata": {
+        "src": "4"
+      },
+      "source": {
+        "lemma": "strong:G4771 lemma.TR:σου",
+        "morph": "robinson:P-2GS",
+        "attrs": {
+          "src": "4",
+          "lemma": "strong:G4771 lemma.TR:σου",
+          "morph": "robinson:P-2GS"
+        }
+      }
+    },
+    {
+      "position": 3,
+      "text": "father",
+      "lemma": "strong:G3588 strong:G3962 lemma.TR:τον lemma.TR:πατερα",
+      "morph": "robinson:T-ASM robinson:N-ASM",
+      "strongs": [
+        "G3588",
+        "G3962"
+      ],
+      "metadata": {
+        "src": "2 3"
+      },
+      "source": {
+        "lemma": "strong:G3588 strong:G3962 lemma.TR:τον lemma.TR:πατερα",
+        "morph": "robinson:T-ASM robinson:N-ASM",
+        "attrs": {
+          "src": "2 3",
+          "lemma": "strong:G3588 strong:G3962 lemma.TR:τον lemma.TR:πατερα",
+          "morph": "robinson:T-ASM robinson:N-ASM"
+        }
+      }
+    },
+    {
+      "position": 4,
+      "text": "and",
+      "lemma": "strong:G2532 lemma.TR:και",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G2532"
+      ],
+      "metadata": {
+        "src": "5"
+      },
+      "source": {
+        "lemma": "strong:G2532 lemma.TR:και",
+        "morph": "robinson:CONJ",
+        "attrs": {
+          "src": "5",
+          "lemma": "strong:G2532 lemma.TR:και",
+          "morph": "robinson:CONJ"
+        }
+      }
+    },
+    {
+      "position": 5,
+      "text": "mother;",
+      "lemma": "strong:G3588 strong:G3384 lemma.TR:την lemma.TR:μητερα",
+      "morph": "robinson:T-ASF robinson:N-ASF",
+      "strongs": [
+        "G3588",
+        "G3384"
+      ],
+      "metadata": {
+        "src": "6 7"
+      },
+      "source": {
+        "lemma": "strong:G3588 strong:G3384 lemma.TR:την lemma.TR:μητερα",
+        "morph": "robinson:T-ASF robinson:N-ASF",
+        "attrs": {
+          "src": "6 7",
+          "lemma": "strong:G3588 strong:G3384 lemma.TR:την lemma.TR:μητερα",
+          "morph": "robinson:T-ASF robinson:N-ASF"
+        }
+      }
+    },
+    {
+      "position": 6,
+      "text": "(",
+      "lemma": null,
+      "morph": null
+    },
+    {
+      "position": 7,
+      "text": "which",
+      "lemma": "strong:G3748 lemma.TR:ητις",
+      "morph": "robinson:R-NSF",
+      "strongs": [
+        "G3748"
+      ],
+      "metadata": {
+        "src": "8"
+      },
+      "source": {
+        "lemma": "strong:G3748 lemma.TR:ητις",
+        "morph": "robinson:R-NSF",
+        "attrs": {
+          "src": "8",
+          "lemma": "strong:G3748 lemma.TR:ητις",
+          "morph": "robinson:R-NSF"
+        }
+      }
+    },
+    {
+      "position": 8,
+      "text": "is",
+      "lemma": "strong:G1510 lemma.TR:εστιν",
+      "morph": "robinson:V-PAI-3S",
+      "strongs": [
+        "G1510"
+      ],
+      "metadata": {
+        "src": "9"
+      },
+      "source": {
+        "lemma": "strong:G1510 lemma.TR:εστιν",
+        "morph": "robinson:V-PAI-3S",
+        "attrs": {
+          "src": "9",
+          "lemma": "strong:G1510 lemma.TR:εστιν",
+          "morph": "robinson:V-PAI-3S"
+        }
+      }
+    },
+    {
+      "position": 9,
+      "text": "the",
+      "lemma": "strong:G4413 lemma.TR:πρωτη",
+      "morph": "robinson:A-NSF-S",
+      "strongs": [
+        "G4413"
+      ],
+      "metadata": {
+        "src": "11"
+      },
+      "source": {
+        "lemma": "strong:G4413 lemma.TR:πρωτη",
+        "morph": "robinson:A-NSF-S",
+        "attrs": {
+          "src": "11",
+          "lemma": "strong:G4413 lemma.TR:πρωτη",
+          "morph": "robinson:A-NSF-S"
+        }
+      }
+    },
+    {
+      "position": 10,
+      "text": "first",
+      "lemma": "strong:G4413 lemma.TR:πρωτη",
+      "morph": "robinson:A-NSF-S",
+      "strongs": [
+        "G4413"
+      ],
+      "metadata": {
+        "src": "11"
+      },
+      "source": {
+        "lemma": "strong:G4413 lemma.TR:πρωτη",
+        "morph": "robinson:A-NSF-S",
+        "attrs": {
+          "src": "11",
+          "lemma": "strong:G4413 lemma.TR:πρωτη",
+          "morph": "robinson:A-NSF-S"
+        }
+      }
+    },
+    {
+      "position": 11,
+      "text": "commandment",
+      "lemma": "strong:G1785 lemma.TR:εντολη",
+      "morph": "robinson:N-NSF",
+      "strongs": [
+        "G1785"
+      ],
+      "metadata": {
+        "src": "10"
+      },
+      "source": {
+        "lemma": "strong:G1785 lemma.TR:εντολη",
+        "morph": "robinson:N-NSF",
+        "attrs": {
+          "src": "10",
+          "lemma": "strong:G1785 lemma.TR:εντολη",
+          "morph": "robinson:N-NSF"
+        }
+      }
+    },
+    {
+      "position": 12,
+      "text": "with",
+      "lemma": "strong:G1722 lemma.TR:εν",
+      "morph": "robinson:PREP",
+      "strongs": [
+        "G1722"
+      ],
+      "metadata": {
+        "src": "12"
+      },
+      "source": {
+        "lemma": "strong:G1722 lemma.TR:εν",
+        "morph": "robinson:PREP",
+        "attrs": {
+          "src": "12",
+          "lemma": "strong:G1722 lemma.TR:εν",
+          "morph": "robinson:PREP"
+        }
+      }
+    },
+    {
+      "position": 13,
+      "text": "promise",
+      "lemma": "strong:G1860 lemma.TR:επαγγελια",
+      "morph": "robinson:N-DSF",
+      "strongs": [
+        "G1860"
+      ],
+      "metadata": {
+        "src": "13"
+      },
+      "source": {
+        "lemma": "strong:G1860 lemma.TR:επαγγελια",
+        "morph": "robinson:N-DSF",
+        "attrs": {
+          "src": "13",
+          "lemma": "strong:G1860 lemma.TR:επαγγελια",
+          "morph": "robinson:N-DSF"
+        }
+      }
+    },
+    {
+      "position": 14,
+      "text": ";)",
+      "lemma": null,
+      "morph": null
+    }
+  ]
+}

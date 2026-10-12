@@ -1,0 +1,823 @@
+{
+  "text": "I am this day fourscore years old: and can I discern between good and evil? can thy servant taste what I eat or what I drink? can I hear any more the voice of singing men and singing women? wherefore then should thy servant be yet a burden unto my lord the king?",
+  "words": [
+    {
+      "position": 1,
+      "text": "I",
+      "lemma": null,
+      "morph": null
+    },
+    {
+      "position": 2,
+      "text": "am",
+      "lemma": null,
+      "morph": null,
+      "metadata": {
+        "type": "added"
+      },
+      "source": {
+        "attrs": {
+          "type": "added"
+        }
+      }
+    },
+    {
+      "position": 3,
+      "text": "this",
+      "lemma": "strong:H03117",
+      "morph": null,
+      "strongs": [
+        "H3117"
+      ],
+      "source": {
+        "lemma": "strong:H03117",
+        "attrs": {
+          "lemma": "strong:H03117"
+        }
+      }
+    },
+    {
+      "position": 4,
+      "text": "day",
+      "lemma": "strong:H03117",
+      "morph": null,
+      "strongs": [
+        "H3117"
+      ],
+      "source": {
+        "lemma": "strong:H03117",
+        "attrs": {
+          "lemma": "strong:H03117"
+        }
+      }
+    },
+    {
+      "position": 5,
+      "text": "fourscore",
+      "lemma": "strong:H08084",
+      "morph": null,
+      "strongs": [
+        "H8084"
+      ],
+      "source": {
+        "lemma": "strong:H08084",
+        "attrs": {
+          "lemma": "strong:H08084"
+        }
+      }
+    },
+    {
+      "position": 6,
+      "text": "years",
+      "lemma": "strong:H08141",
+      "morph": null,
+      "strongs": [
+        "H8141"
+      ],
+      "source": {
+        "lemma": "strong:H08141",
+        "attrs": {
+          "lemma": "strong:H08141"
+        }
+      }
+    },
+    {
+      "position": 7,
+      "text": "old:",
+      "lemma": "strong:H01121",
+      "morph": null,
+      "strongs": [
+        "H1121"
+      ],
+      "source": {
+        "lemma": "strong:H01121",
+        "attrs": {
+          "lemma": "strong:H01121"
+        }
+      }
+    },
+    {
+      "position": 8,
+      "text": "and",
+      "lemma": null,
+      "morph": null,
+      "metadata": {
+        "type": "added"
+      },
+      "source": {
+        "attrs": {
+          "type": "added"
+        }
+      }
+    },
+    {
+      "position": 9,
+      "text": "can",
+      "lemma": "strong:H03045",
+      "morph": "strongMorph:TH8799",
+      "strongs": [
+        "H3045"
+      ],
+      "source": {
+        "lemma": "strong:H03045",
+        "morph": "strongMorph:TH8799",
+        "attrs": {
+          "morph": "strongMorph:TH8799",
+          "lemma": "strong:H03045"
+        }
+      }
+    },
+    {
+      "position": 10,
+      "text": "I",
+      "lemma": "strong:H03045",
+      "morph": "strongMorph:TH8799",
+      "strongs": [
+        "H3045"
+      ],
+      "source": {
+        "lemma": "strong:H03045",
+        "morph": "strongMorph:TH8799",
+        "attrs": {
+          "morph": "strongMorph:TH8799",
+          "lemma": "strong:H03045"
+        }
+      }
+    },
+    {
+      "position": 11,
+      "text": "discern",
+      "lemma": "strong:H03045",
+      "morph": "strongMorph:TH8799",
+      "strongs": [
+        "H3045"
+      ],
+      "source": {
+        "lemma": "strong:H03045",
+        "morph": "strongMorph:TH8799",
+        "attrs": {
+          "morph": "strongMorph:TH8799",
+          "lemma": "strong:H03045"
+        }
+      }
+    },
+    {
+      "position": 12,
+      "text": "between",
+      "lemma": "strong:H02896",
+      "morph": null,
+      "strongs": [
+        "H2896"
+      ],
+      "source": {
+        "lemma": "strong:H02896",
+        "attrs": {
+          "lemma": "strong:H02896"
+        }
+      }
+    },
+    {
+      "position": 13,
+      "text": "good",
+      "lemma": "strong:H02896",
+      "morph": null,
+      "strongs": [
+        "H2896"
+      ],
+      "source": {
+        "lemma": "strong:H02896",
+        "attrs": {
+          "lemma": "strong:H02896"
+        }
+      }
+    },
+    {
+      "position": 14,
+      "text": "and",
+      "lemma": "strong:H07451",
+      "morph": null,
+      "strongs": [
+        "H7451"
+      ],
+      "source": {
+        "lemma": "strong:H07451",
+        "attrs": {
+          "lemma": "strong:H07451"
+        }
+      }
+    },
+    {
+      "position": 15,
+      "text": "evil?",
+      "lemma": "strong:H07451",
+      "morph": null,
+      "strongs": [
+        "H7451"
+      ],
+      "source": {
+        "lemma": "strong:H07451",
+        "attrs": {
+          "lemma": "strong:H07451"
+        }
+      }
+    },
+    {
+      "position": 16,
+      "text": "can",
+      "lemma": "strong:H05650",
+      "morph": null,
+      "strongs": [
+        "H5650"
+      ],
+      "source": {
+        "lemma": "strong:H05650",
+        "attrs": {
+          "lemma": "strong:H05650"
+        }
+      }
+    },
+    {
+      "position": 17,
+      "text": "thy",
+      "lemma": "strong:H05650",
+      "morph": null,
+      "strongs": [
+        "H5650"
+      ],
+      "source": {
+        "lemma": "strong:H05650",
+        "attrs": {
+          "lemma": "strong:H05650"
+        }
+      }
+    },
+    {
+      "position": 18,
+      "text": "servant",
+      "lemma": "strong:H05650",
+      "morph": null,
+      "strongs": [
+        "H5650"
+      ],
+      "source": {
+        "lemma": "strong:H05650",
+        "attrs": {
+          "lemma": "strong:H05650"
+        }
+      }
+    },
+    {
+      "position": 19,
+      "text": "taste",
+      "lemma": "strong:H02938",
+      "morph": "strongMorph:TH8799",
+      "strongs": [
+        "H2938"
+      ],
+      "source": {
+        "lemma": "strong:H02938",
+        "morph": "strongMorph:TH8799",
+        "attrs": {
+          "morph": "strongMorph:TH8799",
+          "lemma": "strong:H02938"
+        }
+      }
+    },
+    {
+      "position": 20,
+      "text": "what",
+      "lemma": "strong:H0834",
+      "morph": null,
+      "strongs": [
+        "H834"
+      ],
+      "source": {
+        "lemma": "strong:H0834",
+        "attrs": {
+          "lemma": "strong:H0834"
+        }
+      }
+    },
+    {
+      "position": 21,
+      "text": "I",
+      "lemma": "strong:H0398",
+      "morph": "strongMorph:TH8799",
+      "strongs": [
+        "H398"
+      ],
+      "source": {
+        "lemma": "strong:H0398",
+        "morph": "strongMorph:TH8799",
+        "attrs": {
+          "morph": "strongMorph:TH8799",
+          "lemma": "strong:H0398"
+        }
+      }
+    },
+    {
+      "position": 22,
+      "text": "eat",
+      "lemma": "strong:H0398",
+      "morph": "strongMorph:TH8799",
+      "strongs": [
+        "H398"
+      ],
+      "source": {
+        "lemma": "strong:H0398",
+        "morph": "strongMorph:TH8799",
+        "attrs": {
+          "morph": "strongMorph:TH8799",
+          "lemma": "strong:H0398"
+        }
+      }
+    },
+    {
+      "position": 23,
+      "text": "or",
+      "lemma": "strong:H0834",
+      "morph": null,
+      "strongs": [
+        "H834"
+      ],
+      "source": {
+        "lemma": "strong:H0834",
+        "attrs": {
+          "lemma": "strong:H0834"
+        }
+      }
+    },
+    {
+      "position": 24,
+      "text": "what",
+      "lemma": "strong:H0834",
+      "morph": null,
+      "strongs": [
+        "H834"
+      ],
+      "source": {
+        "lemma": "strong:H0834",
+        "attrs": {
+          "lemma": "strong:H0834"
+        }
+      }
+    },
+    {
+      "position": 25,
+      "text": "I",
+      "lemma": "strong:H08354",
+      "morph": "strongMorph:TH8799",
+      "strongs": [
+        "H8354"
+      ],
+      "source": {
+        "lemma": "strong:H08354",
+        "morph": "strongMorph:TH8799",
+        "attrs": {
+          "morph": "strongMorph:TH8799",
+          "lemma": "strong:H08354"
+        }
+      }
+    },
+    {
+      "position": 26,
+      "text": "drink?",
+      "lemma": "strong:H08354",
+      "morph": "strongMorph:TH8799",
+      "strongs": [
+        "H8354"
+      ],
+      "source": {
+        "lemma": "strong:H08354",
+        "morph": "strongMorph:TH8799",
+        "attrs": {
+          "morph": "strongMorph:TH8799",
+          "lemma": "strong:H08354"
+        }
+      }
+    },
+    {
+      "position": 27,
+      "text": "can",
+      "lemma": "strong:H08085",
+      "morph": "strongMorph:TH8799",
+      "strongs": [
+        "H8085"
+      ],
+      "source": {
+        "lemma": "strong:H08085",
+        "morph": "strongMorph:TH8799",
+        "attrs": {
+          "morph": "strongMorph:TH8799",
+          "lemma": "strong:H08085"
+        }
+      }
+    },
+    {
+      "position": 28,
+      "text": "I",
+      "lemma": "strong:H08085",
+      "morph": "strongMorph:TH8799",
+      "strongs": [
+        "H8085"
+      ],
+      "source": {
+        "lemma": "strong:H08085",
+        "morph": "strongMorph:TH8799",
+        "attrs": {
+          "morph": "strongMorph:TH8799",
+          "lemma": "strong:H08085"
+        }
+      }
+    },
+    {
+      "position": 29,
+      "text": "hear",
+      "lemma": "strong:H08085",
+      "morph": "strongMorph:TH8799",
+      "strongs": [
+        "H8085"
+      ],
+      "source": {
+        "lemma": "strong:H08085",
+        "morph": "strongMorph:TH8799",
+        "attrs": {
+          "morph": "strongMorph:TH8799",
+          "lemma": "strong:H08085"
+        }
+      }
+    },
+    {
+      "position": 30,
+      "text": "any",
+      "lemma": "strong:H06963",
+      "morph": null,
+      "strongs": [
+        "H6963"
+      ],
+      "source": {
+        "lemma": "strong:H06963",
+        "attrs": {
+          "lemma": "strong:H06963"
+        }
+      }
+    },
+    {
+      "position": 31,
+      "text": "more",
+      "lemma": "strong:H06963",
+      "morph": null,
+      "strongs": [
+        "H6963"
+      ],
+      "source": {
+        "lemma": "strong:H06963",
+        "attrs": {
+          "lemma": "strong:H06963"
+        }
+      }
+    },
+    {
+      "position": 32,
+      "text": "the",
+      "lemma": "strong:H06963",
+      "morph": null,
+      "strongs": [
+        "H6963"
+      ],
+      "source": {
+        "lemma": "strong:H06963",
+        "attrs": {
+          "lemma": "strong:H06963"
+        }
+      }
+    },
+    {
+      "position": 33,
+      "text": "voice",
+      "lemma": "strong:H06963",
+      "morph": null,
+      "strongs": [
+        "H6963"
+      ],
+      "source": {
+        "lemma": "strong:H06963",
+        "attrs": {
+          "lemma": "strong:H06963"
+        }
+      }
+    },
+    {
+      "position": 34,
+      "text": "of",
+      "lemma": "strong:H07891",
+      "morph": "strongMorph:TH8802",
+      "strongs": [
+        "H7891"
+      ],
+      "source": {
+        "lemma": "strong:H07891",
+        "morph": "strongMorph:TH8802",
+        "attrs": {
+          "morph": "strongMorph:TH8802",
+          "lemma": "strong:H07891"
+        }
+      }
+    },
+    {
+      "position": 35,
+      "text": "singing",
+      "lemma": "strong:H07891",
+      "morph": "strongMorph:TH8802",
+      "strongs": [
+        "H7891"
+      ],
+      "source": {
+        "lemma": "strong:H07891",
+        "morph": "strongMorph:TH8802",
+        "attrs": {
+          "morph": "strongMorph:TH8802",
+          "lemma": "strong:H07891"
+        }
+      }
+    },
+    {
+      "position": 36,
+      "text": "men",
+      "lemma": "strong:H07891",
+      "morph": "strongMorph:TH8802",
+      "strongs": [
+        "H7891"
+      ],
+      "source": {
+        "lemma": "strong:H07891",
+        "morph": "strongMorph:TH8802",
+        "attrs": {
+          "morph": "strongMorph:TH8802",
+          "lemma": "strong:H07891"
+        }
+      }
+    },
+    {
+      "position": 37,
+      "text": "and",
+      "lemma": "strong:H07891",
+      "morph": "strongMorph:TH8802",
+      "strongs": [
+        "H7891"
+      ],
+      "source": {
+        "lemma": "strong:H07891",
+        "morph": "strongMorph:TH8802",
+        "attrs": {
+          "morph": "strongMorph:TH8802",
+          "lemma": "strong:H07891"
+        }
+      }
+    },
+    {
+      "position": 38,
+      "text": "singing",
+      "lemma": "strong:H07891",
+      "morph": "strongMorph:TH8802",
+      "strongs": [
+        "H7891"
+      ],
+      "source": {
+        "lemma": "strong:H07891",
+        "morph": "strongMorph:TH8802",
+        "attrs": {
+          "morph": "strongMorph:TH8802",
+          "lemma": "strong:H07891"
+        }
+      }
+    },
+    {
+      "position": 39,
+      "text": "women?",
+      "lemma": "strong:H07891",
+      "morph": "strongMorph:TH8802",
+      "strongs": [
+        "H7891"
+      ],
+      "source": {
+        "lemma": "strong:H07891",
+        "morph": "strongMorph:TH8802",
+        "attrs": {
+          "morph": "strongMorph:TH8802",
+          "lemma": "strong:H07891"
+        }
+      }
+    },
+    {
+      "position": 40,
+      "text": "wherefore",
+      "lemma": "strong:H05650",
+      "morph": null,
+      "strongs": [
+        "H5650"
+      ],
+      "source": {
+        "lemma": "strong:H05650",
+        "attrs": {
+          "lemma": "strong:H05650"
+        }
+      }
+    },
+    {
+      "position": 41,
+      "text": "then",
+      "lemma": "strong:H05650",
+      "morph": null,
+      "strongs": [
+        "H5650"
+      ],
+      "source": {
+        "lemma": "strong:H05650",
+        "attrs": {
+          "lemma": "strong:H05650"
+        }
+      }
+    },
+    {
+      "position": 42,
+      "text": "should",
+      "lemma": "strong:H05650",
+      "morph": null,
+      "strongs": [
+        "H5650"
+      ],
+      "source": {
+        "lemma": "strong:H05650",
+        "attrs": {
+          "lemma": "strong:H05650"
+        }
+      }
+    },
+    {
+      "position": 43,
+      "text": "thy",
+      "lemma": "strong:H05650",
+      "morph": null,
+      "strongs": [
+        "H5650"
+      ],
+      "source": {
+        "lemma": "strong:H05650",
+        "attrs": {
+          "lemma": "strong:H05650"
+        }
+      }
+    },
+    {
+      "position": 44,
+      "text": "servant",
+      "lemma": "strong:H05650",
+      "morph": null,
+      "strongs": [
+        "H5650"
+      ],
+      "source": {
+        "lemma": "strong:H05650",
+        "attrs": {
+          "lemma": "strong:H05650"
+        }
+      }
+    },
+    {
+      "position": 45,
+      "text": "be",
+      "lemma": "strong:H04853",
+      "morph": null,
+      "strongs": [
+        "H4853"
+      ],
+      "source": {
+        "lemma": "strong:H04853",
+        "attrs": {
+          "lemma": "strong:H04853"
+        }
+      }
+    },
+    {
+      "position": 46,
+      "text": "yet",
+      "lemma": "strong:H04853",
+      "morph": null,
+      "strongs": [
+        "H4853"
+      ],
+      "source": {
+        "lemma": "strong:H04853",
+        "attrs": {
+          "lemma": "strong:H04853"
+        }
+      }
+    },
+    {
+      "position": 47,
+      "text": "a",
+      "lemma": "strong:H04853",
+      "morph": null,
+      "strongs": [
+        "H4853"
+      ],
+      "source": {
+        "lemma": "strong:H04853",
+        "attrs": {
+          "lemma": "strong:H04853"
+        }
+      }
+    },
+    {
+      "position": 48,
+      "text": "burden",
+      "lemma": "strong:H04853",
+      "morph": null,
+      "strongs": [
+        "H4853"
+      ],
+      "source": {
+        "lemma": "strong:H04853",
+        "attrs": {
+          "lemma": "strong:H04853"
+        }
+      }
+    },
+    {
+      "position": 49,
+      "text": "unto",
+      "lemma": "strong:H0113",
+      "morph": null,
+      "strongs": [
+        "H113"
+      ],
+      "source": {
+        "lemma": "strong:H0113",
+        "attrs": {
+          "lemma": "strong:H0113"
+        }
+      }
+    },
+    {
+      "position": 50,
+      "text": "my",
+      "lemma": "strong:H0113",
+      "morph": null,
+      "strongs": [
+        "H113"
+      ],
+      "source": {
+        "lemma": "strong:H0113",
+        "attrs": {
+          "lemma": "strong:H0113"
+        }
+      }
+    },
+    {
+      "position": 51,
+      "text": "lord",
+      "lemma": "strong:H0113",
+      "morph": null,
+      "strongs": [
+        "H113"
+      ],
+      "source": {
+        "lemma": "strong:H0113",
+        "attrs": {
+          "lemma": "strong:H0113"
+        }
+      }
+    },
+    {
+      "position": 52,
+      "text": "the",
+      "lemma": "strong:H04428",
+      "morph": null,
+      "strongs": [
+        "H4428"
+      ],
+      "source": {
+        "lemma": "strong:H04428",
+        "attrs": {
+          "lemma": "strong:H04428"
+        }
+      }
+    },
+    {
+      "position": 53,
+      "text": "king?",
+      "lemma": "strong:H04428",
+      "morph": null,
+      "strongs": [
+        "H4428"
+      ],
+      "source": {
+        "lemma": "strong:H04428",
+        "attrs": {
+          "lemma": "strong:H04428"
+        }
+      }
+    }
+  ]
+}

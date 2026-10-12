@@ -1,0 +1,462 @@
+{
+  "text": "To declare, I say, at this time his righteousness: that he might be just, and the justifier of him which believeth in Jesus.",
+  "words": [
+    {
+      "position": 1,
+      "text": "To",
+      "lemma": "strong:G4314 lemma.TR:προς",
+      "morph": "robinson:PREP",
+      "strongs": [
+        "G4314"
+      ],
+      "metadata": {
+        "src": "6"
+      },
+      "source": {
+        "lemma": "strong:G4314 lemma.TR:προς",
+        "morph": "robinson:PREP",
+        "attrs": {
+          "src": "6",
+          "lemma": "strong:G4314 lemma.TR:προς",
+          "morph": "robinson:PREP"
+        }
+      }
+    },
+    {
+      "position": 2,
+      "text": "declare,",
+      "lemma": "strong:G1732 lemma.TR:ενδειξιν",
+      "morph": "robinson:N-ASF",
+      "strongs": [
+        "G1732"
+      ],
+      "metadata": {
+        "src": "7"
+      },
+      "source": {
+        "lemma": "strong:G1732 lemma.TR:ενδειξιν",
+        "morph": "robinson:N-ASF",
+        "attrs": {
+          "src": "7",
+          "lemma": "strong:G1732 lemma.TR:ενδειξιν",
+          "morph": "robinson:N-ASF"
+        }
+      }
+    },
+    {
+      "position": 3,
+      "text": "I say,",
+      "lemma": null,
+      "morph": null,
+      "metadata": {
+        "type": "added"
+      },
+      "source": {
+        "attrs": {
+          "type": "added"
+        }
+      }
+    },
+    {
+      "position": 4,
+      "text": "at",
+      "lemma": "strong:G1722 lemma.TR:εν",
+      "morph": "robinson:PREP",
+      "strongs": [
+        "G1722"
+      ],
+      "metadata": {
+        "src": "11"
+      },
+      "source": {
+        "lemma": "strong:G1722 lemma.TR:εν",
+        "morph": "robinson:PREP",
+        "attrs": {
+          "src": "11",
+          "lemma": "strong:G1722 lemma.TR:εν",
+          "morph": "robinson:PREP"
+        }
+      }
+    },
+    {
+      "position": 5,
+      "text": "this",
+      "lemma": "strong:G3568 lemma.TR:νυν",
+      "morph": "robinson:ADV",
+      "strongs": [
+        "G3568"
+      ],
+      "metadata": {
+        "src": "13"
+      },
+      "source": {
+        "lemma": "strong:G3568 lemma.TR:νυν",
+        "morph": "robinson:ADV",
+        "attrs": {
+          "src": "13",
+          "lemma": "strong:G3568 lemma.TR:νυν",
+          "morph": "robinson:ADV"
+        }
+      }
+    },
+    {
+      "position": 6,
+      "text": "time",
+      "lemma": "strong:G3588 strong:G2540 lemma.TR:τω lemma.TR:καιρω",
+      "morph": "robinson:T-DSM robinson:N-DSM",
+      "strongs": [
+        "G3588",
+        "G2540"
+      ],
+      "metadata": {
+        "src": "12 14"
+      },
+      "source": {
+        "lemma": "strong:G3588 strong:G2540 lemma.TR:τω lemma.TR:καιρω",
+        "morph": "robinson:T-DSM robinson:N-DSM",
+        "attrs": {
+          "src": "12 14",
+          "lemma": "strong:G3588 strong:G2540 lemma.TR:τω lemma.TR:καιρω",
+          "morph": "robinson:T-DSM robinson:N-DSM"
+        }
+      }
+    },
+    {
+      "position": 7,
+      "text": "his",
+      "lemma": "strong:G846 lemma.TR:αυτου",
+      "morph": "robinson:P-GSM",
+      "strongs": [
+        "G846"
+      ],
+      "metadata": {
+        "src": "10"
+      },
+      "source": {
+        "lemma": "strong:G846 lemma.TR:αυτου",
+        "morph": "robinson:P-GSM",
+        "attrs": {
+          "src": "10",
+          "lemma": "strong:G846 lemma.TR:αυτου",
+          "morph": "robinson:P-GSM"
+        }
+      }
+    },
+    {
+      "position": 8,
+      "text": "righteousness:",
+      "lemma": "strong:G3588 strong:G1343 lemma.TR:της lemma.TR:δικαιοσυνης",
+      "morph": "robinson:T-GSF robinson:N-GSF",
+      "strongs": [
+        "G3588",
+        "G1343"
+      ],
+      "metadata": {
+        "src": "8 9"
+      },
+      "source": {
+        "lemma": "strong:G3588 strong:G1343 lemma.TR:της lemma.TR:δικαιοσυνης",
+        "morph": "robinson:T-GSF robinson:N-GSF",
+        "attrs": {
+          "src": "8 9",
+          "lemma": "strong:G3588 strong:G1343 lemma.TR:της lemma.TR:δικαιοσυνης",
+          "morph": "robinson:T-GSF robinson:N-GSF"
+        }
+      }
+    },
+    {
+      "position": 9,
+      "text": "that",
+      "lemma": "strong:G1519 lemma.TR:εις",
+      "morph": "robinson:PREP",
+      "strongs": [
+        "G1519"
+      ],
+      "metadata": {
+        "src": "15"
+      },
+      "source": {
+        "lemma": "strong:G1519 lemma.TR:εις",
+        "morph": "robinson:PREP",
+        "attrs": {
+          "src": "15",
+          "lemma": "strong:G1519 lemma.TR:εις",
+          "morph": "robinson:PREP"
+        }
+      }
+    },
+    {
+      "position": 10,
+      "text": "he",
+      "lemma": "strong:G846 lemma.TR:αυτον",
+      "morph": "robinson:P-ASM",
+      "strongs": [
+        "G846"
+      ],
+      "metadata": {
+        "src": "18"
+      },
+      "source": {
+        "lemma": "strong:G846 lemma.TR:αυτον",
+        "morph": "robinson:P-ASM",
+        "attrs": {
+          "src": "18",
+          "lemma": "strong:G846 lemma.TR:αυτον",
+          "morph": "robinson:P-ASM"
+        }
+      }
+    },
+    {
+      "position": 11,
+      "text": "might",
+      "lemma": "strong:G1510 lemma.TR:ειναι",
+      "morph": "robinson:V-PAN",
+      "strongs": [
+        "G1510"
+      ],
+      "metadata": {
+        "src": "17"
+      },
+      "source": {
+        "lemma": "strong:G1510 lemma.TR:ειναι",
+        "morph": "robinson:V-PAN",
+        "attrs": {
+          "src": "17",
+          "lemma": "strong:G1510 lemma.TR:ειναι",
+          "morph": "robinson:V-PAN"
+        }
+      }
+    },
+    {
+      "position": 12,
+      "text": "be",
+      "lemma": "strong:G1510 lemma.TR:ειναι",
+      "morph": "robinson:V-PAN",
+      "strongs": [
+        "G1510"
+      ],
+      "metadata": {
+        "src": "17"
+      },
+      "source": {
+        "lemma": "strong:G1510 lemma.TR:ειναι",
+        "morph": "robinson:V-PAN",
+        "attrs": {
+          "src": "17",
+          "lemma": "strong:G1510 lemma.TR:ειναι",
+          "morph": "robinson:V-PAN"
+        }
+      }
+    },
+    {
+      "position": 13,
+      "text": "just,",
+      "lemma": "strong:G1342 lemma.TR:δικαιον",
+      "morph": "robinson:A-ASM",
+      "strongs": [
+        "G1342"
+      ],
+      "metadata": {
+        "src": "19"
+      },
+      "source": {
+        "lemma": "strong:G1342 lemma.TR:δικαιον",
+        "morph": "robinson:A-ASM",
+        "attrs": {
+          "src": "19",
+          "lemma": "strong:G1342 lemma.TR:δικαιον",
+          "morph": "robinson:A-ASM"
+        }
+      }
+    },
+    {
+      "position": 14,
+      "text": "and",
+      "lemma": "strong:G2532 lemma.TR:και",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G2532"
+      ],
+      "metadata": {
+        "src": "20"
+      },
+      "source": {
+        "lemma": "strong:G2532 lemma.TR:και",
+        "morph": "robinson:CONJ",
+        "attrs": {
+          "src": "20",
+          "lemma": "strong:G2532 lemma.TR:και",
+          "morph": "robinson:CONJ"
+        }
+      }
+    },
+    {
+      "position": 15,
+      "text": "the",
+      "lemma": "strong:G1344 lemma.TR:δικαιουντα",
+      "morph": "robinson:V-PAP-ASM",
+      "strongs": [
+        "G1344"
+      ],
+      "metadata": {
+        "src": "21"
+      },
+      "source": {
+        "lemma": "strong:G1344 lemma.TR:δικαιουντα",
+        "morph": "robinson:V-PAP-ASM",
+        "attrs": {
+          "src": "21",
+          "lemma": "strong:G1344 lemma.TR:δικαιουντα",
+          "morph": "robinson:V-PAP-ASM"
+        }
+      }
+    },
+    {
+      "position": 16,
+      "text": "justifier",
+      "lemma": "strong:G1344 lemma.TR:δικαιουντα",
+      "morph": "robinson:V-PAP-ASM",
+      "strongs": [
+        "G1344"
+      ],
+      "metadata": {
+        "src": "21"
+      },
+      "source": {
+        "lemma": "strong:G1344 lemma.TR:δικαιουντα",
+        "morph": "robinson:V-PAP-ASM",
+        "attrs": {
+          "src": "21",
+          "lemma": "strong:G1344 lemma.TR:δικαιουντα",
+          "morph": "robinson:V-PAP-ASM"
+        }
+      }
+    },
+    {
+      "position": 17,
+      "text": "of",
+      "lemma": "strong:G4102 lemma.TR:πιστεως",
+      "morph": "robinson:N-GSF",
+      "strongs": [
+        "G4102"
+      ],
+      "metadata": {
+        "src": "24"
+      },
+      "source": {
+        "lemma": "strong:G4102 lemma.TR:πιστεως",
+        "morph": "robinson:N-GSF",
+        "attrs": {
+          "src": "24",
+          "lemma": "strong:G4102 lemma.TR:πιστεως",
+          "morph": "robinson:N-GSF"
+        }
+      }
+    },
+    {
+      "position": 18,
+      "text": "him",
+      "lemma": "strong:G4102 lemma.TR:πιστεως",
+      "morph": "robinson:N-GSF",
+      "strongs": [
+        "G4102"
+      ],
+      "metadata": {
+        "src": "24"
+      },
+      "source": {
+        "lemma": "strong:G4102 lemma.TR:πιστεως",
+        "morph": "robinson:N-GSF",
+        "attrs": {
+          "src": "24",
+          "lemma": "strong:G4102 lemma.TR:πιστεως",
+          "morph": "robinson:N-GSF"
+        }
+      }
+    },
+    {
+      "position": 19,
+      "text": "which",
+      "lemma": "strong:G4102 lemma.TR:πιστεως",
+      "morph": "robinson:N-GSF",
+      "strongs": [
+        "G4102"
+      ],
+      "metadata": {
+        "src": "24"
+      },
+      "source": {
+        "lemma": "strong:G4102 lemma.TR:πιστεως",
+        "morph": "robinson:N-GSF",
+        "attrs": {
+          "src": "24",
+          "lemma": "strong:G4102 lemma.TR:πιστεως",
+          "morph": "robinson:N-GSF"
+        }
+      }
+    },
+    {
+      "position": 20,
+      "text": "believeth",
+      "lemma": "strong:G4102 lemma.TR:πιστεως",
+      "morph": "robinson:N-GSF",
+      "strongs": [
+        "G4102"
+      ],
+      "metadata": {
+        "src": "24"
+      },
+      "source": {
+        "lemma": "strong:G4102 lemma.TR:πιστεως",
+        "morph": "robinson:N-GSF",
+        "attrs": {
+          "src": "24",
+          "lemma": "strong:G4102 lemma.TR:πιστεως",
+          "morph": "robinson:N-GSF"
+        }
+      }
+    },
+    {
+      "position": 21,
+      "text": "in",
+      "lemma": "strong:G2424 lemma.TR:ιησου",
+      "morph": "robinson:N-GSM",
+      "strongs": [
+        "G2424"
+      ],
+      "metadata": {
+        "src": "25"
+      },
+      "source": {
+        "lemma": "strong:G2424 lemma.TR:ιησου",
+        "morph": "robinson:N-GSM",
+        "attrs": {
+          "src": "25",
+          "lemma": "strong:G2424 lemma.TR:ιησου",
+          "morph": "robinson:N-GSM"
+        }
+      }
+    },
+    {
+      "position": 22,
+      "text": "Jesus.",
+      "lemma": "strong:G2424 lemma.TR:ιησου",
+      "morph": "robinson:N-GSM",
+      "strongs": [
+        "G2424"
+      ],
+      "metadata": {
+        "src": "25"
+      },
+      "source": {
+        "lemma": "strong:G2424 lemma.TR:ιησου",
+        "morph": "robinson:N-GSM",
+        "attrs": {
+          "src": "25",
+          "lemma": "strong:G2424 lemma.TR:ιησου",
+          "morph": "robinson:N-GSM"
+        }
+      }
+    }
+  ]
+}

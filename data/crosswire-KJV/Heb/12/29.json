@@ -1,0 +1,150 @@
+{
+  "text": "For our God is a consuming fire.",
+  "words": [
+    {
+      "position": 1,
+      "text": "For",
+      "lemma": "strong:G1063 lemma.TR:γαρ",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G1063"
+      ],
+      "metadata": {
+        "src": "2"
+      },
+      "source": {
+        "lemma": "strong:G1063 lemma.TR:γαρ",
+        "morph": "robinson:CONJ",
+        "attrs": {
+          "src": "2",
+          "lemma": "strong:G1063 lemma.TR:γαρ",
+          "morph": "robinson:CONJ"
+        }
+      }
+    },
+    {
+      "position": 2,
+      "text": "our",
+      "lemma": "strong:G1473 lemma.TR:ημων",
+      "morph": "robinson:P-1GP",
+      "strongs": [
+        "G1473"
+      ],
+      "metadata": {
+        "src": "5"
+      },
+      "source": {
+        "lemma": "strong:G1473 lemma.TR:ημων",
+        "morph": "robinson:P-1GP",
+        "attrs": {
+          "src": "5",
+          "lemma": "strong:G1473 lemma.TR:ημων",
+          "morph": "robinson:P-1GP"
+        }
+      }
+    },
+    {
+      "position": 3,
+      "text": "God",
+      "lemma": "strong:G3588 strong:G2316 lemma.TR:ο lemma.TR:θεος",
+      "morph": "robinson:T-NSM robinson:N-NSM",
+      "strongs": [
+        "G3588",
+        "G2316"
+      ],
+      "metadata": {
+        "src": "3 4"
+      },
+      "source": {
+        "lemma": "strong:G3588 strong:G2316 lemma.TR:ο lemma.TR:θεος",
+        "morph": "robinson:T-NSM robinson:N-NSM",
+        "attrs": {
+          "src": "3 4",
+          "lemma": "strong:G3588 strong:G2316 lemma.TR:ο lemma.TR:θεος",
+          "morph": "robinson:T-NSM robinson:N-NSM"
+        }
+      }
+    },
+    {
+      "position": 4,
+      "text": "is",
+      "lemma": null,
+      "morph": null,
+      "metadata": {
+        "type": "added"
+      },
+      "source": {
+        "attrs": {
+          "type": "added"
+        }
+      }
+    },
+    {
+      "position": 5,
+      "text": "a",
+      "lemma": "strong:G4442 lemma.TR:πυρ",
+      "morph": "robinson:N-NSN",
+      "strongs": [
+        "G4442"
+      ],
+      "metadata": {
+        "src": "6",
+        "type": "x-split-3537"
+      },
+      "source": {
+        "lemma": "strong:G4442 lemma.TR:πυρ",
+        "morph": "robinson:N-NSN",
+        "attrs": {
+          "src": "6",
+          "lemma": "strong:G4442 lemma.TR:πυρ",
+          "morph": "robinson:N-NSN",
+          "type": "x-split-3537"
+        }
+      }
+    },
+    {
+      "position": 6,
+      "text": "consuming",
+      "lemma": "strong:G2654 lemma.TR:καταναλισκον",
+      "morph": "robinson:V-PAP-NSN",
+      "strongs": [
+        "G2654"
+      ],
+      "metadata": {
+        "src": "7"
+      },
+      "source": {
+        "lemma": "strong:G2654 lemma.TR:καταναλισκον",
+        "morph": "robinson:V-PAP-NSN",
+        "attrs": {
+          "src": "7",
+          "lemma": "strong:G2654 lemma.TR:καταναλισκον",
+          "morph": "robinson:V-PAP-NSN"
+        }
+      }
+    },
+    {
+      "position": 7,
+      "text": "fire.",
+      "lemma": "strong:G4442 lemma.TR:πυρ",
+      "morph": "robinson:N-NSN",
+      "strongs": [
+        "G4442"
+      ],
+      "metadata": {
+        "src": "6",
+        "type": "x-split-3537"
+      },
+      "source": {
+        "lemma": "strong:G4442 lemma.TR:πυρ",
+        "morph": "robinson:N-NSN",
+        "attrs": {
+          "src": "6",
+          "lemma": "strong:G4442 lemma.TR:πυρ",
+          "morph": "robinson:N-NSN",
+          "type": "x-split-3537"
+        }
+      }
+    }
+  ]
+}

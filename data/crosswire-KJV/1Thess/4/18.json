@@ -1,0 +1,153 @@
+{
+  "text": "Wherefore comfort one another with these words.",
+  "words": [
+    {
+      "position": 1,
+      "text": "Wherefore",
+      "lemma": "strong:G5620 lemma.TR:ωστε",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G5620"
+      ],
+      "metadata": {
+        "src": "1"
+      },
+      "source": {
+        "lemma": "strong:G5620 lemma.TR:ωστε",
+        "morph": "robinson:CONJ",
+        "attrs": {
+          "src": "1",
+          "lemma": "strong:G5620 lemma.TR:ωστε",
+          "morph": "robinson:CONJ"
+        }
+      }
+    },
+    {
+      "position": 2,
+      "text": "comfort",
+      "lemma": "strong:G3870 lemma.TR:παρακαλειτε",
+      "morph": "robinson:V-PAM-2P",
+      "strongs": [
+        "G3870"
+      ],
+      "metadata": {
+        "src": "2"
+      },
+      "source": {
+        "lemma": "strong:G3870 lemma.TR:παρακαλειτε",
+        "morph": "robinson:V-PAM-2P",
+        "attrs": {
+          "src": "2",
+          "lemma": "strong:G3870 lemma.TR:παρακαλειτε",
+          "morph": "robinson:V-PAM-2P"
+        }
+      }
+    },
+    {
+      "position": 3,
+      "text": "one",
+      "lemma": "strong:G240 lemma.TR:αλληλους",
+      "morph": "robinson:C-APM",
+      "strongs": [
+        "G240"
+      ],
+      "metadata": {
+        "src": "3"
+      },
+      "source": {
+        "lemma": "strong:G240 lemma.TR:αλληλους",
+        "morph": "robinson:C-APM",
+        "attrs": {
+          "src": "3",
+          "lemma": "strong:G240 lemma.TR:αλληλους",
+          "morph": "robinson:C-APM"
+        }
+      }
+    },
+    {
+      "position": 4,
+      "text": "another",
+      "lemma": "strong:G240 lemma.TR:αλληλους",
+      "morph": "robinson:C-APM",
+      "strongs": [
+        "G240"
+      ],
+      "metadata": {
+        "src": "3"
+      },
+      "source": {
+        "lemma": "strong:G240 lemma.TR:αλληλους",
+        "morph": "robinson:C-APM",
+        "attrs": {
+          "src": "3",
+          "lemma": "strong:G240 lemma.TR:αλληλους",
+          "morph": "robinson:C-APM"
+        }
+      }
+    },
+    {
+      "position": 5,
+      "text": "with",
+      "lemma": "strong:G1722 lemma.TR:εν",
+      "morph": "robinson:PREP",
+      "strongs": [
+        "G1722"
+      ],
+      "metadata": {
+        "src": "4"
+      },
+      "source": {
+        "lemma": "strong:G1722 lemma.TR:εν",
+        "morph": "robinson:PREP",
+        "attrs": {
+          "src": "4",
+          "lemma": "strong:G1722 lemma.TR:εν",
+          "morph": "robinson:PREP"
+        }
+      }
+    },
+    {
+      "position": 6,
+      "text": "these",
+      "lemma": "strong:G3778 lemma.TR:τουτοις",
+      "morph": "robinson:D-DPM",
+      "strongs": [
+        "G3778"
+      ],
+      "metadata": {
+        "src": "7"
+      },
+      "source": {
+        "lemma": "strong:G3778 lemma.TR:τουτοις",
+        "morph": "robinson:D-DPM",
+        "attrs": {
+          "src": "7",
+          "lemma": "strong:G3778 lemma.TR:τουτοις",
+          "morph": "robinson:D-DPM"
+        }
+      }
+    },
+    {
+      "position": 7,
+      "text": "words.",
+      "lemma": "strong:G3588 strong:G3056 lemma.TR:τοις lemma.TR:λογοις",
+      "morph": "robinson:T-DPM robinson:N-DPM",
+      "strongs": [
+        "G3588",
+        "G3056"
+      ],
+      "metadata": {
+        "src": "5 6"
+      },
+      "source": {
+        "lemma": "strong:G3588 strong:G3056 lemma.TR:τοις lemma.TR:λογοις",
+        "morph": "robinson:T-DPM robinson:N-DPM",
+        "attrs": {
+          "src": "5 6",
+          "lemma": "strong:G3588 strong:G3056 lemma.TR:τοις lemma.TR:λογοις",
+          "morph": "robinson:T-DPM robinson:N-DPM"
+        }
+      }
+    }
+  ]
+}

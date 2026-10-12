@@ -1,0 +1,267 @@
+{
+  "text": "Beloved, if God so loved us, we ought also to love one another.",
+  "words": [
+    {
+      "position": 1,
+      "text": "Beloved,",
+      "lemma": "strong:G27 lemma.TR:αγαπητοι",
+      "morph": "robinson:A-VPM",
+      "metadata": {
+        "src": "1"
+      },
+      "source": {
+        "lemma": "strong:G27 lemma.TR:αγαπητοι",
+        "morph": "robinson:A-VPM",
+        "attrs": {
+          "src": "1",
+          "lemma": "strong:G27 lemma.TR:αγαπητοι",
+          "morph": "robinson:A-VPM"
+        }
+      }
+    },
+    {
+      "position": 2,
+      "text": "if",
+      "lemma": "strong:G1487 lemma.TR:ει",
+      "morph": "robinson:COND",
+      "strongs": [
+        "G1487"
+      ],
+      "metadata": {
+        "src": "2"
+      },
+      "source": {
+        "lemma": "strong:G1487 lemma.TR:ει",
+        "morph": "robinson:COND",
+        "attrs": {
+          "src": "2",
+          "lemma": "strong:G1487 lemma.TR:ει",
+          "morph": "robinson:COND"
+        }
+      }
+    },
+    {
+      "position": 3,
+      "text": "God",
+      "lemma": "strong:G3588 strong:G2316 lemma.TR:ο lemma.TR:θεος",
+      "morph": "robinson:T-NSM robinson:N-NSM",
+      "strongs": [
+        "G3588",
+        "G2316"
+      ],
+      "metadata": {
+        "src": "4 5"
+      },
+      "source": {
+        "lemma": "strong:G3588 strong:G2316 lemma.TR:ο lemma.TR:θεος",
+        "morph": "robinson:T-NSM robinson:N-NSM",
+        "attrs": {
+          "src": "4 5",
+          "lemma": "strong:G3588 strong:G2316 lemma.TR:ο lemma.TR:θεος",
+          "morph": "robinson:T-NSM robinson:N-NSM"
+        }
+      }
+    },
+    {
+      "position": 4,
+      "text": "so",
+      "lemma": "strong:G3779 lemma.TR:ουτως",
+      "morph": "robinson:ADV",
+      "strongs": [
+        "G3779"
+      ],
+      "metadata": {
+        "src": "3"
+      },
+      "source": {
+        "lemma": "strong:G3779 lemma.TR:ουτως",
+        "morph": "robinson:ADV",
+        "attrs": {
+          "src": "3",
+          "lemma": "strong:G3779 lemma.TR:ουτως",
+          "morph": "robinson:ADV"
+        }
+      }
+    },
+    {
+      "position": 5,
+      "text": "loved",
+      "lemma": "strong:G25 lemma.TR:ηγαπησεν",
+      "morph": "robinson:V-AAI-3S",
+      "metadata": {
+        "src": "6"
+      },
+      "source": {
+        "lemma": "strong:G25 lemma.TR:ηγαπησεν",
+        "morph": "robinson:V-AAI-3S",
+        "attrs": {
+          "src": "6",
+          "lemma": "strong:G25 lemma.TR:ηγαπησεν",
+          "morph": "robinson:V-AAI-3S"
+        }
+      }
+    },
+    {
+      "position": 6,
+      "text": "us,",
+      "lemma": "strong:G1473 lemma.TR:ημας",
+      "morph": "robinson:P-1AP",
+      "strongs": [
+        "G1473"
+      ],
+      "metadata": {
+        "src": "7"
+      },
+      "source": {
+        "lemma": "strong:G1473 lemma.TR:ημας",
+        "morph": "robinson:P-1AP",
+        "attrs": {
+          "src": "7",
+          "lemma": "strong:G1473 lemma.TR:ημας",
+          "morph": "robinson:P-1AP"
+        }
+      }
+    },
+    {
+      "position": 7,
+      "text": "we",
+      "lemma": "strong:G1473 lemma.TR:ημεις",
+      "morph": "robinson:P-1NP",
+      "strongs": [
+        "G1473"
+      ],
+      "metadata": {
+        "src": "9"
+      },
+      "source": {
+        "lemma": "strong:G1473 lemma.TR:ημεις",
+        "morph": "robinson:P-1NP",
+        "attrs": {
+          "src": "9",
+          "lemma": "strong:G1473 lemma.TR:ημεις",
+          "morph": "robinson:P-1NP"
+        }
+      }
+    },
+    {
+      "position": 8,
+      "text": "ought",
+      "lemma": "strong:G3784 lemma.TR:οφειλομεν",
+      "morph": "robinson:V-PAI-1P",
+      "strongs": [
+        "G3784"
+      ],
+      "metadata": {
+        "src": "10"
+      },
+      "source": {
+        "lemma": "strong:G3784 lemma.TR:οφειλομεν",
+        "morph": "robinson:V-PAI-1P",
+        "attrs": {
+          "src": "10",
+          "lemma": "strong:G3784 lemma.TR:οφειλομεν",
+          "morph": "robinson:V-PAI-1P"
+        }
+      }
+    },
+    {
+      "position": 9,
+      "text": "also",
+      "lemma": "strong:G2532 lemma.TR:και",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G2532"
+      ],
+      "metadata": {
+        "src": "8"
+      },
+      "source": {
+        "lemma": "strong:G2532 lemma.TR:και",
+        "morph": "robinson:CONJ",
+        "attrs": {
+          "src": "8",
+          "lemma": "strong:G2532 lemma.TR:και",
+          "morph": "robinson:CONJ"
+        }
+      }
+    },
+    {
+      "position": 10,
+      "text": "to",
+      "lemma": "strong:G25 lemma.TR:αγαπαν",
+      "morph": "robinson:V-PAN",
+      "metadata": {
+        "src": "12"
+      },
+      "source": {
+        "lemma": "strong:G25 lemma.TR:αγαπαν",
+        "morph": "robinson:V-PAN",
+        "attrs": {
+          "src": "12",
+          "lemma": "strong:G25 lemma.TR:αγαπαν",
+          "morph": "robinson:V-PAN"
+        }
+      }
+    },
+    {
+      "position": 11,
+      "text": "love",
+      "lemma": "strong:G25 lemma.TR:αγαπαν",
+      "morph": "robinson:V-PAN",
+      "metadata": {
+        "src": "12"
+      },
+      "source": {
+        "lemma": "strong:G25 lemma.TR:αγαπαν",
+        "morph": "robinson:V-PAN",
+        "attrs": {
+          "src": "12",
+          "lemma": "strong:G25 lemma.TR:αγαπαν",
+          "morph": "robinson:V-PAN"
+        }
+      }
+    },
+    {
+      "position": 12,
+      "text": "one",
+      "lemma": "strong:G240 lemma.TR:αλληλους",
+      "morph": "robinson:C-APM",
+      "strongs": [
+        "G240"
+      ],
+      "metadata": {
+        "src": "11"
+      },
+      "source": {
+        "lemma": "strong:G240 lemma.TR:αλληλους",
+        "morph": "robinson:C-APM",
+        "attrs": {
+          "src": "11",
+          "lemma": "strong:G240 lemma.TR:αλληλους",
+          "morph": "robinson:C-APM"
+        }
+      }
+    },
+    {
+      "position": 13,
+      "text": "another.",
+      "lemma": "strong:G240 lemma.TR:αλληλους",
+      "morph": "robinson:C-APM",
+      "strongs": [
+        "G240"
+      ],
+      "metadata": {
+        "src": "11"
+      },
+      "source": {
+        "lemma": "strong:G240 lemma.TR:αλληλους",
+        "morph": "robinson:C-APM",
+        "attrs": {
+          "src": "11",
+          "lemma": "strong:G240 lemma.TR:αλληλους",
+          "morph": "robinson:C-APM"
+        }
+      }
+    }
+  ]
+}

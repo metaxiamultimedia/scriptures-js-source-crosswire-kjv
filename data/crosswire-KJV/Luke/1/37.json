@@ -1,0 +1,153 @@
+{
+  "text": "For with God nothing shall be impossible.",
+  "words": [
+    {
+      "position": 1,
+      "text": "For",
+      "lemma": "strong:G3754 lemma.TR:οτι",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G3754"
+      ],
+      "metadata": {
+        "src": "1"
+      },
+      "source": {
+        "lemma": "strong:G3754 lemma.TR:οτι",
+        "morph": "robinson:CONJ",
+        "attrs": {
+          "src": "1",
+          "lemma": "strong:G3754 lemma.TR:οτι",
+          "morph": "robinson:CONJ"
+        }
+      }
+    },
+    {
+      "position": 2,
+      "text": "with",
+      "lemma": "strong:G3844 lemma.TR:παρα",
+      "morph": "robinson:PREP",
+      "strongs": [
+        "G3844"
+      ],
+      "metadata": {
+        "src": "4"
+      },
+      "source": {
+        "lemma": "strong:G3844 lemma.TR:παρα",
+        "morph": "robinson:PREP",
+        "attrs": {
+          "src": "4",
+          "lemma": "strong:G3844 lemma.TR:παρα",
+          "morph": "robinson:PREP"
+        }
+      }
+    },
+    {
+      "position": 3,
+      "text": "God",
+      "lemma": "strong:G3588 strong:G2316 lemma.TR:τω lemma.TR:θεω",
+      "morph": "robinson:T-DSM robinson:N-DSM",
+      "strongs": [
+        "G3588",
+        "G2316"
+      ],
+      "metadata": {
+        "src": "5 6"
+      },
+      "source": {
+        "lemma": "strong:G3588 strong:G2316 lemma.TR:τω lemma.TR:θεω",
+        "morph": "robinson:T-DSM robinson:N-DSM",
+        "attrs": {
+          "src": "5 6",
+          "lemma": "strong:G3588 strong:G2316 lemma.TR:τω lemma.TR:θεω",
+          "morph": "robinson:T-DSM robinson:N-DSM"
+        }
+      }
+    },
+    {
+      "position": 4,
+      "text": "nothing",
+      "lemma": "strong:G3756 lemma.TR:ουκ",
+      "morph": "robinson:PRT-N",
+      "strongs": [
+        "G3756"
+      ],
+      "metadata": {
+        "src": "2"
+      },
+      "source": {
+        "lemma": "strong:G3756 lemma.TR:ουκ",
+        "morph": "robinson:PRT-N",
+        "attrs": {
+          "src": "2",
+          "lemma": "strong:G3756 lemma.TR:ουκ",
+          "morph": "robinson:PRT-N"
+        }
+      }
+    },
+    {
+      "position": 5,
+      "text": "shall",
+      "lemma": "strong:G101 lemma.TR:αδυνατησει",
+      "morph": "robinson:V-FAI-3S",
+      "strongs": [
+        "G101"
+      ],
+      "metadata": {
+        "src": "3"
+      },
+      "source": {
+        "lemma": "strong:G101 lemma.TR:αδυνατησει",
+        "morph": "robinson:V-FAI-3S",
+        "attrs": {
+          "src": "3",
+          "lemma": "strong:G101 lemma.TR:αδυνατησει",
+          "morph": "robinson:V-FAI-3S"
+        }
+      }
+    },
+    {
+      "position": 6,
+      "text": "be",
+      "lemma": "strong:G101 lemma.TR:αδυνατησει",
+      "morph": "robinson:V-FAI-3S",
+      "strongs": [
+        "G101"
+      ],
+      "metadata": {
+        "src": "3"
+      },
+      "source": {
+        "lemma": "strong:G101 lemma.TR:αδυνατησει",
+        "morph": "robinson:V-FAI-3S",
+        "attrs": {
+          "src": "3",
+          "lemma": "strong:G101 lemma.TR:αδυνατησει",
+          "morph": "robinson:V-FAI-3S"
+        }
+      }
+    },
+    {
+      "position": 7,
+      "text": "impossible.",
+      "lemma": "strong:G101 lemma.TR:αδυνατησει",
+      "morph": "robinson:V-FAI-3S",
+      "strongs": [
+        "G101"
+      ],
+      "metadata": {
+        "src": "3"
+      },
+      "source": {
+        "lemma": "strong:G101 lemma.TR:αδυνατησει",
+        "morph": "robinson:V-FAI-3S",
+        "attrs": {
+          "src": "3",
+          "lemma": "strong:G101 lemma.TR:αδυνατησει",
+          "morph": "robinson:V-FAI-3S"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+# Publish this @metaxia/* package to npm with provenance.
+#
+# Why this lives on GitHub and not GitLab: npm Trusted Publishing (OIDC) only
+# accepts a fixed set of issuers — GitHub Actions is supported, self-managed
+# GitLab (gitlab.metaxia.media) is NOT. So GitLab stays canonical for dev and
+# mirrors main+tags here; this workflow does the keyless, provenance-signed
+# publish. No npm token is stored anywhere — auth is GitHub's OIDC.
+#
+# One-time setup on npmjs.com (per package): configure a Trusted Publisher for
+# this package → its metaxiamultimedia GitHub repo, workflow "release.yml".
+# Until then, publish fails closed (no token fallback).
+#
+# Trigger: a semver tag (v1.2.3) pushed by the GitLab sync. The tag MUST match
+# package.json version — we verify, not mutate, to preserve the hand-kept
+# tag==version discipline. This file is byte-identical across every scriptures-js
+# package repo (it reads name/version from package.json).
+
+name: release
+on:
+  push:
+    tags: ['v*']
+
+permissions:
+  contents: read
+  id-token: write   # required for npm provenance via OIDC
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          registry-url: 'https://registry.npmjs.org'
+
+      # npm's OIDC Trusted-Publishing registry auth needs >= 11.5.1; Node 20 ships
+      # npm 10, which signs provenance but publishes UNauthenticated -> registry 404.
+      # Pin npm@11 (not @latest: npm@12 requires Node >= 22; we run Node 20).
+      - name: Upgrade npm for OIDC trusted publishing
+        run: npm install -g npm@11
+
+      - name: Verify tag matches package.json version
+        run: |
+          set -eu
+          PKG="$(node -p "require('./package.json').version")"
+          TAG="${GITHUB_REF_NAME#v}"
+          if [ "$PKG" != "$TAG" ]; then
+            echo "::error::tag $GITHUB_REF_NAME (=$TAG) != package.json version $PKG"; exit 1
+          fi
+          echo "version $PKG matches tag $GITHUB_REF_NAME"
+
+      - run: npm ci
+      - run: npm run build --if-present
+      - run: npm test --if-present
+
+      # --access public: @metaxia is a scoped package (defaults to restricted).
+      # --provenance: Sigstore attestation binding this tarball to this repo+run.
+      - run: npm publish --provenance --access public

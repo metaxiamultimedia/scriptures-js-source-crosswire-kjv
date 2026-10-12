@@ -1,0 +1,141 @@
+{
+  "text": "There is no peace, saith the Lord, unto the wicked.",
+  "words": [
+    {
+      "position": 1,
+      "text": "There is",
+      "lemma": null,
+      "morph": null,
+      "metadata": {
+        "type": "added"
+      },
+      "source": {
+        "attrs": {
+          "type": "added"
+        }
+      }
+    },
+    {
+      "position": 2,
+      "text": "no",
+      "lemma": "strong:H07965",
+      "morph": null,
+      "strongs": [
+        "H7965"
+      ],
+      "source": {
+        "lemma": "strong:H07965",
+        "attrs": {
+          "lemma": "strong:H07965"
+        }
+      }
+    },
+    {
+      "position": 3,
+      "text": "peace,",
+      "lemma": "strong:H07965",
+      "morph": null,
+      "strongs": [
+        "H7965"
+      ],
+      "source": {
+        "lemma": "strong:H07965",
+        "attrs": {
+          "lemma": "strong:H07965"
+        }
+      }
+    },
+    {
+      "position": 4,
+      "text": "saith",
+      "lemma": "strong:H0559",
+      "morph": "strongMorph:TH8804",
+      "strongs": [
+        "H559"
+      ],
+      "source": {
+        "lemma": "strong:H0559",
+        "morph": "strongMorph:TH8804",
+        "attrs": {
+          "morph": "strongMorph:TH8804",
+          "lemma": "strong:H0559"
+        }
+      }
+    },
+    {
+      "position": 5,
+      "text": "the",
+      "lemma": "strong:H03068",
+      "morph": null,
+      "strongs": [
+        "H3068"
+      ],
+      "source": {
+        "lemma": "strong:H03068",
+        "attrs": {
+          "lemma": "strong:H03068"
+        }
+      }
+    },
+    {
+      "position": 6,
+      "text": "Lord,",
+      "lemma": "strong:H03068",
+      "morph": null,
+      "strongs": [
+        "H3068"
+      ],
+      "source": {
+        "lemma": "strong:H03068",
+        "attrs": {
+          "lemma": "strong:H03068"
+        }
+      }
+    },
+    {
+      "position": 7,
+      "text": "unto",
+      "lemma": "strong:H07563",
+      "morph": null,
+      "strongs": [
+        "H7563"
+      ],
+      "source": {
+        "lemma": "strong:H07563",
+        "attrs": {
+          "lemma": "strong:H07563"
+        }
+      }
+    },
+    {
+      "position": 8,
+      "text": "the",
+      "lemma": "strong:H07563",
+      "morph": null,
+      "strongs": [
+        "H7563"
+      ],
+      "source": {
+        "lemma": "strong:H07563",
+        "attrs": {
+          "lemma": "strong:H07563"
+        }
+      }
+    },
+    {
+      "position": 9,
+      "text": "wicked.",
+      "lemma": "strong:H07563",
+      "morph": null,
+      "strongs": [
+        "H7563"
+      ],
+      "source": {
+        "lemma": "strong:H07563",
+        "attrs": {
+          "lemma": "strong:H07563"
+        }
+      }
+    }
+  ]
+}

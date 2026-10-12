@@ -1,0 +1,178 @@
+{
+  "text": "Hath not my hand made all these things?",
+  "words": [
+    {
+      "position": 1,
+      "text": "Hath",
+      "lemma": "strong:G4160 lemma.TR:εποιησεν",
+      "morph": "robinson:V-AAI-3S",
+      "strongs": [
+        "G4160"
+      ],
+      "metadata": {
+        "src": "5",
+        "type": "x-split-2256"
+      },
+      "source": {
+        "lemma": "strong:G4160 lemma.TR:εποιησεν",
+        "morph": "robinson:V-AAI-3S",
+        "attrs": {
+          "src": "5",
+          "lemma": "strong:G4160 lemma.TR:εποιησεν",
+          "morph": "robinson:V-AAI-3S",
+          "type": "x-split-2256"
+        }
+      }
+    },
+    {
+      "position": 2,
+      "text": "not",
+      "lemma": "strong:G3780 lemma.TR:ουχι",
+      "morph": "robinson:PRT-I",
+      "strongs": [
+        "G3780"
+      ],
+      "metadata": {
+        "src": "1"
+      },
+      "source": {
+        "lemma": "strong:G3780 lemma.TR:ουχι",
+        "morph": "robinson:PRT-I",
+        "attrs": {
+          "src": "1",
+          "lemma": "strong:G3780 lemma.TR:ουχι",
+          "morph": "robinson:PRT-I"
+        }
+      }
+    },
+    {
+      "position": 3,
+      "text": "my",
+      "lemma": "strong:G1473 lemma.TR:μου",
+      "morph": "robinson:P-1GS",
+      "strongs": [
+        "G1473"
+      ],
+      "metadata": {
+        "src": "4"
+      },
+      "source": {
+        "lemma": "strong:G1473 lemma.TR:μου",
+        "morph": "robinson:P-1GS",
+        "attrs": {
+          "src": "4",
+          "lemma": "strong:G1473 lemma.TR:μου",
+          "morph": "robinson:P-1GS"
+        }
+      }
+    },
+    {
+      "position": 4,
+      "text": "hand",
+      "lemma": "strong:G3588 strong:G5495 lemma.TR:η lemma.TR:χειρ",
+      "morph": "robinson:T-NSF robinson:N-NSF",
+      "strongs": [
+        "G3588",
+        "G5495"
+      ],
+      "metadata": {
+        "src": "2 3"
+      },
+      "source": {
+        "lemma": "strong:G3588 strong:G5495 lemma.TR:η lemma.TR:χειρ",
+        "morph": "robinson:T-NSF robinson:N-NSF",
+        "attrs": {
+          "src": "2 3",
+          "lemma": "strong:G3588 strong:G5495 lemma.TR:η lemma.TR:χειρ",
+          "morph": "robinson:T-NSF robinson:N-NSF"
+        }
+      }
+    },
+    {
+      "position": 5,
+      "text": "made",
+      "lemma": "strong:G4160 lemma.TR:εποιησεν",
+      "morph": "robinson:V-AAI-3S",
+      "strongs": [
+        "G4160"
+      ],
+      "metadata": {
+        "src": "5",
+        "type": "x-split-2256"
+      },
+      "source": {
+        "lemma": "strong:G4160 lemma.TR:εποιησεν",
+        "morph": "robinson:V-AAI-3S",
+        "attrs": {
+          "src": "5",
+          "lemma": "strong:G4160 lemma.TR:εποιησεν",
+          "morph": "robinson:V-AAI-3S",
+          "type": "x-split-2256"
+        }
+      }
+    },
+    {
+      "position": 6,
+      "text": "all",
+      "lemma": "strong:G3956 lemma.TR:παντα",
+      "morph": "robinson:A-APN",
+      "strongs": [
+        "G3956"
+      ],
+      "metadata": {
+        "src": "7"
+      },
+      "source": {
+        "lemma": "strong:G3956 lemma.TR:παντα",
+        "morph": "robinson:A-APN",
+        "attrs": {
+          "src": "7",
+          "lemma": "strong:G3956 lemma.TR:παντα",
+          "morph": "robinson:A-APN"
+        }
+      }
+    },
+    {
+      "position": 7,
+      "text": "these",
+      "lemma": "strong:G3778 lemma.TR:ταυτα",
+      "morph": "robinson:D-APN",
+      "strongs": [
+        "G3778"
+      ],
+      "metadata": {
+        "src": "6"
+      },
+      "source": {
+        "lemma": "strong:G3778 lemma.TR:ταυτα",
+        "morph": "robinson:D-APN",
+        "attrs": {
+          "src": "6",
+          "lemma": "strong:G3778 lemma.TR:ταυτα",
+          "morph": "robinson:D-APN"
+        }
+      }
+    },
+    {
+      "position": 8,
+      "text": "things?",
+      "lemma": "strong:G3778 lemma.TR:ταυτα",
+      "morph": "robinson:D-APN",
+      "strongs": [
+        "G3778"
+      ],
+      "metadata": {
+        "src": "6"
+      },
+      "source": {
+        "lemma": "strong:G3778 lemma.TR:ταυτα",
+        "morph": "robinson:D-APN",
+        "attrs": {
+          "src": "6",
+          "lemma": "strong:G3778 lemma.TR:ταυτα",
+          "morph": "robinson:D-APN"
+        }
+      }
+    }
+  ]
+}

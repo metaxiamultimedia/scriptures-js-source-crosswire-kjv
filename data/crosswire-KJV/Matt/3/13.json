@@ -1,0 +1,303 @@
+{
+  "text": "Then cometh Jesus from Galilee to Jordan unto John, to be baptized of him.",
+  "words": [
+    {
+      "position": 1,
+      "text": "Then",
+      "lemma": "strong:G5119 lemma.TR:τοτε",
+      "morph": "robinson:ADV",
+      "strongs": [
+        "G5119"
+      ],
+      "metadata": {
+        "src": "1"
+      },
+      "source": {
+        "lemma": "strong:G5119 lemma.TR:τοτε",
+        "morph": "robinson:ADV",
+        "attrs": {
+          "src": "1",
+          "lemma": "strong:G5119 lemma.TR:τοτε",
+          "morph": "robinson:ADV"
+        }
+      }
+    },
+    {
+      "position": 2,
+      "text": "cometh",
+      "lemma": "strong:G3854 lemma.TR:παραγινεται",
+      "morph": "robinson:V-PNI-3S",
+      "strongs": [
+        "G3854"
+      ],
+      "metadata": {
+        "src": "2"
+      },
+      "source": {
+        "lemma": "strong:G3854 lemma.TR:παραγινεται",
+        "morph": "robinson:V-PNI-3S",
+        "attrs": {
+          "src": "2",
+          "lemma": "strong:G3854 lemma.TR:παραγινεται",
+          "morph": "robinson:V-PNI-3S"
+        }
+      }
+    },
+    {
+      "position": 3,
+      "text": "Jesus",
+      "lemma": "strong:G3588 strong:G2424 lemma.TR:ο lemma.TR:ιησους",
+      "morph": "robinson:T-NSM robinson:N-NSM",
+      "strongs": [
+        "G3588",
+        "G2424"
+      ],
+      "metadata": {
+        "src": "3 4"
+      },
+      "source": {
+        "lemma": "strong:G3588 strong:G2424 lemma.TR:ο lemma.TR:ιησους",
+        "morph": "robinson:T-NSM robinson:N-NSM",
+        "attrs": {
+          "src": "3 4",
+          "lemma": "strong:G3588 strong:G2424 lemma.TR:ο lemma.TR:ιησους",
+          "morph": "robinson:T-NSM robinson:N-NSM"
+        }
+      }
+    },
+    {
+      "position": 4,
+      "text": "from",
+      "lemma": "strong:G575 lemma.TR:απο",
+      "morph": "robinson:PREP",
+      "strongs": [
+        "G575"
+      ],
+      "metadata": {
+        "src": "5"
+      },
+      "source": {
+        "lemma": "strong:G575 lemma.TR:απο",
+        "morph": "robinson:PREP",
+        "attrs": {
+          "src": "5",
+          "lemma": "strong:G575 lemma.TR:απο",
+          "morph": "robinson:PREP"
+        }
+      }
+    },
+    {
+      "position": 5,
+      "text": "Galilee",
+      "lemma": "strong:G3588 strong:G1056 lemma.TR:της lemma.TR:γαλιλαιας",
+      "morph": "robinson:T-GSF robinson:N-GSF",
+      "strongs": [
+        "G3588",
+        "G1056"
+      ],
+      "metadata": {
+        "src": "6 7"
+      },
+      "source": {
+        "lemma": "strong:G3588 strong:G1056 lemma.TR:της lemma.TR:γαλιλαιας",
+        "morph": "robinson:T-GSF robinson:N-GSF",
+        "attrs": {
+          "src": "6 7",
+          "lemma": "strong:G3588 strong:G1056 lemma.TR:της lemma.TR:γαλιλαιας",
+          "morph": "robinson:T-GSF robinson:N-GSF"
+        }
+      }
+    },
+    {
+      "position": 6,
+      "text": "to",
+      "lemma": "strong:G1909 lemma.TR:επι",
+      "morph": "robinson:PREP",
+      "strongs": [
+        "G1909"
+      ],
+      "metadata": {
+        "src": "8"
+      },
+      "source": {
+        "lemma": "strong:G1909 lemma.TR:επι",
+        "morph": "robinson:PREP",
+        "attrs": {
+          "src": "8",
+          "lemma": "strong:G1909 lemma.TR:επι",
+          "morph": "robinson:PREP"
+        }
+      }
+    },
+    {
+      "position": 7,
+      "text": "Jordan",
+      "lemma": "strong:G3588 strong:G2446 lemma.TR:τον lemma.TR:ιορδανην",
+      "morph": "robinson:T-ASM robinson:N-ASM",
+      "strongs": [
+        "G3588",
+        "G2446"
+      ],
+      "metadata": {
+        "src": "9 10"
+      },
+      "source": {
+        "lemma": "strong:G3588 strong:G2446 lemma.TR:τον lemma.TR:ιορδανην",
+        "morph": "robinson:T-ASM robinson:N-ASM",
+        "attrs": {
+          "src": "9 10",
+          "lemma": "strong:G3588 strong:G2446 lemma.TR:τον lemma.TR:ιορδανην",
+          "morph": "robinson:T-ASM robinson:N-ASM"
+        }
+      }
+    },
+    {
+      "position": 8,
+      "text": "unto",
+      "lemma": "strong:G4314 lemma.TR:προς",
+      "morph": "robinson:PREP",
+      "strongs": [
+        "G4314"
+      ],
+      "metadata": {
+        "src": "11"
+      },
+      "source": {
+        "lemma": "strong:G4314 lemma.TR:προς",
+        "morph": "robinson:PREP",
+        "attrs": {
+          "src": "11",
+          "lemma": "strong:G4314 lemma.TR:προς",
+          "morph": "robinson:PREP"
+        }
+      }
+    },
+    {
+      "position": 9,
+      "text": "John,",
+      "lemma": "strong:G3588 strong:G2491 lemma.TR:τον lemma.TR:ιωαννην",
+      "morph": "robinson:T-ASM robinson:N-ASM",
+      "strongs": [
+        "G3588",
+        "G2491"
+      ],
+      "metadata": {
+        "src": "12 13"
+      },
+      "source": {
+        "lemma": "strong:G3588 strong:G2491 lemma.TR:τον lemma.TR:ιωαννην",
+        "morph": "robinson:T-ASM robinson:N-ASM",
+        "attrs": {
+          "src": "12 13",
+          "lemma": "strong:G3588 strong:G2491 lemma.TR:τον lemma.TR:ιωαννην",
+          "morph": "robinson:T-ASM robinson:N-ASM"
+        }
+      }
+    },
+    {
+      "position": 10,
+      "text": "to",
+      "lemma": "strong:G907 lemma.TR:βαπτισθηναι",
+      "morph": "robinson:V-APN",
+      "strongs": [
+        "G907"
+      ],
+      "metadata": {
+        "src": "15"
+      },
+      "source": {
+        "lemma": "strong:G907 lemma.TR:βαπτισθηναι",
+        "morph": "robinson:V-APN",
+        "attrs": {
+          "src": "15",
+          "lemma": "strong:G907 lemma.TR:βαπτισθηναι",
+          "morph": "robinson:V-APN"
+        }
+      }
+    },
+    {
+      "position": 11,
+      "text": "be",
+      "lemma": "strong:G907 lemma.TR:βαπτισθηναι",
+      "morph": "robinson:V-APN",
+      "strongs": [
+        "G907"
+      ],
+      "metadata": {
+        "src": "15"
+      },
+      "source": {
+        "lemma": "strong:G907 lemma.TR:βαπτισθηναι",
+        "morph": "robinson:V-APN",
+        "attrs": {
+          "src": "15",
+          "lemma": "strong:G907 lemma.TR:βαπτισθηναι",
+          "morph": "robinson:V-APN"
+        }
+      }
+    },
+    {
+      "position": 12,
+      "text": "baptized",
+      "lemma": "strong:G907 lemma.TR:βαπτισθηναι",
+      "morph": "robinson:V-APN",
+      "strongs": [
+        "G907"
+      ],
+      "metadata": {
+        "src": "15"
+      },
+      "source": {
+        "lemma": "strong:G907 lemma.TR:βαπτισθηναι",
+        "morph": "robinson:V-APN",
+        "attrs": {
+          "src": "15",
+          "lemma": "strong:G907 lemma.TR:βαπτισθηναι",
+          "morph": "robinson:V-APN"
+        }
+      }
+    },
+    {
+      "position": 13,
+      "text": "of",
+      "lemma": "strong:G5259 lemma.TR:υπ",
+      "morph": "robinson:PREP",
+      "strongs": [
+        "G5259"
+      ],
+      "metadata": {
+        "src": "16"
+      },
+      "source": {
+        "lemma": "strong:G5259 lemma.TR:υπ",
+        "morph": "robinson:PREP",
+        "attrs": {
+          "src": "16",
+          "lemma": "strong:G5259 lemma.TR:υπ",
+          "morph": "robinson:PREP"
+        }
+      }
+    },
+    {
+      "position": 14,
+      "text": "him.",
+      "lemma": "strong:G846 lemma.TR:αυτου",
+      "morph": "robinson:P-GSM",
+      "strongs": [
+        "G846"
+      ],
+      "metadata": {
+        "src": "17"
+      },
+      "source": {
+        "lemma": "strong:G846 lemma.TR:αυτου",
+        "morph": "robinson:P-GSM",
+        "attrs": {
+          "src": "17",
+          "lemma": "strong:G846 lemma.TR:αυτου",
+          "morph": "robinson:P-GSM"
+        }
+      }
+    }
+  ]
+}

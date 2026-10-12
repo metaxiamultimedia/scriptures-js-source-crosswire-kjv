@@ -1,0 +1,653 @@
+{
+  "text": "And Moses said unto God, Behold, when I come unto the children of Israel, and shall say unto them, The God of your fathers hath sent me unto you; and they shall say to me, What is his name? what shall I say unto them?",
+  "words": [
+    {
+      "position": 1,
+      "text": "And",
+      "lemma": "strong:H04872",
+      "morph": null,
+      "strongs": [
+        "H4872"
+      ],
+      "source": {
+        "lemma": "strong:H04872",
+        "attrs": {
+          "lemma": "strong:H04872"
+        }
+      }
+    },
+    {
+      "position": 2,
+      "text": "Moses",
+      "lemma": "strong:H04872",
+      "morph": null,
+      "strongs": [
+        "H4872"
+      ],
+      "source": {
+        "lemma": "strong:H04872",
+        "attrs": {
+          "lemma": "strong:H04872"
+        }
+      }
+    },
+    {
+      "position": 3,
+      "text": "said",
+      "lemma": "strong:H0559",
+      "morph": "strongMorph:TH8799",
+      "strongs": [
+        "H559"
+      ],
+      "source": {
+        "lemma": "strong:H0559",
+        "morph": "strongMorph:TH8799",
+        "attrs": {
+          "morph": "strongMorph:TH8799",
+          "lemma": "strong:H0559"
+        }
+      }
+    },
+    {
+      "position": 4,
+      "text": "unto",
+      "lemma": "strong:H0430",
+      "morph": null,
+      "strongs": [
+        "H430"
+      ],
+      "source": {
+        "lemma": "strong:H0430",
+        "attrs": {
+          "lemma": "strong:H0430"
+        }
+      }
+    },
+    {
+      "position": 5,
+      "text": "God,",
+      "lemma": "strong:H0430",
+      "morph": null,
+      "strongs": [
+        "H430"
+      ],
+      "source": {
+        "lemma": "strong:H0430",
+        "attrs": {
+          "lemma": "strong:H0430"
+        }
+      }
+    },
+    {
+      "position": 6,
+      "text": "Behold,",
+      "lemma": null,
+      "morph": null
+    },
+    {
+      "position": 7,
+      "text": "when",
+      "lemma": null,
+      "morph": null,
+      "metadata": {
+        "type": "added"
+      },
+      "source": {
+        "attrs": {
+          "type": "added"
+        }
+      }
+    },
+    {
+      "position": 8,
+      "text": "I",
+      "lemma": "strong:H0935",
+      "morph": "strongMorph:TH8802",
+      "strongs": [
+        "H935"
+      ],
+      "source": {
+        "lemma": "strong:H0935",
+        "morph": "strongMorph:TH8802",
+        "attrs": {
+          "morph": "strongMorph:TH8802",
+          "lemma": "strong:H0935"
+        }
+      }
+    },
+    {
+      "position": 9,
+      "text": "come",
+      "lemma": "strong:H0935",
+      "morph": "strongMorph:TH8802",
+      "strongs": [
+        "H935"
+      ],
+      "source": {
+        "lemma": "strong:H0935",
+        "morph": "strongMorph:TH8802",
+        "attrs": {
+          "morph": "strongMorph:TH8802",
+          "lemma": "strong:H0935"
+        }
+      }
+    },
+    {
+      "position": 10,
+      "text": "unto",
+      "lemma": "strong:H01121",
+      "morph": null,
+      "strongs": [
+        "H1121"
+      ],
+      "source": {
+        "lemma": "strong:H01121",
+        "attrs": {
+          "lemma": "strong:H01121"
+        }
+      }
+    },
+    {
+      "position": 11,
+      "text": "the",
+      "lemma": "strong:H01121",
+      "morph": null,
+      "strongs": [
+        "H1121"
+      ],
+      "source": {
+        "lemma": "strong:H01121",
+        "attrs": {
+          "lemma": "strong:H01121"
+        }
+      }
+    },
+    {
+      "position": 12,
+      "text": "children",
+      "lemma": "strong:H01121",
+      "morph": null,
+      "strongs": [
+        "H1121"
+      ],
+      "source": {
+        "lemma": "strong:H01121",
+        "attrs": {
+          "lemma": "strong:H01121"
+        }
+      }
+    },
+    {
+      "position": 13,
+      "text": "of",
+      "lemma": "strong:H03478",
+      "morph": null,
+      "strongs": [
+        "H3478"
+      ],
+      "source": {
+        "lemma": "strong:H03478",
+        "attrs": {
+          "lemma": "strong:H03478"
+        }
+      }
+    },
+    {
+      "position": 14,
+      "text": "Israel,",
+      "lemma": "strong:H03478",
+      "morph": null,
+      "strongs": [
+        "H3478"
+      ],
+      "source": {
+        "lemma": "strong:H03478",
+        "attrs": {
+          "lemma": "strong:H03478"
+        }
+      }
+    },
+    {
+      "position": 15,
+      "text": "and",
+      "lemma": "strong:H0559",
+      "morph": "strongMorph:TH8804",
+      "strongs": [
+        "H559"
+      ],
+      "source": {
+        "lemma": "strong:H0559",
+        "morph": "strongMorph:TH8804",
+        "attrs": {
+          "morph": "strongMorph:TH8804",
+          "lemma": "strong:H0559"
+        }
+      }
+    },
+    {
+      "position": 16,
+      "text": "shall",
+      "lemma": "strong:H0559",
+      "morph": "strongMorph:TH8804",
+      "strongs": [
+        "H559"
+      ],
+      "source": {
+        "lemma": "strong:H0559",
+        "morph": "strongMorph:TH8804",
+        "attrs": {
+          "morph": "strongMorph:TH8804",
+          "lemma": "strong:H0559"
+        }
+      }
+    },
+    {
+      "position": 17,
+      "text": "say",
+      "lemma": "strong:H0559",
+      "morph": "strongMorph:TH8804",
+      "strongs": [
+        "H559"
+      ],
+      "source": {
+        "lemma": "strong:H0559",
+        "morph": "strongMorph:TH8804",
+        "attrs": {
+          "morph": "strongMorph:TH8804",
+          "lemma": "strong:H0559"
+        }
+      }
+    },
+    {
+      "position": 18,
+      "text": "unto",
+      "lemma": "strong:H0430",
+      "morph": null,
+      "strongs": [
+        "H430"
+      ],
+      "source": {
+        "lemma": "strong:H0430",
+        "attrs": {
+          "lemma": "strong:H0430"
+        }
+      }
+    },
+    {
+      "position": 19,
+      "text": "them,",
+      "lemma": "strong:H0430",
+      "morph": null,
+      "strongs": [
+        "H430"
+      ],
+      "source": {
+        "lemma": "strong:H0430",
+        "attrs": {
+          "lemma": "strong:H0430"
+        }
+      }
+    },
+    {
+      "position": 20,
+      "text": "The",
+      "lemma": "strong:H0430",
+      "morph": null,
+      "strongs": [
+        "H430"
+      ],
+      "source": {
+        "lemma": "strong:H0430",
+        "attrs": {
+          "lemma": "strong:H0430"
+        }
+      }
+    },
+    {
+      "position": 21,
+      "text": "God",
+      "lemma": "strong:H0430",
+      "morph": null,
+      "strongs": [
+        "H430"
+      ],
+      "source": {
+        "lemma": "strong:H0430",
+        "attrs": {
+          "lemma": "strong:H0430"
+        }
+      }
+    },
+    {
+      "position": 22,
+      "text": "of",
+      "lemma": "strong:H01",
+      "morph": null,
+      "source": {
+        "lemma": "strong:H01",
+        "attrs": {
+          "lemma": "strong:H01"
+        }
+      }
+    },
+    {
+      "position": 23,
+      "text": "your",
+      "lemma": "strong:H01",
+      "morph": null,
+      "source": {
+        "lemma": "strong:H01",
+        "attrs": {
+          "lemma": "strong:H01"
+        }
+      }
+    },
+    {
+      "position": 24,
+      "text": "fathers",
+      "lemma": "strong:H01",
+      "morph": null,
+      "source": {
+        "lemma": "strong:H01",
+        "attrs": {
+          "lemma": "strong:H01"
+        }
+      }
+    },
+    {
+      "position": 25,
+      "text": "hath",
+      "lemma": "strong:H07971",
+      "morph": "strongMorph:TH8804",
+      "strongs": [
+        "H7971"
+      ],
+      "source": {
+        "lemma": "strong:H07971",
+        "morph": "strongMorph:TH8804",
+        "attrs": {
+          "morph": "strongMorph:TH8804",
+          "lemma": "strong:H07971"
+        }
+      }
+    },
+    {
+      "position": 26,
+      "text": "sent",
+      "lemma": "strong:H07971",
+      "morph": "strongMorph:TH8804",
+      "strongs": [
+        "H7971"
+      ],
+      "source": {
+        "lemma": "strong:H07971",
+        "morph": "strongMorph:TH8804",
+        "attrs": {
+          "morph": "strongMorph:TH8804",
+          "lemma": "strong:H07971"
+        }
+      }
+    },
+    {
+      "position": 27,
+      "text": "me",
+      "lemma": "strong:H0559",
+      "morph": "strongMorph:TH8804",
+      "strongs": [
+        "H559"
+      ],
+      "source": {
+        "lemma": "strong:H0559",
+        "morph": "strongMorph:TH8804",
+        "attrs": {
+          "morph": "strongMorph:TH8804",
+          "lemma": "strong:H0559"
+        }
+      }
+    },
+    {
+      "position": 28,
+      "text": "unto",
+      "lemma": "strong:H0559",
+      "morph": "strongMorph:TH8804",
+      "strongs": [
+        "H559"
+      ],
+      "source": {
+        "lemma": "strong:H0559",
+        "morph": "strongMorph:TH8804",
+        "attrs": {
+          "morph": "strongMorph:TH8804",
+          "lemma": "strong:H0559"
+        }
+      }
+    },
+    {
+      "position": 29,
+      "text": "you;",
+      "lemma": "strong:H0559",
+      "morph": "strongMorph:TH8804",
+      "strongs": [
+        "H559"
+      ],
+      "source": {
+        "lemma": "strong:H0559",
+        "morph": "strongMorph:TH8804",
+        "attrs": {
+          "morph": "strongMorph:TH8804",
+          "lemma": "strong:H0559"
+        }
+      }
+    },
+    {
+      "position": 30,
+      "text": "and",
+      "lemma": "strong:H0559",
+      "morph": "strongMorph:TH8804",
+      "strongs": [
+        "H559"
+      ],
+      "source": {
+        "lemma": "strong:H0559",
+        "morph": "strongMorph:TH8804",
+        "attrs": {
+          "morph": "strongMorph:TH8804",
+          "lemma": "strong:H0559"
+        }
+      }
+    },
+    {
+      "position": 31,
+      "text": "they",
+      "lemma": "strong:H0559",
+      "morph": "strongMorph:TH8804",
+      "strongs": [
+        "H559"
+      ],
+      "source": {
+        "lemma": "strong:H0559",
+        "morph": "strongMorph:TH8804",
+        "attrs": {
+          "morph": "strongMorph:TH8804",
+          "lemma": "strong:H0559"
+        }
+      }
+    },
+    {
+      "position": 32,
+      "text": "shall",
+      "lemma": "strong:H0559",
+      "morph": "strongMorph:TH8804",
+      "strongs": [
+        "H559"
+      ],
+      "source": {
+        "lemma": "strong:H0559",
+        "morph": "strongMorph:TH8804",
+        "attrs": {
+          "morph": "strongMorph:TH8804",
+          "lemma": "strong:H0559"
+        }
+      }
+    },
+    {
+      "position": 33,
+      "text": "say",
+      "lemma": "strong:H0559",
+      "morph": "strongMorph:TH8804",
+      "strongs": [
+        "H559"
+      ],
+      "source": {
+        "lemma": "strong:H0559",
+        "morph": "strongMorph:TH8804",
+        "attrs": {
+          "morph": "strongMorph:TH8804",
+          "lemma": "strong:H0559"
+        }
+      }
+    },
+    {
+      "position": 34,
+      "text": "to",
+      "lemma": null,
+      "morph": null
+    },
+    {
+      "position": 35,
+      "text": "me,",
+      "lemma": null,
+      "morph": null
+    },
+    {
+      "position": 36,
+      "text": "What",
+      "lemma": null,
+      "morph": null
+    },
+    {
+      "position": 37,
+      "text": "is",
+      "lemma": null,
+      "morph": null,
+      "metadata": {
+        "type": "added"
+      },
+      "source": {
+        "attrs": {
+          "type": "added"
+        }
+      }
+    },
+    {
+      "position": 38,
+      "text": "his",
+      "lemma": "strong:H08034",
+      "morph": null,
+      "strongs": [
+        "H8034"
+      ],
+      "source": {
+        "lemma": "strong:H08034",
+        "attrs": {
+          "lemma": "strong:H08034"
+        }
+      }
+    },
+    {
+      "position": 39,
+      "text": "name?",
+      "lemma": "strong:H08034",
+      "morph": null,
+      "strongs": [
+        "H8034"
+      ],
+      "source": {
+        "lemma": "strong:H08034",
+        "attrs": {
+          "lemma": "strong:H08034"
+        }
+      }
+    },
+    {
+      "position": 40,
+      "text": "what",
+      "lemma": "strong:H0559",
+      "morph": "strongMorph:TH8799",
+      "strongs": [
+        "H559"
+      ],
+      "source": {
+        "lemma": "strong:H0559",
+        "morph": "strongMorph:TH8799",
+        "attrs": {
+          "morph": "strongMorph:TH8799",
+          "lemma": "strong:H0559"
+        }
+      }
+    },
+    {
+      "position": 41,
+      "text": "shall",
+      "lemma": "strong:H0559",
+      "morph": "strongMorph:TH8799",
+      "strongs": [
+        "H559"
+      ],
+      "source": {
+        "lemma": "strong:H0559",
+        "morph": "strongMorph:TH8799",
+        "attrs": {
+          "morph": "strongMorph:TH8799",
+          "lemma": "strong:H0559"
+        }
+      }
+    },
+    {
+      "position": 42,
+      "text": "I",
+      "lemma": "strong:H0559",
+      "morph": "strongMorph:TH8799",
+      "strongs": [
+        "H559"
+      ],
+      "source": {
+        "lemma": "strong:H0559",
+        "morph": "strongMorph:TH8799",
+        "attrs": {
+          "morph": "strongMorph:TH8799",
+          "lemma": "strong:H0559"
+        }
+      }
+    },
+    {
+      "position": 43,
+      "text": "say",
+      "lemma": "strong:H0559",
+      "morph": "strongMorph:TH8799",
+      "strongs": [
+        "H559"
+      ],
+      "source": {
+        "lemma": "strong:H0559",
+        "morph": "strongMorph:TH8799",
+        "attrs": {
+          "morph": "strongMorph:TH8799",
+          "lemma": "strong:H0559"
+        }
+      }
+    },
+    {
+      "position": 44,
+      "text": "unto",
+      "lemma": null,
+      "morph": null
+    },
+    {
+      "position": 45,
+      "text": "them?",
+      "lemma": null,
+      "morph": null
+    }
+  ]
+}

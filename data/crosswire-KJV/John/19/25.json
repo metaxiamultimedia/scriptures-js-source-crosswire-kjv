@@ -1,0 +1,454 @@
+{
+  "text": "Now there stood by the cross of Jesus his mother, and his mother’s sister, Mary the wife of Cleophas, and Mary Magdalene.",
+  "words": [
+    {
+      "position": 1,
+      "text": "Now",
+      "lemma": "strong:G1161 lemma.TR:δε",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G1161"
+      ],
+      "metadata": {
+        "src": "2"
+      },
+      "source": {
+        "lemma": "strong:G1161 lemma.TR:δε",
+        "morph": "robinson:CONJ",
+        "attrs": {
+          "src": "2",
+          "lemma": "strong:G1161 lemma.TR:δε",
+          "morph": "robinson:CONJ"
+        }
+      }
+    },
+    {
+      "position": 2,
+      "text": "there",
+      "lemma": "strong:G2476 lemma.TR:ειστηκεισαν",
+      "morph": "robinson:V-LAI-3P",
+      "strongs": [
+        "G2476"
+      ],
+      "metadata": {
+        "src": "1"
+      },
+      "source": {
+        "lemma": "strong:G2476 lemma.TR:ειστηκεισαν",
+        "morph": "robinson:V-LAI-3P",
+        "attrs": {
+          "src": "1",
+          "lemma": "strong:G2476 lemma.TR:ειστηκεισαν",
+          "morph": "robinson:V-LAI-3P"
+        }
+      }
+    },
+    {
+      "position": 3,
+      "text": "stood",
+      "lemma": "strong:G2476 lemma.TR:ειστηκεισαν",
+      "morph": "robinson:V-LAI-3P",
+      "strongs": [
+        "G2476"
+      ],
+      "metadata": {
+        "src": "1"
+      },
+      "source": {
+        "lemma": "strong:G2476 lemma.TR:ειστηκεισαν",
+        "morph": "robinson:V-LAI-3P",
+        "attrs": {
+          "src": "1",
+          "lemma": "strong:G2476 lemma.TR:ειστηκεισαν",
+          "morph": "robinson:V-LAI-3P"
+        }
+      }
+    },
+    {
+      "position": 4,
+      "text": "by",
+      "lemma": "strong:G3844 lemma.TR:παρα",
+      "morph": "robinson:PREP",
+      "strongs": [
+        "G3844"
+      ],
+      "metadata": {
+        "src": "3"
+      },
+      "source": {
+        "lemma": "strong:G3844 lemma.TR:παρα",
+        "morph": "robinson:PREP",
+        "attrs": {
+          "src": "3",
+          "lemma": "strong:G3844 lemma.TR:παρα",
+          "morph": "robinson:PREP"
+        }
+      }
+    },
+    {
+      "position": 5,
+      "text": "the",
+      "lemma": "strong:G3588 strong:G4716 lemma.TR:τω lemma.TR:σταυρω",
+      "morph": "robinson:T-DSM robinson:N-DSM",
+      "strongs": [
+        "G3588",
+        "G4716"
+      ],
+      "metadata": {
+        "src": "4 5"
+      },
+      "source": {
+        "lemma": "strong:G3588 strong:G4716 lemma.TR:τω lemma.TR:σταυρω",
+        "morph": "robinson:T-DSM robinson:N-DSM",
+        "attrs": {
+          "src": "4 5",
+          "lemma": "strong:G3588 strong:G4716 lemma.TR:τω lemma.TR:σταυρω",
+          "morph": "robinson:T-DSM robinson:N-DSM"
+        }
+      }
+    },
+    {
+      "position": 6,
+      "text": "cross",
+      "lemma": "strong:G3588 strong:G4716 lemma.TR:τω lemma.TR:σταυρω",
+      "morph": "robinson:T-DSM robinson:N-DSM",
+      "strongs": [
+        "G3588",
+        "G4716"
+      ],
+      "metadata": {
+        "src": "4 5"
+      },
+      "source": {
+        "lemma": "strong:G3588 strong:G4716 lemma.TR:τω lemma.TR:σταυρω",
+        "morph": "robinson:T-DSM robinson:N-DSM",
+        "attrs": {
+          "src": "4 5",
+          "lemma": "strong:G3588 strong:G4716 lemma.TR:τω lemma.TR:σταυρω",
+          "morph": "robinson:T-DSM robinson:N-DSM"
+        }
+      }
+    },
+    {
+      "position": 7,
+      "text": "of",
+      "lemma": "strong:G3588 strong:G2424 lemma.TR:του lemma.TR:ιησου",
+      "morph": "robinson:T-GSM robinson:N-GSM",
+      "strongs": [
+        "G3588",
+        "G2424"
+      ],
+      "metadata": {
+        "src": "6 7"
+      },
+      "source": {
+        "lemma": "strong:G3588 strong:G2424 lemma.TR:του lemma.TR:ιησου",
+        "morph": "robinson:T-GSM robinson:N-GSM",
+        "attrs": {
+          "src": "6 7",
+          "lemma": "strong:G3588 strong:G2424 lemma.TR:του lemma.TR:ιησου",
+          "morph": "robinson:T-GSM robinson:N-GSM"
+        }
+      }
+    },
+    {
+      "position": 8,
+      "text": "Jesus",
+      "lemma": "strong:G3588 strong:G2424 lemma.TR:του lemma.TR:ιησου",
+      "morph": "robinson:T-GSM robinson:N-GSM",
+      "strongs": [
+        "G3588",
+        "G2424"
+      ],
+      "metadata": {
+        "src": "6 7"
+      },
+      "source": {
+        "lemma": "strong:G3588 strong:G2424 lemma.TR:του lemma.TR:ιησου",
+        "morph": "robinson:T-GSM robinson:N-GSM",
+        "attrs": {
+          "src": "6 7",
+          "lemma": "strong:G3588 strong:G2424 lemma.TR:του lemma.TR:ιησου",
+          "morph": "robinson:T-GSM robinson:N-GSM"
+        }
+      }
+    },
+    {
+      "position": 9,
+      "text": "his",
+      "lemma": "strong:G846 lemma.TR:αυτου",
+      "morph": "robinson:P-GSM",
+      "strongs": [
+        "G846"
+      ],
+      "metadata": {
+        "src": "10"
+      },
+      "source": {
+        "lemma": "strong:G846 lemma.TR:αυτου",
+        "morph": "robinson:P-GSM",
+        "attrs": {
+          "src": "10",
+          "lemma": "strong:G846 lemma.TR:αυτου",
+          "morph": "robinson:P-GSM"
+        }
+      }
+    },
+    {
+      "position": 10,
+      "text": "mother,",
+      "lemma": "strong:G3588 strong:G3384 lemma.TR:η lemma.TR:μητηρ",
+      "morph": "robinson:T-NSF robinson:N-NSF",
+      "strongs": [
+        "G3588",
+        "G3384"
+      ],
+      "metadata": {
+        "src": "8 9"
+      },
+      "source": {
+        "lemma": "strong:G3588 strong:G3384 lemma.TR:η lemma.TR:μητηρ",
+        "morph": "robinson:T-NSF robinson:N-NSF",
+        "attrs": {
+          "src": "8 9",
+          "lemma": "strong:G3588 strong:G3384 lemma.TR:η lemma.TR:μητηρ",
+          "morph": "robinson:T-NSF robinson:N-NSF"
+        }
+      }
+    },
+    {
+      "position": 11,
+      "text": "and",
+      "lemma": "strong:G2532 lemma.TR:και",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G2532"
+      ],
+      "metadata": {
+        "src": "11"
+      },
+      "source": {
+        "lemma": "strong:G2532 lemma.TR:και",
+        "morph": "robinson:CONJ",
+        "attrs": {
+          "src": "11",
+          "lemma": "strong:G2532 lemma.TR:και",
+          "morph": "robinson:CONJ"
+        }
+      }
+    },
+    {
+      "position": 12,
+      "text": "his",
+      "lemma": "strong:G846 lemma.TR:αυτου",
+      "morph": "robinson:P-GSM",
+      "strongs": [
+        "G846"
+      ],
+      "metadata": {
+        "src": "16"
+      },
+      "source": {
+        "lemma": "strong:G846 lemma.TR:αυτου",
+        "morph": "robinson:P-GSM",
+        "attrs": {
+          "src": "16",
+          "lemma": "strong:G846 lemma.TR:αυτου",
+          "morph": "robinson:P-GSM"
+        }
+      }
+    },
+    {
+      "position": 13,
+      "text": "mother’s",
+      "lemma": "strong:G3588 strong:G3384 lemma.TR:της lemma.TR:μητρος",
+      "morph": "robinson:T-GSF robinson:N-GSF",
+      "strongs": [
+        "G3588",
+        "G3384"
+      ],
+      "metadata": {
+        "src": "14 15"
+      },
+      "source": {
+        "lemma": "strong:G3588 strong:G3384 lemma.TR:της lemma.TR:μητρος",
+        "morph": "robinson:T-GSF robinson:N-GSF",
+        "attrs": {
+          "src": "14 15",
+          "lemma": "strong:G3588 strong:G3384 lemma.TR:της lemma.TR:μητρος",
+          "morph": "robinson:T-GSF robinson:N-GSF"
+        }
+      }
+    },
+    {
+      "position": 14,
+      "text": "sister,",
+      "lemma": "strong:G3588 strong:G79 lemma.TR:η lemma.TR:αδελφη",
+      "morph": "robinson:T-NSF robinson:N-NSF",
+      "strongs": [
+        "G3588"
+      ],
+      "metadata": {
+        "src": "12 13"
+      },
+      "source": {
+        "lemma": "strong:G3588 strong:G79 lemma.TR:η lemma.TR:αδελφη",
+        "morph": "robinson:T-NSF robinson:N-NSF",
+        "attrs": {
+          "src": "12 13",
+          "lemma": "strong:G3588 strong:G79 lemma.TR:η lemma.TR:αδελφη",
+          "morph": "robinson:T-NSF robinson:N-NSF"
+        }
+      }
+    },
+    {
+      "position": 15,
+      "text": "Mary",
+      "lemma": "strong:G3137 lemma.TR:μαρια",
+      "morph": "robinson:N-NSF",
+      "strongs": [
+        "G3137"
+      ],
+      "metadata": {
+        "src": "17"
+      },
+      "source": {
+        "lemma": "strong:G3137 lemma.TR:μαρια",
+        "morph": "robinson:N-NSF",
+        "attrs": {
+          "src": "17",
+          "lemma": "strong:G3137 lemma.TR:μαρια",
+          "morph": "robinson:N-NSF"
+        }
+      }
+    },
+    {
+      "position": 16,
+      "text": "the",
+      "lemma": null,
+      "morph": null
+    },
+    {
+      "position": 17,
+      "text": "wife",
+      "lemma": null,
+      "morph": null,
+      "metadata": {
+        "type": "added"
+      },
+      "source": {
+        "attrs": {
+          "type": "added"
+        }
+      }
+    },
+    {
+      "position": 18,
+      "text": "of",
+      "lemma": "strong:G3588 strong:G2832 lemma.TR:του lemma.TR:κλωπα",
+      "morph": "robinson:T-GSM robinson:N-GSM",
+      "strongs": [
+        "G3588",
+        "G2832"
+      ],
+      "metadata": {
+        "src": "19 20"
+      },
+      "source": {
+        "lemma": "strong:G3588 strong:G2832 lemma.TR:του lemma.TR:κλωπα",
+        "morph": "robinson:T-GSM robinson:N-GSM",
+        "attrs": {
+          "src": "19 20",
+          "lemma": "strong:G3588 strong:G2832 lemma.TR:του lemma.TR:κλωπα",
+          "morph": "robinson:T-GSM robinson:N-GSM"
+        }
+      }
+    },
+    {
+      "position": 19,
+      "text": "Cleophas,",
+      "lemma": "strong:G3588 strong:G2832 lemma.TR:του lemma.TR:κλωπα",
+      "morph": "robinson:T-GSM robinson:N-GSM",
+      "strongs": [
+        "G3588",
+        "G2832"
+      ],
+      "metadata": {
+        "src": "19 20"
+      },
+      "source": {
+        "lemma": "strong:G3588 strong:G2832 lemma.TR:του lemma.TR:κλωπα",
+        "morph": "robinson:T-GSM robinson:N-GSM",
+        "attrs": {
+          "src": "19 20",
+          "lemma": "strong:G3588 strong:G2832 lemma.TR:του lemma.TR:κλωπα",
+          "morph": "robinson:T-GSM robinson:N-GSM"
+        }
+      }
+    },
+    {
+      "position": 20,
+      "text": "and",
+      "lemma": "strong:G2532 lemma.TR:και",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G2532"
+      ],
+      "metadata": {
+        "src": "21"
+      },
+      "source": {
+        "lemma": "strong:G2532 lemma.TR:και",
+        "morph": "robinson:CONJ",
+        "attrs": {
+          "src": "21",
+          "lemma": "strong:G2532 lemma.TR:και",
+          "morph": "robinson:CONJ"
+        }
+      }
+    },
+    {
+      "position": 21,
+      "text": "Mary",
+      "lemma": "strong:G3137 lemma.TR:μαρια",
+      "morph": "robinson:N-NSF",
+      "strongs": [
+        "G3137"
+      ],
+      "metadata": {
+        "src": "22"
+      },
+      "source": {
+        "lemma": "strong:G3137 lemma.TR:μαρια",
+        "morph": "robinson:N-NSF",
+        "attrs": {
+          "src": "22",
+          "lemma": "strong:G3137 lemma.TR:μαρια",
+          "morph": "robinson:N-NSF"
+        }
+      }
+    },
+    {
+      "position": 22,
+      "text": "Magdalene.",
+      "lemma": "strong:G3588 strong:G3094 lemma.TR:η lemma.TR:μαγδαληνη",
+      "morph": "robinson:T-NSF robinson:N-NSF",
+      "strongs": [
+        "G3588",
+        "G3094"
+      ],
+      "metadata": {
+        "src": "23 24"
+      },
+      "source": {
+        "lemma": "strong:G3588 strong:G3094 lemma.TR:η lemma.TR:μαγδαληνη",
+        "morph": "robinson:T-NSF robinson:N-NSF",
+        "attrs": {
+          "src": "23 24",
+          "lemma": "strong:G3588 strong:G3094 lemma.TR:η lemma.TR:μαγδαληνη",
+          "morph": "robinson:T-NSF robinson:N-NSF"
+        }
+      }
+    }
+  ]
+}

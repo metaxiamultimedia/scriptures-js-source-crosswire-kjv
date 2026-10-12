@@ -1,0 +1,175 @@
+{
+  "text": "For John was not yet cast into prison.",
+  "words": [
+    {
+      "position": 1,
+      "text": "For",
+      "lemma": "strong:G1063 lemma.TR:γαρ",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G1063"
+      ],
+      "metadata": {
+        "src": "2"
+      },
+      "source": {
+        "lemma": "strong:G1063 lemma.TR:γαρ",
+        "morph": "robinson:CONJ",
+        "attrs": {
+          "src": "2",
+          "lemma": "strong:G1063 lemma.TR:γαρ",
+          "morph": "robinson:CONJ"
+        }
+      }
+    },
+    {
+      "position": 2,
+      "text": "John",
+      "lemma": "strong:G3588 strong:G2491 lemma.TR:ο lemma.TR:ιωαννης",
+      "morph": "robinson:T-NSM robinson:N-NSM",
+      "strongs": [
+        "G3588",
+        "G2491"
+      ],
+      "metadata": {
+        "src": "8 9"
+      },
+      "source": {
+        "lemma": "strong:G3588 strong:G2491 lemma.TR:ο lemma.TR:ιωαννης",
+        "morph": "robinson:T-NSM robinson:N-NSM",
+        "attrs": {
+          "src": "8 9",
+          "lemma": "strong:G3588 strong:G2491 lemma.TR:ο lemma.TR:ιωαννης",
+          "morph": "robinson:T-NSM robinson:N-NSM"
+        }
+      }
+    },
+    {
+      "position": 3,
+      "text": "was",
+      "lemma": "strong:G1510 lemma.TR:ην",
+      "morph": "robinson:V-IAI-3S",
+      "strongs": [
+        "G1510"
+      ],
+      "metadata": {
+        "src": "3"
+      },
+      "source": {
+        "lemma": "strong:G1510 lemma.TR:ην",
+        "morph": "robinson:V-IAI-3S",
+        "attrs": {
+          "src": "3",
+          "lemma": "strong:G1510 lemma.TR:ην",
+          "morph": "robinson:V-IAI-3S"
+        }
+      }
+    },
+    {
+      "position": 4,
+      "text": "not",
+      "lemma": "strong:G3768 lemma.TR:ουπω",
+      "morph": "robinson:ADV-N",
+      "strongs": [
+        "G3768"
+      ],
+      "metadata": {
+        "src": "1"
+      },
+      "source": {
+        "lemma": "strong:G3768 lemma.TR:ουπω",
+        "morph": "robinson:ADV-N",
+        "attrs": {
+          "src": "1",
+          "lemma": "strong:G3768 lemma.TR:ουπω",
+          "morph": "robinson:ADV-N"
+        }
+      }
+    },
+    {
+      "position": 5,
+      "text": "yet",
+      "lemma": "strong:G3768 lemma.TR:ουπω",
+      "morph": "robinson:ADV-N",
+      "strongs": [
+        "G3768"
+      ],
+      "metadata": {
+        "src": "1"
+      },
+      "source": {
+        "lemma": "strong:G3768 lemma.TR:ουπω",
+        "morph": "robinson:ADV-N",
+        "attrs": {
+          "src": "1",
+          "lemma": "strong:G3768 lemma.TR:ουπω",
+          "morph": "robinson:ADV-N"
+        }
+      }
+    },
+    {
+      "position": 6,
+      "text": "cast",
+      "lemma": "strong:G906 lemma.TR:βεβλημενος",
+      "morph": "robinson:V-RPP-NSM",
+      "strongs": [
+        "G906"
+      ],
+      "metadata": {
+        "src": "4"
+      },
+      "source": {
+        "lemma": "strong:G906 lemma.TR:βεβλημενος",
+        "morph": "robinson:V-RPP-NSM",
+        "attrs": {
+          "src": "4",
+          "lemma": "strong:G906 lemma.TR:βεβλημενος",
+          "morph": "robinson:V-RPP-NSM"
+        }
+      }
+    },
+    {
+      "position": 7,
+      "text": "into",
+      "lemma": "strong:G1519 lemma.TR:εις",
+      "morph": "robinson:PREP",
+      "strongs": [
+        "G1519"
+      ],
+      "metadata": {
+        "src": "5"
+      },
+      "source": {
+        "lemma": "strong:G1519 lemma.TR:εις",
+        "morph": "robinson:PREP",
+        "attrs": {
+          "src": "5",
+          "lemma": "strong:G1519 lemma.TR:εις",
+          "morph": "robinson:PREP"
+        }
+      }
+    },
+    {
+      "position": 8,
+      "text": "prison.",
+      "lemma": "strong:G3588 strong:G5438 lemma.TR:την lemma.TR:φυλακην",
+      "morph": "robinson:T-ASF robinson:N-ASF",
+      "strongs": [
+        "G3588",
+        "G5438"
+      ],
+      "metadata": {
+        "src": "6 7"
+      },
+      "source": {
+        "lemma": "strong:G3588 strong:G5438 lemma.TR:την lemma.TR:φυλακην",
+        "morph": "robinson:T-ASF robinson:N-ASF",
+        "attrs": {
+          "src": "6 7",
+          "lemma": "strong:G3588 strong:G5438 lemma.TR:την lemma.TR:φυλακην",
+          "morph": "robinson:T-ASF robinson:N-ASF"
+        }
+      }
+    }
+  ]
+}

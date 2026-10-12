@@ -1,0 +1,481 @@
+{
+  "text": "Gaius mine host, and of the whole church, saluteth you. Erastus the chamberlain of the city saluteth you, and Quartus a brother.",
+  "words": [
+    {
+      "position": 1,
+      "text": "Gaius",
+      "lemma": "strong:G1050 lemma.TR:γαιος",
+      "morph": "robinson:N-NSM",
+      "strongs": [
+        "G1050"
+      ],
+      "metadata": {
+        "src": "3"
+      },
+      "source": {
+        "lemma": "strong:G1050 lemma.TR:γαιος",
+        "morph": "robinson:N-NSM",
+        "attrs": {
+          "src": "3",
+          "lemma": "strong:G1050 lemma.TR:γαιος",
+          "morph": "robinson:N-NSM"
+        }
+      }
+    },
+    {
+      "position": 2,
+      "text": "mine",
+      "lemma": "strong:G1473 lemma.TR:μου",
+      "morph": "robinson:P-1GS",
+      "strongs": [
+        "G1473"
+      ],
+      "metadata": {
+        "src": "6"
+      },
+      "source": {
+        "lemma": "strong:G1473 lemma.TR:μου",
+        "morph": "robinson:P-1GS",
+        "attrs": {
+          "src": "6",
+          "lemma": "strong:G1473 lemma.TR:μου",
+          "morph": "robinson:P-1GS"
+        }
+      }
+    },
+    {
+      "position": 3,
+      "text": "host,",
+      "lemma": "strong:G3581 lemma.TR:ξενος",
+      "morph": "robinson:A-NSM",
+      "strongs": [
+        "G3581"
+      ],
+      "metadata": {
+        "src": "5"
+      },
+      "source": {
+        "lemma": "strong:G3581 lemma.TR:ξενος",
+        "morph": "robinson:A-NSM",
+        "attrs": {
+          "src": "5",
+          "lemma": "strong:G3581 lemma.TR:ξενος",
+          "morph": "robinson:A-NSM"
+        }
+      }
+    },
+    {
+      "position": 4,
+      "text": "and",
+      "lemma": "strong:G2532 lemma.TR:και",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G2532"
+      ],
+      "metadata": {
+        "src": "7"
+      },
+      "source": {
+        "lemma": "strong:G2532 lemma.TR:και",
+        "morph": "robinson:CONJ",
+        "attrs": {
+          "src": "7",
+          "lemma": "strong:G2532 lemma.TR:και",
+          "morph": "robinson:CONJ"
+        }
+      }
+    },
+    {
+      "position": 5,
+      "text": "of",
+      "lemma": "strong:G3588 strong:G1577 lemma.TR:της lemma.TR:εκκλησιας",
+      "morph": "robinson:T-GSF robinson:N-GSF",
+      "strongs": [
+        "G3588",
+        "G1577"
+      ],
+      "metadata": {
+        "src": "8 9",
+        "type": "x-split-2709"
+      },
+      "source": {
+        "lemma": "strong:G3588 strong:G1577 lemma.TR:της lemma.TR:εκκλησιας",
+        "morph": "robinson:T-GSF robinson:N-GSF",
+        "attrs": {
+          "src": "8 9",
+          "lemma": "strong:G3588 strong:G1577 lemma.TR:της lemma.TR:εκκλησιας",
+          "morph": "robinson:T-GSF robinson:N-GSF",
+          "type": "x-split-2709"
+        }
+      }
+    },
+    {
+      "position": 6,
+      "text": "the",
+      "lemma": "strong:G3588 strong:G1577 lemma.TR:της lemma.TR:εκκλησιας",
+      "morph": "robinson:T-GSF robinson:N-GSF",
+      "strongs": [
+        "G3588",
+        "G1577"
+      ],
+      "metadata": {
+        "src": "8 9",
+        "type": "x-split-2709"
+      },
+      "source": {
+        "lemma": "strong:G3588 strong:G1577 lemma.TR:της lemma.TR:εκκλησιας",
+        "morph": "robinson:T-GSF robinson:N-GSF",
+        "attrs": {
+          "src": "8 9",
+          "lemma": "strong:G3588 strong:G1577 lemma.TR:της lemma.TR:εκκλησιας",
+          "morph": "robinson:T-GSF robinson:N-GSF",
+          "type": "x-split-2709"
+        }
+      }
+    },
+    {
+      "position": 7,
+      "text": "whole",
+      "lemma": "strong:G3650 lemma.TR:ολης",
+      "morph": "robinson:A-GSF",
+      "strongs": [
+        "G3650"
+      ],
+      "metadata": {
+        "src": "10"
+      },
+      "source": {
+        "lemma": "strong:G3650 lemma.TR:ολης",
+        "morph": "robinson:A-GSF",
+        "attrs": {
+          "src": "10",
+          "lemma": "strong:G3650 lemma.TR:ολης",
+          "morph": "robinson:A-GSF"
+        }
+      }
+    },
+    {
+      "position": 8,
+      "text": "church,",
+      "lemma": "strong:G3588 strong:G1577 lemma.TR:της lemma.TR:εκκλησιας",
+      "morph": "robinson:T-GSF robinson:N-GSF",
+      "strongs": [
+        "G3588",
+        "G1577"
+      ],
+      "metadata": {
+        "src": "8 9",
+        "type": "x-split-2709"
+      },
+      "source": {
+        "lemma": "strong:G3588 strong:G1577 lemma.TR:της lemma.TR:εκκλησιας",
+        "morph": "robinson:T-GSF robinson:N-GSF",
+        "attrs": {
+          "src": "8 9",
+          "lemma": "strong:G3588 strong:G1577 lemma.TR:της lemma.TR:εκκλησιας",
+          "morph": "robinson:T-GSF robinson:N-GSF",
+          "type": "x-split-2709"
+        }
+      }
+    },
+    {
+      "position": 9,
+      "text": "saluteth",
+      "lemma": "strong:G782 lemma.TR:ασπαζεται",
+      "morph": "robinson:V-PNI-3S",
+      "strongs": [
+        "G782"
+      ],
+      "metadata": {
+        "src": "1"
+      },
+      "source": {
+        "lemma": "strong:G782 lemma.TR:ασπαζεται",
+        "morph": "robinson:V-PNI-3S",
+        "attrs": {
+          "src": "1",
+          "lemma": "strong:G782 lemma.TR:ασπαζεται",
+          "morph": "robinson:V-PNI-3S"
+        }
+      }
+    },
+    {
+      "position": 10,
+      "text": "you.",
+      "lemma": "strong:G4771 lemma.TR:υμας",
+      "morph": "robinson:P-2AP",
+      "strongs": [
+        "G4771"
+      ],
+      "metadata": {
+        "src": "2"
+      },
+      "source": {
+        "lemma": "strong:G4771 lemma.TR:υμας",
+        "morph": "robinson:P-2AP",
+        "attrs": {
+          "src": "2",
+          "lemma": "strong:G4771 lemma.TR:υμας",
+          "morph": "robinson:P-2AP"
+        }
+      }
+    },
+    {
+      "position": 11,
+      "text": "Erastus",
+      "lemma": "strong:G2037 lemma.TR:εραστος",
+      "morph": "robinson:N-NSM",
+      "strongs": [
+        "G2037"
+      ],
+      "metadata": {
+        "src": "13"
+      },
+      "source": {
+        "lemma": "strong:G2037 lemma.TR:εραστος",
+        "morph": "robinson:N-NSM",
+        "attrs": {
+          "src": "13",
+          "lemma": "strong:G2037 lemma.TR:εραστος",
+          "morph": "robinson:N-NSM"
+        }
+      }
+    },
+    {
+      "position": 12,
+      "text": "the",
+      "lemma": "strong:G3588 strong:G3623 lemma.TR:ο lemma.TR:οικονομος",
+      "morph": "robinson:T-NSM robinson:N-NSM",
+      "strongs": [
+        "G3588",
+        "G3623"
+      ],
+      "metadata": {
+        "src": "14 15"
+      },
+      "source": {
+        "lemma": "strong:G3588 strong:G3623 lemma.TR:ο lemma.TR:οικονομος",
+        "morph": "robinson:T-NSM robinson:N-NSM",
+        "attrs": {
+          "src": "14 15",
+          "lemma": "strong:G3588 strong:G3623 lemma.TR:ο lemma.TR:οικονομος",
+          "morph": "robinson:T-NSM robinson:N-NSM"
+        }
+      }
+    },
+    {
+      "position": 13,
+      "text": "chamberlain",
+      "lemma": "strong:G3588 strong:G3623 lemma.TR:ο lemma.TR:οικονομος",
+      "morph": "robinson:T-NSM robinson:N-NSM",
+      "strongs": [
+        "G3588",
+        "G3623"
+      ],
+      "metadata": {
+        "src": "14 15"
+      },
+      "source": {
+        "lemma": "strong:G3588 strong:G3623 lemma.TR:ο lemma.TR:οικονομος",
+        "morph": "robinson:T-NSM robinson:N-NSM",
+        "attrs": {
+          "src": "14 15",
+          "lemma": "strong:G3588 strong:G3623 lemma.TR:ο lemma.TR:οικονομος",
+          "morph": "robinson:T-NSM robinson:N-NSM"
+        }
+      }
+    },
+    {
+      "position": 14,
+      "text": "of",
+      "lemma": "strong:G3588 strong:G4172 lemma.TR:της lemma.TR:πολεως",
+      "morph": "robinson:T-GSF robinson:N-GSF",
+      "strongs": [
+        "G3588",
+        "G4172"
+      ],
+      "metadata": {
+        "src": "16 17"
+      },
+      "source": {
+        "lemma": "strong:G3588 strong:G4172 lemma.TR:της lemma.TR:πολεως",
+        "morph": "robinson:T-GSF robinson:N-GSF",
+        "attrs": {
+          "src": "16 17",
+          "lemma": "strong:G3588 strong:G4172 lemma.TR:της lemma.TR:πολεως",
+          "morph": "robinson:T-GSF robinson:N-GSF"
+        }
+      }
+    },
+    {
+      "position": 15,
+      "text": "the",
+      "lemma": "strong:G3588 strong:G4172 lemma.TR:της lemma.TR:πολεως",
+      "morph": "robinson:T-GSF robinson:N-GSF",
+      "strongs": [
+        "G3588",
+        "G4172"
+      ],
+      "metadata": {
+        "src": "16 17"
+      },
+      "source": {
+        "lemma": "strong:G3588 strong:G4172 lemma.TR:της lemma.TR:πολεως",
+        "morph": "robinson:T-GSF robinson:N-GSF",
+        "attrs": {
+          "src": "16 17",
+          "lemma": "strong:G3588 strong:G4172 lemma.TR:της lemma.TR:πολεως",
+          "morph": "robinson:T-GSF robinson:N-GSF"
+        }
+      }
+    },
+    {
+      "position": 16,
+      "text": "city",
+      "lemma": "strong:G3588 strong:G4172 lemma.TR:της lemma.TR:πολεως",
+      "morph": "robinson:T-GSF robinson:N-GSF",
+      "strongs": [
+        "G3588",
+        "G4172"
+      ],
+      "metadata": {
+        "src": "16 17"
+      },
+      "source": {
+        "lemma": "strong:G3588 strong:G4172 lemma.TR:της lemma.TR:πολεως",
+        "morph": "robinson:T-GSF robinson:N-GSF",
+        "attrs": {
+          "src": "16 17",
+          "lemma": "strong:G3588 strong:G4172 lemma.TR:της lemma.TR:πολεως",
+          "morph": "robinson:T-GSF robinson:N-GSF"
+        }
+      }
+    },
+    {
+      "position": 17,
+      "text": "saluteth",
+      "lemma": "strong:G782 lemma.TR:ασπαζεται",
+      "morph": "robinson:V-PNI-3S",
+      "strongs": [
+        "G782"
+      ],
+      "metadata": {
+        "src": "11"
+      },
+      "source": {
+        "lemma": "strong:G782 lemma.TR:ασπαζεται",
+        "morph": "robinson:V-PNI-3S",
+        "attrs": {
+          "src": "11",
+          "lemma": "strong:G782 lemma.TR:ασπαζεται",
+          "morph": "robinson:V-PNI-3S"
+        }
+      }
+    },
+    {
+      "position": 18,
+      "text": "you,",
+      "lemma": "strong:G4771 lemma.TR:υμας",
+      "morph": "robinson:P-2AP",
+      "strongs": [
+        "G4771"
+      ],
+      "metadata": {
+        "src": "12"
+      },
+      "source": {
+        "lemma": "strong:G4771 lemma.TR:υμας",
+        "morph": "robinson:P-2AP",
+        "attrs": {
+          "src": "12",
+          "lemma": "strong:G4771 lemma.TR:υμας",
+          "morph": "robinson:P-2AP"
+        }
+      }
+    },
+    {
+      "position": 19,
+      "text": "and",
+      "lemma": "strong:G2532 lemma.TR:και",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G2532"
+      ],
+      "metadata": {
+        "src": "18"
+      },
+      "source": {
+        "lemma": "strong:G2532 lemma.TR:και",
+        "morph": "robinson:CONJ",
+        "attrs": {
+          "src": "18",
+          "lemma": "strong:G2532 lemma.TR:και",
+          "morph": "robinson:CONJ"
+        }
+      }
+    },
+    {
+      "position": 20,
+      "text": "Quartus",
+      "lemma": "strong:G2890 lemma.TR:κουαρτος",
+      "morph": "robinson:N-NSM",
+      "strongs": [
+        "G2890"
+      ],
+      "metadata": {
+        "src": "19"
+      },
+      "source": {
+        "lemma": "strong:G2890 lemma.TR:κουαρτος",
+        "morph": "robinson:N-NSM",
+        "attrs": {
+          "src": "19",
+          "lemma": "strong:G2890 lemma.TR:κουαρτος",
+          "morph": "robinson:N-NSM"
+        }
+      }
+    },
+    {
+      "position": 21,
+      "text": "a",
+      "lemma": "strong:G3588 strong:G80 lemma.TR:ο lemma.TR:αδελφος",
+      "morph": "robinson:T-NSM robinson:N-NSM",
+      "strongs": [
+        "G3588"
+      ],
+      "metadata": {
+        "src": "20 21"
+      },
+      "source": {
+        "lemma": "strong:G3588 strong:G80 lemma.TR:ο lemma.TR:αδελφος",
+        "morph": "robinson:T-NSM robinson:N-NSM",
+        "attrs": {
+          "src": "20 21",
+          "lemma": "strong:G3588 strong:G80 lemma.TR:ο lemma.TR:αδελφος",
+          "morph": "robinson:T-NSM robinson:N-NSM"
+        }
+      }
+    },
+    {
+      "position": 22,
+      "text": "brother.",
+      "lemma": "strong:G3588 strong:G80 lemma.TR:ο lemma.TR:αδελφος",
+      "morph": "robinson:T-NSM robinson:N-NSM",
+      "strongs": [
+        "G3588"
+      ],
+      "metadata": {
+        "src": "20 21"
+      },
+      "source": {
+        "lemma": "strong:G3588 strong:G80 lemma.TR:ο lemma.TR:αδελφος",
+        "morph": "robinson:T-NSM robinson:N-NSM",
+        "attrs": {
+          "src": "20 21",
+          "lemma": "strong:G3588 strong:G80 lemma.TR:ο lemma.TR:αδελφος",
+          "morph": "robinson:T-NSM robinson:N-NSM"
+        }
+      }
+    }
+  ]
+}

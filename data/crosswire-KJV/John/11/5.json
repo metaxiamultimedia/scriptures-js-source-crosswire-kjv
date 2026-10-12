@@ -1,0 +1,194 @@
+{
+  "text": "Now Jesus loved Martha, and her sister, and Lazarus.",
+  "words": [
+    {
+      "position": 1,
+      "text": "Now",
+      "lemma": "strong:G1161 lemma.TR:δε",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G1161"
+      ],
+      "metadata": {
+        "src": "2"
+      },
+      "source": {
+        "lemma": "strong:G1161 lemma.TR:δε",
+        "morph": "robinson:CONJ",
+        "attrs": {
+          "src": "2",
+          "lemma": "strong:G1161 lemma.TR:δε",
+          "morph": "robinson:CONJ"
+        }
+      }
+    },
+    {
+      "position": 2,
+      "text": "Jesus",
+      "lemma": "strong:G3588 strong:G2424 lemma.TR:ο lemma.TR:ιησους",
+      "morph": "robinson:T-NSM robinson:N-NSM",
+      "strongs": [
+        "G3588",
+        "G2424"
+      ],
+      "metadata": {
+        "src": "3 4"
+      },
+      "source": {
+        "lemma": "strong:G3588 strong:G2424 lemma.TR:ο lemma.TR:ιησους",
+        "morph": "robinson:T-NSM robinson:N-NSM",
+        "attrs": {
+          "src": "3 4",
+          "lemma": "strong:G3588 strong:G2424 lemma.TR:ο lemma.TR:ιησους",
+          "morph": "robinson:T-NSM robinson:N-NSM"
+        }
+      }
+    },
+    {
+      "position": 3,
+      "text": "loved",
+      "lemma": "strong:G25 lemma.TR:ηγαπα",
+      "morph": "robinson:V-IAI-3S",
+      "metadata": {
+        "src": "1"
+      },
+      "source": {
+        "lemma": "strong:G25 lemma.TR:ηγαπα",
+        "morph": "robinson:V-IAI-3S",
+        "attrs": {
+          "src": "1",
+          "lemma": "strong:G25 lemma.TR:ηγαπα",
+          "morph": "robinson:V-IAI-3S"
+        }
+      }
+    },
+    {
+      "position": 4,
+      "text": "Martha,",
+      "lemma": "strong:G3588 strong:G3136 lemma.TR:την lemma.TR:μαρθαν",
+      "morph": "robinson:T-ASF robinson:N-ASF",
+      "strongs": [
+        "G3588",
+        "G3136"
+      ],
+      "metadata": {
+        "src": "5 6"
+      },
+      "source": {
+        "lemma": "strong:G3588 strong:G3136 lemma.TR:την lemma.TR:μαρθαν",
+        "morph": "robinson:T-ASF robinson:N-ASF",
+        "attrs": {
+          "src": "5 6",
+          "lemma": "strong:G3588 strong:G3136 lemma.TR:την lemma.TR:μαρθαν",
+          "morph": "robinson:T-ASF robinson:N-ASF"
+        }
+      }
+    },
+    {
+      "position": 5,
+      "text": "and",
+      "lemma": "strong:G2532 lemma.TR:και",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G2532"
+      ],
+      "metadata": {
+        "src": "7"
+      },
+      "source": {
+        "lemma": "strong:G2532 lemma.TR:και",
+        "morph": "robinson:CONJ",
+        "attrs": {
+          "src": "7",
+          "lemma": "strong:G2532 lemma.TR:και",
+          "morph": "robinson:CONJ"
+        }
+      }
+    },
+    {
+      "position": 6,
+      "text": "her",
+      "lemma": "strong:G846 lemma.TR:αυτης",
+      "morph": "robinson:P-GSF",
+      "strongs": [
+        "G846"
+      ],
+      "metadata": {
+        "src": "10"
+      },
+      "source": {
+        "lemma": "strong:G846 lemma.TR:αυτης",
+        "morph": "robinson:P-GSF",
+        "attrs": {
+          "src": "10",
+          "lemma": "strong:G846 lemma.TR:αυτης",
+          "morph": "robinson:P-GSF"
+        }
+      }
+    },
+    {
+      "position": 7,
+      "text": "sister,",
+      "lemma": "strong:G3588 strong:G79 lemma.TR:την lemma.TR:αδελφην",
+      "morph": "robinson:T-ASF robinson:N-ASF",
+      "strongs": [
+        "G3588"
+      ],
+      "metadata": {
+        "src": "8 9"
+      },
+      "source": {
+        "lemma": "strong:G3588 strong:G79 lemma.TR:την lemma.TR:αδελφην",
+        "morph": "robinson:T-ASF robinson:N-ASF",
+        "attrs": {
+          "src": "8 9",
+          "lemma": "strong:G3588 strong:G79 lemma.TR:την lemma.TR:αδελφην",
+          "morph": "robinson:T-ASF robinson:N-ASF"
+        }
+      }
+    },
+    {
+      "position": 8,
+      "text": "and",
+      "lemma": "strong:G2532 lemma.TR:και",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G2532"
+      ],
+      "metadata": {
+        "src": "11"
+      },
+      "source": {
+        "lemma": "strong:G2532 lemma.TR:και",
+        "morph": "robinson:CONJ",
+        "attrs": {
+          "src": "11",
+          "lemma": "strong:G2532 lemma.TR:και",
+          "morph": "robinson:CONJ"
+        }
+      }
+    },
+    {
+      "position": 9,
+      "text": "Lazarus.",
+      "lemma": "strong:G3588 strong:G2976 lemma.TR:τον lemma.TR:λαζαρον",
+      "morph": "robinson:T-ASM robinson:N-ASM",
+      "strongs": [
+        "G3588",
+        "G2976"
+      ],
+      "metadata": {
+        "src": "12 13"
+      },
+      "source": {
+        "lemma": "strong:G3588 strong:G2976 lemma.TR:τον lemma.TR:λαζαρον",
+        "morph": "robinson:T-ASM robinson:N-ASM",
+        "attrs": {
+          "src": "12 13",
+          "lemma": "strong:G3588 strong:G2976 lemma.TR:τον lemma.TR:λαζαρον",
+          "morph": "robinson:T-ASM robinson:N-ASM"
+        }
+      }
+    }
+  ]
+}

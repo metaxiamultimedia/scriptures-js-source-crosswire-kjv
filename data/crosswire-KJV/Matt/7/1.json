@@ -1,0 +1,158 @@
+{
+  "text": "Judge not, that ye be not judged.",
+  "words": [
+    {
+      "position": 1,
+      "text": "Judge",
+      "lemma": "strong:G2919 lemma.TR:κρινετε",
+      "morph": "robinson:V-PAM-2P",
+      "strongs": [
+        "G2919"
+      ],
+      "metadata": {
+        "src": "2"
+      },
+      "source": {
+        "lemma": "strong:G2919 lemma.TR:κρινετε",
+        "morph": "robinson:V-PAM-2P",
+        "attrs": {
+          "src": "2",
+          "lemma": "strong:G2919 lemma.TR:κρινετε",
+          "morph": "robinson:V-PAM-2P"
+        }
+      }
+    },
+    {
+      "position": 2,
+      "text": "not,",
+      "lemma": "strong:G3361 lemma.TR:μη",
+      "morph": "robinson:PRT-N",
+      "strongs": [
+        "G3361"
+      ],
+      "metadata": {
+        "src": "1"
+      },
+      "source": {
+        "lemma": "strong:G3361 lemma.TR:μη",
+        "morph": "robinson:PRT-N",
+        "attrs": {
+          "src": "1",
+          "lemma": "strong:G3361 lemma.TR:μη",
+          "morph": "robinson:PRT-N"
+        }
+      }
+    },
+    {
+      "position": 3,
+      "text": "that",
+      "lemma": "strong:G2443 lemma.TR:ινα",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G2443"
+      ],
+      "metadata": {
+        "src": "3"
+      },
+      "source": {
+        "lemma": "strong:G2443 lemma.TR:ινα",
+        "morph": "robinson:CONJ",
+        "attrs": {
+          "src": "3",
+          "lemma": "strong:G2443 lemma.TR:ινα",
+          "morph": "robinson:CONJ"
+        }
+      }
+    },
+    {
+      "position": 4,
+      "text": "ye",
+      "lemma": "strong:G2919 lemma.TR:κριθητε",
+      "morph": "robinson:V-APS-2P",
+      "strongs": [
+        "G2919"
+      ],
+      "metadata": {
+        "src": "5",
+        "type": "x-split-464"
+      },
+      "source": {
+        "lemma": "strong:G2919 lemma.TR:κριθητε",
+        "morph": "robinson:V-APS-2P",
+        "attrs": {
+          "src": "5",
+          "lemma": "strong:G2919 lemma.TR:κριθητε",
+          "morph": "robinson:V-APS-2P",
+          "type": "x-split-464"
+        }
+      }
+    },
+    {
+      "position": 5,
+      "text": "be",
+      "lemma": "strong:G2919 lemma.TR:κριθητε",
+      "morph": "robinson:V-APS-2P",
+      "strongs": [
+        "G2919"
+      ],
+      "metadata": {
+        "src": "5",
+        "type": "x-split-464"
+      },
+      "source": {
+        "lemma": "strong:G2919 lemma.TR:κριθητε",
+        "morph": "robinson:V-APS-2P",
+        "attrs": {
+          "src": "5",
+          "lemma": "strong:G2919 lemma.TR:κριθητε",
+          "morph": "robinson:V-APS-2P",
+          "type": "x-split-464"
+        }
+      }
+    },
+    {
+      "position": 6,
+      "text": "not",
+      "lemma": "strong:G3361 lemma.TR:μη",
+      "morph": "robinson:PRT-N",
+      "strongs": [
+        "G3361"
+      ],
+      "metadata": {
+        "src": "4"
+      },
+      "source": {
+        "lemma": "strong:G3361 lemma.TR:μη",
+        "morph": "robinson:PRT-N",
+        "attrs": {
+          "src": "4",
+          "lemma": "strong:G3361 lemma.TR:μη",
+          "morph": "robinson:PRT-N"
+        }
+      }
+    },
+    {
+      "position": 7,
+      "text": "judged.",
+      "lemma": "strong:G2919 lemma.TR:κριθητε",
+      "morph": "robinson:V-APS-2P",
+      "strongs": [
+        "G2919"
+      ],
+      "metadata": {
+        "src": "5",
+        "type": "x-split-464"
+      },
+      "source": {
+        "lemma": "strong:G2919 lemma.TR:κριθητε",
+        "morph": "robinson:V-APS-2P",
+        "attrs": {
+          "src": "5",
+          "lemma": "strong:G2919 lemma.TR:κριθητε",
+          "morph": "robinson:V-APS-2P",
+          "type": "x-split-464"
+        }
+      }
+    }
+  ]
+}

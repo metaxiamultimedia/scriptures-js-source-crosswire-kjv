@@ -1,0 +1,285 @@
+{
+  "text": "We are troubled on every side, yet not distressed; we are perplexed, but not in despair;",
+  "words": [
+    {
+      "position": 1,
+      "text": "We are",
+      "lemma": null,
+      "morph": null,
+      "metadata": {
+        "type": "added"
+      },
+      "source": {
+        "attrs": {
+          "type": "added"
+        }
+      }
+    },
+    {
+      "position": 2,
+      "text": "troubled",
+      "lemma": "strong:G2346 lemma.TR:θλιβομενοι",
+      "morph": "robinson:V-PPP-NPM",
+      "strongs": [
+        "G2346"
+      ],
+      "metadata": {
+        "src": "3"
+      },
+      "source": {
+        "lemma": "strong:G2346 lemma.TR:θλιβομενοι",
+        "morph": "robinson:V-PPP-NPM",
+        "attrs": {
+          "src": "3",
+          "lemma": "strong:G2346 lemma.TR:θλιβομενοι",
+          "morph": "robinson:V-PPP-NPM"
+        }
+      }
+    },
+    {
+      "position": 3,
+      "text": "on",
+      "lemma": "strong:G1722 lemma.TR:εν",
+      "morph": "robinson:PREP",
+      "strongs": [
+        "G1722"
+      ],
+      "metadata": {
+        "src": "1"
+      },
+      "source": {
+        "lemma": "strong:G1722 lemma.TR:εν",
+        "morph": "robinson:PREP",
+        "attrs": {
+          "src": "1",
+          "lemma": "strong:G1722 lemma.TR:εν",
+          "morph": "robinson:PREP"
+        }
+      }
+    },
+    {
+      "position": 4,
+      "text": "every",
+      "lemma": "strong:G3956 lemma.TR:παντι",
+      "morph": "robinson:A-DSM",
+      "strongs": [
+        "G3956"
+      ],
+      "metadata": {
+        "src": "2"
+      },
+      "source": {
+        "lemma": "strong:G3956 lemma.TR:παντι",
+        "morph": "robinson:A-DSM",
+        "attrs": {
+          "src": "2",
+          "lemma": "strong:G3956 lemma.TR:παντι",
+          "morph": "robinson:A-DSM"
+        }
+      }
+    },
+    {
+      "position": 5,
+      "text": "side,",
+      "lemma": "strong:G3956 lemma.TR:παντι",
+      "morph": "robinson:A-DSM",
+      "strongs": [
+        "G3956"
+      ],
+      "metadata": {
+        "src": "2"
+      },
+      "source": {
+        "lemma": "strong:G3956 lemma.TR:παντι",
+        "morph": "robinson:A-DSM",
+        "attrs": {
+          "src": "2",
+          "lemma": "strong:G3956 lemma.TR:παντι",
+          "morph": "robinson:A-DSM"
+        }
+      }
+    },
+    {
+      "position": 6,
+      "text": "yet",
+      "lemma": "strong:G235 lemma.TR:αλλ",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G235"
+      ],
+      "metadata": {
+        "src": "8"
+      },
+      "source": {
+        "lemma": "strong:G235 lemma.TR:αλλ",
+        "morph": "robinson:CONJ",
+        "attrs": {
+          "src": "8",
+          "lemma": "strong:G235 lemma.TR:αλλ",
+          "morph": "robinson:CONJ"
+        }
+      }
+    },
+    {
+      "position": 7,
+      "text": "not",
+      "lemma": "strong:G3756 lemma.TR:ου",
+      "morph": "robinson:PRT-N",
+      "strongs": [
+        "G3756"
+      ],
+      "metadata": {
+        "src": "5"
+      },
+      "source": {
+        "lemma": "strong:G3756 lemma.TR:ου",
+        "morph": "robinson:PRT-N",
+        "attrs": {
+          "src": "5",
+          "lemma": "strong:G3756 lemma.TR:ου",
+          "morph": "robinson:PRT-N"
+        }
+      }
+    },
+    {
+      "position": 8,
+      "text": "distressed;",
+      "lemma": "strong:G4729 lemma.TR:στενοχωρουμενοι",
+      "morph": "robinson:V-PPP-NPM",
+      "strongs": [
+        "G4729"
+      ],
+      "metadata": {
+        "src": "6"
+      },
+      "source": {
+        "lemma": "strong:G4729 lemma.TR:στενοχωρουμενοι",
+        "morph": "robinson:V-PPP-NPM",
+        "attrs": {
+          "src": "6",
+          "lemma": "strong:G4729 lemma.TR:στενοχωρουμενοι",
+          "morph": "robinson:V-PPP-NPM"
+        }
+      }
+    },
+    {
+      "position": 9,
+      "text": "we are",
+      "lemma": null,
+      "morph": null,
+      "metadata": {
+        "type": "added"
+      },
+      "source": {
+        "attrs": {
+          "type": "added"
+        }
+      }
+    },
+    {
+      "position": 10,
+      "text": "perplexed,",
+      "lemma": "strong:G639 lemma.TR:απορουμενοι",
+      "morph": "robinson:V-PMP-NPM",
+      "strongs": [
+        "G639"
+      ],
+      "metadata": {
+        "src": "7"
+      },
+      "source": {
+        "lemma": "strong:G639 lemma.TR:απορουμενοι",
+        "morph": "robinson:V-PMP-NPM",
+        "attrs": {
+          "src": "7",
+          "lemma": "strong:G639 lemma.TR:απορουμενοι",
+          "morph": "robinson:V-PMP-NPM"
+        }
+      }
+    },
+    {
+      "position": 11,
+      "text": "but",
+      "lemma": "strong:G235 lemma.TR:αλλ",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G235"
+      ],
+      "metadata": {
+        "src": "4"
+      },
+      "source": {
+        "lemma": "strong:G235 lemma.TR:αλλ",
+        "morph": "robinson:CONJ",
+        "attrs": {
+          "src": "4",
+          "lemma": "strong:G235 lemma.TR:αλλ",
+          "morph": "robinson:CONJ"
+        }
+      }
+    },
+    {
+      "position": 12,
+      "text": "not",
+      "lemma": "strong:G3756 lemma.TR:ουκ",
+      "morph": "robinson:PRT-N",
+      "strongs": [
+        "G3756"
+      ],
+      "metadata": {
+        "src": "9"
+      },
+      "source": {
+        "lemma": "strong:G3756 lemma.TR:ουκ",
+        "morph": "robinson:PRT-N",
+        "attrs": {
+          "src": "9",
+          "lemma": "strong:G3756 lemma.TR:ουκ",
+          "morph": "robinson:PRT-N"
+        }
+      }
+    },
+    {
+      "position": 13,
+      "text": "in",
+      "lemma": "strong:G1820 lemma.TR:εξαπορουμενοι",
+      "morph": "robinson:V-PNP-NPM",
+      "strongs": [
+        "G1820"
+      ],
+      "metadata": {
+        "src": "10"
+      },
+      "source": {
+        "lemma": "strong:G1820 lemma.TR:εξαπορουμενοι",
+        "morph": "robinson:V-PNP-NPM",
+        "attrs": {
+          "src": "10",
+          "lemma": "strong:G1820 lemma.TR:εξαπορουμενοι",
+          "morph": "robinson:V-PNP-NPM"
+        }
+      }
+    },
+    {
+      "position": 14,
+      "text": "despair;",
+      "lemma": "strong:G1820 lemma.TR:εξαπορουμενοι",
+      "morph": "robinson:V-PNP-NPM",
+      "strongs": [
+        "G1820"
+      ],
+      "metadata": {
+        "src": "10"
+      },
+      "source": {
+        "lemma": "strong:G1820 lemma.TR:εξαπορουμενοι",
+        "morph": "robinson:V-PNP-NPM",
+        "attrs": {
+          "src": "10",
+          "lemma": "strong:G1820 lemma.TR:εξαπορουμενοι",
+          "morph": "robinson:V-PNP-NPM"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,153 @@
+{
+  "text": "And he must needs go through Samaria.",
+  "words": [
+    {
+      "position": 1,
+      "text": "And",
+      "lemma": "strong:G1161 lemma.TR:δε",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G1161"
+      ],
+      "metadata": {
+        "src": "2"
+      },
+      "source": {
+        "lemma": "strong:G1161 lemma.TR:δε",
+        "morph": "robinson:CONJ",
+        "attrs": {
+          "src": "2",
+          "lemma": "strong:G1161 lemma.TR:δε",
+          "morph": "robinson:CONJ"
+        }
+      }
+    },
+    {
+      "position": 2,
+      "text": "he",
+      "lemma": "strong:G846 lemma.TR:αυτον",
+      "morph": "robinson:P-ASM",
+      "strongs": [
+        "G846"
+      ],
+      "metadata": {
+        "src": "3"
+      },
+      "source": {
+        "lemma": "strong:G846 lemma.TR:αυτον",
+        "morph": "robinson:P-ASM",
+        "attrs": {
+          "src": "3",
+          "lemma": "strong:G846 lemma.TR:αυτον",
+          "morph": "robinson:P-ASM"
+        }
+      }
+    },
+    {
+      "position": 3,
+      "text": "must",
+      "lemma": "strong:G1163 lemma.TR:εδει",
+      "morph": "robinson:V-IAI-3S",
+      "strongs": [
+        "G1163"
+      ],
+      "metadata": {
+        "src": "1"
+      },
+      "source": {
+        "lemma": "strong:G1163 lemma.TR:εδει",
+        "morph": "robinson:V-IAI-3S",
+        "attrs": {
+          "src": "1",
+          "lemma": "strong:G1163 lemma.TR:εδει",
+          "morph": "robinson:V-IAI-3S"
+        }
+      }
+    },
+    {
+      "position": 4,
+      "text": "needs",
+      "lemma": "strong:G1163 lemma.TR:εδει",
+      "morph": "robinson:V-IAI-3S",
+      "strongs": [
+        "G1163"
+      ],
+      "metadata": {
+        "src": "1"
+      },
+      "source": {
+        "lemma": "strong:G1163 lemma.TR:εδει",
+        "morph": "robinson:V-IAI-3S",
+        "attrs": {
+          "src": "1",
+          "lemma": "strong:G1163 lemma.TR:εδει",
+          "morph": "robinson:V-IAI-3S"
+        }
+      }
+    },
+    {
+      "position": 5,
+      "text": "go",
+      "lemma": "strong:G1330 lemma.TR:διερχεσθαι",
+      "morph": "robinson:V-PNN",
+      "strongs": [
+        "G1330"
+      ],
+      "metadata": {
+        "src": "4"
+      },
+      "source": {
+        "lemma": "strong:G1330 lemma.TR:διερχεσθαι",
+        "morph": "robinson:V-PNN",
+        "attrs": {
+          "src": "4",
+          "lemma": "strong:G1330 lemma.TR:διερχεσθαι",
+          "morph": "robinson:V-PNN"
+        }
+      }
+    },
+    {
+      "position": 6,
+      "text": "through",
+      "lemma": "strong:G1223 lemma.TR:δια",
+      "morph": "robinson:PREP",
+      "strongs": [
+        "G1223"
+      ],
+      "metadata": {
+        "src": "5"
+      },
+      "source": {
+        "lemma": "strong:G1223 lemma.TR:δια",
+        "morph": "robinson:PREP",
+        "attrs": {
+          "src": "5",
+          "lemma": "strong:G1223 lemma.TR:δια",
+          "morph": "robinson:PREP"
+        }
+      }
+    },
+    {
+      "position": 7,
+      "text": "Samaria.",
+      "lemma": "strong:G3588 strong:G4540 lemma.TR:της lemma.TR:σαμαρειας",
+      "morph": "robinson:T-GSF robinson:N-GSF",
+      "strongs": [
+        "G3588",
+        "G4540"
+      ],
+      "metadata": {
+        "src": "6 7"
+      },
+      "source": {
+        "lemma": "strong:G3588 strong:G4540 lemma.TR:της lemma.TR:σαμαρειας",
+        "morph": "robinson:T-GSF robinson:N-GSF",
+        "attrs": {
+          "src": "6 7",
+          "lemma": "strong:G3588 strong:G4540 lemma.TR:της lemma.TR:σαμαρειας",
+          "morph": "robinson:T-GSF robinson:N-GSF"
+        }
+      }
+    }
+  ]
+}

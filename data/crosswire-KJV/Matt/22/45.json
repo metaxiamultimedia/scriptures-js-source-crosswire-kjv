@@ -1,0 +1,236 @@
+{
+  "text": "If David then call him Lord, how is he his son?",
+  "words": [
+    {
+      "position": 1,
+      "text": "If",
+      "lemma": "strong:G1487 lemma.TR:ει",
+      "morph": "robinson:COND",
+      "strongs": [
+        "G1487"
+      ],
+      "metadata": {
+        "src": "1"
+      },
+      "source": {
+        "lemma": "strong:G1487 lemma.TR:ει",
+        "morph": "robinson:COND",
+        "attrs": {
+          "src": "1",
+          "lemma": "strong:G1487 lemma.TR:ει",
+          "morph": "robinson:COND"
+        }
+      }
+    },
+    {
+      "position": 2,
+      "text": "David",
+      "lemma": "strong:G1138 lemma.TR:δαβιδ",
+      "morph": "robinson:N-PRI",
+      "strongs": [
+        "G1138"
+      ],
+      "metadata": {
+        "src": "3"
+      },
+      "source": {
+        "lemma": "strong:G1138 lemma.TR:δαβιδ",
+        "morph": "robinson:N-PRI",
+        "attrs": {
+          "src": "3",
+          "lemma": "strong:G1138 lemma.TR:δαβιδ",
+          "morph": "robinson:N-PRI"
+        }
+      }
+    },
+    {
+      "position": 3,
+      "text": "then",
+      "lemma": "strong:G3767 lemma.TR:ουν",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G3767"
+      ],
+      "metadata": {
+        "src": "2"
+      },
+      "source": {
+        "lemma": "strong:G3767 lemma.TR:ουν",
+        "morph": "robinson:CONJ",
+        "attrs": {
+          "src": "2",
+          "lemma": "strong:G3767 lemma.TR:ουν",
+          "morph": "robinson:CONJ"
+        }
+      }
+    },
+    {
+      "position": 4,
+      "text": "call",
+      "lemma": "strong:G2564 lemma.TR:καλει",
+      "morph": "robinson:V-PAI-3S",
+      "strongs": [
+        "G2564"
+      ],
+      "metadata": {
+        "src": "4"
+      },
+      "source": {
+        "lemma": "strong:G2564 lemma.TR:καλει",
+        "morph": "robinson:V-PAI-3S",
+        "attrs": {
+          "src": "4",
+          "lemma": "strong:G2564 lemma.TR:καλει",
+          "morph": "robinson:V-PAI-3S"
+        }
+      }
+    },
+    {
+      "position": 5,
+      "text": "him",
+      "lemma": "strong:G846 lemma.TR:αυτον",
+      "morph": "robinson:P-ASM",
+      "strongs": [
+        "G846"
+      ],
+      "metadata": {
+        "src": "5"
+      },
+      "source": {
+        "lemma": "strong:G846 lemma.TR:αυτον",
+        "morph": "robinson:P-ASM",
+        "attrs": {
+          "src": "5",
+          "lemma": "strong:G846 lemma.TR:αυτον",
+          "morph": "robinson:P-ASM"
+        }
+      }
+    },
+    {
+      "position": 6,
+      "text": "Lord,",
+      "lemma": "strong:G2962 lemma.TR:κυριον",
+      "morph": "robinson:N-ASM",
+      "strongs": [
+        "G2962"
+      ],
+      "metadata": {
+        "src": "6"
+      },
+      "source": {
+        "lemma": "strong:G2962 lemma.TR:κυριον",
+        "morph": "robinson:N-ASM",
+        "attrs": {
+          "src": "6",
+          "lemma": "strong:G2962 lemma.TR:κυριον",
+          "morph": "robinson:N-ASM"
+        }
+      }
+    },
+    {
+      "position": 7,
+      "text": "how",
+      "lemma": "strong:G4459 lemma.TR:πως",
+      "morph": "robinson:ADV-I",
+      "strongs": [
+        "G4459"
+      ],
+      "metadata": {
+        "src": "7"
+      },
+      "source": {
+        "lemma": "strong:G4459 lemma.TR:πως",
+        "morph": "robinson:ADV-I",
+        "attrs": {
+          "src": "7",
+          "lemma": "strong:G4459 lemma.TR:πως",
+          "morph": "robinson:ADV-I"
+        }
+      }
+    },
+    {
+      "position": 8,
+      "text": "is",
+      "lemma": "strong:G1510 lemma.TR:εστιν",
+      "morph": "robinson:V-PAI-3S",
+      "strongs": [
+        "G1510"
+      ],
+      "metadata": {
+        "src": "10"
+      },
+      "source": {
+        "lemma": "strong:G1510 lemma.TR:εστιν",
+        "morph": "robinson:V-PAI-3S",
+        "attrs": {
+          "src": "10",
+          "lemma": "strong:G1510 lemma.TR:εστιν",
+          "morph": "robinson:V-PAI-3S"
+        }
+      }
+    },
+    {
+      "position": 9,
+      "text": "he",
+      "lemma": "strong:G1510 lemma.TR:εστιν",
+      "morph": "robinson:V-PAI-3S",
+      "strongs": [
+        "G1510"
+      ],
+      "metadata": {
+        "src": "10"
+      },
+      "source": {
+        "lemma": "strong:G1510 lemma.TR:εστιν",
+        "morph": "robinson:V-PAI-3S",
+        "attrs": {
+          "src": "10",
+          "lemma": "strong:G1510 lemma.TR:εστιν",
+          "morph": "robinson:V-PAI-3S"
+        }
+      }
+    },
+    {
+      "position": 10,
+      "text": "his",
+      "lemma": "strong:G846 lemma.TR:αυτου",
+      "morph": "robinson:P-GSM",
+      "strongs": [
+        "G846"
+      ],
+      "metadata": {
+        "src": "9"
+      },
+      "source": {
+        "lemma": "strong:G846 lemma.TR:αυτου",
+        "morph": "robinson:P-GSM",
+        "attrs": {
+          "src": "9",
+          "lemma": "strong:G846 lemma.TR:αυτου",
+          "morph": "robinson:P-GSM"
+        }
+      }
+    },
+    {
+      "position": 11,
+      "text": "son?",
+      "lemma": "strong:G5207 lemma.TR:υιος",
+      "morph": "robinson:N-NSM",
+      "strongs": [
+        "G5207"
+      ],
+      "metadata": {
+        "src": "8"
+      },
+      "source": {
+        "lemma": "strong:G5207 lemma.TR:υιος",
+        "morph": "robinson:N-NSM",
+        "attrs": {
+          "src": "8",
+          "lemma": "strong:G5207 lemma.TR:υιος",
+          "morph": "robinson:N-NSM"
+        }
+      }
+    }
+  ]
+}

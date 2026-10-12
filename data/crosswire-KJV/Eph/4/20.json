@@ -1,0 +1,157 @@
+{
+  "text": "But ye have not so learned Christ;",
+  "words": [
+    {
+      "position": 1,
+      "text": "But",
+      "lemma": "strong:G1161 lemma.TR:δε",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G1161"
+      ],
+      "metadata": {
+        "src": "2"
+      },
+      "source": {
+        "lemma": "strong:G1161 lemma.TR:δε",
+        "morph": "robinson:CONJ",
+        "attrs": {
+          "src": "2",
+          "lemma": "strong:G1161 lemma.TR:δε",
+          "morph": "robinson:CONJ"
+        }
+      }
+    },
+    {
+      "position": 2,
+      "text": "ye",
+      "lemma": "strong:G4771 lemma.TR:υμεις",
+      "morph": "robinson:P-2NP",
+      "strongs": [
+        "G4771"
+      ],
+      "metadata": {
+        "src": "1"
+      },
+      "source": {
+        "lemma": "strong:G4771 lemma.TR:υμεις",
+        "morph": "robinson:P-2NP",
+        "attrs": {
+          "src": "1",
+          "lemma": "strong:G4771 lemma.TR:υμεις",
+          "morph": "robinson:P-2NP"
+        }
+      }
+    },
+    {
+      "position": 3,
+      "text": "have",
+      "lemma": "strong:G3129 lemma.TR:εμαθετε",
+      "morph": "robinson:V-2AAI-2P",
+      "strongs": [
+        "G3129"
+      ],
+      "metadata": {
+        "src": "5",
+        "type": "x-split-3043"
+      },
+      "source": {
+        "lemma": "strong:G3129 lemma.TR:εμαθετε",
+        "morph": "robinson:V-2AAI-2P",
+        "attrs": {
+          "src": "5",
+          "lemma": "strong:G3129 lemma.TR:εμαθετε",
+          "morph": "robinson:V-2AAI-2P",
+          "type": "x-split-3043"
+        }
+      }
+    },
+    {
+      "position": 4,
+      "text": "not",
+      "lemma": "strong:G3756 lemma.TR:ουχ",
+      "morph": "robinson:PRT-N",
+      "strongs": [
+        "G3756"
+      ],
+      "metadata": {
+        "src": "3"
+      },
+      "source": {
+        "lemma": "strong:G3756 lemma.TR:ουχ",
+        "morph": "robinson:PRT-N",
+        "attrs": {
+          "src": "3",
+          "lemma": "strong:G3756 lemma.TR:ουχ",
+          "morph": "robinson:PRT-N"
+        }
+      }
+    },
+    {
+      "position": 5,
+      "text": "so",
+      "lemma": "strong:G3779 lemma.TR:ουτως",
+      "morph": "robinson:ADV",
+      "strongs": [
+        "G3779"
+      ],
+      "metadata": {
+        "src": "4"
+      },
+      "source": {
+        "lemma": "strong:G3779 lemma.TR:ουτως",
+        "morph": "robinson:ADV",
+        "attrs": {
+          "src": "4",
+          "lemma": "strong:G3779 lemma.TR:ουτως",
+          "morph": "robinson:ADV"
+        }
+      }
+    },
+    {
+      "position": 6,
+      "text": "learned",
+      "lemma": "strong:G3129 lemma.TR:εμαθετε",
+      "morph": "robinson:V-2AAI-2P",
+      "strongs": [
+        "G3129"
+      ],
+      "metadata": {
+        "src": "5",
+        "type": "x-split-3043"
+      },
+      "source": {
+        "lemma": "strong:G3129 lemma.TR:εμαθετε",
+        "morph": "robinson:V-2AAI-2P",
+        "attrs": {
+          "src": "5",
+          "lemma": "strong:G3129 lemma.TR:εμαθετε",
+          "morph": "robinson:V-2AAI-2P",
+          "type": "x-split-3043"
+        }
+      }
+    },
+    {
+      "position": 7,
+      "text": "Christ;",
+      "lemma": "strong:G3588 strong:G5547 lemma.TR:τον lemma.TR:χριστον",
+      "morph": "robinson:T-ASM robinson:N-ASM",
+      "strongs": [
+        "G3588",
+        "G5547"
+      ],
+      "metadata": {
+        "src": "6 7"
+      },
+      "source": {
+        "lemma": "strong:G3588 strong:G5547 lemma.TR:τον lemma.TR:χριστον",
+        "morph": "robinson:T-ASM robinson:N-ASM",
+        "attrs": {
+          "src": "6 7",
+          "lemma": "strong:G3588 strong:G5547 lemma.TR:τον lemma.TR:χριστον",
+          "morph": "robinson:T-ASM robinson:N-ASM"
+        }
+      }
+    }
+  ]
+}

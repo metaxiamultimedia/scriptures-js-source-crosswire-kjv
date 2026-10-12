@@ -1,0 +1,336 @@
+{
+  "text": "Wherefore the law was our schoolmaster to bring us unto Christ, that we might be justified by faith.",
+  "words": [
+    {
+      "position": 1,
+      "text": "Wherefore",
+      "lemma": "strong:G5620 lemma.TR:ωστε",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G5620"
+      ],
+      "metadata": {
+        "src": "1"
+      },
+      "source": {
+        "lemma": "strong:G5620 lemma.TR:ωστε",
+        "morph": "robinson:CONJ",
+        "attrs": {
+          "src": "1",
+          "lemma": "strong:G5620 lemma.TR:ωστε",
+          "morph": "robinson:CONJ"
+        }
+      }
+    },
+    {
+      "position": 2,
+      "text": "the",
+      "lemma": "strong:G3588 strong:G3551 lemma.TR:ο lemma.TR:νομος",
+      "morph": "robinson:T-NSM robinson:N-NSM",
+      "strongs": [
+        "G3588",
+        "G3551"
+      ],
+      "metadata": {
+        "src": "2 3"
+      },
+      "source": {
+        "lemma": "strong:G3588 strong:G3551 lemma.TR:ο lemma.TR:νομος",
+        "morph": "robinson:T-NSM robinson:N-NSM",
+        "attrs": {
+          "src": "2 3",
+          "lemma": "strong:G3588 strong:G3551 lemma.TR:ο lemma.TR:νομος",
+          "morph": "robinson:T-NSM robinson:N-NSM"
+        }
+      }
+    },
+    {
+      "position": 3,
+      "text": "law",
+      "lemma": "strong:G3588 strong:G3551 lemma.TR:ο lemma.TR:νομος",
+      "morph": "robinson:T-NSM robinson:N-NSM",
+      "strongs": [
+        "G3588",
+        "G3551"
+      ],
+      "metadata": {
+        "src": "2 3"
+      },
+      "source": {
+        "lemma": "strong:G3588 strong:G3551 lemma.TR:ο lemma.TR:νομος",
+        "morph": "robinson:T-NSM robinson:N-NSM",
+        "attrs": {
+          "src": "2 3",
+          "lemma": "strong:G3588 strong:G3551 lemma.TR:ο lemma.TR:νομος",
+          "morph": "robinson:T-NSM robinson:N-NSM"
+        }
+      }
+    },
+    {
+      "position": 4,
+      "text": "was",
+      "lemma": "strong:G1096 lemma.TR:γεγονεν",
+      "morph": "robinson:V-2RAI-3S",
+      "strongs": [
+        "G1096"
+      ],
+      "metadata": {
+        "src": "6"
+      },
+      "source": {
+        "lemma": "strong:G1096 lemma.TR:γεγονεν",
+        "morph": "robinson:V-2RAI-3S",
+        "attrs": {
+          "src": "6",
+          "lemma": "strong:G1096 lemma.TR:γεγονεν",
+          "morph": "robinson:V-2RAI-3S"
+        }
+      }
+    },
+    {
+      "position": 5,
+      "text": "our",
+      "lemma": "strong:G1473 lemma.TR:ημων",
+      "morph": "robinson:P-1GP",
+      "strongs": [
+        "G1473"
+      ],
+      "metadata": {
+        "src": "5"
+      },
+      "source": {
+        "lemma": "strong:G1473 lemma.TR:ημων",
+        "morph": "robinson:P-1GP",
+        "attrs": {
+          "src": "5",
+          "lemma": "strong:G1473 lemma.TR:ημων",
+          "morph": "robinson:P-1GP"
+        }
+      }
+    },
+    {
+      "position": 6,
+      "text": "schoolmaster",
+      "lemma": "strong:G3807 lemma.TR:παιδαγωγος",
+      "morph": "robinson:N-NSM",
+      "strongs": [
+        "G3807"
+      ],
+      "metadata": {
+        "src": "4"
+      },
+      "source": {
+        "lemma": "strong:G3807 lemma.TR:παιδαγωγος",
+        "morph": "robinson:N-NSM",
+        "attrs": {
+          "src": "4",
+          "lemma": "strong:G3807 lemma.TR:παιδαγωγος",
+          "morph": "robinson:N-NSM"
+        }
+      }
+    },
+    {
+      "position": 7,
+      "text": "to bring us",
+      "lemma": null,
+      "morph": null,
+      "metadata": {
+        "type": "added"
+      },
+      "source": {
+        "attrs": {
+          "type": "added"
+        }
+      }
+    },
+    {
+      "position": 8,
+      "text": "unto",
+      "lemma": "strong:G1519 lemma.TR:εις",
+      "morph": "robinson:PREP",
+      "strongs": [
+        "G1519"
+      ],
+      "metadata": {
+        "src": "7"
+      },
+      "source": {
+        "lemma": "strong:G1519 lemma.TR:εις",
+        "morph": "robinson:PREP",
+        "attrs": {
+          "src": "7",
+          "lemma": "strong:G1519 lemma.TR:εις",
+          "morph": "robinson:PREP"
+        }
+      }
+    },
+    {
+      "position": 9,
+      "text": "Christ,",
+      "lemma": "strong:G5547 lemma.TR:χριστον",
+      "morph": "robinson:N-ASM",
+      "strongs": [
+        "G5547"
+      ],
+      "metadata": {
+        "src": "8"
+      },
+      "source": {
+        "lemma": "strong:G5547 lemma.TR:χριστον",
+        "morph": "robinson:N-ASM",
+        "attrs": {
+          "src": "8",
+          "lemma": "strong:G5547 lemma.TR:χριστον",
+          "morph": "robinson:N-ASM"
+        }
+      }
+    },
+    {
+      "position": 10,
+      "text": "that",
+      "lemma": "strong:G2443 lemma.TR:ινα",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G2443"
+      ],
+      "metadata": {
+        "src": "9"
+      },
+      "source": {
+        "lemma": "strong:G2443 lemma.TR:ινα",
+        "morph": "robinson:CONJ",
+        "attrs": {
+          "src": "9",
+          "lemma": "strong:G2443 lemma.TR:ινα",
+          "morph": "robinson:CONJ"
+        }
+      }
+    },
+    {
+      "position": 11,
+      "text": "we",
+      "lemma": "strong:G1344 lemma.TR:δικαιωθωμεν",
+      "morph": "robinson:V-APS-1P",
+      "strongs": [
+        "G1344"
+      ],
+      "metadata": {
+        "src": "12"
+      },
+      "source": {
+        "lemma": "strong:G1344 lemma.TR:δικαιωθωμεν",
+        "morph": "robinson:V-APS-1P",
+        "attrs": {
+          "src": "12",
+          "lemma": "strong:G1344 lemma.TR:δικαιωθωμεν",
+          "morph": "robinson:V-APS-1P"
+        }
+      }
+    },
+    {
+      "position": 12,
+      "text": "might",
+      "lemma": "strong:G1344 lemma.TR:δικαιωθωμεν",
+      "morph": "robinson:V-APS-1P",
+      "strongs": [
+        "G1344"
+      ],
+      "metadata": {
+        "src": "12"
+      },
+      "source": {
+        "lemma": "strong:G1344 lemma.TR:δικαιωθωμεν",
+        "morph": "robinson:V-APS-1P",
+        "attrs": {
+          "src": "12",
+          "lemma": "strong:G1344 lemma.TR:δικαιωθωμεν",
+          "morph": "robinson:V-APS-1P"
+        }
+      }
+    },
+    {
+      "position": 13,
+      "text": "be",
+      "lemma": "strong:G1344 lemma.TR:δικαιωθωμεν",
+      "morph": "robinson:V-APS-1P",
+      "strongs": [
+        "G1344"
+      ],
+      "metadata": {
+        "src": "12"
+      },
+      "source": {
+        "lemma": "strong:G1344 lemma.TR:δικαιωθωμεν",
+        "morph": "robinson:V-APS-1P",
+        "attrs": {
+          "src": "12",
+          "lemma": "strong:G1344 lemma.TR:δικαιωθωμεν",
+          "morph": "robinson:V-APS-1P"
+        }
+      }
+    },
+    {
+      "position": 14,
+      "text": "justified",
+      "lemma": "strong:G1344 lemma.TR:δικαιωθωμεν",
+      "morph": "robinson:V-APS-1P",
+      "strongs": [
+        "G1344"
+      ],
+      "metadata": {
+        "src": "12"
+      },
+      "source": {
+        "lemma": "strong:G1344 lemma.TR:δικαιωθωμεν",
+        "morph": "robinson:V-APS-1P",
+        "attrs": {
+          "src": "12",
+          "lemma": "strong:G1344 lemma.TR:δικαιωθωμεν",
+          "morph": "robinson:V-APS-1P"
+        }
+      }
+    },
+    {
+      "position": 15,
+      "text": "by",
+      "lemma": "strong:G1537 lemma.TR:εκ",
+      "morph": "robinson:PREP",
+      "strongs": [
+        "G1537"
+      ],
+      "metadata": {
+        "src": "10"
+      },
+      "source": {
+        "lemma": "strong:G1537 lemma.TR:εκ",
+        "morph": "robinson:PREP",
+        "attrs": {
+          "src": "10",
+          "lemma": "strong:G1537 lemma.TR:εκ",
+          "morph": "robinson:PREP"
+        }
+      }
+    },
+    {
+      "position": 16,
+      "text": "faith.",
+      "lemma": "strong:G4102 lemma.TR:πιστεως",
+      "morph": "robinson:N-GSF",
+      "strongs": [
+        "G4102"
+      ],
+      "metadata": {
+        "src": "11"
+      },
+      "source": {
+        "lemma": "strong:G4102 lemma.TR:πιστεως",
+        "morph": "robinson:N-GSF",
+        "attrs": {
+          "src": "11",
+          "lemma": "strong:G4102 lemma.TR:πιστεως",
+          "morph": "robinson:N-GSF"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,283 @@
+{
+  "text": "In those days came John the Baptist, preaching in the wilderness of Judea,",
+  "words": [
+    {
+      "position": 1,
+      "text": "In",
+      "lemma": "strong:G1722 lemma.TR:εν",
+      "morph": "robinson:PREP",
+      "strongs": [
+        "G1722"
+      ],
+      "metadata": {
+        "src": "1"
+      },
+      "source": {
+        "lemma": "strong:G1722 lemma.TR:εν",
+        "morph": "robinson:PREP",
+        "attrs": {
+          "src": "1",
+          "lemma": "strong:G1722 lemma.TR:εν",
+          "morph": "robinson:PREP"
+        }
+      }
+    },
+    {
+      "position": 2,
+      "text": "those",
+      "lemma": "strong:G1565 lemma.TR:εκειναις",
+      "morph": "robinson:D-DPF",
+      "strongs": [
+        "G1565"
+      ],
+      "metadata": {
+        "src": "5"
+      },
+      "source": {
+        "lemma": "strong:G1565 lemma.TR:εκειναις",
+        "morph": "robinson:D-DPF",
+        "attrs": {
+          "src": "5",
+          "lemma": "strong:G1565 lemma.TR:εκειναις",
+          "morph": "robinson:D-DPF"
+        }
+      }
+    },
+    {
+      "position": 3,
+      "text": "days",
+      "lemma": "strong:G3588 strong:G2250 lemma.TR:ταις lemma.TR:ημεραις",
+      "morph": "robinson:T-DPF robinson:N-DPF",
+      "strongs": [
+        "G3588",
+        "G2250"
+      ],
+      "metadata": {
+        "src": "3 4"
+      },
+      "source": {
+        "lemma": "strong:G3588 strong:G2250 lemma.TR:ταις lemma.TR:ημεραις",
+        "morph": "robinson:T-DPF robinson:N-DPF",
+        "attrs": {
+          "src": "3 4",
+          "lemma": "strong:G3588 strong:G2250 lemma.TR:ταις lemma.TR:ημεραις",
+          "morph": "robinson:T-DPF robinson:N-DPF"
+        }
+      }
+    },
+    {
+      "position": 4,
+      "text": "came",
+      "lemma": "strong:G3854 lemma.TR:παραγινεται",
+      "morph": "robinson:V-PNI-3S",
+      "strongs": [
+        "G3854"
+      ],
+      "metadata": {
+        "src": "6"
+      },
+      "source": {
+        "lemma": "strong:G3854 lemma.TR:παραγινεται",
+        "morph": "robinson:V-PNI-3S",
+        "attrs": {
+          "src": "6",
+          "lemma": "strong:G3854 lemma.TR:παραγινεται",
+          "morph": "robinson:V-PNI-3S"
+        }
+      }
+    },
+    {
+      "position": 5,
+      "text": "John",
+      "lemma": "strong:G2491 lemma.TR:ιωαννης",
+      "morph": "robinson:N-NSM",
+      "strongs": [
+        "G2491"
+      ],
+      "metadata": {
+        "src": "7"
+      },
+      "source": {
+        "lemma": "strong:G2491 lemma.TR:ιωαννης",
+        "morph": "robinson:N-NSM",
+        "attrs": {
+          "src": "7",
+          "lemma": "strong:G2491 lemma.TR:ιωαννης",
+          "morph": "robinson:N-NSM"
+        }
+      }
+    },
+    {
+      "position": 6,
+      "text": "the",
+      "lemma": "strong:G3588 strong:G910 lemma.TR:ο lemma.TR:βαπτιστης",
+      "morph": "robinson:T-NSM robinson:N-NSM",
+      "strongs": [
+        "G3588",
+        "G910"
+      ],
+      "metadata": {
+        "src": "8 9"
+      },
+      "source": {
+        "lemma": "strong:G3588 strong:G910 lemma.TR:ο lemma.TR:βαπτιστης",
+        "morph": "robinson:T-NSM robinson:N-NSM",
+        "attrs": {
+          "src": "8 9",
+          "lemma": "strong:G3588 strong:G910 lemma.TR:ο lemma.TR:βαπτιστης",
+          "morph": "robinson:T-NSM robinson:N-NSM"
+        }
+      }
+    },
+    {
+      "position": 7,
+      "text": "Baptist,",
+      "lemma": "strong:G3588 strong:G910 lemma.TR:ο lemma.TR:βαπτιστης",
+      "morph": "robinson:T-NSM robinson:N-NSM",
+      "strongs": [
+        "G3588",
+        "G910"
+      ],
+      "metadata": {
+        "src": "8 9"
+      },
+      "source": {
+        "lemma": "strong:G3588 strong:G910 lemma.TR:ο lemma.TR:βαπτιστης",
+        "morph": "robinson:T-NSM robinson:N-NSM",
+        "attrs": {
+          "src": "8 9",
+          "lemma": "strong:G3588 strong:G910 lemma.TR:ο lemma.TR:βαπτιστης",
+          "morph": "robinson:T-NSM robinson:N-NSM"
+        }
+      }
+    },
+    {
+      "position": 8,
+      "text": "preaching",
+      "lemma": "strong:G2784 lemma.TR:κηρυσσων",
+      "morph": "robinson:V-PAP-NSM",
+      "strongs": [
+        "G2784"
+      ],
+      "metadata": {
+        "src": "10"
+      },
+      "source": {
+        "lemma": "strong:G2784 lemma.TR:κηρυσσων",
+        "morph": "robinson:V-PAP-NSM",
+        "attrs": {
+          "src": "10",
+          "lemma": "strong:G2784 lemma.TR:κηρυσσων",
+          "morph": "robinson:V-PAP-NSM"
+        }
+      }
+    },
+    {
+      "position": 9,
+      "text": "in",
+      "lemma": "strong:G1722 lemma.TR:εν",
+      "morph": "robinson:PREP",
+      "strongs": [
+        "G1722"
+      ],
+      "metadata": {
+        "src": "11"
+      },
+      "source": {
+        "lemma": "strong:G1722 lemma.TR:εν",
+        "morph": "robinson:PREP",
+        "attrs": {
+          "src": "11",
+          "lemma": "strong:G1722 lemma.TR:εν",
+          "morph": "robinson:PREP"
+        }
+      }
+    },
+    {
+      "position": 10,
+      "text": "the",
+      "lemma": "strong:G2048 lemma.TR:ερημω",
+      "morph": "robinson:A-DSF",
+      "strongs": [
+        "G2048"
+      ],
+      "metadata": {
+        "src": "13"
+      },
+      "source": {
+        "lemma": "strong:G2048 lemma.TR:ερημω",
+        "morph": "robinson:A-DSF",
+        "attrs": {
+          "src": "13",
+          "lemma": "strong:G2048 lemma.TR:ερημω",
+          "morph": "robinson:A-DSF"
+        }
+      }
+    },
+    {
+      "position": 11,
+      "text": "wilderness",
+      "lemma": "strong:G2048 lemma.TR:ερημω",
+      "morph": "robinson:A-DSF",
+      "strongs": [
+        "G2048"
+      ],
+      "metadata": {
+        "src": "13"
+      },
+      "source": {
+        "lemma": "strong:G2048 lemma.TR:ερημω",
+        "morph": "robinson:A-DSF",
+        "attrs": {
+          "src": "13",
+          "lemma": "strong:G2048 lemma.TR:ερημω",
+          "morph": "robinson:A-DSF"
+        }
+      }
+    },
+    {
+      "position": 12,
+      "text": "of",
+      "lemma": "strong:G3588 strong:G2449 lemma.TR:της lemma.TR:ιουδαιας",
+      "morph": "robinson:T-GSF robinson:N-GSF",
+      "strongs": [
+        "G3588",
+        "G2449"
+      ],
+      "metadata": {
+        "src": "14 15"
+      },
+      "source": {
+        "lemma": "strong:G3588 strong:G2449 lemma.TR:της lemma.TR:ιουδαιας",
+        "morph": "robinson:T-GSF robinson:N-GSF",
+        "attrs": {
+          "src": "14 15",
+          "lemma": "strong:G3588 strong:G2449 lemma.TR:της lemma.TR:ιουδαιας",
+          "morph": "robinson:T-GSF robinson:N-GSF"
+        }
+      }
+    },
+    {
+      "position": 13,
+      "text": "Judea,",
+      "lemma": "strong:G3588 strong:G2449 lemma.TR:της lemma.TR:ιουδαιας",
+      "morph": "robinson:T-GSF robinson:N-GSF",
+      "strongs": [
+        "G3588",
+        "G2449"
+      ],
+      "metadata": {
+        "src": "14 15"
+      },
+      "source": {
+        "lemma": "strong:G3588 strong:G2449 lemma.TR:της lemma.TR:ιουδαιας",
+        "morph": "robinson:T-GSF robinson:N-GSF",
+        "attrs": {
+          "src": "14 15",
+          "lemma": "strong:G3588 strong:G2449 lemma.TR:της lemma.TR:ιουδαιας",
+          "morph": "robinson:T-GSF robinson:N-GSF"
+        }
+      }
+    }
+  ]
+}

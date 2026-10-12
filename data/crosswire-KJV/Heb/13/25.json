@@ -1,0 +1,318 @@
+{
+  "text": "Grace be with you all. Amen.",
+  "words": [
+    {
+      "position": 1,
+      "text": "Grace",
+      "lemma": "strong:G3588 strong:G5485 lemma.TR:η lemma.TR:χαρις",
+      "morph": "robinson:T-NSF robinson:N-NSF",
+      "strongs": [
+        "G3588",
+        "G5485"
+      ],
+      "metadata": {
+        "src": "1 2"
+      },
+      "source": {
+        "lemma": "strong:G3588 strong:G5485 lemma.TR:η lemma.TR:χαρις",
+        "morph": "robinson:T-NSF robinson:N-NSF",
+        "attrs": {
+          "src": "1 2",
+          "lemma": "strong:G3588 strong:G5485 lemma.TR:η lemma.TR:χαρις",
+          "morph": "robinson:T-NSF robinson:N-NSF"
+        }
+      }
+    },
+    {
+      "position": 2,
+      "text": "be",
+      "lemma": null,
+      "morph": null,
+      "metadata": {
+        "type": "added"
+      },
+      "source": {
+        "attrs": {
+          "type": "added"
+        }
+      }
+    },
+    {
+      "position": 3,
+      "text": "with",
+      "lemma": "strong:G3326 lemma.TR:μετα",
+      "morph": "robinson:PREP",
+      "strongs": [
+        "G3326"
+      ],
+      "metadata": {
+        "src": "3"
+      },
+      "source": {
+        "lemma": "strong:G3326 lemma.TR:μετα",
+        "morph": "robinson:PREP",
+        "attrs": {
+          "src": "3",
+          "lemma": "strong:G3326 lemma.TR:μετα",
+          "morph": "robinson:PREP"
+        }
+      }
+    },
+    {
+      "position": 4,
+      "text": "you",
+      "lemma": "strong:G4771 lemma.TR:υμων",
+      "morph": "robinson:P-2GP",
+      "strongs": [
+        "G4771"
+      ],
+      "metadata": {
+        "src": "5"
+      },
+      "source": {
+        "lemma": "strong:G4771 lemma.TR:υμων",
+        "morph": "robinson:P-2GP",
+        "attrs": {
+          "src": "5",
+          "lemma": "strong:G4771 lemma.TR:υμων",
+          "morph": "robinson:P-2GP"
+        }
+      }
+    },
+    {
+      "position": 5,
+      "text": "all.",
+      "lemma": "strong:G3956 lemma.TR:παντων",
+      "morph": "robinson:A-GPM",
+      "strongs": [
+        "G3956"
+      ],
+      "metadata": {
+        "src": "4"
+      },
+      "source": {
+        "lemma": "strong:G3956 lemma.TR:παντων",
+        "morph": "robinson:A-GPM",
+        "attrs": {
+          "src": "4",
+          "lemma": "strong:G3956 lemma.TR:παντων",
+          "morph": "robinson:A-GPM"
+        }
+      }
+    },
+    {
+      "position": 6,
+      "text": "Amen.",
+      "lemma": "strong:G281 lemma.TR:αμην",
+      "morph": "robinson:HEB",
+      "strongs": [
+        "G281"
+      ],
+      "metadata": {
+        "src": "6"
+      },
+      "source": {
+        "lemma": "strong:G281 lemma.TR:αμην",
+        "morph": "robinson:HEB",
+        "attrs": {
+          "src": "6",
+          "lemma": "strong:G281 lemma.TR:αμην",
+          "morph": "robinson:HEB"
+        }
+      }
+    },
+    {
+      "position": 7,
+      "text": "Written",
+      "lemma": "strong:G1125 lemma.TR:εγραφη",
+      "morph": "robinson:V-2API-3S",
+      "strongs": [
+        "G1125"
+      ],
+      "metadata": {
+        "src": "9",
+        "colophon": true,
+        "colophon_type": "subscription"
+      },
+      "source": {
+        "lemma": "strong:G1125 lemma.TR:εγραφη",
+        "morph": "robinson:V-2API-3S",
+        "attrs": {
+          "src": "9",
+          "lemma": "strong:G1125 lemma.TR:εγραφη",
+          "morph": "robinson:V-2API-3S"
+        }
+      }
+    },
+    {
+      "position": 8,
+      "text": "to",
+      "lemma": "strong:G4314 lemma.TR:προς",
+      "morph": "robinson:PREP",
+      "strongs": [
+        "G4314"
+      ],
+      "metadata": {
+        "src": "7",
+        "colophon": true,
+        "colophon_type": "subscription"
+      },
+      "source": {
+        "lemma": "strong:G4314 lemma.TR:προς",
+        "morph": "robinson:PREP",
+        "attrs": {
+          "src": "7",
+          "lemma": "strong:G4314 lemma.TR:προς",
+          "morph": "robinson:PREP"
+        }
+      }
+    },
+    {
+      "position": 9,
+      "text": "the",
+      "lemma": "strong:G1445 lemma.TR:εβραιους",
+      "morph": "robinson:A-APM",
+      "strongs": [
+        "G1445"
+      ],
+      "metadata": {
+        "src": "8",
+        "colophon": true,
+        "colophon_type": "subscription"
+      },
+      "source": {
+        "lemma": "strong:G1445 lemma.TR:εβραιους",
+        "morph": "robinson:A-APM",
+        "attrs": {
+          "src": "8",
+          "lemma": "strong:G1445 lemma.TR:εβραιους",
+          "morph": "robinson:A-APM"
+        }
+      }
+    },
+    {
+      "position": 10,
+      "text": "Hebrews",
+      "lemma": "strong:G1445 lemma.TR:εβραιους",
+      "morph": "robinson:A-APM",
+      "strongs": [
+        "G1445"
+      ],
+      "metadata": {
+        "src": "8",
+        "colophon": true,
+        "colophon_type": "subscription"
+      },
+      "source": {
+        "lemma": "strong:G1445 lemma.TR:εβραιους",
+        "morph": "robinson:A-APM",
+        "attrs": {
+          "src": "8",
+          "lemma": "strong:G1445 lemma.TR:εβραιους",
+          "morph": "robinson:A-APM"
+        }
+      }
+    },
+    {
+      "position": 11,
+      "text": "from",
+      "lemma": "strong:G575 lemma.TR:απο",
+      "morph": "robinson:PREP",
+      "strongs": [
+        "G575"
+      ],
+      "metadata": {
+        "src": "10",
+        "colophon": true,
+        "colophon_type": "subscription"
+      },
+      "source": {
+        "lemma": "strong:G575 lemma.TR:απο",
+        "morph": "robinson:PREP",
+        "attrs": {
+          "src": "10",
+          "lemma": "strong:G575 lemma.TR:απο",
+          "morph": "robinson:PREP"
+        }
+      }
+    },
+    {
+      "position": 12,
+      "text": "Italy",
+      "lemma": "strong:G3588 strong:G2482 lemma.TR:της lemma.TR:ιταλιας",
+      "morph": "robinson:T-GSF robinson:N-GSF",
+      "strongs": [
+        "G3588",
+        "G2482"
+      ],
+      "metadata": {
+        "src": "11 12",
+        "colophon": true,
+        "colophon_type": "subscription"
+      },
+      "source": {
+        "lemma": "strong:G3588 strong:G2482 lemma.TR:της lemma.TR:ιταλιας",
+        "morph": "robinson:T-GSF robinson:N-GSF",
+        "attrs": {
+          "src": "11 12",
+          "lemma": "strong:G3588 strong:G2482 lemma.TR:της lemma.TR:ιταλιας",
+          "morph": "robinson:T-GSF robinson:N-GSF"
+        }
+      }
+    },
+    {
+      "position": 13,
+      "text": "by",
+      "lemma": "strong:G1223 lemma.TR:δια",
+      "morph": "robinson:PREP",
+      "strongs": [
+        "G1223"
+      ],
+      "metadata": {
+        "src": "13",
+        "colophon": true,
+        "colophon_type": "subscription"
+      },
+      "source": {
+        "lemma": "strong:G1223 lemma.TR:δια",
+        "morph": "robinson:PREP",
+        "attrs": {
+          "src": "13",
+          "lemma": "strong:G1223 lemma.TR:δια",
+          "morph": "robinson:PREP"
+        }
+      }
+    },
+    {
+      "position": 14,
+      "text": "Timothy",
+      "lemma": "strong:G5095 lemma.TR:τιμοθεου",
+      "morph": "robinson:N-GSM",
+      "strongs": [
+        "G5095"
+      ],
+      "metadata": {
+        "src": "14",
+        "colophon": true,
+        "colophon_type": "subscription"
+      },
+      "source": {
+        "lemma": "strong:G5095 lemma.TR:τιμοθεου",
+        "morph": "robinson:N-GSM",
+        "attrs": {
+          "src": "14",
+          "lemma": "strong:G5095 lemma.TR:τιμοθεου",
+          "morph": "robinson:N-GSM"
+        }
+      }
+    }
+  ],
+  "metadata": {
+    "has_colophon": true,
+    "colophon_word_range": [
+      7,
+      14
+    ],
+    "colophon_type": "subscription"
+  }
+}

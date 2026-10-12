@@ -1,0 +1,340 @@
+{
+  "text": "But ye, brethren, are not in darkness, that that day should overtake you as a thief.",
+  "words": [
+    {
+      "position": 1,
+      "text": "But",
+      "lemma": "strong:G1161 lemma.TR:δε",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G1161"
+      ],
+      "metadata": {
+        "src": "2"
+      },
+      "source": {
+        "lemma": "strong:G1161 lemma.TR:δε",
+        "morph": "robinson:CONJ",
+        "attrs": {
+          "src": "2",
+          "lemma": "strong:G1161 lemma.TR:δε",
+          "morph": "robinson:CONJ"
+        }
+      }
+    },
+    {
+      "position": 2,
+      "text": "ye,",
+      "lemma": "strong:G4771 lemma.TR:υμεις",
+      "morph": "robinson:P-2NP",
+      "strongs": [
+        "G4771"
+      ],
+      "metadata": {
+        "src": "1"
+      },
+      "source": {
+        "lemma": "strong:G4771 lemma.TR:υμεις",
+        "morph": "robinson:P-2NP",
+        "attrs": {
+          "src": "1",
+          "lemma": "strong:G4771 lemma.TR:υμεις",
+          "morph": "robinson:P-2NP"
+        }
+      }
+    },
+    {
+      "position": 3,
+      "text": "brethren,",
+      "lemma": "strong:G80 lemma.TR:αδελφοι",
+      "morph": "robinson:N-VPM",
+      "metadata": {
+        "src": "3"
+      },
+      "source": {
+        "lemma": "strong:G80 lemma.TR:αδελφοι",
+        "morph": "robinson:N-VPM",
+        "attrs": {
+          "src": "3",
+          "lemma": "strong:G80 lemma.TR:αδελφοι",
+          "morph": "robinson:N-VPM"
+        }
+      }
+    },
+    {
+      "position": 4,
+      "text": "are",
+      "lemma": "strong:G1510 lemma.TR:εστε",
+      "morph": "robinson:V-PAI-2P",
+      "strongs": [
+        "G1510"
+      ],
+      "metadata": {
+        "src": "5"
+      },
+      "source": {
+        "lemma": "strong:G1510 lemma.TR:εστε",
+        "morph": "robinson:V-PAI-2P",
+        "attrs": {
+          "src": "5",
+          "lemma": "strong:G1510 lemma.TR:εστε",
+          "morph": "robinson:V-PAI-2P"
+        }
+      }
+    },
+    {
+      "position": 5,
+      "text": "not",
+      "lemma": "strong:G3756 lemma.TR:ουκ",
+      "morph": "robinson:PRT-N",
+      "strongs": [
+        "G3756"
+      ],
+      "metadata": {
+        "src": "4"
+      },
+      "source": {
+        "lemma": "strong:G3756 lemma.TR:ουκ",
+        "morph": "robinson:PRT-N",
+        "attrs": {
+          "src": "4",
+          "lemma": "strong:G3756 lemma.TR:ουκ",
+          "morph": "robinson:PRT-N"
+        }
+      }
+    },
+    {
+      "position": 6,
+      "text": "in",
+      "lemma": "strong:G1722 lemma.TR:εν",
+      "morph": "robinson:PREP",
+      "strongs": [
+        "G1722"
+      ],
+      "metadata": {
+        "src": "6"
+      },
+      "source": {
+        "lemma": "strong:G1722 lemma.TR:εν",
+        "morph": "robinson:PREP",
+        "attrs": {
+          "src": "6",
+          "lemma": "strong:G1722 lemma.TR:εν",
+          "morph": "robinson:PREP"
+        }
+      }
+    },
+    {
+      "position": 7,
+      "text": "darkness,",
+      "lemma": "strong:G4655 lemma.TR:σκοτει",
+      "morph": "robinson:N-DSN",
+      "strongs": [
+        "G4655"
+      ],
+      "metadata": {
+        "src": "7"
+      },
+      "source": {
+        "lemma": "strong:G4655 lemma.TR:σκοτει",
+        "morph": "robinson:N-DSN",
+        "attrs": {
+          "src": "7",
+          "lemma": "strong:G4655 lemma.TR:σκοτει",
+          "morph": "robinson:N-DSN"
+        }
+      }
+    },
+    {
+      "position": 8,
+      "text": "that",
+      "lemma": "strong:G2443 lemma.TR:ινα",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G2443"
+      ],
+      "metadata": {
+        "src": "8"
+      },
+      "source": {
+        "lemma": "strong:G2443 lemma.TR:ινα",
+        "morph": "robinson:CONJ",
+        "attrs": {
+          "src": "8",
+          "lemma": "strong:G2443 lemma.TR:ινα",
+          "morph": "robinson:CONJ"
+        }
+      }
+    },
+    {
+      "position": 9,
+      "text": "that",
+      "lemma": "strong:G3588 strong:G2250 lemma.TR:η lemma.TR:ημερα",
+      "morph": "robinson:T-NSF robinson:N-NSF",
+      "strongs": [
+        "G3588",
+        "G2250"
+      ],
+      "metadata": {
+        "src": "9 10"
+      },
+      "source": {
+        "lemma": "strong:G3588 strong:G2250 lemma.TR:η lemma.TR:ημερα",
+        "morph": "robinson:T-NSF robinson:N-NSF",
+        "attrs": {
+          "src": "9 10",
+          "lemma": "strong:G3588 strong:G2250 lemma.TR:η lemma.TR:ημερα",
+          "morph": "robinson:T-NSF robinson:N-NSF"
+        }
+      }
+    },
+    {
+      "position": 10,
+      "text": "day",
+      "lemma": "strong:G3588 strong:G2250 lemma.TR:η lemma.TR:ημερα",
+      "morph": "robinson:T-NSF robinson:N-NSF",
+      "strongs": [
+        "G3588",
+        "G2250"
+      ],
+      "metadata": {
+        "src": "9 10"
+      },
+      "source": {
+        "lemma": "strong:G3588 strong:G2250 lemma.TR:η lemma.TR:ημερα",
+        "morph": "robinson:T-NSF robinson:N-NSF",
+        "attrs": {
+          "src": "9 10",
+          "lemma": "strong:G3588 strong:G2250 lemma.TR:η lemma.TR:ημερα",
+          "morph": "robinson:T-NSF robinson:N-NSF"
+        }
+      }
+    },
+    {
+      "position": 11,
+      "text": "should",
+      "lemma": "strong:G2638 lemma.TR:καταλαβη",
+      "morph": "robinson:V-2AAS-3S",
+      "strongs": [
+        "G2638"
+      ],
+      "metadata": {
+        "src": "14"
+      },
+      "source": {
+        "lemma": "strong:G2638 lemma.TR:καταλαβη",
+        "morph": "robinson:V-2AAS-3S",
+        "attrs": {
+          "src": "14",
+          "lemma": "strong:G2638 lemma.TR:καταλαβη",
+          "morph": "robinson:V-2AAS-3S"
+        }
+      }
+    },
+    {
+      "position": 12,
+      "text": "overtake",
+      "lemma": "strong:G2638 lemma.TR:καταλαβη",
+      "morph": "robinson:V-2AAS-3S",
+      "strongs": [
+        "G2638"
+      ],
+      "metadata": {
+        "src": "14"
+      },
+      "source": {
+        "lemma": "strong:G2638 lemma.TR:καταλαβη",
+        "morph": "robinson:V-2AAS-3S",
+        "attrs": {
+          "src": "14",
+          "lemma": "strong:G2638 lemma.TR:καταλαβη",
+          "morph": "robinson:V-2AAS-3S"
+        }
+      }
+    },
+    {
+      "position": 13,
+      "text": "you",
+      "lemma": "strong:G4771 lemma.TR:υμας",
+      "morph": "robinson:P-2AP",
+      "strongs": [
+        "G4771"
+      ],
+      "metadata": {
+        "src": "11"
+      },
+      "source": {
+        "lemma": "strong:G4771 lemma.TR:υμας",
+        "morph": "robinson:P-2AP",
+        "attrs": {
+          "src": "11",
+          "lemma": "strong:G4771 lemma.TR:υμας",
+          "morph": "robinson:P-2AP"
+        }
+      }
+    },
+    {
+      "position": 14,
+      "text": "as",
+      "lemma": "strong:G5613 lemma.TR:ως",
+      "morph": "robinson:ADV",
+      "strongs": [
+        "G5613"
+      ],
+      "metadata": {
+        "src": "12"
+      },
+      "source": {
+        "lemma": "strong:G5613 lemma.TR:ως",
+        "morph": "robinson:ADV",
+        "attrs": {
+          "src": "12",
+          "lemma": "strong:G5613 lemma.TR:ως",
+          "morph": "robinson:ADV"
+        }
+      }
+    },
+    {
+      "position": 15,
+      "text": "a",
+      "lemma": "strong:G2812 lemma.TR:κλεπτης",
+      "morph": "robinson:N-NSM",
+      "strongs": [
+        "G2812"
+      ],
+      "metadata": {
+        "src": "13"
+      },
+      "source": {
+        "lemma": "strong:G2812 lemma.TR:κλεπτης",
+        "morph": "robinson:N-NSM",
+        "attrs": {
+          "src": "13",
+          "lemma": "strong:G2812 lemma.TR:κλεπτης",
+          "morph": "robinson:N-NSM"
+        }
+      }
+    },
+    {
+      "position": 16,
+      "text": "thief.",
+      "lemma": "strong:G2812 lemma.TR:κλεπτης",
+      "morph": "robinson:N-NSM",
+      "strongs": [
+        "G2812"
+      ],
+      "metadata": {
+        "src": "13"
+      },
+      "source": {
+        "lemma": "strong:G2812 lemma.TR:κλεπτης",
+        "morph": "robinson:N-NSM",
+        "attrs": {
+          "src": "13",
+          "lemma": "strong:G2812 lemma.TR:κλεπτης",
+          "morph": "robinson:N-NSM"
+        }
+      }
+    }
+  ]
+}

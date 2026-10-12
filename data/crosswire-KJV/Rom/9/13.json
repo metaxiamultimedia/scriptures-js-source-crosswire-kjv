@@ -1,0 +1,269 @@
+{
+  "text": "As it is written, Jacob have I loved, but Esau have I hated.",
+  "words": [
+    {
+      "position": 1,
+      "text": "As",
+      "lemma": "strong:G2531 lemma.TR:καθως",
+      "morph": "robinson:ADV",
+      "strongs": [
+        "G2531"
+      ],
+      "metadata": {
+        "src": "1"
+      },
+      "source": {
+        "lemma": "strong:G2531 lemma.TR:καθως",
+        "morph": "robinson:ADV",
+        "attrs": {
+          "src": "1",
+          "lemma": "strong:G2531 lemma.TR:καθως",
+          "morph": "robinson:ADV"
+        }
+      }
+    },
+    {
+      "position": 2,
+      "text": "it",
+      "lemma": "strong:G1125 lemma.TR:γεγραπται",
+      "morph": "robinson:V-RPI-3S",
+      "strongs": [
+        "G1125"
+      ],
+      "metadata": {
+        "src": "2"
+      },
+      "source": {
+        "lemma": "strong:G1125 lemma.TR:γεγραπται",
+        "morph": "robinson:V-RPI-3S",
+        "attrs": {
+          "src": "2",
+          "lemma": "strong:G1125 lemma.TR:γεγραπται",
+          "morph": "robinson:V-RPI-3S"
+        }
+      }
+    },
+    {
+      "position": 3,
+      "text": "is",
+      "lemma": "strong:G1125 lemma.TR:γεγραπται",
+      "morph": "robinson:V-RPI-3S",
+      "strongs": [
+        "G1125"
+      ],
+      "metadata": {
+        "src": "2"
+      },
+      "source": {
+        "lemma": "strong:G1125 lemma.TR:γεγραπται",
+        "morph": "robinson:V-RPI-3S",
+        "attrs": {
+          "src": "2",
+          "lemma": "strong:G1125 lemma.TR:γεγραπται",
+          "morph": "robinson:V-RPI-3S"
+        }
+      }
+    },
+    {
+      "position": 4,
+      "text": "written,",
+      "lemma": "strong:G1125 lemma.TR:γεγραπται",
+      "morph": "robinson:V-RPI-3S",
+      "strongs": [
+        "G1125"
+      ],
+      "metadata": {
+        "src": "2"
+      },
+      "source": {
+        "lemma": "strong:G1125 lemma.TR:γεγραπται",
+        "morph": "robinson:V-RPI-3S",
+        "attrs": {
+          "src": "2",
+          "lemma": "strong:G1125 lemma.TR:γεγραπται",
+          "morph": "robinson:V-RPI-3S"
+        }
+      }
+    },
+    {
+      "position": 5,
+      "text": "Jacob",
+      "lemma": "strong:G2384 lemma.TR:ιακωβ",
+      "morph": "robinson:N-PRI",
+      "strongs": [
+        "G2384"
+      ],
+      "metadata": {
+        "src": "4"
+      },
+      "source": {
+        "lemma": "strong:G2384 lemma.TR:ιακωβ",
+        "morph": "robinson:N-PRI",
+        "attrs": {
+          "src": "4",
+          "lemma": "strong:G2384 lemma.TR:ιακωβ",
+          "morph": "robinson:N-PRI"
+        }
+      }
+    },
+    {
+      "position": 6,
+      "text": "have",
+      "lemma": "strong:G25 lemma.TR:ηγαπησα",
+      "morph": "robinson:V-AAI-1S",
+      "metadata": {
+        "src": "5"
+      },
+      "source": {
+        "lemma": "strong:G25 lemma.TR:ηγαπησα",
+        "morph": "robinson:V-AAI-1S",
+        "attrs": {
+          "src": "5",
+          "lemma": "strong:G25 lemma.TR:ηγαπησα",
+          "morph": "robinson:V-AAI-1S"
+        }
+      }
+    },
+    {
+      "position": 7,
+      "text": "I",
+      "lemma": "strong:G25 lemma.TR:ηγαπησα",
+      "morph": "robinson:V-AAI-1S",
+      "metadata": {
+        "src": "5"
+      },
+      "source": {
+        "lemma": "strong:G25 lemma.TR:ηγαπησα",
+        "morph": "robinson:V-AAI-1S",
+        "attrs": {
+          "src": "5",
+          "lemma": "strong:G25 lemma.TR:ηγαπησα",
+          "morph": "robinson:V-AAI-1S"
+        }
+      }
+    },
+    {
+      "position": 8,
+      "text": "loved,",
+      "lemma": "strong:G25 lemma.TR:ηγαπησα",
+      "morph": "robinson:V-AAI-1S",
+      "metadata": {
+        "src": "5"
+      },
+      "source": {
+        "lemma": "strong:G25 lemma.TR:ηγαπησα",
+        "morph": "robinson:V-AAI-1S",
+        "attrs": {
+          "src": "5",
+          "lemma": "strong:G25 lemma.TR:ηγαπησα",
+          "morph": "robinson:V-AAI-1S"
+        }
+      }
+    },
+    {
+      "position": 9,
+      "text": "but",
+      "lemma": "strong:G1161 lemma.TR:δε",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G1161"
+      ],
+      "metadata": {
+        "src": "7"
+      },
+      "source": {
+        "lemma": "strong:G1161 lemma.TR:δε",
+        "morph": "robinson:CONJ",
+        "attrs": {
+          "src": "7",
+          "lemma": "strong:G1161 lemma.TR:δε",
+          "morph": "robinson:CONJ"
+        }
+      }
+    },
+    {
+      "position": 10,
+      "text": "Esau",
+      "lemma": "strong:G2269 lemma.TR:ησαυ",
+      "morph": "robinson:N-PRI",
+      "strongs": [
+        "G2269"
+      ],
+      "metadata": {
+        "src": "8"
+      },
+      "source": {
+        "lemma": "strong:G2269 lemma.TR:ησαυ",
+        "morph": "robinson:N-PRI",
+        "attrs": {
+          "src": "8",
+          "lemma": "strong:G2269 lemma.TR:ησαυ",
+          "morph": "robinson:N-PRI"
+        }
+      }
+    },
+    {
+      "position": 11,
+      "text": "have",
+      "lemma": "strong:G3404 lemma.TR:εμισησα",
+      "morph": "robinson:V-AAI-1S",
+      "strongs": [
+        "G3404"
+      ],
+      "metadata": {
+        "src": "9"
+      },
+      "source": {
+        "lemma": "strong:G3404 lemma.TR:εμισησα",
+        "morph": "robinson:V-AAI-1S",
+        "attrs": {
+          "src": "9",
+          "lemma": "strong:G3404 lemma.TR:εμισησα",
+          "morph": "robinson:V-AAI-1S"
+        }
+      }
+    },
+    {
+      "position": 12,
+      "text": "I",
+      "lemma": "strong:G3404 lemma.TR:εμισησα",
+      "morph": "robinson:V-AAI-1S",
+      "strongs": [
+        "G3404"
+      ],
+      "metadata": {
+        "src": "9"
+      },
+      "source": {
+        "lemma": "strong:G3404 lemma.TR:εμισησα",
+        "morph": "robinson:V-AAI-1S",
+        "attrs": {
+          "src": "9",
+          "lemma": "strong:G3404 lemma.TR:εμισησα",
+          "morph": "robinson:V-AAI-1S"
+        }
+      }
+    },
+    {
+      "position": 13,
+      "text": "hated.",
+      "lemma": "strong:G3404 lemma.TR:εμισησα",
+      "morph": "robinson:V-AAI-1S",
+      "strongs": [
+        "G3404"
+      ],
+      "metadata": {
+        "src": "9"
+      },
+      "source": {
+        "lemma": "strong:G3404 lemma.TR:εμισησα",
+        "morph": "robinson:V-AAI-1S",
+        "attrs": {
+          "src": "9",
+          "lemma": "strong:G3404 lemma.TR:εμισησα",
+          "morph": "robinson:V-AAI-1S"
+        }
+      }
+    }
+  ]
+}

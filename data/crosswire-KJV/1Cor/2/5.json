@@ -1,0 +1,363 @@
+{
+  "text": "That your faith should not stand in the wisdom of men, but in the power of God.",
+  "words": [
+    {
+      "position": 1,
+      "text": "That",
+      "lemma": "strong:G2443 lemma.TR:ινα",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G2443"
+      ],
+      "metadata": {
+        "src": "1"
+      },
+      "source": {
+        "lemma": "strong:G2443 lemma.TR:ινα",
+        "morph": "robinson:CONJ",
+        "attrs": {
+          "src": "1",
+          "lemma": "strong:G2443 lemma.TR:ινα",
+          "morph": "robinson:CONJ"
+        }
+      }
+    },
+    {
+      "position": 2,
+      "text": "your",
+      "lemma": "strong:G4771 lemma.TR:υμων",
+      "morph": "robinson:P-2GP",
+      "strongs": [
+        "G4771"
+      ],
+      "metadata": {
+        "src": "4"
+      },
+      "source": {
+        "lemma": "strong:G4771 lemma.TR:υμων",
+        "morph": "robinson:P-2GP",
+        "attrs": {
+          "src": "4",
+          "lemma": "strong:G4771 lemma.TR:υμων",
+          "morph": "robinson:P-2GP"
+        }
+      }
+    },
+    {
+      "position": 3,
+      "text": "faith",
+      "lemma": "strong:G3588 strong:G4102 lemma.TR:η lemma.TR:πιστις",
+      "morph": "robinson:T-NSF robinson:N-NSF",
+      "strongs": [
+        "G3588",
+        "G4102"
+      ],
+      "metadata": {
+        "src": "2 3"
+      },
+      "source": {
+        "lemma": "strong:G3588 strong:G4102 lemma.TR:η lemma.TR:πιστις",
+        "morph": "robinson:T-NSF robinson:N-NSF",
+        "attrs": {
+          "src": "2 3",
+          "lemma": "strong:G3588 strong:G4102 lemma.TR:η lemma.TR:πιστις",
+          "morph": "robinson:T-NSF robinson:N-NSF"
+        }
+      }
+    },
+    {
+      "position": 4,
+      "text": "should",
+      "lemma": "strong:G3361 lemma.TR:μη",
+      "morph": "robinson:PRT-N",
+      "strongs": [
+        "G3361"
+      ],
+      "metadata": {
+        "src": "5"
+      },
+      "source": {
+        "lemma": "strong:G3361 lemma.TR:μη",
+        "morph": "robinson:PRT-N",
+        "attrs": {
+          "src": "5",
+          "lemma": "strong:G3361 lemma.TR:μη",
+          "morph": "robinson:PRT-N"
+        }
+      }
+    },
+    {
+      "position": 5,
+      "text": "not",
+      "lemma": "strong:G3361 lemma.TR:μη",
+      "morph": "robinson:PRT-N",
+      "strongs": [
+        "G3361"
+      ],
+      "metadata": {
+        "src": "5"
+      },
+      "source": {
+        "lemma": "strong:G3361 lemma.TR:μη",
+        "morph": "robinson:PRT-N",
+        "attrs": {
+          "src": "5",
+          "lemma": "strong:G3361 lemma.TR:μη",
+          "morph": "robinson:PRT-N"
+        }
+      }
+    },
+    {
+      "position": 6,
+      "text": "stand",
+      "lemma": "strong:G1510 lemma.TR:η",
+      "morph": "robinson:V-PAS-3S",
+      "strongs": [
+        "G1510"
+      ],
+      "metadata": {
+        "src": "6"
+      },
+      "source": {
+        "lemma": "strong:G1510 lemma.TR:η",
+        "morph": "robinson:V-PAS-3S",
+        "attrs": {
+          "src": "6",
+          "lemma": "strong:G1510 lemma.TR:η",
+          "morph": "robinson:V-PAS-3S"
+        }
+      }
+    },
+    {
+      "position": 7,
+      "text": "in",
+      "lemma": "strong:G1722 lemma.TR:εν",
+      "morph": "robinson:PREP",
+      "strongs": [
+        "G1722"
+      ],
+      "metadata": {
+        "src": "7"
+      },
+      "source": {
+        "lemma": "strong:G1722 lemma.TR:εν",
+        "morph": "robinson:PREP",
+        "attrs": {
+          "src": "7",
+          "lemma": "strong:G1722 lemma.TR:εν",
+          "morph": "robinson:PREP"
+        }
+      }
+    },
+    {
+      "position": 8,
+      "text": "the",
+      "lemma": "strong:G4678 lemma.TR:σοφια",
+      "morph": "robinson:N-DSF",
+      "strongs": [
+        "G4678"
+      ],
+      "metadata": {
+        "src": "8"
+      },
+      "source": {
+        "lemma": "strong:G4678 lemma.TR:σοφια",
+        "morph": "robinson:N-DSF",
+        "attrs": {
+          "src": "8",
+          "lemma": "strong:G4678 lemma.TR:σοφια",
+          "morph": "robinson:N-DSF"
+        }
+      }
+    },
+    {
+      "position": 9,
+      "text": "wisdom",
+      "lemma": "strong:G4678 lemma.TR:σοφια",
+      "morph": "robinson:N-DSF",
+      "strongs": [
+        "G4678"
+      ],
+      "metadata": {
+        "src": "8"
+      },
+      "source": {
+        "lemma": "strong:G4678 lemma.TR:σοφια",
+        "morph": "robinson:N-DSF",
+        "attrs": {
+          "src": "8",
+          "lemma": "strong:G4678 lemma.TR:σοφια",
+          "morph": "robinson:N-DSF"
+        }
+      }
+    },
+    {
+      "position": 10,
+      "text": "of",
+      "lemma": "strong:G444 lemma.TR:ανθρωπων",
+      "morph": "robinson:N-GPM",
+      "strongs": [
+        "G444"
+      ],
+      "metadata": {
+        "src": "9"
+      },
+      "source": {
+        "lemma": "strong:G444 lemma.TR:ανθρωπων",
+        "morph": "robinson:N-GPM",
+        "attrs": {
+          "src": "9",
+          "lemma": "strong:G444 lemma.TR:ανθρωπων",
+          "morph": "robinson:N-GPM"
+        }
+      }
+    },
+    {
+      "position": 11,
+      "text": "men,",
+      "lemma": "strong:G444 lemma.TR:ανθρωπων",
+      "morph": "robinson:N-GPM",
+      "strongs": [
+        "G444"
+      ],
+      "metadata": {
+        "src": "9"
+      },
+      "source": {
+        "lemma": "strong:G444 lemma.TR:ανθρωπων",
+        "morph": "robinson:N-GPM",
+        "attrs": {
+          "src": "9",
+          "lemma": "strong:G444 lemma.TR:ανθρωπων",
+          "morph": "robinson:N-GPM"
+        }
+      }
+    },
+    {
+      "position": 12,
+      "text": "but",
+      "lemma": "strong:G235 lemma.TR:αλλ",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G235"
+      ],
+      "metadata": {
+        "src": "10"
+      },
+      "source": {
+        "lemma": "strong:G235 lemma.TR:αλλ",
+        "morph": "robinson:CONJ",
+        "attrs": {
+          "src": "10",
+          "lemma": "strong:G235 lemma.TR:αλλ",
+          "morph": "robinson:CONJ"
+        }
+      }
+    },
+    {
+      "position": 13,
+      "text": "in",
+      "lemma": "strong:G1722 lemma.TR:εν",
+      "morph": "robinson:PREP",
+      "strongs": [
+        "G1722"
+      ],
+      "metadata": {
+        "src": "11"
+      },
+      "source": {
+        "lemma": "strong:G1722 lemma.TR:εν",
+        "morph": "robinson:PREP",
+        "attrs": {
+          "src": "11",
+          "lemma": "strong:G1722 lemma.TR:εν",
+          "morph": "robinson:PREP"
+        }
+      }
+    },
+    {
+      "position": 14,
+      "text": "the",
+      "lemma": "strong:G1411 lemma.TR:δυναμει",
+      "morph": "robinson:N-DSF",
+      "strongs": [
+        "G1411"
+      ],
+      "metadata": {
+        "src": "12"
+      },
+      "source": {
+        "lemma": "strong:G1411 lemma.TR:δυναμει",
+        "morph": "robinson:N-DSF",
+        "attrs": {
+          "src": "12",
+          "lemma": "strong:G1411 lemma.TR:δυναμει",
+          "morph": "robinson:N-DSF"
+        }
+      }
+    },
+    {
+      "position": 15,
+      "text": "power",
+      "lemma": "strong:G1411 lemma.TR:δυναμει",
+      "morph": "robinson:N-DSF",
+      "strongs": [
+        "G1411"
+      ],
+      "metadata": {
+        "src": "12"
+      },
+      "source": {
+        "lemma": "strong:G1411 lemma.TR:δυναμει",
+        "morph": "robinson:N-DSF",
+        "attrs": {
+          "src": "12",
+          "lemma": "strong:G1411 lemma.TR:δυναμει",
+          "morph": "robinson:N-DSF"
+        }
+      }
+    },
+    {
+      "position": 16,
+      "text": "of",
+      "lemma": "strong:G2316 lemma.TR:θεου",
+      "morph": "robinson:N-GSM",
+      "strongs": [
+        "G2316"
+      ],
+      "metadata": {
+        "src": "13"
+      },
+      "source": {
+        "lemma": "strong:G2316 lemma.TR:θεου",
+        "morph": "robinson:N-GSM",
+        "attrs": {
+          "src": "13",
+          "lemma": "strong:G2316 lemma.TR:θεου",
+          "morph": "robinson:N-GSM"
+        }
+      }
+    },
+    {
+      "position": 17,
+      "text": "God.",
+      "lemma": "strong:G2316 lemma.TR:θεου",
+      "morph": "robinson:N-GSM",
+      "strongs": [
+        "G2316"
+      ],
+      "metadata": {
+        "src": "13"
+      },
+      "source": {
+        "lemma": "strong:G2316 lemma.TR:θεου",
+        "morph": "robinson:N-GSM",
+        "attrs": {
+          "src": "13",
+          "lemma": "strong:G2316 lemma.TR:θεου",
+          "morph": "robinson:N-GSM"
+        }
+      }
+    }
+  ]
+}

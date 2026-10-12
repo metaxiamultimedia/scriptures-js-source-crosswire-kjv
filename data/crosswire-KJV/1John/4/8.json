@@ -1,0 +1,226 @@
+{
+  "text": "He that loveth not knoweth not God; for God is love.",
+  "words": [
+    {
+      "position": 1,
+      "text": "He",
+      "lemma": "strong:G25 lemma.TR:αγαπων",
+      "morph": "robinson:V-PAP-NSM",
+      "metadata": {
+        "src": "3"
+      },
+      "source": {
+        "lemma": "strong:G25 lemma.TR:αγαπων",
+        "morph": "robinson:V-PAP-NSM",
+        "attrs": {
+          "src": "3",
+          "lemma": "strong:G25 lemma.TR:αγαπων",
+          "morph": "robinson:V-PAP-NSM"
+        }
+      }
+    },
+    {
+      "position": 2,
+      "text": "that",
+      "lemma": "strong:G25 lemma.TR:αγαπων",
+      "morph": "robinson:V-PAP-NSM",
+      "metadata": {
+        "src": "3"
+      },
+      "source": {
+        "lemma": "strong:G25 lemma.TR:αγαπων",
+        "morph": "robinson:V-PAP-NSM",
+        "attrs": {
+          "src": "3",
+          "lemma": "strong:G25 lemma.TR:αγαπων",
+          "morph": "robinson:V-PAP-NSM"
+        }
+      }
+    },
+    {
+      "position": 3,
+      "text": "loveth",
+      "lemma": "strong:G25 lemma.TR:αγαπων",
+      "morph": "robinson:V-PAP-NSM",
+      "metadata": {
+        "src": "3"
+      },
+      "source": {
+        "lemma": "strong:G25 lemma.TR:αγαπων",
+        "morph": "robinson:V-PAP-NSM",
+        "attrs": {
+          "src": "3",
+          "lemma": "strong:G25 lemma.TR:αγαπων",
+          "morph": "robinson:V-PAP-NSM"
+        }
+      }
+    },
+    {
+      "position": 4,
+      "text": "not",
+      "lemma": "strong:G3361 lemma.TR:μη",
+      "morph": "robinson:PRT-N",
+      "strongs": [
+        "G3361"
+      ],
+      "metadata": {
+        "src": "2"
+      },
+      "source": {
+        "lemma": "strong:G3361 lemma.TR:μη",
+        "morph": "robinson:PRT-N",
+        "attrs": {
+          "src": "2",
+          "lemma": "strong:G3361 lemma.TR:μη",
+          "morph": "robinson:PRT-N"
+        }
+      }
+    },
+    {
+      "position": 5,
+      "text": "knoweth",
+      "lemma": "strong:G1097 lemma.TR:εγνω",
+      "morph": "robinson:V-2AAI-3S",
+      "strongs": [
+        "G1097"
+      ],
+      "metadata": {
+        "src": "5"
+      },
+      "source": {
+        "lemma": "strong:G1097 lemma.TR:εγνω",
+        "morph": "robinson:V-2AAI-3S",
+        "attrs": {
+          "src": "5",
+          "lemma": "strong:G1097 lemma.TR:εγνω",
+          "morph": "robinson:V-2AAI-3S"
+        }
+      }
+    },
+    {
+      "position": 6,
+      "text": "not",
+      "lemma": "strong:G3756 lemma.TR:ουκ",
+      "morph": "robinson:PRT-N",
+      "strongs": [
+        "G3756"
+      ],
+      "metadata": {
+        "src": "4"
+      },
+      "source": {
+        "lemma": "strong:G3756 lemma.TR:ουκ",
+        "morph": "robinson:PRT-N",
+        "attrs": {
+          "src": "4",
+          "lemma": "strong:G3756 lemma.TR:ουκ",
+          "morph": "robinson:PRT-N"
+        }
+      }
+    },
+    {
+      "position": 7,
+      "text": "God;",
+      "lemma": "strong:G3588 strong:G2316 lemma.TR:τον lemma.TR:θεον",
+      "morph": "robinson:T-ASM robinson:N-ASM",
+      "strongs": [
+        "G3588",
+        "G2316"
+      ],
+      "metadata": {
+        "src": "6 7"
+      },
+      "source": {
+        "lemma": "strong:G3588 strong:G2316 lemma.TR:τον lemma.TR:θεον",
+        "morph": "robinson:T-ASM robinson:N-ASM",
+        "attrs": {
+          "src": "6 7",
+          "lemma": "strong:G3588 strong:G2316 lemma.TR:τον lemma.TR:θεον",
+          "morph": "robinson:T-ASM robinson:N-ASM"
+        }
+      }
+    },
+    {
+      "position": 8,
+      "text": "for",
+      "lemma": "strong:G3754 lemma.TR:οτι",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G3754"
+      ],
+      "metadata": {
+        "src": "8"
+      },
+      "source": {
+        "lemma": "strong:G3754 lemma.TR:οτι",
+        "morph": "robinson:CONJ",
+        "attrs": {
+          "src": "8",
+          "lemma": "strong:G3754 lemma.TR:οτι",
+          "morph": "robinson:CONJ"
+        }
+      }
+    },
+    {
+      "position": 9,
+      "text": "God",
+      "lemma": "strong:G3588 strong:G2316 lemma.TR:ο lemma.TR:θεος",
+      "morph": "robinson:T-NSM robinson:N-NSM",
+      "strongs": [
+        "G3588",
+        "G2316"
+      ],
+      "metadata": {
+        "src": "9 10"
+      },
+      "source": {
+        "lemma": "strong:G3588 strong:G2316 lemma.TR:ο lemma.TR:θεος",
+        "morph": "robinson:T-NSM robinson:N-NSM",
+        "attrs": {
+          "src": "9 10",
+          "lemma": "strong:G3588 strong:G2316 lemma.TR:ο lemma.TR:θεος",
+          "morph": "robinson:T-NSM robinson:N-NSM"
+        }
+      }
+    },
+    {
+      "position": 10,
+      "text": "is",
+      "lemma": "strong:G1510 lemma.TR:εστιν",
+      "morph": "robinson:V-PAI-3S",
+      "strongs": [
+        "G1510"
+      ],
+      "metadata": {
+        "src": "12"
+      },
+      "source": {
+        "lemma": "strong:G1510 lemma.TR:εστιν",
+        "morph": "robinson:V-PAI-3S",
+        "attrs": {
+          "src": "12",
+          "lemma": "strong:G1510 lemma.TR:εστιν",
+          "morph": "robinson:V-PAI-3S"
+        }
+      }
+    },
+    {
+      "position": 11,
+      "text": "love.",
+      "lemma": "strong:G26 lemma.TR:αγαπη",
+      "morph": "robinson:N-NSF",
+      "metadata": {
+        "src": "11"
+      },
+      "source": {
+        "lemma": "strong:G26 lemma.TR:αγαπη",
+        "morph": "robinson:N-NSF",
+        "attrs": {
+          "src": "11",
+          "lemma": "strong:G26 lemma.TR:αγαπη",
+          "morph": "robinson:N-NSF"
+        }
+      }
+    }
+  ]
+}

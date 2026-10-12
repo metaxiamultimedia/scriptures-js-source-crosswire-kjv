@@ -1,0 +1,192 @@
+{
+  "text": "And they straightway left their nets, and followed him.",
+  "words": [
+    {
+      "position": 1,
+      "text": "And",
+      "lemma": "strong:G1161 lemma.TR:δε",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G1161"
+      ],
+      "metadata": {
+        "src": "2"
+      },
+      "source": {
+        "lemma": "strong:G1161 lemma.TR:δε",
+        "morph": "robinson:CONJ",
+        "attrs": {
+          "src": "2",
+          "lemma": "strong:G1161 lemma.TR:δε",
+          "morph": "robinson:CONJ"
+        }
+      }
+    },
+    {
+      "position": 2,
+      "text": "they",
+      "lemma": "strong:G863 lemma.TR:αφεντες",
+      "morph": "robinson:V-2AAP-NPM",
+      "strongs": [
+        "G863"
+      ],
+      "metadata": {
+        "src": "4",
+        "type": "x-split-416"
+      },
+      "source": {
+        "lemma": "strong:G863 lemma.TR:αφεντες",
+        "morph": "robinson:V-2AAP-NPM",
+        "attrs": {
+          "src": "4",
+          "lemma": "strong:G863 lemma.TR:αφεντες",
+          "morph": "robinson:V-2AAP-NPM",
+          "type": "x-split-416"
+        }
+      }
+    },
+    {
+      "position": 3,
+      "text": "straightway",
+      "lemma": "strong:G2112 lemma.TR:ευθεως",
+      "morph": "robinson:ADV",
+      "strongs": [
+        "G2112"
+      ],
+      "metadata": {
+        "src": "3"
+      },
+      "source": {
+        "lemma": "strong:G2112 lemma.TR:ευθεως",
+        "morph": "robinson:ADV",
+        "attrs": {
+          "src": "3",
+          "lemma": "strong:G2112 lemma.TR:ευθεως",
+          "morph": "robinson:ADV"
+        }
+      }
+    },
+    {
+      "position": 4,
+      "text": "left",
+      "lemma": "strong:G863 lemma.TR:αφεντες",
+      "morph": "robinson:V-2AAP-NPM",
+      "strongs": [
+        "G863"
+      ],
+      "metadata": {
+        "src": "4",
+        "type": "x-split-416"
+      },
+      "source": {
+        "lemma": "strong:G863 lemma.TR:αφεντες",
+        "morph": "robinson:V-2AAP-NPM",
+        "attrs": {
+          "src": "4",
+          "lemma": "strong:G863 lemma.TR:αφεντες",
+          "morph": "robinson:V-2AAP-NPM",
+          "type": "x-split-416"
+        }
+      }
+    },
+    {
+      "position": 5,
+      "text": "their",
+      "lemma": null,
+      "morph": null,
+      "metadata": {
+        "type": "added"
+      },
+      "source": {
+        "attrs": {
+          "type": "added"
+        }
+      }
+    },
+    {
+      "position": 6,
+      "text": "nets,",
+      "lemma": "strong:G3588 strong:G1350 lemma.TR:τα lemma.TR:δικτυα",
+      "morph": "robinson:T-APN robinson:N-APN",
+      "strongs": [
+        "G3588",
+        "G1350"
+      ],
+      "metadata": {
+        "src": "5 6"
+      },
+      "source": {
+        "lemma": "strong:G3588 strong:G1350 lemma.TR:τα lemma.TR:δικτυα",
+        "morph": "robinson:T-APN robinson:N-APN",
+        "attrs": {
+          "src": "5 6",
+          "lemma": "strong:G3588 strong:G1350 lemma.TR:τα lemma.TR:δικτυα",
+          "morph": "robinson:T-APN robinson:N-APN"
+        }
+      }
+    },
+    {
+      "position": 7,
+      "text": "and",
+      "lemma": "strong:G190 lemma.TR:ηκολουθησαν",
+      "morph": "robinson:V-AAI-3P",
+      "strongs": [
+        "G190"
+      ],
+      "metadata": {
+        "src": "7"
+      },
+      "source": {
+        "lemma": "strong:G190 lemma.TR:ηκολουθησαν",
+        "morph": "robinson:V-AAI-3P",
+        "attrs": {
+          "src": "7",
+          "lemma": "strong:G190 lemma.TR:ηκολουθησαν",
+          "morph": "robinson:V-AAI-3P"
+        }
+      }
+    },
+    {
+      "position": 8,
+      "text": "followed",
+      "lemma": "strong:G190 lemma.TR:ηκολουθησαν",
+      "morph": "robinson:V-AAI-3P",
+      "strongs": [
+        "G190"
+      ],
+      "metadata": {
+        "src": "7"
+      },
+      "source": {
+        "lemma": "strong:G190 lemma.TR:ηκολουθησαν",
+        "morph": "robinson:V-AAI-3P",
+        "attrs": {
+          "src": "7",
+          "lemma": "strong:G190 lemma.TR:ηκολουθησαν",
+          "morph": "robinson:V-AAI-3P"
+        }
+      }
+    },
+    {
+      "position": 9,
+      "text": "him.",
+      "lemma": "strong:G846 lemma.TR:αυτω",
+      "morph": "robinson:P-DSM",
+      "strongs": [
+        "G846"
+      ],
+      "metadata": {
+        "src": "8"
+      },
+      "source": {
+        "lemma": "strong:G846 lemma.TR:αυτω",
+        "morph": "robinson:P-DSM",
+        "attrs": {
+          "src": "8",
+          "lemma": "strong:G846 lemma.TR:αυτω",
+          "morph": "robinson:P-DSM"
+        }
+      }
+    }
+  ]
+}

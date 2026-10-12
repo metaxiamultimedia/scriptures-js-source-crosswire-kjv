@@ -1,0 +1,69 @@
+{
+  "text": "Remember Lot’s wife.",
+  "words": [
+    {
+      "position": 1,
+      "text": "Remember",
+      "lemma": "strong:G3421 lemma.TR:μνημονευετε",
+      "morph": "robinson:V-PAM-2P",
+      "strongs": [
+        "G3421"
+      ],
+      "metadata": {
+        "src": "1"
+      },
+      "source": {
+        "lemma": "strong:G3421 lemma.TR:μνημονευετε",
+        "morph": "robinson:V-PAM-2P",
+        "attrs": {
+          "src": "1",
+          "lemma": "strong:G3421 lemma.TR:μνημονευετε",
+          "morph": "robinson:V-PAM-2P"
+        }
+      }
+    },
+    {
+      "position": 2,
+      "text": "Lot’s",
+      "lemma": "strong:G3091 lemma.TR:λωτ",
+      "morph": "robinson:N-PRI",
+      "strongs": [
+        "G3091"
+      ],
+      "metadata": {
+        "src": "4"
+      },
+      "source": {
+        "lemma": "strong:G3091 lemma.TR:λωτ",
+        "morph": "robinson:N-PRI",
+        "attrs": {
+          "src": "4",
+          "lemma": "strong:G3091 lemma.TR:λωτ",
+          "morph": "robinson:N-PRI"
+        }
+      }
+    },
+    {
+      "position": 3,
+      "text": "wife.",
+      "lemma": "strong:G3588 strong:G1135 lemma.TR:της lemma.TR:γυναικος",
+      "morph": "robinson:T-GSF robinson:N-GSF",
+      "strongs": [
+        "G3588",
+        "G1135"
+      ],
+      "metadata": {
+        "src": "2 3"
+      },
+      "source": {
+        "lemma": "strong:G3588 strong:G1135 lemma.TR:της lemma.TR:γυναικος",
+        "morph": "robinson:T-GSF robinson:N-GSF",
+        "attrs": {
+          "src": "2 3",
+          "lemma": "strong:G3588 strong:G1135 lemma.TR:της lemma.TR:γυναικος",
+          "morph": "robinson:T-GSF robinson:N-GSF"
+        }
+      }
+    }
+  ]
+}

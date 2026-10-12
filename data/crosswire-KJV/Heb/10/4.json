@@ -1,0 +1,342 @@
+{
+  "text": "For it is not possible that the blood of bulls and of goats should take away sins.",
+  "words": [
+    {
+      "position": 1,
+      "text": "For",
+      "lemma": "strong:G1063 lemma.TR:γαρ",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G1063"
+      ],
+      "metadata": {
+        "src": "2"
+      },
+      "source": {
+        "lemma": "strong:G1063 lemma.TR:γαρ",
+        "morph": "robinson:CONJ",
+        "attrs": {
+          "src": "2",
+          "lemma": "strong:G1063 lemma.TR:γαρ",
+          "morph": "robinson:CONJ"
+        }
+      }
+    },
+    {
+      "position": 2,
+      "text": "it is",
+      "lemma": null,
+      "morph": null,
+      "metadata": {
+        "type": "added"
+      },
+      "source": {
+        "attrs": {
+          "type": "added"
+        }
+      }
+    },
+    {
+      "position": 3,
+      "text": "not",
+      "lemma": "strong:G102 lemma.TR:αδυνατον",
+      "morph": "robinson:A-NSN",
+      "strongs": [
+        "G102"
+      ],
+      "metadata": {
+        "src": "1"
+      },
+      "source": {
+        "lemma": "strong:G102 lemma.TR:αδυνατον",
+        "morph": "robinson:A-NSN",
+        "attrs": {
+          "src": "1",
+          "lemma": "strong:G102 lemma.TR:αδυνατον",
+          "morph": "robinson:A-NSN"
+        }
+      }
+    },
+    {
+      "position": 4,
+      "text": "possible",
+      "lemma": "strong:G102 lemma.TR:αδυνατον",
+      "morph": "robinson:A-NSN",
+      "strongs": [
+        "G102"
+      ],
+      "metadata": {
+        "src": "1"
+      },
+      "source": {
+        "lemma": "strong:G102 lemma.TR:αδυνατον",
+        "morph": "robinson:A-NSN",
+        "attrs": {
+          "src": "1",
+          "lemma": "strong:G102 lemma.TR:αδυνατον",
+          "morph": "robinson:A-NSN"
+        }
+      }
+    },
+    {
+      "position": 5,
+      "text": "that",
+      "lemma": "strong:G851 lemma.TR:αφαιρειν",
+      "morph": "robinson:V-PAN",
+      "strongs": [
+        "G851"
+      ],
+      "metadata": {
+        "src": "7",
+        "type": "x-split-3459"
+      },
+      "source": {
+        "lemma": "strong:G851 lemma.TR:αφαιρειν",
+        "morph": "robinson:V-PAN",
+        "attrs": {
+          "src": "7",
+          "lemma": "strong:G851 lemma.TR:αφαιρειν",
+          "morph": "robinson:V-PAN",
+          "type": "x-split-3459"
+        }
+      }
+    },
+    {
+      "position": 6,
+      "text": "the",
+      "lemma": "strong:G129 lemma.TR:αιμα",
+      "morph": "robinson:N-NSN",
+      "strongs": [
+        "G129"
+      ],
+      "metadata": {
+        "src": "3"
+      },
+      "source": {
+        "lemma": "strong:G129 lemma.TR:αιμα",
+        "morph": "robinson:N-NSN",
+        "attrs": {
+          "src": "3",
+          "lemma": "strong:G129 lemma.TR:αιμα",
+          "morph": "robinson:N-NSN"
+        }
+      }
+    },
+    {
+      "position": 7,
+      "text": "blood",
+      "lemma": "strong:G129 lemma.TR:αιμα",
+      "morph": "robinson:N-NSN",
+      "strongs": [
+        "G129"
+      ],
+      "metadata": {
+        "src": "3"
+      },
+      "source": {
+        "lemma": "strong:G129 lemma.TR:αιμα",
+        "morph": "robinson:N-NSN",
+        "attrs": {
+          "src": "3",
+          "lemma": "strong:G129 lemma.TR:αιμα",
+          "morph": "robinson:N-NSN"
+        }
+      }
+    },
+    {
+      "position": 8,
+      "text": "of",
+      "lemma": "strong:G5022 lemma.TR:ταυρων",
+      "morph": "robinson:N-GPM",
+      "strongs": [
+        "G5022"
+      ],
+      "metadata": {
+        "src": "4"
+      },
+      "source": {
+        "lemma": "strong:G5022 lemma.TR:ταυρων",
+        "morph": "robinson:N-GPM",
+        "attrs": {
+          "src": "4",
+          "lemma": "strong:G5022 lemma.TR:ταυρων",
+          "morph": "robinson:N-GPM"
+        }
+      }
+    },
+    {
+      "position": 9,
+      "text": "bulls",
+      "lemma": "strong:G5022 lemma.TR:ταυρων",
+      "morph": "robinson:N-GPM",
+      "strongs": [
+        "G5022"
+      ],
+      "metadata": {
+        "src": "4"
+      },
+      "source": {
+        "lemma": "strong:G5022 lemma.TR:ταυρων",
+        "morph": "robinson:N-GPM",
+        "attrs": {
+          "src": "4",
+          "lemma": "strong:G5022 lemma.TR:ταυρων",
+          "morph": "robinson:N-GPM"
+        }
+      }
+    },
+    {
+      "position": 10,
+      "text": "and",
+      "lemma": "strong:G2532 lemma.TR:και",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G2532"
+      ],
+      "metadata": {
+        "src": "5"
+      },
+      "source": {
+        "lemma": "strong:G2532 lemma.TR:και",
+        "morph": "robinson:CONJ",
+        "attrs": {
+          "src": "5",
+          "lemma": "strong:G2532 lemma.TR:και",
+          "morph": "robinson:CONJ"
+        }
+      }
+    },
+    {
+      "position": 11,
+      "text": "of",
+      "lemma": "strong:G5131 lemma.TR:τραγων",
+      "morph": "robinson:N-GPM",
+      "strongs": [
+        "G5131"
+      ],
+      "metadata": {
+        "src": "6"
+      },
+      "source": {
+        "lemma": "strong:G5131 lemma.TR:τραγων",
+        "morph": "robinson:N-GPM",
+        "attrs": {
+          "src": "6",
+          "lemma": "strong:G5131 lemma.TR:τραγων",
+          "morph": "robinson:N-GPM"
+        }
+      }
+    },
+    {
+      "position": 12,
+      "text": "goats",
+      "lemma": "strong:G5131 lemma.TR:τραγων",
+      "morph": "robinson:N-GPM",
+      "strongs": [
+        "G5131"
+      ],
+      "metadata": {
+        "src": "6"
+      },
+      "source": {
+        "lemma": "strong:G5131 lemma.TR:τραγων",
+        "morph": "robinson:N-GPM",
+        "attrs": {
+          "src": "6",
+          "lemma": "strong:G5131 lemma.TR:τραγων",
+          "morph": "robinson:N-GPM"
+        }
+      }
+    },
+    {
+      "position": 13,
+      "text": "should",
+      "lemma": "strong:G851 lemma.TR:αφαιρειν",
+      "morph": "robinson:V-PAN",
+      "strongs": [
+        "G851"
+      ],
+      "metadata": {
+        "src": "7",
+        "type": "x-split-3459"
+      },
+      "source": {
+        "lemma": "strong:G851 lemma.TR:αφαιρειν",
+        "morph": "robinson:V-PAN",
+        "attrs": {
+          "src": "7",
+          "lemma": "strong:G851 lemma.TR:αφαιρειν",
+          "morph": "robinson:V-PAN",
+          "type": "x-split-3459"
+        }
+      }
+    },
+    {
+      "position": 14,
+      "text": "take",
+      "lemma": "strong:G851 lemma.TR:αφαιρειν",
+      "morph": "robinson:V-PAN",
+      "strongs": [
+        "G851"
+      ],
+      "metadata": {
+        "src": "7",
+        "type": "x-split-3459"
+      },
+      "source": {
+        "lemma": "strong:G851 lemma.TR:αφαιρειν",
+        "morph": "robinson:V-PAN",
+        "attrs": {
+          "src": "7",
+          "lemma": "strong:G851 lemma.TR:αφαιρειν",
+          "morph": "robinson:V-PAN",
+          "type": "x-split-3459"
+        }
+      }
+    },
+    {
+      "position": 15,
+      "text": "away",
+      "lemma": "strong:G851 lemma.TR:αφαιρειν",
+      "morph": "robinson:V-PAN",
+      "strongs": [
+        "G851"
+      ],
+      "metadata": {
+        "src": "7",
+        "type": "x-split-3459"
+      },
+      "source": {
+        "lemma": "strong:G851 lemma.TR:αφαιρειν",
+        "morph": "robinson:V-PAN",
+        "attrs": {
+          "src": "7",
+          "lemma": "strong:G851 lemma.TR:αφαιρειν",
+          "morph": "robinson:V-PAN",
+          "type": "x-split-3459"
+        }
+      }
+    },
+    {
+      "position": 16,
+      "text": "sins.",
+      "lemma": "strong:G266 lemma.TR:αμαρτιας",
+      "morph": "robinson:N-APF",
+      "strongs": [
+        "G266"
+      ],
+      "metadata": {
+        "src": "8"
+      },
+      "source": {
+        "lemma": "strong:G266 lemma.TR:αμαρτιας",
+        "morph": "robinson:N-APF",
+        "attrs": {
+          "src": "8",
+          "lemma": "strong:G266 lemma.TR:αμαρτιας",
+          "morph": "robinson:N-APF"
+        }
+      }
+    }
+  ]
+}

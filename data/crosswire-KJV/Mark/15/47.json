@@ -1,0 +1,272 @@
+{
+  "text": "And Mary Magdalene and Mary the mother of Joses beheld where he was laid.",
+  "words": [
+    {
+      "position": 1,
+      "text": "And",
+      "lemma": "strong:G1161 lemma.TR:δε",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G1161"
+      ],
+      "metadata": {
+        "src": "2"
+      },
+      "source": {
+        "lemma": "strong:G1161 lemma.TR:δε",
+        "morph": "robinson:CONJ",
+        "attrs": {
+          "src": "2",
+          "lemma": "strong:G1161 lemma.TR:δε",
+          "morph": "robinson:CONJ"
+        }
+      }
+    },
+    {
+      "position": 2,
+      "text": "Mary",
+      "lemma": "strong:G3137 lemma.TR:μαρια",
+      "morph": "robinson:N-NSF",
+      "strongs": [
+        "G3137"
+      ],
+      "metadata": {
+        "src": "3"
+      },
+      "source": {
+        "lemma": "strong:G3137 lemma.TR:μαρια",
+        "morph": "robinson:N-NSF",
+        "attrs": {
+          "src": "3",
+          "lemma": "strong:G3137 lemma.TR:μαρια",
+          "morph": "robinson:N-NSF"
+        }
+      }
+    },
+    {
+      "position": 3,
+      "text": "Magdalene",
+      "lemma": "strong:G3588 strong:G3094 lemma.TR:η lemma.TR:μαγδαληνη",
+      "morph": "robinson:T-NSF robinson:N-NSF",
+      "strongs": [
+        "G3588",
+        "G3094"
+      ],
+      "metadata": {
+        "src": "4 5"
+      },
+      "source": {
+        "lemma": "strong:G3588 strong:G3094 lemma.TR:η lemma.TR:μαγδαληνη",
+        "morph": "robinson:T-NSF robinson:N-NSF",
+        "attrs": {
+          "src": "4 5",
+          "lemma": "strong:G3588 strong:G3094 lemma.TR:η lemma.TR:μαγδαληνη",
+          "morph": "robinson:T-NSF robinson:N-NSF"
+        }
+      }
+    },
+    {
+      "position": 4,
+      "text": "and",
+      "lemma": "strong:G2532 lemma.TR:και",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G2532"
+      ],
+      "metadata": {
+        "src": "6"
+      },
+      "source": {
+        "lemma": "strong:G2532 lemma.TR:και",
+        "morph": "robinson:CONJ",
+        "attrs": {
+          "src": "6",
+          "lemma": "strong:G2532 lemma.TR:και",
+          "morph": "robinson:CONJ"
+        }
+      }
+    },
+    {
+      "position": 5,
+      "text": "Mary",
+      "lemma": "strong:G3137 lemma.TR:μαρια",
+      "morph": "robinson:N-NSF",
+      "strongs": [
+        "G3137"
+      ],
+      "metadata": {
+        "src": "7"
+      },
+      "source": {
+        "lemma": "strong:G3137 lemma.TR:μαρια",
+        "morph": "robinson:N-NSF",
+        "attrs": {
+          "src": "7",
+          "lemma": "strong:G3137 lemma.TR:μαρια",
+          "morph": "robinson:N-NSF"
+        }
+      }
+    },
+    {
+      "position": 6,
+      "text": "the mother",
+      "lemma": null,
+      "morph": null,
+      "metadata": {
+        "type": "added"
+      },
+      "source": {
+        "attrs": {
+          "type": "added"
+        }
+      }
+    },
+    {
+      "position": 7,
+      "text": "of",
+      "lemma": "strong:G2500 lemma.TR:ιωση",
+      "morph": "robinson:N-GSM",
+      "strongs": [
+        "G2500"
+      ],
+      "metadata": {
+        "src": "8"
+      },
+      "source": {
+        "lemma": "strong:G2500 lemma.TR:ιωση",
+        "morph": "robinson:N-GSM",
+        "attrs": {
+          "src": "8",
+          "lemma": "strong:G2500 lemma.TR:ιωση",
+          "morph": "robinson:N-GSM"
+        }
+      }
+    },
+    {
+      "position": 8,
+      "text": "Joses",
+      "lemma": "strong:G2500 lemma.TR:ιωση",
+      "morph": "robinson:N-GSM",
+      "strongs": [
+        "G2500"
+      ],
+      "metadata": {
+        "src": "8"
+      },
+      "source": {
+        "lemma": "strong:G2500 lemma.TR:ιωση",
+        "morph": "robinson:N-GSM",
+        "attrs": {
+          "src": "8",
+          "lemma": "strong:G2500 lemma.TR:ιωση",
+          "morph": "robinson:N-GSM"
+        }
+      }
+    },
+    {
+      "position": 9,
+      "text": "beheld",
+      "lemma": "strong:G2334 lemma.TR:εθεωρουν",
+      "morph": "robinson:V-IAI-3P",
+      "strongs": [
+        "G2334"
+      ],
+      "metadata": {
+        "src": "9"
+      },
+      "source": {
+        "lemma": "strong:G2334 lemma.TR:εθεωρουν",
+        "morph": "robinson:V-IAI-3P",
+        "attrs": {
+          "src": "9",
+          "lemma": "strong:G2334 lemma.TR:εθεωρουν",
+          "morph": "robinson:V-IAI-3P"
+        }
+      }
+    },
+    {
+      "position": 10,
+      "text": "where",
+      "lemma": "strong:G4225 lemma.TR:που",
+      "morph": "robinson:ADV",
+      "strongs": [
+        "G4225"
+      ],
+      "metadata": {
+        "src": "10"
+      },
+      "source": {
+        "lemma": "strong:G4225 lemma.TR:που",
+        "morph": "robinson:ADV",
+        "attrs": {
+          "src": "10",
+          "lemma": "strong:G4225 lemma.TR:που",
+          "morph": "robinson:ADV"
+        }
+      }
+    },
+    {
+      "position": 11,
+      "text": "he",
+      "lemma": "strong:G5087 lemma.TR:τιθεται",
+      "morph": "robinson:V-PPI-3S",
+      "strongs": [
+        "G5087"
+      ],
+      "metadata": {
+        "src": "11"
+      },
+      "source": {
+        "lemma": "strong:G5087 lemma.TR:τιθεται",
+        "morph": "robinson:V-PPI-3S",
+        "attrs": {
+          "src": "11",
+          "lemma": "strong:G5087 lemma.TR:τιθεται",
+          "morph": "robinson:V-PPI-3S"
+        }
+      }
+    },
+    {
+      "position": 12,
+      "text": "was",
+      "lemma": "strong:G5087 lemma.TR:τιθεται",
+      "morph": "robinson:V-PPI-3S",
+      "strongs": [
+        "G5087"
+      ],
+      "metadata": {
+        "src": "11"
+      },
+      "source": {
+        "lemma": "strong:G5087 lemma.TR:τιθεται",
+        "morph": "robinson:V-PPI-3S",
+        "attrs": {
+          "src": "11",
+          "lemma": "strong:G5087 lemma.TR:τιθεται",
+          "morph": "robinson:V-PPI-3S"
+        }
+      }
+    },
+    {
+      "position": 13,
+      "text": "laid.",
+      "lemma": "strong:G5087 lemma.TR:τιθεται",
+      "morph": "robinson:V-PPI-3S",
+      "strongs": [
+        "G5087"
+      ],
+      "metadata": {
+        "src": "11"
+      },
+      "source": {
+        "lemma": "strong:G5087 lemma.TR:τιθεται",
+        "morph": "robinson:V-PPI-3S",
+        "attrs": {
+          "src": "11",
+          "lemma": "strong:G5087 lemma.TR:τιθεται",
+          "morph": "robinson:V-PPI-3S"
+        }
+      }
+    }
+  ]
+}

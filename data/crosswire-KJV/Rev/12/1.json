@@ -1,0 +1,621 @@
+{
+  "text": "And there appeared a great wonder in heaven; a woman clothed with the sun, and the moon under her feet, and upon her head a crown of twelve stars:",
+  "words": [
+    {
+      "position": 1,
+      "text": "And",
+      "lemma": "strong:G2532 lemma.TR:και",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G2532"
+      ],
+      "metadata": {
+        "src": "1"
+      },
+      "source": {
+        "lemma": "strong:G2532 lemma.TR:και",
+        "morph": "robinson:CONJ",
+        "attrs": {
+          "src": "1",
+          "lemma": "strong:G2532 lemma.TR:και",
+          "morph": "robinson:CONJ"
+        }
+      }
+    },
+    {
+      "position": 2,
+      "text": "there",
+      "lemma": "strong:G3708 lemma.TR:ωφθη",
+      "morph": "robinson:V-API-3S",
+      "strongs": [
+        "G3708"
+      ],
+      "metadata": {
+        "src": "4"
+      },
+      "source": {
+        "lemma": "strong:G3708 lemma.TR:ωφθη",
+        "morph": "robinson:V-API-3S",
+        "attrs": {
+          "src": "4",
+          "lemma": "strong:G3708 lemma.TR:ωφθη",
+          "morph": "robinson:V-API-3S"
+        }
+      }
+    },
+    {
+      "position": 3,
+      "text": "appeared",
+      "lemma": "strong:G3708 lemma.TR:ωφθη",
+      "morph": "robinson:V-API-3S",
+      "strongs": [
+        "G3708"
+      ],
+      "metadata": {
+        "src": "4"
+      },
+      "source": {
+        "lemma": "strong:G3708 lemma.TR:ωφθη",
+        "morph": "robinson:V-API-3S",
+        "attrs": {
+          "src": "4",
+          "lemma": "strong:G3708 lemma.TR:ωφθη",
+          "morph": "robinson:V-API-3S"
+        }
+      }
+    },
+    {
+      "position": 4,
+      "text": "a",
+      "lemma": "strong:G3173 lemma.TR:μεγα",
+      "morph": "robinson:A-NSN",
+      "strongs": [
+        "G3173"
+      ],
+      "metadata": {
+        "src": "3"
+      },
+      "source": {
+        "lemma": "strong:G3173 lemma.TR:μεγα",
+        "morph": "robinson:A-NSN",
+        "attrs": {
+          "src": "3",
+          "lemma": "strong:G3173 lemma.TR:μεγα",
+          "morph": "robinson:A-NSN"
+        }
+      }
+    },
+    {
+      "position": 5,
+      "text": "great",
+      "lemma": "strong:G3173 lemma.TR:μεγα",
+      "morph": "robinson:A-NSN",
+      "strongs": [
+        "G3173"
+      ],
+      "metadata": {
+        "src": "3"
+      },
+      "source": {
+        "lemma": "strong:G3173 lemma.TR:μεγα",
+        "morph": "robinson:A-NSN",
+        "attrs": {
+          "src": "3",
+          "lemma": "strong:G3173 lemma.TR:μεγα",
+          "morph": "robinson:A-NSN"
+        }
+      }
+    },
+    {
+      "position": 6,
+      "text": "wonder",
+      "lemma": "strong:G4592 lemma.TR:σημειον",
+      "morph": "robinson:N-NSN",
+      "strongs": [
+        "G4592"
+      ],
+      "metadata": {
+        "src": "2"
+      },
+      "source": {
+        "lemma": "strong:G4592 lemma.TR:σημειον",
+        "morph": "robinson:N-NSN",
+        "attrs": {
+          "src": "2",
+          "lemma": "strong:G4592 lemma.TR:σημειον",
+          "morph": "robinson:N-NSN"
+        }
+      }
+    },
+    {
+      "position": 7,
+      "text": "in",
+      "lemma": "strong:G1722 lemma.TR:εν",
+      "morph": "robinson:PREP",
+      "strongs": [
+        "G1722"
+      ],
+      "metadata": {
+        "src": "5"
+      },
+      "source": {
+        "lemma": "strong:G1722 lemma.TR:εν",
+        "morph": "robinson:PREP",
+        "attrs": {
+          "src": "5",
+          "lemma": "strong:G1722 lemma.TR:εν",
+          "morph": "robinson:PREP"
+        }
+      }
+    },
+    {
+      "position": 8,
+      "text": "heaven;",
+      "lemma": "strong:G3588 strong:G3772 lemma.TR:τω lemma.TR:ουρανω",
+      "morph": "robinson:T-DSM robinson:N-DSM",
+      "strongs": [
+        "G3588",
+        "G3772"
+      ],
+      "metadata": {
+        "src": "6 7"
+      },
+      "source": {
+        "lemma": "strong:G3588 strong:G3772 lemma.TR:τω lemma.TR:ουρανω",
+        "morph": "robinson:T-DSM robinson:N-DSM",
+        "attrs": {
+          "src": "6 7",
+          "lemma": "strong:G3588 strong:G3772 lemma.TR:τω lemma.TR:ουρανω",
+          "morph": "robinson:T-DSM robinson:N-DSM"
+        }
+      }
+    },
+    {
+      "position": 9,
+      "text": "a",
+      "lemma": "strong:G1135 lemma.TR:γυνη",
+      "morph": "robinson:N-NSF",
+      "strongs": [
+        "G1135"
+      ],
+      "metadata": {
+        "src": "8"
+      },
+      "source": {
+        "lemma": "strong:G1135 lemma.TR:γυνη",
+        "morph": "robinson:N-NSF",
+        "attrs": {
+          "src": "8",
+          "lemma": "strong:G1135 lemma.TR:γυνη",
+          "morph": "robinson:N-NSF"
+        }
+      }
+    },
+    {
+      "position": 10,
+      "text": "woman",
+      "lemma": "strong:G1135 lemma.TR:γυνη",
+      "morph": "robinson:N-NSF",
+      "strongs": [
+        "G1135"
+      ],
+      "metadata": {
+        "src": "8"
+      },
+      "source": {
+        "lemma": "strong:G1135 lemma.TR:γυνη",
+        "morph": "robinson:N-NSF",
+        "attrs": {
+          "src": "8",
+          "lemma": "strong:G1135 lemma.TR:γυνη",
+          "morph": "robinson:N-NSF"
+        }
+      }
+    },
+    {
+      "position": 11,
+      "text": "clothed",
+      "lemma": "strong:G4016 lemma.TR:περιβεβλημενη",
+      "morph": "robinson:V-RPP-NSF",
+      "strongs": [
+        "G4016"
+      ],
+      "metadata": {
+        "src": "9"
+      },
+      "source": {
+        "lemma": "strong:G4016 lemma.TR:περιβεβλημενη",
+        "morph": "robinson:V-RPP-NSF",
+        "attrs": {
+          "src": "9",
+          "lemma": "strong:G4016 lemma.TR:περιβεβλημενη",
+          "morph": "robinson:V-RPP-NSF"
+        }
+      }
+    },
+    {
+      "position": 12,
+      "text": "with",
+      "lemma": "strong:G4016 lemma.TR:περιβεβλημενη",
+      "morph": "robinson:V-RPP-NSF",
+      "strongs": [
+        "G4016"
+      ],
+      "metadata": {
+        "src": "9"
+      },
+      "source": {
+        "lemma": "strong:G4016 lemma.TR:περιβεβλημενη",
+        "morph": "robinson:V-RPP-NSF",
+        "attrs": {
+          "src": "9",
+          "lemma": "strong:G4016 lemma.TR:περιβεβλημενη",
+          "morph": "robinson:V-RPP-NSF"
+        }
+      }
+    },
+    {
+      "position": 13,
+      "text": "the",
+      "lemma": "strong:G3588 strong:G2246 lemma.TR:τον lemma.TR:ηλιον",
+      "morph": "robinson:T-ASM robinson:N-ASM",
+      "strongs": [
+        "G3588",
+        "G2246"
+      ],
+      "metadata": {
+        "src": "10 11"
+      },
+      "source": {
+        "lemma": "strong:G3588 strong:G2246 lemma.TR:τον lemma.TR:ηλιον",
+        "morph": "robinson:T-ASM robinson:N-ASM",
+        "attrs": {
+          "src": "10 11",
+          "lemma": "strong:G3588 strong:G2246 lemma.TR:τον lemma.TR:ηλιον",
+          "morph": "robinson:T-ASM robinson:N-ASM"
+        }
+      }
+    },
+    {
+      "position": 14,
+      "text": "sun,",
+      "lemma": "strong:G3588 strong:G2246 lemma.TR:τον lemma.TR:ηλιον",
+      "morph": "robinson:T-ASM robinson:N-ASM",
+      "strongs": [
+        "G3588",
+        "G2246"
+      ],
+      "metadata": {
+        "src": "10 11"
+      },
+      "source": {
+        "lemma": "strong:G3588 strong:G2246 lemma.TR:τον lemma.TR:ηλιον",
+        "morph": "robinson:T-ASM robinson:N-ASM",
+        "attrs": {
+          "src": "10 11",
+          "lemma": "strong:G3588 strong:G2246 lemma.TR:τον lemma.TR:ηλιον",
+          "morph": "robinson:T-ASM robinson:N-ASM"
+        }
+      }
+    },
+    {
+      "position": 15,
+      "text": "and",
+      "lemma": "strong:G2532 lemma.TR:και",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G2532"
+      ],
+      "metadata": {
+        "src": "12"
+      },
+      "source": {
+        "lemma": "strong:G2532 lemma.TR:και",
+        "morph": "robinson:CONJ",
+        "attrs": {
+          "src": "12",
+          "lemma": "strong:G2532 lemma.TR:και",
+          "morph": "robinson:CONJ"
+        }
+      }
+    },
+    {
+      "position": 16,
+      "text": "the",
+      "lemma": "strong:G3588 strong:G4582 lemma.TR:η lemma.TR:σεληνη",
+      "morph": "robinson:T-NSF robinson:N-NSF",
+      "strongs": [
+        "G3588",
+        "G4582"
+      ],
+      "metadata": {
+        "src": "13 14"
+      },
+      "source": {
+        "lemma": "strong:G3588 strong:G4582 lemma.TR:η lemma.TR:σεληνη",
+        "morph": "robinson:T-NSF robinson:N-NSF",
+        "attrs": {
+          "src": "13 14",
+          "lemma": "strong:G3588 strong:G4582 lemma.TR:η lemma.TR:σεληνη",
+          "morph": "robinson:T-NSF robinson:N-NSF"
+        }
+      }
+    },
+    {
+      "position": 17,
+      "text": "moon",
+      "lemma": "strong:G3588 strong:G4582 lemma.TR:η lemma.TR:σεληνη",
+      "morph": "robinson:T-NSF robinson:N-NSF",
+      "strongs": [
+        "G3588",
+        "G4582"
+      ],
+      "metadata": {
+        "src": "13 14"
+      },
+      "source": {
+        "lemma": "strong:G3588 strong:G4582 lemma.TR:η lemma.TR:σεληνη",
+        "morph": "robinson:T-NSF robinson:N-NSF",
+        "attrs": {
+          "src": "13 14",
+          "lemma": "strong:G3588 strong:G4582 lemma.TR:η lemma.TR:σεληνη",
+          "morph": "robinson:T-NSF robinson:N-NSF"
+        }
+      }
+    },
+    {
+      "position": 18,
+      "text": "under",
+      "lemma": "strong:G5270 lemma.TR:υποκατω",
+      "morph": "robinson:ADV",
+      "strongs": [
+        "G5270"
+      ],
+      "metadata": {
+        "src": "15"
+      },
+      "source": {
+        "lemma": "strong:G5270 lemma.TR:υποκατω",
+        "morph": "robinson:ADV",
+        "attrs": {
+          "src": "15",
+          "lemma": "strong:G5270 lemma.TR:υποκατω",
+          "morph": "robinson:ADV"
+        }
+      }
+    },
+    {
+      "position": 19,
+      "text": "her",
+      "lemma": "strong:G846 lemma.TR:αυτης",
+      "morph": "robinson:P-GSF",
+      "strongs": [
+        "G846"
+      ],
+      "metadata": {
+        "src": "18"
+      },
+      "source": {
+        "lemma": "strong:G846 lemma.TR:αυτης",
+        "morph": "robinson:P-GSF",
+        "attrs": {
+          "src": "18",
+          "lemma": "strong:G846 lemma.TR:αυτης",
+          "morph": "robinson:P-GSF"
+        }
+      }
+    },
+    {
+      "position": 20,
+      "text": "feet,",
+      "lemma": "strong:G3588 strong:G4228 lemma.TR:των lemma.TR:ποδων",
+      "morph": "robinson:T-GPM robinson:N-GPM",
+      "strongs": [
+        "G3588",
+        "G4228"
+      ],
+      "metadata": {
+        "src": "16 17"
+      },
+      "source": {
+        "lemma": "strong:G3588 strong:G4228 lemma.TR:των lemma.TR:ποδων",
+        "morph": "robinson:T-GPM robinson:N-GPM",
+        "attrs": {
+          "src": "16 17",
+          "lemma": "strong:G3588 strong:G4228 lemma.TR:των lemma.TR:ποδων",
+          "morph": "robinson:T-GPM robinson:N-GPM"
+        }
+      }
+    },
+    {
+      "position": 21,
+      "text": "and",
+      "lemma": "strong:G2532 lemma.TR:και",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G2532"
+      ],
+      "metadata": {
+        "src": "19"
+      },
+      "source": {
+        "lemma": "strong:G2532 lemma.TR:και",
+        "morph": "robinson:CONJ",
+        "attrs": {
+          "src": "19",
+          "lemma": "strong:G2532 lemma.TR:και",
+          "morph": "robinson:CONJ"
+        }
+      }
+    },
+    {
+      "position": 22,
+      "text": "upon",
+      "lemma": "strong:G1909 lemma.TR:επι",
+      "morph": "robinson:PREP",
+      "strongs": [
+        "G1909"
+      ],
+      "metadata": {
+        "src": "20"
+      },
+      "source": {
+        "lemma": "strong:G1909 lemma.TR:επι",
+        "morph": "robinson:PREP",
+        "attrs": {
+          "src": "20",
+          "lemma": "strong:G1909 lemma.TR:επι",
+          "morph": "robinson:PREP"
+        }
+      }
+    },
+    {
+      "position": 23,
+      "text": "her",
+      "lemma": "strong:G846 lemma.TR:αυτης",
+      "morph": "robinson:P-GSF",
+      "strongs": [
+        "G846"
+      ],
+      "metadata": {
+        "src": "23"
+      },
+      "source": {
+        "lemma": "strong:G846 lemma.TR:αυτης",
+        "morph": "robinson:P-GSF",
+        "attrs": {
+          "src": "23",
+          "lemma": "strong:G846 lemma.TR:αυτης",
+          "morph": "robinson:P-GSF"
+        }
+      }
+    },
+    {
+      "position": 24,
+      "text": "head",
+      "lemma": "strong:G3588 strong:G2776 lemma.TR:της lemma.TR:κεφαλης",
+      "morph": "robinson:T-GSF robinson:N-GSF",
+      "strongs": [
+        "G3588",
+        "G2776"
+      ],
+      "metadata": {
+        "src": "21 22"
+      },
+      "source": {
+        "lemma": "strong:G3588 strong:G2776 lemma.TR:της lemma.TR:κεφαλης",
+        "morph": "robinson:T-GSF robinson:N-GSF",
+        "attrs": {
+          "src": "21 22",
+          "lemma": "strong:G3588 strong:G2776 lemma.TR:της lemma.TR:κεφαλης",
+          "morph": "robinson:T-GSF robinson:N-GSF"
+        }
+      }
+    },
+    {
+      "position": 25,
+      "text": "a",
+      "lemma": "strong:G4735 lemma.TR:στεφανος",
+      "morph": "robinson:N-NSM",
+      "strongs": [
+        "G4735"
+      ],
+      "metadata": {
+        "src": "24"
+      },
+      "source": {
+        "lemma": "strong:G4735 lemma.TR:στεφανος",
+        "morph": "robinson:N-NSM",
+        "attrs": {
+          "src": "24",
+          "lemma": "strong:G4735 lemma.TR:στεφανος",
+          "morph": "robinson:N-NSM"
+        }
+      }
+    },
+    {
+      "position": 26,
+      "text": "crown",
+      "lemma": "strong:G4735 lemma.TR:στεφανος",
+      "morph": "robinson:N-NSM",
+      "strongs": [
+        "G4735"
+      ],
+      "metadata": {
+        "src": "24"
+      },
+      "source": {
+        "lemma": "strong:G4735 lemma.TR:στεφανος",
+        "morph": "robinson:N-NSM",
+        "attrs": {
+          "src": "24",
+          "lemma": "strong:G4735 lemma.TR:στεφανος",
+          "morph": "robinson:N-NSM"
+        }
+      }
+    },
+    {
+      "position": 27,
+      "text": "of",
+      "lemma": "strong:G1427 lemma.TR:δωδεκα",
+      "morph": "robinson:A-NUI",
+      "strongs": [
+        "G1427"
+      ],
+      "metadata": {
+        "src": "26"
+      },
+      "source": {
+        "lemma": "strong:G1427 lemma.TR:δωδεκα",
+        "morph": "robinson:A-NUI",
+        "attrs": {
+          "src": "26",
+          "lemma": "strong:G1427 lemma.TR:δωδεκα",
+          "morph": "robinson:A-NUI"
+        }
+      }
+    },
+    {
+      "position": 28,
+      "text": "twelve",
+      "lemma": "strong:G1427 lemma.TR:δωδεκα",
+      "morph": "robinson:A-NUI",
+      "strongs": [
+        "G1427"
+      ],
+      "metadata": {
+        "src": "26"
+      },
+      "source": {
+        "lemma": "strong:G1427 lemma.TR:δωδεκα",
+        "morph": "robinson:A-NUI",
+        "attrs": {
+          "src": "26",
+          "lemma": "strong:G1427 lemma.TR:δωδεκα",
+          "morph": "robinson:A-NUI"
+        }
+      }
+    },
+    {
+      "position": 29,
+      "text": "stars:",
+      "lemma": "strong:G792 lemma.TR:αστερων",
+      "morph": "robinson:N-GPM",
+      "strongs": [
+        "G792"
+      ],
+      "metadata": {
+        "src": "25"
+      },
+      "source": {
+        "lemma": "strong:G792 lemma.TR:αστερων",
+        "morph": "robinson:N-GPM",
+        "attrs": {
+          "src": "25",
+          "lemma": "strong:G792 lemma.TR:αστερων",
+          "morph": "robinson:N-GPM"
+        }
+      }
+    }
+  ]
+}

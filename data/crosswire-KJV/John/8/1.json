@@ -1,0 +1,156 @@
+{
+  "text": "Jesus went unto the mount of Olives.",
+  "words": [
+    {
+      "position": 1,
+      "text": "Jesus",
+      "lemma": "strong:G2424 lemma.TR:ιησους",
+      "morph": "robinson:N-NSM",
+      "strongs": [
+        "G2424"
+      ],
+      "metadata": {
+        "src": "1"
+      },
+      "source": {
+        "lemma": "strong:G2424 lemma.TR:ιησους",
+        "morph": "robinson:N-NSM",
+        "attrs": {
+          "src": "1",
+          "lemma": "strong:G2424 lemma.TR:ιησους",
+          "morph": "robinson:N-NSM"
+        }
+      }
+    },
+    {
+      "position": 2,
+      "text": "went",
+      "lemma": "strong:G4198 lemma.TR:επορευθη",
+      "morph": "robinson:V-AOI-3S",
+      "strongs": [
+        "G4198"
+      ],
+      "metadata": {
+        "src": "3"
+      },
+      "source": {
+        "lemma": "strong:G4198 lemma.TR:επορευθη",
+        "morph": "robinson:V-AOI-3S",
+        "attrs": {
+          "src": "3",
+          "lemma": "strong:G4198 lemma.TR:επορευθη",
+          "morph": "robinson:V-AOI-3S"
+        }
+      }
+    },
+    {
+      "position": 3,
+      "text": "unto",
+      "lemma": "strong:G1519 lemma.TR:εις",
+      "morph": "robinson:PREP",
+      "strongs": [
+        "G1519"
+      ],
+      "metadata": {
+        "src": "4"
+      },
+      "source": {
+        "lemma": "strong:G1519 lemma.TR:εις",
+        "morph": "robinson:PREP",
+        "attrs": {
+          "src": "4",
+          "lemma": "strong:G1519 lemma.TR:εις",
+          "morph": "robinson:PREP"
+        }
+      }
+    },
+    {
+      "position": 4,
+      "text": "the",
+      "lemma": "strong:G3588 strong:G3735 lemma.TR:το lemma.TR:ορος",
+      "morph": "robinson:T-ASN robinson:N-ASN",
+      "strongs": [
+        "G3588",
+        "G3735"
+      ],
+      "metadata": {
+        "src": "5 6"
+      },
+      "source": {
+        "lemma": "strong:G3588 strong:G3735 lemma.TR:το lemma.TR:ορος",
+        "morph": "robinson:T-ASN robinson:N-ASN",
+        "attrs": {
+          "src": "5 6",
+          "lemma": "strong:G3588 strong:G3735 lemma.TR:το lemma.TR:ορος",
+          "morph": "robinson:T-ASN robinson:N-ASN"
+        }
+      }
+    },
+    {
+      "position": 5,
+      "text": "mount",
+      "lemma": "strong:G3588 strong:G3735 lemma.TR:το lemma.TR:ορος",
+      "morph": "robinson:T-ASN robinson:N-ASN",
+      "strongs": [
+        "G3588",
+        "G3735"
+      ],
+      "metadata": {
+        "src": "5 6"
+      },
+      "source": {
+        "lemma": "strong:G3588 strong:G3735 lemma.TR:το lemma.TR:ορος",
+        "morph": "robinson:T-ASN robinson:N-ASN",
+        "attrs": {
+          "src": "5 6",
+          "lemma": "strong:G3588 strong:G3735 lemma.TR:το lemma.TR:ορος",
+          "morph": "robinson:T-ASN robinson:N-ASN"
+        }
+      }
+    },
+    {
+      "position": 6,
+      "text": "of",
+      "lemma": "strong:G3588 strong:G1636 lemma.TR:των lemma.TR:ελαιων",
+      "morph": "robinson:T-GPF robinson:N-GPF",
+      "strongs": [
+        "G3588",
+        "G1636"
+      ],
+      "metadata": {
+        "src": "7 8"
+      },
+      "source": {
+        "lemma": "strong:G3588 strong:G1636 lemma.TR:των lemma.TR:ελαιων",
+        "morph": "robinson:T-GPF robinson:N-GPF",
+        "attrs": {
+          "src": "7 8",
+          "lemma": "strong:G3588 strong:G1636 lemma.TR:των lemma.TR:ελαιων",
+          "morph": "robinson:T-GPF robinson:N-GPF"
+        }
+      }
+    },
+    {
+      "position": 7,
+      "text": "Olives.",
+      "lemma": "strong:G3588 strong:G1636 lemma.TR:των lemma.TR:ελαιων",
+      "morph": "robinson:T-GPF robinson:N-GPF",
+      "strongs": [
+        "G3588",
+        "G1636"
+      ],
+      "metadata": {
+        "src": "7 8"
+      },
+      "source": {
+        "lemma": "strong:G3588 strong:G1636 lemma.TR:των lemma.TR:ελαιων",
+        "morph": "robinson:T-GPF robinson:N-GPF",
+        "attrs": {
+          "src": "7 8",
+          "lemma": "strong:G3588 strong:G1636 lemma.TR:των lemma.TR:ελαιων",
+          "morph": "robinson:T-GPF robinson:N-GPF"
+        }
+      }
+    }
+  ]
+}

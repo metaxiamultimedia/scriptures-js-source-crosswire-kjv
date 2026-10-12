@@ -1,0 +1,588 @@
+{
+  "text": "The wife hath not power of her own body, but the husband: and likewise also the husband hath not power of his own body, but the wife.",
+  "words": [
+    {
+      "position": 1,
+      "text": "The",
+      "lemma": "strong:G3588 strong:G1135 lemma.TR:η lemma.TR:γυνη",
+      "morph": "robinson:T-NSF robinson:N-NSF",
+      "strongs": [
+        "G3588",
+        "G1135"
+      ],
+      "metadata": {
+        "src": "1 2"
+      },
+      "source": {
+        "lemma": "strong:G3588 strong:G1135 lemma.TR:η lemma.TR:γυνη",
+        "morph": "robinson:T-NSF robinson:N-NSF",
+        "attrs": {
+          "src": "1 2",
+          "lemma": "strong:G3588 strong:G1135 lemma.TR:η lemma.TR:γυνη",
+          "morph": "robinson:T-NSF robinson:N-NSF"
+        }
+      }
+    },
+    {
+      "position": 2,
+      "text": "wife",
+      "lemma": "strong:G3588 strong:G1135 lemma.TR:η lemma.TR:γυνη",
+      "morph": "robinson:T-NSF robinson:N-NSF",
+      "strongs": [
+        "G3588",
+        "G1135"
+      ],
+      "metadata": {
+        "src": "1 2"
+      },
+      "source": {
+        "lemma": "strong:G3588 strong:G1135 lemma.TR:η lemma.TR:γυνη",
+        "morph": "robinson:T-NSF robinson:N-NSF",
+        "attrs": {
+          "src": "1 2",
+          "lemma": "strong:G3588 strong:G1135 lemma.TR:η lemma.TR:γυνη",
+          "morph": "robinson:T-NSF robinson:N-NSF"
+        }
+      }
+    },
+    {
+      "position": 3,
+      "text": "hath",
+      "lemma": "strong:G1850 lemma.TR:εξουσιαζει",
+      "morph": "robinson:V-PAI-3S",
+      "strongs": [
+        "G1850"
+      ],
+      "metadata": {
+        "src": "7",
+        "type": "x-split-2747"
+      },
+      "source": {
+        "lemma": "strong:G1850 lemma.TR:εξουσιαζει",
+        "morph": "robinson:V-PAI-3S",
+        "attrs": {
+          "src": "7",
+          "lemma": "strong:G1850 lemma.TR:εξουσιαζει",
+          "morph": "robinson:V-PAI-3S",
+          "type": "x-split-2747"
+        }
+      }
+    },
+    {
+      "position": 4,
+      "text": "not",
+      "lemma": "strong:G3756 lemma.TR:ουκ",
+      "morph": "robinson:PRT-N",
+      "strongs": [
+        "G3756"
+      ],
+      "metadata": {
+        "src": "6"
+      },
+      "source": {
+        "lemma": "strong:G3756 lemma.TR:ουκ",
+        "morph": "robinson:PRT-N",
+        "attrs": {
+          "src": "6",
+          "lemma": "strong:G3756 lemma.TR:ουκ",
+          "morph": "robinson:PRT-N"
+        }
+      }
+    },
+    {
+      "position": 5,
+      "text": "power",
+      "lemma": "strong:G1850 lemma.TR:εξουσιαζει",
+      "morph": "robinson:V-PAI-3S",
+      "strongs": [
+        "G1850"
+      ],
+      "metadata": {
+        "src": "7",
+        "type": "x-split-2747"
+      },
+      "source": {
+        "lemma": "strong:G1850 lemma.TR:εξουσιαζει",
+        "morph": "robinson:V-PAI-3S",
+        "attrs": {
+          "src": "7",
+          "lemma": "strong:G1850 lemma.TR:εξουσιαζει",
+          "morph": "robinson:V-PAI-3S",
+          "type": "x-split-2747"
+        }
+      }
+    },
+    {
+      "position": 6,
+      "text": "of",
+      "lemma": "strong:G2398 lemma.TR:ιδιου",
+      "morph": "robinson:A-GSN",
+      "strongs": [
+        "G2398"
+      ],
+      "metadata": {
+        "src": "4"
+      },
+      "source": {
+        "lemma": "strong:G2398 lemma.TR:ιδιου",
+        "morph": "robinson:A-GSN",
+        "attrs": {
+          "src": "4",
+          "lemma": "strong:G2398 lemma.TR:ιδιου",
+          "morph": "robinson:A-GSN"
+        }
+      }
+    },
+    {
+      "position": 7,
+      "text": "her",
+      "lemma": "strong:G2398 lemma.TR:ιδιου",
+      "morph": "robinson:A-GSN",
+      "strongs": [
+        "G2398"
+      ],
+      "metadata": {
+        "src": "4"
+      },
+      "source": {
+        "lemma": "strong:G2398 lemma.TR:ιδιου",
+        "morph": "robinson:A-GSN",
+        "attrs": {
+          "src": "4",
+          "lemma": "strong:G2398 lemma.TR:ιδιου",
+          "morph": "robinson:A-GSN"
+        }
+      }
+    },
+    {
+      "position": 8,
+      "text": "own",
+      "lemma": "strong:G2398 lemma.TR:ιδιου",
+      "morph": "robinson:A-GSN",
+      "strongs": [
+        "G2398"
+      ],
+      "metadata": {
+        "src": "4"
+      },
+      "source": {
+        "lemma": "strong:G2398 lemma.TR:ιδιου",
+        "morph": "robinson:A-GSN",
+        "attrs": {
+          "src": "4",
+          "lemma": "strong:G2398 lemma.TR:ιδιου",
+          "morph": "robinson:A-GSN"
+        }
+      }
+    },
+    {
+      "position": 9,
+      "text": "body,",
+      "lemma": "strong:G4983 lemma.TR:σωματος",
+      "morph": "robinson:N-GSN",
+      "strongs": [
+        "G4983"
+      ],
+      "metadata": {
+        "src": "5"
+      },
+      "source": {
+        "lemma": "strong:G4983 lemma.TR:σωματος",
+        "morph": "robinson:N-GSN",
+        "attrs": {
+          "src": "5",
+          "lemma": "strong:G4983 lemma.TR:σωματος",
+          "morph": "robinson:N-GSN"
+        }
+      }
+    },
+    {
+      "position": 10,
+      "text": "but",
+      "lemma": "strong:G235 lemma.TR:αλλ",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G235"
+      ],
+      "metadata": {
+        "src": "8"
+      },
+      "source": {
+        "lemma": "strong:G235 lemma.TR:αλλ",
+        "morph": "robinson:CONJ",
+        "attrs": {
+          "src": "8",
+          "lemma": "strong:G235 lemma.TR:αλλ",
+          "morph": "robinson:CONJ"
+        }
+      }
+    },
+    {
+      "position": 11,
+      "text": "the",
+      "lemma": "strong:G3588 strong:G435 lemma.TR:ο lemma.TR:ανηρ",
+      "morph": "robinson:T-NSM robinson:N-NSM",
+      "strongs": [
+        "G3588",
+        "G435"
+      ],
+      "metadata": {
+        "src": "9 10"
+      },
+      "source": {
+        "lemma": "strong:G3588 strong:G435 lemma.TR:ο lemma.TR:ανηρ",
+        "morph": "robinson:T-NSM robinson:N-NSM",
+        "attrs": {
+          "src": "9 10",
+          "lemma": "strong:G3588 strong:G435 lemma.TR:ο lemma.TR:ανηρ",
+          "morph": "robinson:T-NSM robinson:N-NSM"
+        }
+      }
+    },
+    {
+      "position": 12,
+      "text": "husband:",
+      "lemma": "strong:G3588 strong:G435 lemma.TR:ο lemma.TR:ανηρ",
+      "morph": "robinson:T-NSM robinson:N-NSM",
+      "strongs": [
+        "G3588",
+        "G435"
+      ],
+      "metadata": {
+        "src": "9 10"
+      },
+      "source": {
+        "lemma": "strong:G3588 strong:G435 lemma.TR:ο lemma.TR:ανηρ",
+        "morph": "robinson:T-NSM robinson:N-NSM",
+        "attrs": {
+          "src": "9 10",
+          "lemma": "strong:G3588 strong:G435 lemma.TR:ο lemma.TR:ανηρ",
+          "morph": "robinson:T-NSM robinson:N-NSM"
+        }
+      }
+    },
+    {
+      "position": 13,
+      "text": "and",
+      "lemma": "strong:G1161 lemma.TR:δε",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G1161"
+      ],
+      "metadata": {
+        "src": "12"
+      },
+      "source": {
+        "lemma": "strong:G1161 lemma.TR:δε",
+        "morph": "robinson:CONJ",
+        "attrs": {
+          "src": "12",
+          "lemma": "strong:G1161 lemma.TR:δε",
+          "morph": "robinson:CONJ"
+        }
+      }
+    },
+    {
+      "position": 14,
+      "text": "likewise",
+      "lemma": "strong:G3668 lemma.TR:ομοιως",
+      "morph": "robinson:ADV",
+      "strongs": [
+        "G3668"
+      ],
+      "metadata": {
+        "src": "11"
+      },
+      "source": {
+        "lemma": "strong:G3668 lemma.TR:ομοιως",
+        "morph": "robinson:ADV",
+        "attrs": {
+          "src": "11",
+          "lemma": "strong:G3668 lemma.TR:ομοιως",
+          "morph": "robinson:ADV"
+        }
+      }
+    },
+    {
+      "position": 15,
+      "text": "also",
+      "lemma": "strong:G2532 lemma.TR:και",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G2532"
+      ],
+      "metadata": {
+        "src": "13"
+      },
+      "source": {
+        "lemma": "strong:G2532 lemma.TR:και",
+        "morph": "robinson:CONJ",
+        "attrs": {
+          "src": "13",
+          "lemma": "strong:G2532 lemma.TR:και",
+          "morph": "robinson:CONJ"
+        }
+      }
+    },
+    {
+      "position": 16,
+      "text": "the",
+      "lemma": "strong:G3588 strong:G435 lemma.TR:ο lemma.TR:ανηρ",
+      "morph": "robinson:T-NSM robinson:N-NSM",
+      "strongs": [
+        "G3588",
+        "G435"
+      ],
+      "metadata": {
+        "src": "14 15"
+      },
+      "source": {
+        "lemma": "strong:G3588 strong:G435 lemma.TR:ο lemma.TR:ανηρ",
+        "morph": "robinson:T-NSM robinson:N-NSM",
+        "attrs": {
+          "src": "14 15",
+          "lemma": "strong:G3588 strong:G435 lemma.TR:ο lemma.TR:ανηρ",
+          "morph": "robinson:T-NSM robinson:N-NSM"
+        }
+      }
+    },
+    {
+      "position": 17,
+      "text": "husband",
+      "lemma": "strong:G3588 strong:G435 lemma.TR:ο lemma.TR:ανηρ",
+      "morph": "robinson:T-NSM robinson:N-NSM",
+      "strongs": [
+        "G3588",
+        "G435"
+      ],
+      "metadata": {
+        "src": "14 15"
+      },
+      "source": {
+        "lemma": "strong:G3588 strong:G435 lemma.TR:ο lemma.TR:ανηρ",
+        "morph": "robinson:T-NSM robinson:N-NSM",
+        "attrs": {
+          "src": "14 15",
+          "lemma": "strong:G3588 strong:G435 lemma.TR:ο lemma.TR:ανηρ",
+          "morph": "robinson:T-NSM robinson:N-NSM"
+        }
+      }
+    },
+    {
+      "position": 18,
+      "text": "hath",
+      "lemma": "strong:G1850 lemma.TR:εξουσιαζει",
+      "morph": "robinson:V-PAI-3S",
+      "strongs": [
+        "G1850"
+      ],
+      "metadata": {
+        "src": "20",
+        "type": "x-split-2748"
+      },
+      "source": {
+        "lemma": "strong:G1850 lemma.TR:εξουσιαζει",
+        "morph": "robinson:V-PAI-3S",
+        "attrs": {
+          "src": "20",
+          "lemma": "strong:G1850 lemma.TR:εξουσιαζει",
+          "morph": "robinson:V-PAI-3S",
+          "type": "x-split-2748"
+        }
+      }
+    },
+    {
+      "position": 19,
+      "text": "not",
+      "lemma": "strong:G3756 lemma.TR:ουκ",
+      "morph": "robinson:PRT-N",
+      "strongs": [
+        "G3756"
+      ],
+      "metadata": {
+        "src": "19"
+      },
+      "source": {
+        "lemma": "strong:G3756 lemma.TR:ουκ",
+        "morph": "robinson:PRT-N",
+        "attrs": {
+          "src": "19",
+          "lemma": "strong:G3756 lemma.TR:ουκ",
+          "morph": "robinson:PRT-N"
+        }
+      }
+    },
+    {
+      "position": 20,
+      "text": "power",
+      "lemma": "strong:G1850 lemma.TR:εξουσιαζει",
+      "morph": "robinson:V-PAI-3S",
+      "strongs": [
+        "G1850"
+      ],
+      "metadata": {
+        "src": "20",
+        "type": "x-split-2748"
+      },
+      "source": {
+        "lemma": "strong:G1850 lemma.TR:εξουσιαζει",
+        "morph": "robinson:V-PAI-3S",
+        "attrs": {
+          "src": "20",
+          "lemma": "strong:G1850 lemma.TR:εξουσιαζει",
+          "morph": "robinson:V-PAI-3S",
+          "type": "x-split-2748"
+        }
+      }
+    },
+    {
+      "position": 21,
+      "text": "of",
+      "lemma": "strong:G2398 lemma.TR:ιδιου",
+      "morph": "robinson:A-GSN",
+      "strongs": [
+        "G2398"
+      ],
+      "metadata": {
+        "src": "17"
+      },
+      "source": {
+        "lemma": "strong:G2398 lemma.TR:ιδιου",
+        "morph": "robinson:A-GSN",
+        "attrs": {
+          "src": "17",
+          "lemma": "strong:G2398 lemma.TR:ιδιου",
+          "morph": "robinson:A-GSN"
+        }
+      }
+    },
+    {
+      "position": 22,
+      "text": "his",
+      "lemma": "strong:G2398 lemma.TR:ιδιου",
+      "morph": "robinson:A-GSN",
+      "strongs": [
+        "G2398"
+      ],
+      "metadata": {
+        "src": "17"
+      },
+      "source": {
+        "lemma": "strong:G2398 lemma.TR:ιδιου",
+        "morph": "robinson:A-GSN",
+        "attrs": {
+          "src": "17",
+          "lemma": "strong:G2398 lemma.TR:ιδιου",
+          "morph": "robinson:A-GSN"
+        }
+      }
+    },
+    {
+      "position": 23,
+      "text": "own",
+      "lemma": "strong:G2398 lemma.TR:ιδιου",
+      "morph": "robinson:A-GSN",
+      "strongs": [
+        "G2398"
+      ],
+      "metadata": {
+        "src": "17"
+      },
+      "source": {
+        "lemma": "strong:G2398 lemma.TR:ιδιου",
+        "morph": "robinson:A-GSN",
+        "attrs": {
+          "src": "17",
+          "lemma": "strong:G2398 lemma.TR:ιδιου",
+          "morph": "robinson:A-GSN"
+        }
+      }
+    },
+    {
+      "position": 24,
+      "text": "body,",
+      "lemma": "strong:G4983 lemma.TR:σωματος",
+      "morph": "robinson:N-GSN",
+      "strongs": [
+        "G4983"
+      ],
+      "metadata": {
+        "src": "18"
+      },
+      "source": {
+        "lemma": "strong:G4983 lemma.TR:σωματος",
+        "morph": "robinson:N-GSN",
+        "attrs": {
+          "src": "18",
+          "lemma": "strong:G4983 lemma.TR:σωματος",
+          "morph": "robinson:N-GSN"
+        }
+      }
+    },
+    {
+      "position": 25,
+      "text": "but",
+      "lemma": "strong:G235 lemma.TR:αλλ",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G235"
+      ],
+      "metadata": {
+        "src": "21"
+      },
+      "source": {
+        "lemma": "strong:G235 lemma.TR:αλλ",
+        "morph": "robinson:CONJ",
+        "attrs": {
+          "src": "21",
+          "lemma": "strong:G235 lemma.TR:αλλ",
+          "morph": "robinson:CONJ"
+        }
+      }
+    },
+    {
+      "position": 26,
+      "text": "the",
+      "lemma": "strong:G3588 strong:G1135 lemma.TR:η lemma.TR:γυνη",
+      "morph": "robinson:T-NSF robinson:N-NSF",
+      "strongs": [
+        "G3588",
+        "G1135"
+      ],
+      "metadata": {
+        "src": "22 23"
+      },
+      "source": {
+        "lemma": "strong:G3588 strong:G1135 lemma.TR:η lemma.TR:γυνη",
+        "morph": "robinson:T-NSF robinson:N-NSF",
+        "attrs": {
+          "src": "22 23",
+          "lemma": "strong:G3588 strong:G1135 lemma.TR:η lemma.TR:γυνη",
+          "morph": "robinson:T-NSF robinson:N-NSF"
+        }
+      }
+    },
+    {
+      "position": 27,
+      "text": "wife.",
+      "lemma": "strong:G3588 strong:G1135 lemma.TR:η lemma.TR:γυνη",
+      "morph": "robinson:T-NSF robinson:N-NSF",
+      "strongs": [
+        "G3588",
+        "G1135"
+      ],
+      "metadata": {
+        "src": "22 23"
+      },
+      "source": {
+        "lemma": "strong:G3588 strong:G1135 lemma.TR:η lemma.TR:γυνη",
+        "morph": "robinson:T-NSF robinson:N-NSF",
+        "attrs": {
+          "src": "22 23",
+          "lemma": "strong:G3588 strong:G1135 lemma.TR:η lemma.TR:γυνη",
+          "morph": "robinson:T-NSF robinson:N-NSF"
+        }
+      }
+    }
+  ]
+}

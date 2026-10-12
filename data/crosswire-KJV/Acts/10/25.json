@@ -1,0 +1,380 @@
+{
+  "text": "And as Peter was coming in, Cornelius met him, and fell down at his feet, and worshipped him.",
+  "words": [
+    {
+      "position": 1,
+      "text": "And",
+      "lemma": "strong:G1161 lemma.TR:δε",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G1161"
+      ],
+      "metadata": {
+        "src": "2"
+      },
+      "source": {
+        "lemma": "strong:G1161 lemma.TR:δε",
+        "morph": "robinson:CONJ",
+        "attrs": {
+          "src": "2",
+          "lemma": "strong:G1161 lemma.TR:δε",
+          "morph": "robinson:CONJ"
+        }
+      }
+    },
+    {
+      "position": 2,
+      "text": "as",
+      "lemma": "strong:G5613 lemma.TR:ως",
+      "morph": "robinson:ADV",
+      "strongs": [
+        "G5613"
+      ],
+      "metadata": {
+        "src": "1"
+      },
+      "source": {
+        "lemma": "strong:G5613 lemma.TR:ως",
+        "morph": "robinson:ADV",
+        "attrs": {
+          "src": "1",
+          "lemma": "strong:G5613 lemma.TR:ως",
+          "morph": "robinson:ADV"
+        }
+      }
+    },
+    {
+      "position": 3,
+      "text": "Peter",
+      "lemma": "strong:G3588 strong:G4074 lemma.TR:τον lemma.TR:πετρον",
+      "morph": "robinson:T-ASM robinson:N-ASM",
+      "strongs": [
+        "G3588",
+        "G4074"
+      ],
+      "metadata": {
+        "src": "5 6"
+      },
+      "source": {
+        "lemma": "strong:G3588 strong:G4074 lemma.TR:τον lemma.TR:πετρον",
+        "morph": "robinson:T-ASM robinson:N-ASM",
+        "attrs": {
+          "src": "5 6",
+          "lemma": "strong:G3588 strong:G4074 lemma.TR:τον lemma.TR:πετρον",
+          "morph": "robinson:T-ASM robinson:N-ASM"
+        }
+      }
+    },
+    {
+      "position": 4,
+      "text": "was",
+      "lemma": "strong:G1096 lemma.TR:εγενετο",
+      "morph": "robinson:V-2ADI-3S",
+      "strongs": [
+        "G1096"
+      ],
+      "metadata": {
+        "src": "3"
+      },
+      "source": {
+        "lemma": "strong:G1096 lemma.TR:εγενετο",
+        "morph": "robinson:V-2ADI-3S",
+        "attrs": {
+          "src": "3",
+          "lemma": "strong:G1096 lemma.TR:εγενετο",
+          "morph": "robinson:V-2ADI-3S"
+        }
+      }
+    },
+    {
+      "position": 5,
+      "text": "coming",
+      "lemma": "strong:G1525 lemma.TR:εισελθειν",
+      "morph": "robinson:V-2AAN",
+      "strongs": [
+        "G1525"
+      ],
+      "metadata": {
+        "src": "4"
+      },
+      "source": {
+        "lemma": "strong:G1525 lemma.TR:εισελθειν",
+        "morph": "robinson:V-2AAN",
+        "attrs": {
+          "src": "4",
+          "lemma": "strong:G1525 lemma.TR:εισελθειν",
+          "morph": "robinson:V-2AAN"
+        }
+      }
+    },
+    {
+      "position": 6,
+      "text": "in,",
+      "lemma": "strong:G1525 lemma.TR:εισελθειν",
+      "morph": "robinson:V-2AAN",
+      "strongs": [
+        "G1525"
+      ],
+      "metadata": {
+        "src": "4"
+      },
+      "source": {
+        "lemma": "strong:G1525 lemma.TR:εισελθειν",
+        "morph": "robinson:V-2AAN",
+        "attrs": {
+          "src": "4",
+          "lemma": "strong:G1525 lemma.TR:εισελθειν",
+          "morph": "robinson:V-2AAN"
+        }
+      }
+    },
+    {
+      "position": 7,
+      "text": "Cornelius",
+      "lemma": "strong:G3588 strong:G2883 lemma.TR:ο lemma.TR:κορνηλιος",
+      "morph": "robinson:T-NSM robinson:N-NSM",
+      "strongs": [
+        "G3588",
+        "G2883"
+      ],
+      "metadata": {
+        "src": "9 10"
+      },
+      "source": {
+        "lemma": "strong:G3588 strong:G2883 lemma.TR:ο lemma.TR:κορνηλιος",
+        "morph": "robinson:T-NSM robinson:N-NSM",
+        "attrs": {
+          "src": "9 10",
+          "lemma": "strong:G3588 strong:G2883 lemma.TR:ο lemma.TR:κορνηλιος",
+          "morph": "robinson:T-NSM robinson:N-NSM"
+        }
+      }
+    },
+    {
+      "position": 8,
+      "text": "met",
+      "lemma": "strong:G4876 lemma.TR:συναντησας",
+      "morph": "robinson:V-AAP-NSM",
+      "strongs": [
+        "G4876"
+      ],
+      "metadata": {
+        "src": "7"
+      },
+      "source": {
+        "lemma": "strong:G4876 lemma.TR:συναντησας",
+        "morph": "robinson:V-AAP-NSM",
+        "attrs": {
+          "src": "7",
+          "lemma": "strong:G4876 lemma.TR:συναντησας",
+          "morph": "robinson:V-AAP-NSM"
+        }
+      }
+    },
+    {
+      "position": 9,
+      "text": "him,",
+      "lemma": "strong:G846 lemma.TR:αυτω",
+      "morph": "robinson:P-DSM",
+      "strongs": [
+        "G846"
+      ],
+      "metadata": {
+        "src": "8"
+      },
+      "source": {
+        "lemma": "strong:G846 lemma.TR:αυτω",
+        "morph": "robinson:P-DSM",
+        "attrs": {
+          "src": "8",
+          "lemma": "strong:G846 lemma.TR:αυτω",
+          "morph": "robinson:P-DSM"
+        }
+      }
+    },
+    {
+      "position": 10,
+      "text": "and",
+      "lemma": "strong:G4098 lemma.TR:πεσων",
+      "morph": "robinson:V-2AAP-NSM",
+      "strongs": [
+        "G4098"
+      ],
+      "metadata": {
+        "src": "11"
+      },
+      "source": {
+        "lemma": "strong:G4098 lemma.TR:πεσων",
+        "morph": "robinson:V-2AAP-NSM",
+        "attrs": {
+          "src": "11",
+          "lemma": "strong:G4098 lemma.TR:πεσων",
+          "morph": "robinson:V-2AAP-NSM"
+        }
+      }
+    },
+    {
+      "position": 11,
+      "text": "fell",
+      "lemma": "strong:G4098 lemma.TR:πεσων",
+      "morph": "robinson:V-2AAP-NSM",
+      "strongs": [
+        "G4098"
+      ],
+      "metadata": {
+        "src": "11"
+      },
+      "source": {
+        "lemma": "strong:G4098 lemma.TR:πεσων",
+        "morph": "robinson:V-2AAP-NSM",
+        "attrs": {
+          "src": "11",
+          "lemma": "strong:G4098 lemma.TR:πεσων",
+          "morph": "robinson:V-2AAP-NSM"
+        }
+      }
+    },
+    {
+      "position": 12,
+      "text": "down",
+      "lemma": "strong:G4098 lemma.TR:πεσων",
+      "morph": "robinson:V-2AAP-NSM",
+      "strongs": [
+        "G4098"
+      ],
+      "metadata": {
+        "src": "11"
+      },
+      "source": {
+        "lemma": "strong:G4098 lemma.TR:πεσων",
+        "morph": "robinson:V-2AAP-NSM",
+        "attrs": {
+          "src": "11",
+          "lemma": "strong:G4098 lemma.TR:πεσων",
+          "morph": "robinson:V-2AAP-NSM"
+        }
+      }
+    },
+    {
+      "position": 13,
+      "text": "at",
+      "lemma": "strong:G1909 lemma.TR:επι",
+      "morph": "robinson:PREP",
+      "strongs": [
+        "G1909"
+      ],
+      "metadata": {
+        "src": "12"
+      },
+      "source": {
+        "lemma": "strong:G1909 lemma.TR:επι",
+        "morph": "robinson:PREP",
+        "attrs": {
+          "src": "12",
+          "lemma": "strong:G1909 lemma.TR:επι",
+          "morph": "robinson:PREP"
+        }
+      }
+    },
+    {
+      "position": 14,
+      "text": "his",
+      "lemma": "strong:G3588 strong:G4228 lemma.TR:τους lemma.TR:ποδας",
+      "morph": "robinson:T-APM robinson:N-APM",
+      "strongs": [
+        "G3588",
+        "G4228"
+      ],
+      "metadata": {
+        "src": "13 14"
+      },
+      "source": {
+        "lemma": "strong:G3588 strong:G4228 lemma.TR:τους lemma.TR:ποδας",
+        "morph": "robinson:T-APM robinson:N-APM",
+        "attrs": {
+          "src": "13 14",
+          "lemma": "strong:G3588 strong:G4228 lemma.TR:τους lemma.TR:ποδας",
+          "morph": "robinson:T-APM robinson:N-APM"
+        }
+      }
+    },
+    {
+      "position": 15,
+      "text": "feet,",
+      "lemma": "strong:G3588 strong:G4228 lemma.TR:τους lemma.TR:ποδας",
+      "morph": "robinson:T-APM robinson:N-APM",
+      "strongs": [
+        "G3588",
+        "G4228"
+      ],
+      "metadata": {
+        "src": "13 14"
+      },
+      "source": {
+        "lemma": "strong:G3588 strong:G4228 lemma.TR:τους lemma.TR:ποδας",
+        "morph": "robinson:T-APM robinson:N-APM",
+        "attrs": {
+          "src": "13 14",
+          "lemma": "strong:G3588 strong:G4228 lemma.TR:τους lemma.TR:ποδας",
+          "morph": "robinson:T-APM robinson:N-APM"
+        }
+      }
+    },
+    {
+      "position": 16,
+      "text": "and",
+      "lemma": "strong:G4352 lemma.TR:προσεκυνησεν",
+      "morph": "robinson:V-AAI-3S",
+      "strongs": [
+        "G4352"
+      ],
+      "metadata": {
+        "src": "15"
+      },
+      "source": {
+        "lemma": "strong:G4352 lemma.TR:προσεκυνησεν",
+        "morph": "robinson:V-AAI-3S",
+        "attrs": {
+          "src": "15",
+          "lemma": "strong:G4352 lemma.TR:προσεκυνησεν",
+          "morph": "robinson:V-AAI-3S"
+        }
+      }
+    },
+    {
+      "position": 17,
+      "text": "worshipped",
+      "lemma": "strong:G4352 lemma.TR:προσεκυνησεν",
+      "morph": "robinson:V-AAI-3S",
+      "strongs": [
+        "G4352"
+      ],
+      "metadata": {
+        "src": "15"
+      },
+      "source": {
+        "lemma": "strong:G4352 lemma.TR:προσεκυνησεν",
+        "morph": "robinson:V-AAI-3S",
+        "attrs": {
+          "src": "15",
+          "lemma": "strong:G4352 lemma.TR:προσεκυνησεν",
+          "morph": "robinson:V-AAI-3S"
+        }
+      }
+    },
+    {
+      "position": 18,
+      "text": "him.",
+      "lemma": null,
+      "morph": null,
+      "metadata": {
+        "type": "added"
+      },
+      "source": {
+        "attrs": {
+          "type": "added"
+        }
+      }
+    }
+  ]
+}

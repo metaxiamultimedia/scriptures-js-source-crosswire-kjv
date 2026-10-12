@@ -1,0 +1,245 @@
+{
+  "text": "The husbandman that laboureth must be first partaker of the fruits.",
+  "words": [
+    {
+      "position": 1,
+      "text": "The",
+      "lemma": "strong:G3588 strong:G1092 lemma.TR:τον lemma.TR:γεωργον",
+      "morph": "robinson:T-ASM robinson:N-ASM",
+      "strongs": [
+        "G3588",
+        "G1092"
+      ],
+      "metadata": {
+        "src": "1 3"
+      },
+      "source": {
+        "lemma": "strong:G3588 strong:G1092 lemma.TR:τον lemma.TR:γεωργον",
+        "morph": "robinson:T-ASM robinson:N-ASM",
+        "attrs": {
+          "src": "1 3",
+          "lemma": "strong:G3588 strong:G1092 lemma.TR:τον lemma.TR:γεωργον",
+          "morph": "robinson:T-ASM robinson:N-ASM"
+        }
+      }
+    },
+    {
+      "position": 2,
+      "text": "husbandman",
+      "lemma": "strong:G3588 strong:G1092 lemma.TR:τον lemma.TR:γεωργον",
+      "morph": "robinson:T-ASM robinson:N-ASM",
+      "strongs": [
+        "G3588",
+        "G1092"
+      ],
+      "metadata": {
+        "src": "1 3"
+      },
+      "source": {
+        "lemma": "strong:G3588 strong:G1092 lemma.TR:τον lemma.TR:γεωργον",
+        "morph": "robinson:T-ASM robinson:N-ASM",
+        "attrs": {
+          "src": "1 3",
+          "lemma": "strong:G3588 strong:G1092 lemma.TR:τον lemma.TR:γεωργον",
+          "morph": "robinson:T-ASM robinson:N-ASM"
+        }
+      }
+    },
+    {
+      "position": 3,
+      "text": "that",
+      "lemma": "strong:G2872 lemma.TR:κοπιωντα",
+      "morph": "robinson:V-PAP-ASM",
+      "strongs": [
+        "G2872"
+      ],
+      "metadata": {
+        "src": "2"
+      },
+      "source": {
+        "lemma": "strong:G2872 lemma.TR:κοπιωντα",
+        "morph": "robinson:V-PAP-ASM",
+        "attrs": {
+          "src": "2",
+          "lemma": "strong:G2872 lemma.TR:κοπιωντα",
+          "morph": "robinson:V-PAP-ASM"
+        }
+      }
+    },
+    {
+      "position": 4,
+      "text": "laboureth",
+      "lemma": "strong:G2872 lemma.TR:κοπιωντα",
+      "morph": "robinson:V-PAP-ASM",
+      "strongs": [
+        "G2872"
+      ],
+      "metadata": {
+        "src": "2"
+      },
+      "source": {
+        "lemma": "strong:G2872 lemma.TR:κοπιωντα",
+        "morph": "robinson:V-PAP-ASM",
+        "attrs": {
+          "src": "2",
+          "lemma": "strong:G2872 lemma.TR:κοπιωντα",
+          "morph": "robinson:V-PAP-ASM"
+        }
+      }
+    },
+    {
+      "position": 5,
+      "text": "must",
+      "lemma": "strong:G1163 lemma.TR:δει",
+      "morph": "robinson:V-PAI-3S",
+      "strongs": [
+        "G1163"
+      ],
+      "metadata": {
+        "src": "4"
+      },
+      "source": {
+        "lemma": "strong:G1163 lemma.TR:δει",
+        "morph": "robinson:V-PAI-3S",
+        "attrs": {
+          "src": "4",
+          "lemma": "strong:G1163 lemma.TR:δει",
+          "morph": "robinson:V-PAI-3S"
+        }
+      }
+    },
+    {
+      "position": 6,
+      "text": "be",
+      "lemma": "strong:G3335 lemma.TR:μεταλαμβανειν",
+      "morph": "robinson:V-PAN",
+      "strongs": [
+        "G3335"
+      ],
+      "metadata": {
+        "src": "8",
+        "type": "x-split-3262"
+      },
+      "source": {
+        "lemma": "strong:G3335 lemma.TR:μεταλαμβανειν",
+        "morph": "robinson:V-PAN",
+        "attrs": {
+          "src": "8",
+          "lemma": "strong:G3335 lemma.TR:μεταλαμβανειν",
+          "morph": "robinson:V-PAN",
+          "type": "x-split-3262"
+        }
+      }
+    },
+    {
+      "position": 7,
+      "text": "first",
+      "lemma": "strong:G4412 lemma.TR:πρωτον",
+      "morph": "robinson:ADV-S",
+      "strongs": [
+        "G4412"
+      ],
+      "metadata": {
+        "src": "5"
+      },
+      "source": {
+        "lemma": "strong:G4412 lemma.TR:πρωτον",
+        "morph": "robinson:ADV-S",
+        "attrs": {
+          "src": "5",
+          "lemma": "strong:G4412 lemma.TR:πρωτον",
+          "morph": "robinson:ADV-S"
+        }
+      }
+    },
+    {
+      "position": 8,
+      "text": "partaker",
+      "lemma": "strong:G3335 lemma.TR:μεταλαμβανειν",
+      "morph": "robinson:V-PAN",
+      "strongs": [
+        "G3335"
+      ],
+      "metadata": {
+        "src": "8",
+        "type": "x-split-3262"
+      },
+      "source": {
+        "lemma": "strong:G3335 lemma.TR:μεταλαμβανειν",
+        "morph": "robinson:V-PAN",
+        "attrs": {
+          "src": "8",
+          "lemma": "strong:G3335 lemma.TR:μεταλαμβανειν",
+          "morph": "robinson:V-PAN",
+          "type": "x-split-3262"
+        }
+      }
+    },
+    {
+      "position": 9,
+      "text": "of",
+      "lemma": "strong:G3588 strong:G2590 lemma.TR:των lemma.TR:καρπων",
+      "morph": "robinson:T-GPM robinson:N-GPM",
+      "strongs": [
+        "G3588",
+        "G2590"
+      ],
+      "metadata": {
+        "src": "6 7"
+      },
+      "source": {
+        "lemma": "strong:G3588 strong:G2590 lemma.TR:των lemma.TR:καρπων",
+        "morph": "robinson:T-GPM robinson:N-GPM",
+        "attrs": {
+          "src": "6 7",
+          "lemma": "strong:G3588 strong:G2590 lemma.TR:των lemma.TR:καρπων",
+          "morph": "robinson:T-GPM robinson:N-GPM"
+        }
+      }
+    },
+    {
+      "position": 10,
+      "text": "the",
+      "lemma": "strong:G3588 strong:G2590 lemma.TR:των lemma.TR:καρπων",
+      "morph": "robinson:T-GPM robinson:N-GPM",
+      "strongs": [
+        "G3588",
+        "G2590"
+      ],
+      "metadata": {
+        "src": "6 7"
+      },
+      "source": {
+        "lemma": "strong:G3588 strong:G2590 lemma.TR:των lemma.TR:καρπων",
+        "morph": "robinson:T-GPM robinson:N-GPM",
+        "attrs": {
+          "src": "6 7",
+          "lemma": "strong:G3588 strong:G2590 lemma.TR:των lemma.TR:καρπων",
+          "morph": "robinson:T-GPM robinson:N-GPM"
+        }
+      }
+    },
+    {
+      "position": 11,
+      "text": "fruits.",
+      "lemma": "strong:G3588 strong:G2590 lemma.TR:των lemma.TR:καρπων",
+      "morph": "robinson:T-GPM robinson:N-GPM",
+      "strongs": [
+        "G3588",
+        "G2590"
+      ],
+      "metadata": {
+        "src": "6 7"
+      },
+      "source": {
+        "lemma": "strong:G3588 strong:G2590 lemma.TR:των lemma.TR:καρπων",
+        "morph": "robinson:T-GPM robinson:N-GPM",
+        "attrs": {
+          "src": "6 7",
+          "lemma": "strong:G3588 strong:G2590 lemma.TR:των lemma.TR:καρπων",
+          "morph": "robinson:T-GPM robinson:N-GPM"
+        }
+      }
+    }
+  ]
+}

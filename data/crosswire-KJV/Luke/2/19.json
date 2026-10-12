@@ -1,0 +1,252 @@
+{
+  "text": "But Mary kept all these things, and pondered them in her heart.",
+  "words": [
+    {
+      "position": 1,
+      "text": "But",
+      "lemma": "strong:G1161 lemma.TR:δε",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G1161"
+      ],
+      "metadata": {
+        "src": "2"
+      },
+      "source": {
+        "lemma": "strong:G1161 lemma.TR:δε",
+        "morph": "robinson:CONJ",
+        "attrs": {
+          "src": "2",
+          "lemma": "strong:G1161 lemma.TR:δε",
+          "morph": "robinson:CONJ"
+        }
+      }
+    },
+    {
+      "position": 2,
+      "text": "Mary",
+      "lemma": "strong:G3137 lemma.TR:μαριαμ",
+      "morph": "robinson:N-PRI",
+      "strongs": [
+        "G3137"
+      ],
+      "metadata": {
+        "src": "3"
+      },
+      "source": {
+        "lemma": "strong:G3137 lemma.TR:μαριαμ",
+        "morph": "robinson:N-PRI",
+        "attrs": {
+          "src": "3",
+          "lemma": "strong:G3137 lemma.TR:μαριαμ",
+          "morph": "robinson:N-PRI"
+        }
+      }
+    },
+    {
+      "position": 3,
+      "text": "kept",
+      "lemma": "strong:G4933 lemma.TR:συνετηρει",
+      "morph": "robinson:V-IAI-3S",
+      "strongs": [
+        "G4933"
+      ],
+      "metadata": {
+        "src": "5"
+      },
+      "source": {
+        "lemma": "strong:G4933 lemma.TR:συνετηρει",
+        "morph": "robinson:V-IAI-3S",
+        "attrs": {
+          "src": "5",
+          "lemma": "strong:G4933 lemma.TR:συνετηρει",
+          "morph": "robinson:V-IAI-3S"
+        }
+      }
+    },
+    {
+      "position": 4,
+      "text": "all",
+      "lemma": "strong:G3956 lemma.TR:παντα",
+      "morph": "robinson:A-APN",
+      "strongs": [
+        "G3956"
+      ],
+      "metadata": {
+        "src": "4"
+      },
+      "source": {
+        "lemma": "strong:G3956 lemma.TR:παντα",
+        "morph": "robinson:A-APN",
+        "attrs": {
+          "src": "4",
+          "lemma": "strong:G3956 lemma.TR:παντα",
+          "morph": "robinson:A-APN"
+        }
+      }
+    },
+    {
+      "position": 5,
+      "text": "these",
+      "lemma": "strong:G3778 lemma.TR:ταυτα",
+      "morph": "robinson:D-APN",
+      "strongs": [
+        "G3778"
+      ],
+      "metadata": {
+        "src": "8"
+      },
+      "source": {
+        "lemma": "strong:G3778 lemma.TR:ταυτα",
+        "morph": "robinson:D-APN",
+        "attrs": {
+          "src": "8",
+          "lemma": "strong:G3778 lemma.TR:ταυτα",
+          "morph": "robinson:D-APN"
+        }
+      }
+    },
+    {
+      "position": 6,
+      "text": "things,",
+      "lemma": "strong:G3588 strong:G4487 lemma.TR:τα lemma.TR:ρηματα",
+      "morph": "robinson:T-APN robinson:N-APN",
+      "strongs": [
+        "G3588",
+        "G4487"
+      ],
+      "metadata": {
+        "src": "6 7"
+      },
+      "source": {
+        "lemma": "strong:G3588 strong:G4487 lemma.TR:τα lemma.TR:ρηματα",
+        "morph": "robinson:T-APN robinson:N-APN",
+        "attrs": {
+          "src": "6 7",
+          "lemma": "strong:G3588 strong:G4487 lemma.TR:τα lemma.TR:ρηματα",
+          "morph": "robinson:T-APN robinson:N-APN"
+        }
+      }
+    },
+    {
+      "position": 7,
+      "text": "and",
+      "lemma": "strong:G4820 lemma.TR:συμβαλλουσα",
+      "morph": "robinson:V-PAP-NSF",
+      "strongs": [
+        "G4820"
+      ],
+      "metadata": {
+        "src": "9"
+      },
+      "source": {
+        "lemma": "strong:G4820 lemma.TR:συμβαλλουσα",
+        "morph": "robinson:V-PAP-NSF",
+        "attrs": {
+          "src": "9",
+          "lemma": "strong:G4820 lemma.TR:συμβαλλουσα",
+          "morph": "robinson:V-PAP-NSF"
+        }
+      }
+    },
+    {
+      "position": 8,
+      "text": "pondered",
+      "lemma": "strong:G4820 lemma.TR:συμβαλλουσα",
+      "morph": "robinson:V-PAP-NSF",
+      "strongs": [
+        "G4820"
+      ],
+      "metadata": {
+        "src": "9"
+      },
+      "source": {
+        "lemma": "strong:G4820 lemma.TR:συμβαλλουσα",
+        "morph": "robinson:V-PAP-NSF",
+        "attrs": {
+          "src": "9",
+          "lemma": "strong:G4820 lemma.TR:συμβαλλουσα",
+          "morph": "robinson:V-PAP-NSF"
+        }
+      }
+    },
+    {
+      "position": 9,
+      "text": "them",
+      "lemma": null,
+      "morph": null,
+      "metadata": {
+        "type": "added"
+      },
+      "source": {
+        "attrs": {
+          "type": "added"
+        }
+      }
+    },
+    {
+      "position": 10,
+      "text": "in",
+      "lemma": "strong:G1722 lemma.TR:εν",
+      "morph": "robinson:PREP",
+      "strongs": [
+        "G1722"
+      ],
+      "metadata": {
+        "src": "10"
+      },
+      "source": {
+        "lemma": "strong:G1722 lemma.TR:εν",
+        "morph": "robinson:PREP",
+        "attrs": {
+          "src": "10",
+          "lemma": "strong:G1722 lemma.TR:εν",
+          "morph": "robinson:PREP"
+        }
+      }
+    },
+    {
+      "position": 11,
+      "text": "her",
+      "lemma": "strong:G846 lemma.TR:αυτης",
+      "morph": "robinson:P-GSF",
+      "strongs": [
+        "G846"
+      ],
+      "metadata": {
+        "src": "13"
+      },
+      "source": {
+        "lemma": "strong:G846 lemma.TR:αυτης",
+        "morph": "robinson:P-GSF",
+        "attrs": {
+          "src": "13",
+          "lemma": "strong:G846 lemma.TR:αυτης",
+          "morph": "robinson:P-GSF"
+        }
+      }
+    },
+    {
+      "position": 12,
+      "text": "heart.",
+      "lemma": "strong:G3588 strong:G2588 lemma.TR:τη lemma.TR:καρδια",
+      "morph": "robinson:T-DSF robinson:N-DSF",
+      "strongs": [
+        "G3588",
+        "G2588"
+      ],
+      "metadata": {
+        "src": "11 12"
+      },
+      "source": {
+        "lemma": "strong:G3588 strong:G2588 lemma.TR:τη lemma.TR:καρδια",
+        "morph": "robinson:T-DSF robinson:N-DSF",
+        "attrs": {
+          "src": "11 12",
+          "lemma": "strong:G3588 strong:G2588 lemma.TR:τη lemma.TR:καρδια",
+          "morph": "robinson:T-DSF robinson:N-DSF"
+        }
+      }
+    }
+  ]
+}

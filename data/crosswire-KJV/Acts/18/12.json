@@ -1,0 +1,513 @@
+{
+  "text": "And when Gallio was the deputy of Achaia, the Jews made insurrection with one accord against Paul, and brought him to the judgment seat,",
+  "words": [
+    {
+      "position": 1,
+      "text": "And",
+      "lemma": "strong:G1161 lemma.TR:δε",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G1161"
+      ],
+      "metadata": {
+        "src": "2"
+      },
+      "source": {
+        "lemma": "strong:G1161 lemma.TR:δε",
+        "morph": "robinson:CONJ",
+        "attrs": {
+          "src": "2",
+          "lemma": "strong:G1161 lemma.TR:δε",
+          "morph": "robinson:CONJ"
+        }
+      }
+    },
+    {
+      "position": 2,
+      "text": "when",
+      "lemma": "strong:G1058 lemma.TR:γαλλιωνος",
+      "morph": "robinson:N-GSM",
+      "strongs": [
+        "G1058"
+      ],
+      "metadata": {
+        "src": "1"
+      },
+      "source": {
+        "lemma": "strong:G1058 lemma.TR:γαλλιωνος",
+        "morph": "robinson:N-GSM",
+        "attrs": {
+          "src": "1",
+          "lemma": "strong:G1058 lemma.TR:γαλλιωνος",
+          "morph": "robinson:N-GSM"
+        }
+      }
+    },
+    {
+      "position": 3,
+      "text": "Gallio",
+      "lemma": "strong:G1058 lemma.TR:γαλλιωνος",
+      "morph": "robinson:N-GSM",
+      "strongs": [
+        "G1058"
+      ],
+      "metadata": {
+        "src": "1"
+      },
+      "source": {
+        "lemma": "strong:G1058 lemma.TR:γαλλιωνος",
+        "morph": "robinson:N-GSM",
+        "attrs": {
+          "src": "1",
+          "lemma": "strong:G1058 lemma.TR:γαλλιωνος",
+          "morph": "robinson:N-GSM"
+        }
+      }
+    },
+    {
+      "position": 4,
+      "text": "was",
+      "lemma": "strong:G445 lemma.TR:ανθυπατευοντος",
+      "morph": "robinson:V-PAP-GSM",
+      "strongs": [
+        "G445"
+      ],
+      "metadata": {
+        "src": "3"
+      },
+      "source": {
+        "lemma": "strong:G445 lemma.TR:ανθυπατευοντος",
+        "morph": "robinson:V-PAP-GSM",
+        "attrs": {
+          "src": "3",
+          "lemma": "strong:G445 lemma.TR:ανθυπατευοντος",
+          "morph": "robinson:V-PAP-GSM"
+        }
+      }
+    },
+    {
+      "position": 5,
+      "text": "the",
+      "lemma": "strong:G445 lemma.TR:ανθυπατευοντος",
+      "morph": "robinson:V-PAP-GSM",
+      "strongs": [
+        "G445"
+      ],
+      "metadata": {
+        "src": "3"
+      },
+      "source": {
+        "lemma": "strong:G445 lemma.TR:ανθυπατευοντος",
+        "morph": "robinson:V-PAP-GSM",
+        "attrs": {
+          "src": "3",
+          "lemma": "strong:G445 lemma.TR:ανθυπατευοντος",
+          "morph": "robinson:V-PAP-GSM"
+        }
+      }
+    },
+    {
+      "position": 6,
+      "text": "deputy",
+      "lemma": "strong:G445 lemma.TR:ανθυπατευοντος",
+      "morph": "robinson:V-PAP-GSM",
+      "strongs": [
+        "G445"
+      ],
+      "metadata": {
+        "src": "3"
+      },
+      "source": {
+        "lemma": "strong:G445 lemma.TR:ανθυπατευοντος",
+        "morph": "robinson:V-PAP-GSM",
+        "attrs": {
+          "src": "3",
+          "lemma": "strong:G445 lemma.TR:ανθυπατευοντος",
+          "morph": "robinson:V-PAP-GSM"
+        }
+      }
+    },
+    {
+      "position": 7,
+      "text": "of",
+      "lemma": "strong:G3588 strong:G882 lemma.TR:της lemma.TR:αχαιας",
+      "morph": "robinson:T-GSF robinson:N-GSF",
+      "strongs": [
+        "G3588",
+        "G882"
+      ],
+      "metadata": {
+        "src": "4 5"
+      },
+      "source": {
+        "lemma": "strong:G3588 strong:G882 lemma.TR:της lemma.TR:αχαιας",
+        "morph": "robinson:T-GSF robinson:N-GSF",
+        "attrs": {
+          "src": "4 5",
+          "lemma": "strong:G3588 strong:G882 lemma.TR:της lemma.TR:αχαιας",
+          "morph": "robinson:T-GSF robinson:N-GSF"
+        }
+      }
+    },
+    {
+      "position": 8,
+      "text": "Achaia,",
+      "lemma": "strong:G3588 strong:G882 lemma.TR:της lemma.TR:αχαιας",
+      "morph": "robinson:T-GSF robinson:N-GSF",
+      "strongs": [
+        "G3588",
+        "G882"
+      ],
+      "metadata": {
+        "src": "4 5"
+      },
+      "source": {
+        "lemma": "strong:G3588 strong:G882 lemma.TR:της lemma.TR:αχαιας",
+        "morph": "robinson:T-GSF robinson:N-GSF",
+        "attrs": {
+          "src": "4 5",
+          "lemma": "strong:G3588 strong:G882 lemma.TR:της lemma.TR:αχαιας",
+          "morph": "robinson:T-GSF robinson:N-GSF"
+        }
+      }
+    },
+    {
+      "position": 9,
+      "text": "the",
+      "lemma": "strong:G2453 lemma.TR:ιουδαιοι",
+      "morph": "robinson:A-NPM",
+      "strongs": [
+        "G2453"
+      ],
+      "metadata": {
+        "src": "9"
+      },
+      "source": {
+        "lemma": "strong:G2453 lemma.TR:ιουδαιοι",
+        "morph": "robinson:A-NPM",
+        "attrs": {
+          "src": "9",
+          "lemma": "strong:G2453 lemma.TR:ιουδαιοι",
+          "morph": "robinson:A-NPM"
+        }
+      }
+    },
+    {
+      "position": 10,
+      "text": "Jews",
+      "lemma": "strong:G2453 lemma.TR:ιουδαιοι",
+      "morph": "robinson:A-NPM",
+      "strongs": [
+        "G2453"
+      ],
+      "metadata": {
+        "src": "9"
+      },
+      "source": {
+        "lemma": "strong:G2453 lemma.TR:ιουδαιοι",
+        "morph": "robinson:A-NPM",
+        "attrs": {
+          "src": "9",
+          "lemma": "strong:G2453 lemma.TR:ιουδαιοι",
+          "morph": "robinson:A-NPM"
+        }
+      }
+    },
+    {
+      "position": 11,
+      "text": "made",
+      "lemma": "strong:G2721 lemma.TR:κατεπεστησαν",
+      "morph": "robinson:V-2AAI-3P",
+      "strongs": [
+        "G2721"
+      ],
+      "metadata": {
+        "src": "6"
+      },
+      "source": {
+        "lemma": "strong:G2721 lemma.TR:κατεπεστησαν",
+        "morph": "robinson:V-2AAI-3P",
+        "attrs": {
+          "src": "6",
+          "lemma": "strong:G2721 lemma.TR:κατεπεστησαν",
+          "morph": "robinson:V-2AAI-3P"
+        }
+      }
+    },
+    {
+      "position": 12,
+      "text": "insurrection",
+      "lemma": "strong:G2721 lemma.TR:κατεπεστησαν",
+      "morph": "robinson:V-2AAI-3P",
+      "strongs": [
+        "G2721"
+      ],
+      "metadata": {
+        "src": "6"
+      },
+      "source": {
+        "lemma": "strong:G2721 lemma.TR:κατεπεστησαν",
+        "morph": "robinson:V-2AAI-3P",
+        "attrs": {
+          "src": "6",
+          "lemma": "strong:G2721 lemma.TR:κατεπεστησαν",
+          "morph": "robinson:V-2AAI-3P"
+        }
+      }
+    },
+    {
+      "position": 13,
+      "text": "with",
+      "lemma": "strong:G3661 lemma.TR:ομοθυμαδον",
+      "morph": "robinson:ADV",
+      "strongs": [
+        "G3661"
+      ],
+      "metadata": {
+        "src": "7"
+      },
+      "source": {
+        "lemma": "strong:G3661 lemma.TR:ομοθυμαδον",
+        "morph": "robinson:ADV",
+        "attrs": {
+          "src": "7",
+          "lemma": "strong:G3661 lemma.TR:ομοθυμαδον",
+          "morph": "robinson:ADV"
+        }
+      }
+    },
+    {
+      "position": 14,
+      "text": "one",
+      "lemma": "strong:G3661 lemma.TR:ομοθυμαδον",
+      "morph": "robinson:ADV",
+      "strongs": [
+        "G3661"
+      ],
+      "metadata": {
+        "src": "7"
+      },
+      "source": {
+        "lemma": "strong:G3661 lemma.TR:ομοθυμαδον",
+        "morph": "robinson:ADV",
+        "attrs": {
+          "src": "7",
+          "lemma": "strong:G3661 lemma.TR:ομοθυμαδον",
+          "morph": "robinson:ADV"
+        }
+      }
+    },
+    {
+      "position": 15,
+      "text": "accord",
+      "lemma": "strong:G3661 lemma.TR:ομοθυμαδον",
+      "morph": "robinson:ADV",
+      "strongs": [
+        "G3661"
+      ],
+      "metadata": {
+        "src": "7"
+      },
+      "source": {
+        "lemma": "strong:G3661 lemma.TR:ομοθυμαδον",
+        "morph": "robinson:ADV",
+        "attrs": {
+          "src": "7",
+          "lemma": "strong:G3661 lemma.TR:ομοθυμαδον",
+          "morph": "robinson:ADV"
+        }
+      }
+    },
+    {
+      "position": 16,
+      "text": "against",
+      "lemma": "strong:G3588 strong:G3972 lemma.TR:τω lemma.TR:παυλω",
+      "morph": "robinson:T-DSM robinson:N-DSM",
+      "strongs": [
+        "G3588",
+        "G3972"
+      ],
+      "metadata": {
+        "src": "10 11"
+      },
+      "source": {
+        "lemma": "strong:G3588 strong:G3972 lemma.TR:τω lemma.TR:παυλω",
+        "morph": "robinson:T-DSM robinson:N-DSM",
+        "attrs": {
+          "src": "10 11",
+          "lemma": "strong:G3588 strong:G3972 lemma.TR:τω lemma.TR:παυλω",
+          "morph": "robinson:T-DSM robinson:N-DSM"
+        }
+      }
+    },
+    {
+      "position": 17,
+      "text": "Paul,",
+      "lemma": "strong:G3588 strong:G3972 lemma.TR:τω lemma.TR:παυλω",
+      "morph": "robinson:T-DSM robinson:N-DSM",
+      "strongs": [
+        "G3588",
+        "G3972"
+      ],
+      "metadata": {
+        "src": "10 11"
+      },
+      "source": {
+        "lemma": "strong:G3588 strong:G3972 lemma.TR:τω lemma.TR:παυλω",
+        "morph": "robinson:T-DSM robinson:N-DSM",
+        "attrs": {
+          "src": "10 11",
+          "lemma": "strong:G3588 strong:G3972 lemma.TR:τω lemma.TR:παυλω",
+          "morph": "robinson:T-DSM robinson:N-DSM"
+        }
+      }
+    },
+    {
+      "position": 18,
+      "text": "and",
+      "lemma": "strong:G2532 lemma.TR:και",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G2532"
+      ],
+      "metadata": {
+        "src": "12"
+      },
+      "source": {
+        "lemma": "strong:G2532 lemma.TR:και",
+        "morph": "robinson:CONJ",
+        "attrs": {
+          "src": "12",
+          "lemma": "strong:G2532 lemma.TR:και",
+          "morph": "robinson:CONJ"
+        }
+      }
+    },
+    {
+      "position": 19,
+      "text": "brought",
+      "lemma": "strong:G71 lemma.TR:ηγαγον",
+      "morph": "robinson:V-2AAI-3P",
+      "metadata": {
+        "src": "13"
+      },
+      "source": {
+        "lemma": "strong:G71 lemma.TR:ηγαγον",
+        "morph": "robinson:V-2AAI-3P",
+        "attrs": {
+          "src": "13",
+          "lemma": "strong:G71 lemma.TR:ηγαγον",
+          "morph": "robinson:V-2AAI-3P"
+        }
+      }
+    },
+    {
+      "position": 20,
+      "text": "him",
+      "lemma": "strong:G846 lemma.TR:αυτον",
+      "morph": "robinson:P-ASM",
+      "strongs": [
+        "G846"
+      ],
+      "metadata": {
+        "src": "14"
+      },
+      "source": {
+        "lemma": "strong:G846 lemma.TR:αυτον",
+        "morph": "robinson:P-ASM",
+        "attrs": {
+          "src": "14",
+          "lemma": "strong:G846 lemma.TR:αυτον",
+          "morph": "robinson:P-ASM"
+        }
+      }
+    },
+    {
+      "position": 21,
+      "text": "to",
+      "lemma": "strong:G1909 lemma.TR:επι",
+      "morph": "robinson:PREP",
+      "strongs": [
+        "G1909"
+      ],
+      "metadata": {
+        "src": "15"
+      },
+      "source": {
+        "lemma": "strong:G1909 lemma.TR:επι",
+        "morph": "robinson:PREP",
+        "attrs": {
+          "src": "15",
+          "lemma": "strong:G1909 lemma.TR:επι",
+          "morph": "robinson:PREP"
+        }
+      }
+    },
+    {
+      "position": 22,
+      "text": "the",
+      "lemma": "strong:G3588 strong:G968 lemma.TR:το lemma.TR:βημα",
+      "morph": "robinson:T-ASN robinson:N-ASN",
+      "strongs": [
+        "G3588",
+        "G968"
+      ],
+      "metadata": {
+        "src": "16 17"
+      },
+      "source": {
+        "lemma": "strong:G3588 strong:G968 lemma.TR:το lemma.TR:βημα",
+        "morph": "robinson:T-ASN robinson:N-ASN",
+        "attrs": {
+          "src": "16 17",
+          "lemma": "strong:G3588 strong:G968 lemma.TR:το lemma.TR:βημα",
+          "morph": "robinson:T-ASN robinson:N-ASN"
+        }
+      }
+    },
+    {
+      "position": 23,
+      "text": "judgment",
+      "lemma": "strong:G3588 strong:G968 lemma.TR:το lemma.TR:βημα",
+      "morph": "robinson:T-ASN robinson:N-ASN",
+      "strongs": [
+        "G3588",
+        "G968"
+      ],
+      "metadata": {
+        "src": "16 17"
+      },
+      "source": {
+        "lemma": "strong:G3588 strong:G968 lemma.TR:το lemma.TR:βημα",
+        "morph": "robinson:T-ASN robinson:N-ASN",
+        "attrs": {
+          "src": "16 17",
+          "lemma": "strong:G3588 strong:G968 lemma.TR:το lemma.TR:βημα",
+          "morph": "robinson:T-ASN robinson:N-ASN"
+        }
+      }
+    },
+    {
+      "position": 24,
+      "text": "seat,",
+      "lemma": "strong:G3588 strong:G968 lemma.TR:το lemma.TR:βημα",
+      "morph": "robinson:T-ASN robinson:N-ASN",
+      "strongs": [
+        "G3588",
+        "G968"
+      ],
+      "metadata": {
+        "src": "16 17"
+      },
+      "source": {
+        "lemma": "strong:G3588 strong:G968 lemma.TR:το lemma.TR:βημα",
+        "morph": "robinson:T-ASN robinson:N-ASN",
+        "attrs": {
+          "src": "16 17",
+          "lemma": "strong:G3588 strong:G968 lemma.TR:το lemma.TR:βημα",
+          "morph": "robinson:T-ASN robinson:N-ASN"
+        }
+      }
+    }
+  ]
+}

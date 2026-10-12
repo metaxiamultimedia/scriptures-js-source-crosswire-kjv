@@ -1,0 +1,298 @@
+{
+  "text": "Why doth this man thus speak blasphemies? who can forgive sins but God only?",
+  "words": [
+    {
+      "position": 1,
+      "text": "Why",
+      "lemma": "strong:G5101 lemma.TR:τι",
+      "morph": "robinson:I-ASN",
+      "strongs": [
+        "G5101"
+      ],
+      "metadata": {
+        "src": "1"
+      },
+      "source": {
+        "lemma": "strong:G5101 lemma.TR:τι",
+        "morph": "robinson:I-ASN",
+        "attrs": {
+          "src": "1",
+          "lemma": "strong:G5101 lemma.TR:τι",
+          "morph": "robinson:I-ASN"
+        }
+      }
+    },
+    {
+      "position": 2,
+      "text": "doth",
+      "lemma": "strong:G2980 lemma.TR:λαλει",
+      "morph": "robinson:V-PAI-3S",
+      "strongs": [
+        "G2980"
+      ],
+      "metadata": {
+        "src": "4",
+        "type": "x-split-1014"
+      },
+      "source": {
+        "lemma": "strong:G2980 lemma.TR:λαλει",
+        "morph": "robinson:V-PAI-3S",
+        "attrs": {
+          "src": "4",
+          "lemma": "strong:G2980 lemma.TR:λαλει",
+          "morph": "robinson:V-PAI-3S",
+          "type": "x-split-1014"
+        }
+      }
+    },
+    {
+      "position": 3,
+      "text": "this",
+      "lemma": "strong:G3778 lemma.TR:ουτος",
+      "morph": "robinson:D-NSM",
+      "strongs": [
+        "G3778"
+      ],
+      "metadata": {
+        "src": "2"
+      },
+      "source": {
+        "lemma": "strong:G3778 lemma.TR:ουτος",
+        "morph": "robinson:D-NSM",
+        "attrs": {
+          "src": "2",
+          "lemma": "strong:G3778 lemma.TR:ουτος",
+          "morph": "robinson:D-NSM"
+        }
+      }
+    },
+    {
+      "position": 4,
+      "text": "man",
+      "lemma": null,
+      "morph": null,
+      "metadata": {
+        "type": "added"
+      },
+      "source": {
+        "attrs": {
+          "type": "added"
+        }
+      }
+    },
+    {
+      "position": 5,
+      "text": "thus",
+      "lemma": "strong:G3779 lemma.TR:ουτως",
+      "morph": "robinson:ADV",
+      "strongs": [
+        "G3779"
+      ],
+      "metadata": {
+        "src": "3"
+      },
+      "source": {
+        "lemma": "strong:G3779 lemma.TR:ουτως",
+        "morph": "robinson:ADV",
+        "attrs": {
+          "src": "3",
+          "lemma": "strong:G3779 lemma.TR:ουτως",
+          "morph": "robinson:ADV"
+        }
+      }
+    },
+    {
+      "position": 6,
+      "text": "speak",
+      "lemma": "strong:G2980 lemma.TR:λαλει",
+      "morph": "robinson:V-PAI-3S",
+      "strongs": [
+        "G2980"
+      ],
+      "metadata": {
+        "src": "4",
+        "type": "x-split-1014"
+      },
+      "source": {
+        "lemma": "strong:G2980 lemma.TR:λαλει",
+        "morph": "robinson:V-PAI-3S",
+        "attrs": {
+          "src": "4",
+          "lemma": "strong:G2980 lemma.TR:λαλει",
+          "morph": "robinson:V-PAI-3S",
+          "type": "x-split-1014"
+        }
+      }
+    },
+    {
+      "position": 7,
+      "text": "blasphemies?",
+      "lemma": "strong:G988 lemma.TR:βλασφημιας",
+      "morph": "robinson:N-APF",
+      "strongs": [
+        "G988"
+      ],
+      "metadata": {
+        "src": "5"
+      },
+      "source": {
+        "lemma": "strong:G988 lemma.TR:βλασφημιας",
+        "morph": "robinson:N-APF",
+        "attrs": {
+          "src": "5",
+          "lemma": "strong:G988 lemma.TR:βλασφημιας",
+          "morph": "robinson:N-APF"
+        }
+      }
+    },
+    {
+      "position": 8,
+      "text": "who",
+      "lemma": "strong:G5101 lemma.TR:τις",
+      "morph": "robinson:I-NSM",
+      "strongs": [
+        "G5101"
+      ],
+      "metadata": {
+        "src": "6"
+      },
+      "source": {
+        "lemma": "strong:G5101 lemma.TR:τις",
+        "morph": "robinson:I-NSM",
+        "attrs": {
+          "src": "6",
+          "lemma": "strong:G5101 lemma.TR:τις",
+          "morph": "robinson:I-NSM"
+        }
+      }
+    },
+    {
+      "position": 9,
+      "text": "can",
+      "lemma": "strong:G1410 lemma.TR:δυναται",
+      "morph": "robinson:V-PNI-3S",
+      "strongs": [
+        "G1410"
+      ],
+      "metadata": {
+        "src": "7"
+      },
+      "source": {
+        "lemma": "strong:G1410 lemma.TR:δυναται",
+        "morph": "robinson:V-PNI-3S",
+        "attrs": {
+          "src": "7",
+          "lemma": "strong:G1410 lemma.TR:δυναται",
+          "morph": "robinson:V-PNI-3S"
+        }
+      }
+    },
+    {
+      "position": 10,
+      "text": "forgive",
+      "lemma": "strong:G863 lemma.TR:αφιεναι",
+      "morph": "robinson:V-PAN",
+      "strongs": [
+        "G863"
+      ],
+      "metadata": {
+        "src": "8"
+      },
+      "source": {
+        "lemma": "strong:G863 lemma.TR:αφιεναι",
+        "morph": "robinson:V-PAN",
+        "attrs": {
+          "src": "8",
+          "lemma": "strong:G863 lemma.TR:αφιεναι",
+          "morph": "robinson:V-PAN"
+        }
+      }
+    },
+    {
+      "position": 11,
+      "text": "sins",
+      "lemma": "strong:G266 lemma.TR:αμαρτιας",
+      "morph": "robinson:N-APF",
+      "strongs": [
+        "G266"
+      ],
+      "metadata": {
+        "src": "9"
+      },
+      "source": {
+        "lemma": "strong:G266 lemma.TR:αμαρτιας",
+        "morph": "robinson:N-APF",
+        "attrs": {
+          "src": "9",
+          "lemma": "strong:G266 lemma.TR:αμαρτιας",
+          "morph": "robinson:N-APF"
+        }
+      }
+    },
+    {
+      "position": 12,
+      "text": "but",
+      "lemma": "strong:G1487 strong:G3361 lemma.TR:ει lemma.TR:μη",
+      "morph": "robinson:COND robinson:PRT-N",
+      "strongs": [
+        "G1487",
+        "G3361"
+      ],
+      "metadata": {
+        "src": "10 11"
+      },
+      "source": {
+        "lemma": "strong:G1487 strong:G3361 lemma.TR:ει lemma.TR:μη",
+        "morph": "robinson:COND robinson:PRT-N",
+        "attrs": {
+          "src": "10 11",
+          "lemma": "strong:G1487 strong:G3361 lemma.TR:ει lemma.TR:μη",
+          "morph": "robinson:COND robinson:PRT-N"
+        }
+      }
+    },
+    {
+      "position": 13,
+      "text": "God",
+      "lemma": "strong:G3588 strong:G2316 lemma.TR:ο lemma.TR:θεος",
+      "morph": "robinson:T-NSM robinson:N-NSM",
+      "strongs": [
+        "G3588",
+        "G2316"
+      ],
+      "metadata": {
+        "src": "13 14"
+      },
+      "source": {
+        "lemma": "strong:G3588 strong:G2316 lemma.TR:ο lemma.TR:θεος",
+        "morph": "robinson:T-NSM robinson:N-NSM",
+        "attrs": {
+          "src": "13 14",
+          "lemma": "strong:G3588 strong:G2316 lemma.TR:ο lemma.TR:θεος",
+          "morph": "robinson:T-NSM robinson:N-NSM"
+        }
+      }
+    },
+    {
+      "position": 14,
+      "text": "only?",
+      "lemma": "strong:G1520 lemma.TR:εις",
+      "morph": "robinson:A-NSM",
+      "strongs": [
+        "G1520"
+      ],
+      "metadata": {
+        "src": "12"
+      },
+      "source": {
+        "lemma": "strong:G1520 lemma.TR:εις",
+        "morph": "robinson:A-NSM",
+        "attrs": {
+          "src": "12",
+          "lemma": "strong:G1520 lemma.TR:εις",
+          "morph": "robinson:A-NSM"
+        }
+      }
+    }
+  ]
+}

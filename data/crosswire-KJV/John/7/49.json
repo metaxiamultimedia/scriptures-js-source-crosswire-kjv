@@ -1,0 +1,218 @@
+{
+  "text": "But this people who knoweth not the law are cursed.",
+  "words": [
+    {
+      "position": 1,
+      "text": "But",
+      "lemma": "strong:G235 lemma.TR:αλλ",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G235"
+      ],
+      "metadata": {
+        "src": "1"
+      },
+      "source": {
+        "lemma": "strong:G235 lemma.TR:αλλ",
+        "morph": "robinson:CONJ",
+        "attrs": {
+          "src": "1",
+          "lemma": "strong:G235 lemma.TR:αλλ",
+          "morph": "robinson:CONJ"
+        }
+      }
+    },
+    {
+      "position": 2,
+      "text": "this",
+      "lemma": "strong:G3778 lemma.TR:ουτος",
+      "morph": "robinson:D-NSM",
+      "strongs": [
+        "G3778"
+      ],
+      "metadata": {
+        "src": "4"
+      },
+      "source": {
+        "lemma": "strong:G3778 lemma.TR:ουτος",
+        "morph": "robinson:D-NSM",
+        "attrs": {
+          "src": "4",
+          "lemma": "strong:G3778 lemma.TR:ουτος",
+          "morph": "robinson:D-NSM"
+        }
+      }
+    },
+    {
+      "position": 3,
+      "text": "people",
+      "lemma": "strong:G3588 strong:G3793 lemma.TR:ο lemma.TR:οχλος",
+      "morph": "robinson:T-NSM robinson:N-NSM",
+      "strongs": [
+        "G3588",
+        "G3793"
+      ],
+      "metadata": {
+        "src": "2 3"
+      },
+      "source": {
+        "lemma": "strong:G3588 strong:G3793 lemma.TR:ο lemma.TR:οχλος",
+        "morph": "robinson:T-NSM robinson:N-NSM",
+        "attrs": {
+          "src": "2 3",
+          "lemma": "strong:G3588 strong:G3793 lemma.TR:ο lemma.TR:οχλος",
+          "morph": "robinson:T-NSM robinson:N-NSM"
+        }
+      }
+    },
+    {
+      "position": 4,
+      "text": "who",
+      "lemma": "strong:G1097 lemma.TR:γινωσκων",
+      "morph": "robinson:V-PAP-NSM",
+      "strongs": [
+        "G1097"
+      ],
+      "metadata": {
+        "src": "7"
+      },
+      "source": {
+        "lemma": "strong:G1097 lemma.TR:γινωσκων",
+        "morph": "robinson:V-PAP-NSM",
+        "attrs": {
+          "src": "7",
+          "lemma": "strong:G1097 lemma.TR:γινωσκων",
+          "morph": "robinson:V-PAP-NSM"
+        }
+      }
+    },
+    {
+      "position": 5,
+      "text": "knoweth",
+      "lemma": "strong:G1097 lemma.TR:γινωσκων",
+      "morph": "robinson:V-PAP-NSM",
+      "strongs": [
+        "G1097"
+      ],
+      "metadata": {
+        "src": "7"
+      },
+      "source": {
+        "lemma": "strong:G1097 lemma.TR:γινωσκων",
+        "morph": "robinson:V-PAP-NSM",
+        "attrs": {
+          "src": "7",
+          "lemma": "strong:G1097 lemma.TR:γινωσκων",
+          "morph": "robinson:V-PAP-NSM"
+        }
+      }
+    },
+    {
+      "position": 6,
+      "text": "not",
+      "lemma": "strong:G3361 lemma.TR:μη",
+      "morph": "robinson:PRT-N",
+      "strongs": [
+        "G3361"
+      ],
+      "metadata": {
+        "src": "6"
+      },
+      "source": {
+        "lemma": "strong:G3361 lemma.TR:μη",
+        "morph": "robinson:PRT-N",
+        "attrs": {
+          "src": "6",
+          "lemma": "strong:G3361 lemma.TR:μη",
+          "morph": "robinson:PRT-N"
+        }
+      }
+    },
+    {
+      "position": 7,
+      "text": "the",
+      "lemma": "strong:G3588 strong:G3551 lemma.TR:τον lemma.TR:νομον",
+      "morph": "robinson:T-ASM robinson:N-ASM",
+      "strongs": [
+        "G3588",
+        "G3551"
+      ],
+      "metadata": {
+        "src": "8 9"
+      },
+      "source": {
+        "lemma": "strong:G3588 strong:G3551 lemma.TR:τον lemma.TR:νομον",
+        "morph": "robinson:T-ASM robinson:N-ASM",
+        "attrs": {
+          "src": "8 9",
+          "lemma": "strong:G3588 strong:G3551 lemma.TR:τον lemma.TR:νομον",
+          "morph": "robinson:T-ASM robinson:N-ASM"
+        }
+      }
+    },
+    {
+      "position": 8,
+      "text": "law",
+      "lemma": "strong:G3588 strong:G3551 lemma.TR:τον lemma.TR:νομον",
+      "morph": "robinson:T-ASM robinson:N-ASM",
+      "strongs": [
+        "G3588",
+        "G3551"
+      ],
+      "metadata": {
+        "src": "8 9"
+      },
+      "source": {
+        "lemma": "strong:G3588 strong:G3551 lemma.TR:τον lemma.TR:νομον",
+        "morph": "robinson:T-ASM robinson:N-ASM",
+        "attrs": {
+          "src": "8 9",
+          "lemma": "strong:G3588 strong:G3551 lemma.TR:τον lemma.TR:νομον",
+          "morph": "robinson:T-ASM robinson:N-ASM"
+        }
+      }
+    },
+    {
+      "position": 9,
+      "text": "are",
+      "lemma": "strong:G1510 lemma.TR:εισιν",
+      "morph": "robinson:V-PAI-3P",
+      "strongs": [
+        "G1510"
+      ],
+      "metadata": {
+        "src": "11"
+      },
+      "source": {
+        "lemma": "strong:G1510 lemma.TR:εισιν",
+        "morph": "robinson:V-PAI-3P",
+        "attrs": {
+          "src": "11",
+          "lemma": "strong:G1510 lemma.TR:εισιν",
+          "morph": "robinson:V-PAI-3P"
+        }
+      }
+    },
+    {
+      "position": 10,
+      "text": "cursed.",
+      "lemma": "strong:G1944 lemma.TR:επικαταρατοι",
+      "morph": "robinson:A-NPM",
+      "strongs": [
+        "G1944"
+      ],
+      "metadata": {
+        "src": "10"
+      },
+      "source": {
+        "lemma": "strong:G1944 lemma.TR:επικαταρατοι",
+        "morph": "robinson:A-NPM",
+        "attrs": {
+          "src": "10",
+          "lemma": "strong:G1944 lemma.TR:επικαταρατοι",
+          "morph": "robinson:A-NPM"
+        }
+      }
+    }
+  ]
+}

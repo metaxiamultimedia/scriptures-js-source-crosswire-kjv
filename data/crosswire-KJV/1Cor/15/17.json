@@ -1,0 +1,340 @@
+{
+  "text": "And if Christ be not raised, your faith is vain; ye are yet in your sins.",
+  "words": [
+    {
+      "position": 1,
+      "text": "And",
+      "lemma": "strong:G1161 lemma.TR:δε",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G1161"
+      ],
+      "metadata": {
+        "src": "2"
+      },
+      "source": {
+        "lemma": "strong:G1161 lemma.TR:δε",
+        "morph": "robinson:CONJ",
+        "attrs": {
+          "src": "2",
+          "lemma": "strong:G1161 lemma.TR:δε",
+          "morph": "robinson:CONJ"
+        }
+      }
+    },
+    {
+      "position": 2,
+      "text": "if",
+      "lemma": "strong:G1487 lemma.TR:ει",
+      "morph": "robinson:COND",
+      "strongs": [
+        "G1487"
+      ],
+      "metadata": {
+        "src": "1"
+      },
+      "source": {
+        "lemma": "strong:G1487 lemma.TR:ει",
+        "morph": "robinson:COND",
+        "attrs": {
+          "src": "1",
+          "lemma": "strong:G1487 lemma.TR:ει",
+          "morph": "robinson:COND"
+        }
+      }
+    },
+    {
+      "position": 3,
+      "text": "Christ",
+      "lemma": "strong:G5547 lemma.TR:χριστος",
+      "morph": "robinson:N-NSM",
+      "strongs": [
+        "G5547"
+      ],
+      "metadata": {
+        "src": "3"
+      },
+      "source": {
+        "lemma": "strong:G5547 lemma.TR:χριστος",
+        "morph": "robinson:N-NSM",
+        "attrs": {
+          "src": "3",
+          "lemma": "strong:G5547 lemma.TR:χριστος",
+          "morph": "robinson:N-NSM"
+        }
+      }
+    },
+    {
+      "position": 4,
+      "text": "be",
+      "lemma": "strong:G1453 lemma.TR:εγηγερται",
+      "morph": "robinson:V-RPI-3S",
+      "strongs": [
+        "G1453"
+      ],
+      "metadata": {
+        "src": "5",
+        "type": "x-split-2852"
+      },
+      "source": {
+        "lemma": "strong:G1453 lemma.TR:εγηγερται",
+        "morph": "robinson:V-RPI-3S",
+        "attrs": {
+          "src": "5",
+          "lemma": "strong:G1453 lemma.TR:εγηγερται",
+          "morph": "robinson:V-RPI-3S",
+          "type": "x-split-2852"
+        }
+      }
+    },
+    {
+      "position": 5,
+      "text": "not",
+      "lemma": "strong:G3756 lemma.TR:ουκ",
+      "morph": "robinson:PRT-N",
+      "strongs": [
+        "G3756"
+      ],
+      "metadata": {
+        "src": "4"
+      },
+      "source": {
+        "lemma": "strong:G3756 lemma.TR:ουκ",
+        "morph": "robinson:PRT-N",
+        "attrs": {
+          "src": "4",
+          "lemma": "strong:G3756 lemma.TR:ουκ",
+          "morph": "robinson:PRT-N"
+        }
+      }
+    },
+    {
+      "position": 6,
+      "text": "raised,",
+      "lemma": "strong:G1453 lemma.TR:εγηγερται",
+      "morph": "robinson:V-RPI-3S",
+      "strongs": [
+        "G1453"
+      ],
+      "metadata": {
+        "src": "5",
+        "type": "x-split-2852"
+      },
+      "source": {
+        "lemma": "strong:G1453 lemma.TR:εγηγερται",
+        "morph": "robinson:V-RPI-3S",
+        "attrs": {
+          "src": "5",
+          "lemma": "strong:G1453 lemma.TR:εγηγερται",
+          "morph": "robinson:V-RPI-3S",
+          "type": "x-split-2852"
+        }
+      }
+    },
+    {
+      "position": 7,
+      "text": "your",
+      "lemma": "strong:G4771 lemma.TR:υμων",
+      "morph": "robinson:P-2GP",
+      "strongs": [
+        "G4771"
+      ],
+      "metadata": {
+        "src": "9"
+      },
+      "source": {
+        "lemma": "strong:G4771 lemma.TR:υμων",
+        "morph": "robinson:P-2GP",
+        "attrs": {
+          "src": "9",
+          "lemma": "strong:G4771 lemma.TR:υμων",
+          "morph": "robinson:P-2GP"
+        }
+      }
+    },
+    {
+      "position": 8,
+      "text": "faith",
+      "lemma": "strong:G3588 strong:G4102 lemma.TR:η lemma.TR:πιστις",
+      "morph": "robinson:T-NSF robinson:N-NSF",
+      "strongs": [
+        "G3588",
+        "G4102"
+      ],
+      "metadata": {
+        "src": "7 8"
+      },
+      "source": {
+        "lemma": "strong:G3588 strong:G4102 lemma.TR:η lemma.TR:πιστις",
+        "morph": "robinson:T-NSF robinson:N-NSF",
+        "attrs": {
+          "src": "7 8",
+          "lemma": "strong:G3588 strong:G4102 lemma.TR:η lemma.TR:πιστις",
+          "morph": "robinson:T-NSF robinson:N-NSF"
+        }
+      }
+    },
+    {
+      "position": 9,
+      "text": "is",
+      "lemma": null,
+      "morph": null,
+      "metadata": {
+        "type": "added"
+      },
+      "source": {
+        "attrs": {
+          "type": "added"
+        }
+      }
+    },
+    {
+      "position": 10,
+      "text": "vain;",
+      "lemma": "strong:G3152 lemma.TR:ματαια",
+      "morph": "robinson:A-NSF",
+      "strongs": [
+        "G3152"
+      ],
+      "metadata": {
+        "src": "6"
+      },
+      "source": {
+        "lemma": "strong:G3152 lemma.TR:ματαια",
+        "morph": "robinson:A-NSF",
+        "attrs": {
+          "src": "6",
+          "lemma": "strong:G3152 lemma.TR:ματαια",
+          "morph": "robinson:A-NSF"
+        }
+      }
+    },
+    {
+      "position": 11,
+      "text": "ye",
+      "lemma": "strong:G1510 lemma.TR:εστε",
+      "morph": "robinson:V-PAI-2P",
+      "strongs": [
+        "G1510"
+      ],
+      "metadata": {
+        "src": "11"
+      },
+      "source": {
+        "lemma": "strong:G1510 lemma.TR:εστε",
+        "morph": "robinson:V-PAI-2P",
+        "attrs": {
+          "src": "11",
+          "lemma": "strong:G1510 lemma.TR:εστε",
+          "morph": "robinson:V-PAI-2P"
+        }
+      }
+    },
+    {
+      "position": 12,
+      "text": "are",
+      "lemma": "strong:G1510 lemma.TR:εστε",
+      "morph": "robinson:V-PAI-2P",
+      "strongs": [
+        "G1510"
+      ],
+      "metadata": {
+        "src": "11"
+      },
+      "source": {
+        "lemma": "strong:G1510 lemma.TR:εστε",
+        "morph": "robinson:V-PAI-2P",
+        "attrs": {
+          "src": "11",
+          "lemma": "strong:G1510 lemma.TR:εστε",
+          "morph": "robinson:V-PAI-2P"
+        }
+      }
+    },
+    {
+      "position": 13,
+      "text": "yet",
+      "lemma": "strong:G2089 lemma.TR:ετι",
+      "morph": "robinson:ADV",
+      "strongs": [
+        "G2089"
+      ],
+      "metadata": {
+        "src": "10"
+      },
+      "source": {
+        "lemma": "strong:G2089 lemma.TR:ετι",
+        "morph": "robinson:ADV",
+        "attrs": {
+          "src": "10",
+          "lemma": "strong:G2089 lemma.TR:ετι",
+          "morph": "robinson:ADV"
+        }
+      }
+    },
+    {
+      "position": 14,
+      "text": "in",
+      "lemma": "strong:G1722 lemma.TR:εν",
+      "morph": "robinson:PREP",
+      "strongs": [
+        "G1722"
+      ],
+      "metadata": {
+        "src": "12"
+      },
+      "source": {
+        "lemma": "strong:G1722 lemma.TR:εν",
+        "morph": "robinson:PREP",
+        "attrs": {
+          "src": "12",
+          "lemma": "strong:G1722 lemma.TR:εν",
+          "morph": "robinson:PREP"
+        }
+      }
+    },
+    {
+      "position": 15,
+      "text": "your",
+      "lemma": "strong:G4771 lemma.TR:υμων",
+      "morph": "robinson:P-2GP",
+      "strongs": [
+        "G4771"
+      ],
+      "metadata": {
+        "src": "15"
+      },
+      "source": {
+        "lemma": "strong:G4771 lemma.TR:υμων",
+        "morph": "robinson:P-2GP",
+        "attrs": {
+          "src": "15",
+          "lemma": "strong:G4771 lemma.TR:υμων",
+          "morph": "robinson:P-2GP"
+        }
+      }
+    },
+    {
+      "position": 16,
+      "text": "sins.",
+      "lemma": "strong:G3588 strong:G266 lemma.TR:ταις lemma.TR:αμαρτιαις",
+      "morph": "robinson:T-DPF robinson:N-DPF",
+      "strongs": [
+        "G3588",
+        "G266"
+      ],
+      "metadata": {
+        "src": "13 14"
+      },
+      "source": {
+        "lemma": "strong:G3588 strong:G266 lemma.TR:ταις lemma.TR:αμαρτιαις",
+        "morph": "robinson:T-DPF robinson:N-DPF",
+        "attrs": {
+          "src": "13 14",
+          "lemma": "strong:G3588 strong:G266 lemma.TR:ταις lemma.TR:αμαρτιαις",
+          "morph": "robinson:T-DPF robinson:N-DPF"
+        }
+      }
+    }
+  ]
+}

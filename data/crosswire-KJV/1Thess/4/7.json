@@ -1,0 +1,238 @@
+{
+  "text": "For God hath not called us unto uncleanness, but unto holiness.",
+  "words": [
+    {
+      "position": 1,
+      "text": "For",
+      "lemma": "strong:G1063 lemma.TR:γαρ",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G1063"
+      ],
+      "metadata": {
+        "src": "2"
+      },
+      "source": {
+        "lemma": "strong:G1063 lemma.TR:γαρ",
+        "morph": "robinson:CONJ",
+        "attrs": {
+          "src": "2",
+          "lemma": "strong:G1063 lemma.TR:γαρ",
+          "morph": "robinson:CONJ"
+        }
+      }
+    },
+    {
+      "position": 2,
+      "text": "God",
+      "lemma": "strong:G3588 strong:G2316 lemma.TR:ο lemma.TR:θεος",
+      "morph": "robinson:T-NSM robinson:N-NSM",
+      "strongs": [
+        "G3588",
+        "G2316"
+      ],
+      "metadata": {
+        "src": "5 6"
+      },
+      "source": {
+        "lemma": "strong:G3588 strong:G2316 lemma.TR:ο lemma.TR:θεος",
+        "morph": "robinson:T-NSM robinson:N-NSM",
+        "attrs": {
+          "src": "5 6",
+          "lemma": "strong:G3588 strong:G2316 lemma.TR:ο lemma.TR:θεος",
+          "morph": "robinson:T-NSM robinson:N-NSM"
+        }
+      }
+    },
+    {
+      "position": 3,
+      "text": "hath",
+      "lemma": "strong:G2564 lemma.TR:εκαλεσεν",
+      "morph": "robinson:V-AAI-3S",
+      "strongs": [
+        "G2564"
+      ],
+      "metadata": {
+        "src": "3",
+        "type": "x-split-3167"
+      },
+      "source": {
+        "lemma": "strong:G2564 lemma.TR:εκαλεσεν",
+        "morph": "robinson:V-AAI-3S",
+        "attrs": {
+          "src": "3",
+          "lemma": "strong:G2564 lemma.TR:εκαλεσεν",
+          "morph": "robinson:V-AAI-3S",
+          "type": "x-split-3167"
+        }
+      }
+    },
+    {
+      "position": 4,
+      "text": "not",
+      "lemma": "strong:G3756 lemma.TR:ου",
+      "morph": "robinson:PRT-N",
+      "strongs": [
+        "G3756"
+      ],
+      "metadata": {
+        "src": "1"
+      },
+      "source": {
+        "lemma": "strong:G3756 lemma.TR:ου",
+        "morph": "robinson:PRT-N",
+        "attrs": {
+          "src": "1",
+          "lemma": "strong:G3756 lemma.TR:ου",
+          "morph": "robinson:PRT-N"
+        }
+      }
+    },
+    {
+      "position": 5,
+      "text": "called",
+      "lemma": "strong:G2564 lemma.TR:εκαλεσεν",
+      "morph": "robinson:V-AAI-3S",
+      "strongs": [
+        "G2564"
+      ],
+      "metadata": {
+        "src": "3",
+        "type": "x-split-3167"
+      },
+      "source": {
+        "lemma": "strong:G2564 lemma.TR:εκαλεσεν",
+        "morph": "robinson:V-AAI-3S",
+        "attrs": {
+          "src": "3",
+          "lemma": "strong:G2564 lemma.TR:εκαλεσεν",
+          "morph": "robinson:V-AAI-3S",
+          "type": "x-split-3167"
+        }
+      }
+    },
+    {
+      "position": 6,
+      "text": "us",
+      "lemma": "strong:G1473 lemma.TR:ημας",
+      "morph": "robinson:P-1AP",
+      "strongs": [
+        "G1473"
+      ],
+      "metadata": {
+        "src": "4"
+      },
+      "source": {
+        "lemma": "strong:G1473 lemma.TR:ημας",
+        "morph": "robinson:P-1AP",
+        "attrs": {
+          "src": "4",
+          "lemma": "strong:G1473 lemma.TR:ημας",
+          "morph": "robinson:P-1AP"
+        }
+      }
+    },
+    {
+      "position": 7,
+      "text": "unto",
+      "lemma": "strong:G1909 lemma.TR:επι",
+      "morph": "robinson:PREP",
+      "strongs": [
+        "G1909"
+      ],
+      "metadata": {
+        "src": "7"
+      },
+      "source": {
+        "lemma": "strong:G1909 lemma.TR:επι",
+        "morph": "robinson:PREP",
+        "attrs": {
+          "src": "7",
+          "lemma": "strong:G1909 lemma.TR:επι",
+          "morph": "robinson:PREP"
+        }
+      }
+    },
+    {
+      "position": 8,
+      "text": "uncleanness,",
+      "lemma": "strong:G167 lemma.TR:ακαθαρσια",
+      "morph": "robinson:N-DSF",
+      "strongs": [
+        "G167"
+      ],
+      "metadata": {
+        "src": "8"
+      },
+      "source": {
+        "lemma": "strong:G167 lemma.TR:ακαθαρσια",
+        "morph": "robinson:N-DSF",
+        "attrs": {
+          "src": "8",
+          "lemma": "strong:G167 lemma.TR:ακαθαρσια",
+          "morph": "robinson:N-DSF"
+        }
+      }
+    },
+    {
+      "position": 9,
+      "text": "but",
+      "lemma": "strong:G235 lemma.TR:αλλ",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G235"
+      ],
+      "metadata": {
+        "src": "9"
+      },
+      "source": {
+        "lemma": "strong:G235 lemma.TR:αλλ",
+        "morph": "robinson:CONJ",
+        "attrs": {
+          "src": "9",
+          "lemma": "strong:G235 lemma.TR:αλλ",
+          "morph": "robinson:CONJ"
+        }
+      }
+    },
+    {
+      "position": 10,
+      "text": "unto",
+      "lemma": "strong:G1722 lemma.TR:εν",
+      "morph": "robinson:PREP",
+      "strongs": [
+        "G1722"
+      ],
+      "metadata": {
+        "src": "10"
+      },
+      "source": {
+        "lemma": "strong:G1722 lemma.TR:εν",
+        "morph": "robinson:PREP",
+        "attrs": {
+          "src": "10",
+          "lemma": "strong:G1722 lemma.TR:εν",
+          "morph": "robinson:PREP"
+        }
+      }
+    },
+    {
+      "position": 11,
+      "text": "holiness.",
+      "lemma": "strong:G38 lemma.TR:αγιασμω",
+      "morph": "robinson:N-DSM",
+      "metadata": {
+        "src": "11"
+      },
+      "source": {
+        "lemma": "strong:G38 lemma.TR:αγιασμω",
+        "morph": "robinson:N-DSM",
+        "attrs": {
+          "src": "11",
+          "lemma": "strong:G38 lemma.TR:αγιασμω",
+          "morph": "robinson:N-DSM"
+        }
+      }
+    }
+  ]
+}

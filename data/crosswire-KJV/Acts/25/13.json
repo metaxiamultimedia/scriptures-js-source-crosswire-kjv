@@ -1,0 +1,298 @@
+{
+  "text": "And after certain days king Agrippa and Bernice came unto Cesarea to salute Festus.",
+  "words": [
+    {
+      "position": 1,
+      "text": "And",
+      "lemma": "strong:G1161 lemma.TR:δε",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G1161"
+      ],
+      "metadata": {
+        "src": "2"
+      },
+      "source": {
+        "lemma": "strong:G1161 lemma.TR:δε",
+        "morph": "robinson:CONJ",
+        "attrs": {
+          "src": "2",
+          "lemma": "strong:G1161 lemma.TR:δε",
+          "morph": "robinson:CONJ"
+        }
+      }
+    },
+    {
+      "position": 2,
+      "text": "after",
+      "lemma": "strong:G1230 lemma.TR:διαγενομενων",
+      "morph": "robinson:V-2ADP-GPF",
+      "strongs": [
+        "G1230"
+      ],
+      "metadata": {
+        "src": "3"
+      },
+      "source": {
+        "lemma": "strong:G1230 lemma.TR:διαγενομενων",
+        "morph": "robinson:V-2ADP-GPF",
+        "attrs": {
+          "src": "3",
+          "lemma": "strong:G1230 lemma.TR:διαγενομενων",
+          "morph": "robinson:V-2ADP-GPF"
+        }
+      }
+    },
+    {
+      "position": 3,
+      "text": "certain",
+      "lemma": "strong:G5100 lemma.TR:τινων",
+      "morph": "robinson:X-GPF",
+      "strongs": [
+        "G5100"
+      ],
+      "metadata": {
+        "src": "4"
+      },
+      "source": {
+        "lemma": "strong:G5100 lemma.TR:τινων",
+        "morph": "robinson:X-GPF",
+        "attrs": {
+          "src": "4",
+          "lemma": "strong:G5100 lemma.TR:τινων",
+          "morph": "robinson:X-GPF"
+        }
+      }
+    },
+    {
+      "position": 4,
+      "text": "days",
+      "lemma": "strong:G2250 lemma.TR:ημερων",
+      "morph": "robinson:N-GPF",
+      "strongs": [
+        "G2250"
+      ],
+      "metadata": {
+        "src": "1"
+      },
+      "source": {
+        "lemma": "strong:G2250 lemma.TR:ημερων",
+        "morph": "robinson:N-GPF",
+        "attrs": {
+          "src": "1",
+          "lemma": "strong:G2250 lemma.TR:ημερων",
+          "morph": "robinson:N-GPF"
+        }
+      }
+    },
+    {
+      "position": 5,
+      "text": "king",
+      "lemma": "strong:G3588 strong:G935 lemma.TR:ο lemma.TR:βασιλευς",
+      "morph": "robinson:T-NSM robinson:N-NSM",
+      "strongs": [
+        "G3588",
+        "G935"
+      ],
+      "metadata": {
+        "src": "6 7"
+      },
+      "source": {
+        "lemma": "strong:G3588 strong:G935 lemma.TR:ο lemma.TR:βασιλευς",
+        "morph": "robinson:T-NSM robinson:N-NSM",
+        "attrs": {
+          "src": "6 7",
+          "lemma": "strong:G3588 strong:G935 lemma.TR:ο lemma.TR:βασιλευς",
+          "morph": "robinson:T-NSM robinson:N-NSM"
+        }
+      }
+    },
+    {
+      "position": 6,
+      "text": "Agrippa",
+      "lemma": "strong:G67 lemma.TR:αγριππας",
+      "morph": "robinson:N-NSM",
+      "metadata": {
+        "src": "5"
+      },
+      "source": {
+        "lemma": "strong:G67 lemma.TR:αγριππας",
+        "morph": "robinson:N-NSM",
+        "attrs": {
+          "src": "5",
+          "lemma": "strong:G67 lemma.TR:αγριππας",
+          "morph": "robinson:N-NSM"
+        }
+      }
+    },
+    {
+      "position": 7,
+      "text": "and",
+      "lemma": "strong:G2532 lemma.TR:και",
+      "morph": "robinson:CONJ",
+      "strongs": [
+        "G2532"
+      ],
+      "metadata": {
+        "src": "8"
+      },
+      "source": {
+        "lemma": "strong:G2532 lemma.TR:και",
+        "morph": "robinson:CONJ",
+        "attrs": {
+          "src": "8",
+          "lemma": "strong:G2532 lemma.TR:και",
+          "morph": "robinson:CONJ"
+        }
+      }
+    },
+    {
+      "position": 8,
+      "text": "Bernice",
+      "lemma": "strong:G959 lemma.TR:βερνικη",
+      "morph": "robinson:N-NSF",
+      "strongs": [
+        "G959"
+      ],
+      "metadata": {
+        "src": "9"
+      },
+      "source": {
+        "lemma": "strong:G959 lemma.TR:βερνικη",
+        "morph": "robinson:N-NSF",
+        "attrs": {
+          "src": "9",
+          "lemma": "strong:G959 lemma.TR:βερνικη",
+          "morph": "robinson:N-NSF"
+        }
+      }
+    },
+    {
+      "position": 9,
+      "text": "came",
+      "lemma": "strong:G2658 lemma.TR:κατηντησαν",
+      "morph": "robinson:V-AAI-3P",
+      "strongs": [
+        "G2658"
+      ],
+      "metadata": {
+        "src": "10"
+      },
+      "source": {
+        "lemma": "strong:G2658 lemma.TR:κατηντησαν",
+        "morph": "robinson:V-AAI-3P",
+        "attrs": {
+          "src": "10",
+          "lemma": "strong:G2658 lemma.TR:κατηντησαν",
+          "morph": "robinson:V-AAI-3P"
+        }
+      }
+    },
+    {
+      "position": 10,
+      "text": "unto",
+      "lemma": "strong:G1519 lemma.TR:εις",
+      "morph": "robinson:PREP",
+      "strongs": [
+        "G1519"
+      ],
+      "metadata": {
+        "src": "11"
+      },
+      "source": {
+        "lemma": "strong:G1519 lemma.TR:εις",
+        "morph": "robinson:PREP",
+        "attrs": {
+          "src": "11",
+          "lemma": "strong:G1519 lemma.TR:εις",
+          "morph": "robinson:PREP"
+        }
+      }
+    },
+    {
+      "position": 11,
+      "text": "Cesarea",
+      "lemma": "strong:G2542 lemma.TR:καισαρειαν",
+      "morph": "robinson:N-ASF",
+      "strongs": [
+        "G2542"
+      ],
+      "metadata": {
+        "src": "12"
+      },
+      "source": {
+        "lemma": "strong:G2542 lemma.TR:καισαρειαν",
+        "morph": "robinson:N-ASF",
+        "attrs": {
+          "src": "12",
+          "lemma": "strong:G2542 lemma.TR:καισαρειαν",
+          "morph": "robinson:N-ASF"
+        }
+      }
+    },
+    {
+      "position": 12,
+      "text": "to",
+      "lemma": "strong:G782 lemma.TR:ασπασομενοι",
+      "morph": "robinson:V-FDP-NPM",
+      "strongs": [
+        "G782"
+      ],
+      "metadata": {
+        "src": "13"
+      },
+      "source": {
+        "lemma": "strong:G782 lemma.TR:ασπασομενοι",
+        "morph": "robinson:V-FDP-NPM",
+        "attrs": {
+          "src": "13",
+          "lemma": "strong:G782 lemma.TR:ασπασομενοι",
+          "morph": "robinson:V-FDP-NPM"
+        }
+      }
+    },
+    {
+      "position": 13,
+      "text": "salute",
+      "lemma": "strong:G782 lemma.TR:ασπασομενοι",
+      "morph": "robinson:V-FDP-NPM",
+      "strongs": [
+        "G782"
+      ],
+      "metadata": {
+        "src": "13"
+      },
+      "source": {
+        "lemma": "strong:G782 lemma.TR:ασπασομενοι",
+        "morph": "robinson:V-FDP-NPM",
+        "attrs": {
+          "src": "13",
+          "lemma": "strong:G782 lemma.TR:ασπασομενοι",
+          "morph": "robinson:V-FDP-NPM"
+        }
+      }
+    },
+    {
+      "position": 14,
+      "text": "Festus.",
+      "lemma": "strong:G3588 strong:G5347 lemma.TR:τον lemma.TR:φηστον",
+      "morph": "robinson:T-ASM robinson:N-ASM",
+      "strongs": [
+        "G3588",
+        "G5347"
+      ],
+      "metadata": {
+        "src": "14 15"
+      },
+      "source": {
+        "lemma": "strong:G3588 strong:G5347 lemma.TR:τον lemma.TR:φηστον",
+        "morph": "robinson:T-ASM robinson:N-ASM",
+        "attrs": {
+          "src": "14 15",
+          "lemma": "strong:G3588 strong:G5347 lemma.TR:τον lemma.TR:φηστον",
+          "morph": "robinson:T-ASM robinson:N-ASM"
+        }
+      }
+    }
+  ]
+}

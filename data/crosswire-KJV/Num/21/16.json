@@ -1,0 +1,379 @@
+{
+  "text": "And from thence they went to Beer: that is the well whereof the Lord spake unto Moses, Gather the people together, and I will give them water.",
+  "words": [
+    {
+      "position": 1,
+      "text": "And",
+      "lemma": null,
+      "morph": null
+    },
+    {
+      "position": 2,
+      "text": "from",
+      "lemma": null,
+      "morph": null
+    },
+    {
+      "position": 3,
+      "text": "thence",
+      "lemma": null,
+      "morph": null
+    },
+    {
+      "position": 4,
+      "text": "they went",
+      "lemma": null,
+      "morph": null,
+      "metadata": {
+        "type": "added"
+      },
+      "source": {
+        "attrs": {
+          "type": "added"
+        }
+      }
+    },
+    {
+      "position": 5,
+      "text": "to",
+      "lemma": "strong:H0876",
+      "morph": null,
+      "strongs": [
+        "H876"
+      ],
+      "source": {
+        "lemma": "strong:H0876",
+        "attrs": {
+          "lemma": "strong:H0876"
+        }
+      }
+    },
+    {
+      "position": 6,
+      "text": "Beer:",
+      "lemma": "strong:H0876",
+      "morph": null,
+      "strongs": [
+        "H876"
+      ],
+      "source": {
+        "lemma": "strong:H0876",
+        "attrs": {
+          "lemma": "strong:H0876"
+        }
+      }
+    },
+    {
+      "position": 7,
+      "text": "that",
+      "lemma": null,
+      "morph": null
+    },
+    {
+      "position": 8,
+      "text": "is",
+      "lemma": null,
+      "morph": null,
+      "metadata": {
+        "type": "added"
+      },
+      "source": {
+        "attrs": {
+          "type": "added"
+        }
+      }
+    },
+    {
+      "position": 9,
+      "text": "the",
+      "lemma": "strong:H0875",
+      "morph": null,
+      "strongs": [
+        "H875"
+      ],
+      "source": {
+        "lemma": "strong:H0875",
+        "attrs": {
+          "lemma": "strong:H0875"
+        }
+      }
+    },
+    {
+      "position": 10,
+      "text": "well",
+      "lemma": "strong:H0875",
+      "morph": null,
+      "strongs": [
+        "H875"
+      ],
+      "source": {
+        "lemma": "strong:H0875",
+        "attrs": {
+          "lemma": "strong:H0875"
+        }
+      }
+    },
+    {
+      "position": 11,
+      "text": "whereof",
+      "lemma": "strong:H03068",
+      "morph": null,
+      "strongs": [
+        "H3068"
+      ],
+      "source": {
+        "lemma": "strong:H03068",
+        "attrs": {
+          "lemma": "strong:H03068"
+        }
+      }
+    },
+    {
+      "position": 12,
+      "text": "the",
+      "lemma": "strong:H03068",
+      "morph": null,
+      "strongs": [
+        "H3068"
+      ],
+      "source": {
+        "lemma": "strong:H03068",
+        "attrs": {
+          "lemma": "strong:H03068"
+        }
+      }
+    },
+    {
+      "position": 13,
+      "text": "Lord",
+      "lemma": "strong:H03068",
+      "morph": null,
+      "strongs": [
+        "H3068"
+      ],
+      "source": {
+        "lemma": "strong:H03068",
+        "attrs": {
+          "lemma": "strong:H03068"
+        }
+      }
+    },
+    {
+      "position": 14,
+      "text": "spake",
+      "lemma": "strong:H0559",
+      "morph": "strongMorph:TH8804",
+      "strongs": [
+        "H559"
+      ],
+      "source": {
+        "lemma": "strong:H0559",
+        "morph": "strongMorph:TH8804",
+        "attrs": {
+          "morph": "strongMorph:TH8804",
+          "lemma": "strong:H0559"
+        }
+      }
+    },
+    {
+      "position": 15,
+      "text": "unto",
+      "lemma": "strong:H04872",
+      "morph": null,
+      "strongs": [
+        "H4872"
+      ],
+      "source": {
+        "lemma": "strong:H04872",
+        "attrs": {
+          "lemma": "strong:H04872"
+        }
+      }
+    },
+    {
+      "position": 16,
+      "text": "Moses,",
+      "lemma": "strong:H04872",
+      "morph": null,
+      "strongs": [
+        "H4872"
+      ],
+      "source": {
+        "lemma": "strong:H04872",
+        "attrs": {
+          "lemma": "strong:H04872"
+        }
+      }
+    },
+    {
+      "position": 17,
+      "text": "Gather",
+      "lemma": "strong:H0622",
+      "morph": "strongMorph:TH8798",
+      "strongs": [
+        "H622"
+      ],
+      "metadata": {
+        "type": "x-split-98"
+      },
+      "source": {
+        "lemma": "strong:H0622",
+        "morph": "strongMorph:TH8798",
+        "attrs": {
+          "morph": "strongMorph:TH8798",
+          "lemma": "strong:H0622",
+          "type": "x-split-98"
+        }
+      }
+    },
+    {
+      "position": 18,
+      "text": "the",
+      "lemma": "strong:H05971",
+      "morph": null,
+      "strongs": [
+        "H5971"
+      ],
+      "source": {
+        "lemma": "strong:H05971",
+        "attrs": {
+          "lemma": "strong:H05971"
+        }
+      }
+    },
+    {
+      "position": 19,
+      "text": "people",
+      "lemma": "strong:H05971",
+      "morph": null,
+      "strongs": [
+        "H5971"
+      ],
+      "source": {
+        "lemma": "strong:H05971",
+        "attrs": {
+          "lemma": "strong:H05971"
+        }
+      }
+    },
+    {
+      "position": 20,
+      "text": "together,",
+      "lemma": "strong:H0622",
+      "morph": "strongMorph:TH8798",
+      "strongs": [
+        "H622"
+      ],
+      "metadata": {
+        "type": "x-split-98"
+      },
+      "source": {
+        "lemma": "strong:H0622",
+        "morph": "strongMorph:TH8798",
+        "attrs": {
+          "morph": "strongMorph:TH8798",
+          "lemma": "strong:H0622",
+          "type": "x-split-98"
+        }
+      }
+    },
+    {
+      "position": 21,
+      "text": "and",
+      "lemma": "strong:H05414",
+      "morph": "strongMorph:TH8799",
+      "strongs": [
+        "H5414"
+      ],
+      "source": {
+        "lemma": "strong:H05414",
+        "morph": "strongMorph:TH8799",
+        "attrs": {
+          "morph": "strongMorph:TH8799",
+          "lemma": "strong:H05414"
+        }
+      }
+    },
+    {
+      "position": 22,
+      "text": "I",
+      "lemma": "strong:H05414",
+      "morph": "strongMorph:TH8799",
+      "strongs": [
+        "H5414"
+      ],
+      "source": {
+        "lemma": "strong:H05414",
+        "morph": "strongMorph:TH8799",
+        "attrs": {
+          "morph": "strongMorph:TH8799",
+          "lemma": "strong:H05414"
+        }
+      }
+    },
+    {
+      "position": 23,
+      "text": "will",
+      "lemma": "strong:H05414",
+      "morph": "strongMorph:TH8799",
+      "strongs": [
+        "H5414"
+      ],
+      "source": {
+        "lemma": "strong:H05414",
+        "morph": "strongMorph:TH8799",
+        "attrs": {
+          "morph": "strongMorph:TH8799",
+          "lemma": "strong:H05414"
+        }
+      }
+    },
+    {
+      "position": 24,
+      "text": "give",
+      "lemma": "strong:H05414",
+      "morph": "strongMorph:TH8799",
+      "strongs": [
+        "H5414"
+      ],
+      "source": {
+        "lemma": "strong:H05414",
+        "morph": "strongMorph:TH8799",
+        "attrs": {
+          "morph": "strongMorph:TH8799",
+          "lemma": "strong:H05414"
+        }
+      }
+    },
+    {
+      "position": 25,
+      "text": "them",
+      "lemma": "strong:H04325",
+      "morph": null,
+      "strongs": [
+        "H4325"
+      ],
+      "source": {
+        "lemma": "strong:H04325",
+        "attrs": {
+          "lemma": "strong:H04325"
+        }
+      }
+    },
+    {
+      "position": 26,
+      "text": "water.",
+      "lemma": "strong:H04325",
+      "morph": null,
+      "strongs": [
+        "H4325"
+      ],
+      "source": {
+        "lemma": "strong:H04325",
+        "attrs": {
+          "lemma": "strong:H04325"
+        }
+      }
+    }
+  ]
+}
